@@ -25,8 +25,8 @@ Watkins arată de ce lista de caracteristici putea fi abandonată:
 
 - **Cadillac, „The Penalty of Leadership” (1915).** Nicio specificație; un eseu despre invidia care urmează oricărui lider. A apărut o singură dată și apărea pe lista tuturor profesioniștilor consultați de Watkins.
 - **Jordan, „Somewhere West of Laramie”.** Ned Jordan vânduse ani de zile mașini cu „arbori cotiți” și „galerii de evacuare”. Când pornirea electrică a deschis piața femeilor, a renunțat la „flecăreala mecanică” și a scris despre oameni: o fată din Wyoming care călărește spre apus, într-o mașină construită „pentru ea”. Încă primul anunț Playboy din *Saturday Evening Post* adusese un val de scrisori de la cititoare.
-- **Steinway, „The Instrument of the Immortals” (Rubicam, 1919).** Reclamele anterioare arătau doamne elegante la pian, fără niciun titlu. Rubicam a citit dosarul clientului: aproape toți marii pianiști și compozitori cântaseră pe Steinway. Fraza a schimbat totul; bugetul a crescut de la circa 30.000 la 500.000 de dolari.
-- **Packard, „When Heaven Was at the Corner of Sycamore and Main”.** Nostalgia băiatului care privea mașinile în vitrină alături de tatăl lui. Watkins o numește reclamă „mi-amintesc”.
+- **Steinway, „The Instrument of the Immortals” (Rubicam, 1919).** Reclamele anterioare arătau doamne elegante la pian, fără titlu. Rubicam a citit dosarul clientului: aproape toți marii pianiști și compozitori cântaseră pe Steinway. Fraza a schimbat totul; bugetul a crescut de la circa 30.000 la 500.000 de dolari.
+- **Packard, „When Heaven Was at the Corner of Sycamore and Main”.** Nostalgia băiatului care privea mașinile în vitrină alături de tatăl lui.
 
 Watkins insistă că sentimentul trebuie să fie ancorat în ceva adevărat: Steinway chiar era pianul maeștrilor, Packard chiar devenise accesibil.
 

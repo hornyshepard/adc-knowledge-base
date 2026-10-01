@@ -52,6 +52,7 @@ Pharmavite (Nature Made) a descoperit că nu e în business-ul vitaminelor, ci a
 - **vezi** [[BRD-0507]] — Tybout tratează scopul ca strategie de susținere a poziției.
 - **aplicare** [[BRD-0515]] — activarea scopului cere aceeași implementare organizațională ca orice platformă de brand.
 - **vezi** [[STO-0501]] — povestea de brand pornește de la scop și de la pasiunile clientului.
+- **vezi** [[BRD-0529]] — misiunea, viziunea și valorile sunt formularea clasică a aceleiași zone a platformei.
 
 ## Surse
 

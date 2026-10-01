@@ -26,7 +26,7 @@ Mueller și Rajaram observă că feed-urile încă traduc formate vechi (articol
 | Structură | carduri și clipuri de 10–15 s, înșirate orizontal, șterse după 24 h | un video scurt cu timeline, efecte, multă muzică |
 | Consum | utilizatorul trece rapid înainte și înapoi; e greu de măsurat cât percepe | urmărit de obicei integral; sunetul e indispensabil |
 | Logică | interacțiune socială cu o comunitate care împărtășește obiective; poate duce mult text; bun pentru cross-promotion și CTA | atenție și recunoaștere monetizabilă; meme, joc de rol, making-of, slang regional |
-| Distribuție | celor care te urmăresc deja | algoritmul testează întâi postarea pe multe conturi, apoi o clasează după reacții; conținutul circulă săptămâni |
+| Distribuție | mai ales către comunitatea care te urmărește deja | algoritmul testează întâi postarea pe multe conturi, apoi o clasează după reacții; conținutul circulă săptămâni |
 
 Algoritmul TikTok „ridică ștacheta", dar oferă oricărui creator o șansă reală la reach mare. Pe Instagram, stories au înlocuit feed-ul ca prima destinație pentru generațiile Y și Z. Autorii mai remarcă că mulți TikTokeri de succes își duc publicul spre video lung pe YouTube fără cross-promotion explicit: oamenii îi caută singuri.
 

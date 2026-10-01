@@ -9,6 +9,7 @@ level: 2
 tags: [naming, nume-de-brand, simbolism-fonetic, fluenta, trademark, angels-envy]
 sources:
   - SRC-014 | cap. 24 (Earle), p. 303–307; cap. 7 (Calder), p. 98–100
+  - SRC-016 | cap. 7, interviul „Voice” cu Myra El-Bayoumi
 status: seed
 ---
 
@@ -30,6 +31,8 @@ Paul Earle (fost director al centrului de inovare Farmhouse de la Leo Burnett) c
 Earle nu agreează amalgamurile fără sens (Accenture, Xfinity), care reușesc doar cu bani mulți, deși admite excepții (Swiffer) și avantajul lor la înregistrarea mărcii.
 
 Bobby Calder (cap. 7) adaugă **simbolismul fonetic**, care lucrează sub nivelul conștiinței: fonemele din „Tiffany", învățate târziu de copii, sunt asociate cu lucruri rare; numele „ascuțite" (Jax) sugerează acrul, cele „rotunde" (Berry) dulcele; vocalele din față (Priv) sugerează lucruri mici. Numele fluente (scurte, ușor de pronunțat) sunt preferate — chiar și de investitori. Eșecuri: Priv (BlackBerry) nu evoca nimic; Nova sună în spaniolă ca „no va"; NorthShore University HealthSystem sugera o universitate inexistentă. Calder avertizează și asupra modelor: prenumele umane (Casper, Marcus, Oscar) își pierd efectul când devin clișeu.
+
+Procesul practic descris de strategista Myra El-Bayoumi în *Goddess Guide to Branding* (SRC-016) completează criteriile: generezi 400–500 de nume cu oameni aflați la distanțe diferite de brand, elimini doar refuzurile categorice (rămân ~200), treci lista pe la un avocat de mărci, apoi „probezi” finaliștii — pe un post-it lipit de monitor, rostiți în oglindă.
 
 ## Aplicare
 
@@ -55,3 +58,4 @@ BlackBerry (creat de agenția Lexicon în locul lui „PocketLink") folosea alit
 ## Surse
 
 - [[SRC-014]] Paul Earle, „Brand New: Creating a Brand from Scratch", cap. 24, p. 303–307; Bobby J. Calder, „Brand Design and Design Thinking", cap. 7, p. 98–100, în *Kellogg on Branding in a Hyper-Connected World*
+- [[SRC-016]] Jane McCarthy & Kate McAndrew, *Goddess Guide to Branding*, cap. 7 „Finding Your Style”, interviul „Voice” (Myra El-Bayoumi)

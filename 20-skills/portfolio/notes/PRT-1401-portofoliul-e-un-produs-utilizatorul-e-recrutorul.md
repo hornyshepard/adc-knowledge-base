@@ -9,6 +9,7 @@ level: 1
 tags: [portofoliu, hiring-manager, utilizator, povesti, angajare]
 sources:
   - SRC-048 | cap. 1 („The UX Portfolio”); cap. 3 („Understanding your users”)
+  - SRC-047 | cap. 4 („Does Your Resume Answer These Questions?”)
 status: seed
 ---
 
@@ -27,6 +28,8 @@ Ian Fenn pornește de la observația că portofoliile slabe sunt colecții de ma
 **Cine citește contează.** Fenn citează o prezentare din 2012 a lui Lynn Teo (pe atunci Chief Experience Officer la McCann Erickson): liderii de UX caută metode și spirit de echipă; managerii de proiect caută proces, comunicare, livrare la timp; directorii de creație caută gândire conceptuală, definirea problemei și eficiența soluției. Agențiile vor să vadă portofolii largi, documentație atractivă, lucru pe pitch-uri și managementul clienților.
 
 Întrebarea de lucru: „Despre ce vreau să mă întrebe cel care angajează?” — și lasă deoparte ce nu vrei să fie întrebat.
+
+**Convergență.** Hannah Morgan formulează aproape aceleași scopuri pentru orice CV, sub forma a trei întrebări din mintea cititorului: Poți face jobul? Îl vei face? Îmi va plăcea să lucrez cu tine? Al doilea scop al lui Fenn („să vrea să lucreze cu tine”) apare la ea ca a treia întrebare, iar concluzia ei e că angajarea ține, în final, de simpatie și relație.
 
 ## Aplicare
 
@@ -51,3 +54,4 @@ Prietenul lui Fenn, „Dave”, a prezentat o oră proiecte de cercetare unui cl
 ## Surse
 
 - [[SRC-048]] Ian Fenn, *UX Portfolio Design*, cap. 1 și 3
+- [[SRC-047]] Hannah Morgan, *The Infographic Resume*, cap. 4

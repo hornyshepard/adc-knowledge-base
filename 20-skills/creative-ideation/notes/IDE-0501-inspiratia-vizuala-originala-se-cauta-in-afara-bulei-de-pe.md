@@ -9,6 +9,7 @@ level: 1
 tags: [inspiratie, cercetare-vizuala, design-vintage, badgehunting, originalitate, referinte]
 sources:
   - SRC-017 | cap. 3 „Inspiration Hunting"; cap. 7 „The Shop"
+  - SRC-016 | cap. 7, interviul „Symbols (and More)” cu Sarah Moffat
 status: seed
 ---
 
@@ -26,6 +27,8 @@ Practica lui se numește *#badgehunting*: anticariate, vânzări de bunuri din c
 - **Ce caută:** badge-uri cu forme interesante sau moduri ingenioase de a împărți textul; semne îndrăznețe care nu țin de modă (par făcute azi, deși au 50 de ani); tipografie personalizată subtilă — o alternativă la minimalismul „fără viață" la modă; plus animale, mascote, cifre, orice prinde ochiul.
 - **De ce:** mare parte din aceste lucrări au fost făcute înainte ca Paul Rand și Saul Bass să fixeze standardele logo-ului — era „Vestul sălbatic" al designului, cu soluții neobișnuite.
 - **Nu copia, nu colecționa.** O fotografie bună e suficientă; scopul e să înveți de la designerii trecutului, nu să le reproduci munca.
+
+Aceeași idee apare independent la Sarah Moffat (Turner Duckworth), în *Goddess Guide to Branding* (SRC-016): ea caută inspirație în expoziții, dar și într-un magazin alimentar dintr-un sat, pentru că imaginile găsite online au fost văzute de mulți și nu știi cine le-a creat — a descărca nu înseamnă a proiecta. Creativitatea, spune ea, înseamnă să alături două lucruri fără legătură aparentă (un castel medieval a dus-o la ideea unui cuțit destul de ascuțit cât să ucidă un dragon).
 
 Colecția Americana a lui Peters s-a hrănit din ambalajele patriotice din perioada celui de-Al Doilea Război Mondial găsite prin anticariate.
 
@@ -53,3 +56,4 @@ Peters a transformat căutările de embleme vechi într-un proiect personal — 
 ## Surse
 
 - [[SRC-017]] Allan Peters, *Logos That Last*, cap. 3 „Inspiration Hunting" (secțiunile „What I Look For & Where I Look For It", „Unique Badges", „Bold Brand Marks", „Custom Typography"); cap. 7 „The Shop" (Americana, Badgehunting)
+- [[SRC-016]] Jane McCarthy & Kate McAndrew, *Goddess Guide to Branding*, cap. 7, interviul „Symbols (and More)” (Sarah Moffat)

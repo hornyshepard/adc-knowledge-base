@@ -48,6 +48,7 @@ Studiul olandez Pieters & Bijmolt (1975-1992): primacy slab, dar constant; durat
 - **fundament** [[INS-0411]] — efectele de poziție serială din cercetarea memoriei.
 - **vezi** [[ADV-0404]] — repetiția e una dintre armele contra clutter-ului.
 - **vezi** [[ADV-0403]] — uzura limitează beneficiul repetiției.
+- **extinde** [[ADV-0407]] — efectul repetiției asupra atitudinii, uzura și variația execuțiilor.
 
 ## Surse
 

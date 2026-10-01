@@ -9,6 +9,7 @@ level: 2
 tags: [strategie-de-pret, EDLP, high-low, pret-de-referinta, skimming, penetrare, curba-experientei]
 sources:
   - SRC-001 | cap. 15, p. 478-482
+  - SRC-002 | cap. 5, p. 148-152
 status: seed
 ---
 
@@ -38,6 +39,8 @@ status: seed
 
 Un argument pentru skimming: poți oricând coborî un preț prea mare, dar e aproape imposibil să urci unul prea mic fără rezistență. Apple a fost multă vreme excepția: prețurile iPhone au crescut, nu au scăzut, până la iPhone SE.
 
+Policarpio (SRC-002) adaugă tactici utile: **prețul psihologic** (9,99 în loc de 10), **pachetele** (*bundle pricing*), **produsul captiv** (imprimanta ieftină, cerneala scumpă), prețul dinamic, prețul geografic și prețul premium. Definiția lui pentru high/low e însă confuză (preț mare la început, apoi mic, aproape ca skimming-ul), iar penetrarea e descrisă ca preț mic urmat de scumpire. Pentru definițiile de lucru, folosește varianta Grewal-Levy.
+
 ## Aplicare
 
 - Strategia de preț schimbă rolul publicității: la EDLP, comunicarea construiește încrederea în „mereu ieftin"; la high/low, publicitatea anunță evenimente.
@@ -62,3 +65,4 @@ Jocurile video (Far Cry 6) se lansează prin skimming: fanii plătesc prețul ma
 ## Surse
 
 - [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 15, p. 478-482
+- [[SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 5, p. 148-152 (§5.3)

@@ -55,6 +55,7 @@ level: 2
 - [[DIG-0205]] — senzori, biometrie, informativ–interactiv–imersiv.
 - [[AIM-0206]] — amplificarea inteligenței, interfețe pe niveluri, EX.
 - [[MKT-0214]] — Zara, MVP, proces concurent, inovație deschisă.
+- [[MKT-0216]] — dezbatere: 5.0 rescrie istoria 1.0-3.0, face din purpose un factor de igienă și revine la segmentarea de precizie.
 
 ## Ce lipsește / ce trebuie citit critic
 

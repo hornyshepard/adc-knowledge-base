@@ -9,6 +9,7 @@ level: 2
 tags: [critica, feedback, revizie, ton, editare]
 sources:
   - SRC-048 | cap. 10 („Evaluating your UX Portfolio”)
+  - SRC-046 | Pasul 10 („Refine”, pp. 287–289)
 status: seed
 ---
 
@@ -35,6 +36,8 @@ status: seed
 
 La o respingere, poți cere politicos feedback, dar te aștepți să nu-l primești (incomodare, teamă juridică, lipsă de timp).
 
+Kubišová încheie cartea cu aceeași etapă: cere critică de la oameni cu experiență (nu laude), observă direct, față în față, cum navighează cineva prin site-ul tău, verifică din nou cerințele fiecărei firme sau școli, actualizează portofoliul pe măsură ce crești și fă corectură cu ochi proaspeți — o singură greșeală poate submina munca întreagă.
+
 ## Aplicare
 
 - La seminarul de portofoliu, fiecare student începe cu o frază: „Portofoliul e pentru directorul de creație al agenției X și vreau să creadă că…”; colegii răspund doar raportat la acea țintă.
@@ -58,3 +61,4 @@ La o respingere, poți cere politicos feedback, dar te aștepți să nu-l prime�
 ## Surse
 
 - [[SRC-048]] Ian Fenn, *UX Portfolio Design*, cap. 10
+- [[SRC-046]] Zuzana Kubišová, *The Architect's Pocket Guide to Portfolio Design*, Pasul 10, pp. 287–289

@@ -26,7 +26,7 @@ Raymond Rubicam, în cuvântul-înainte, propune un test în trei trepte:
 2. Mesajul trebuie să fie memorabil prin originalitate, inteligență, intuiție sau convingere.
 3. Reclama trebuie să fie **onestă** și să nu strice bunăvoința clientului față de advertiser sau a publicului față de publicitate.
 
-Roy Durstine (BBDO), citat la reclamele lui Barton, explică sinceritatea: două reclame pot fi la fel de diferite ca un paznic de metrou și un episcop și să funcționeze amândouă. Dacă un om e sincer, îi ierți aproape orice. Lipsa de sinceritate strică însă și cele mai bune materiale: un desen impecabil și un text scris în grabă înainte de prânz nu au nicio viață.
+Roy Durstine (BBDO), citat la reclamele lui Barton, explică sinceritatea: două reclame pot fi la fel de diferite ca un paznic de metrou și un episcop și să funcționeze amândouă. Dacă un om e sincer, îi ierți aproape orice. Lipsa ei strică și cele mai bune materiale.
 
 Exemplele lui Watkins: „The Greatest Reason in the World” (Travelers), scrisă de un om din departamentul de PR al clientului, nu de agenție; „We Hope We Set a Boy to Dreaming” (General Motors), scrisă după ce copywriterul a prins viziunea clientului; „The Kid in Upper 4”. Toate au primit scrisori și cereri de retipărire ani la rând.
 

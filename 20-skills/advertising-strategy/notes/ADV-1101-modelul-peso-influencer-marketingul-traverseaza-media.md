@@ -37,7 +37,7 @@ Dietrich subliniază că integrarea celor patru tipuri aduce și parteneriate, p
 
 ## Exemplu
 
-Lipton Iced Tea a lansat în Australia cea mai mare campanie a sa condusă de creatori, combinând digital out-of-home, social media și activare experiențială; comicul Matt Storer a interpretat o melodie originală pentru brand, difuzată pe un billboard digital de pe Bourke Street (Melbourne).
+Lipton Iced Tea a lansat în Australia cea mai mare campanie a sa condusă de creatori, combinând digital out-of-home, social media și activare experiențială; comicul Matt Storer a interpretat o melodie originală pentru brand, difuzată pe un billboard digital de pe Bourke Street, una dintre cele mai aglomerate zone comerciale din Australia.
 
 ## Întrebări
 

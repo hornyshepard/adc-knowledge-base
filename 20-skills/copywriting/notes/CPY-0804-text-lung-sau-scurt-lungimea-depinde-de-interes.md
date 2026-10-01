@@ -26,7 +26,6 @@ Watkins combate explicit dogma „oamenii nu citesc texte lungi” și, în acel
 | „The Diary of a Lonesome Girl” (George Cecil): jurnalul unei fete fără rochii frumoase; a vândut cursuri de croitorie „ca niciodată” | Kodak „You Press the Button — We Do the Rest”: extras de George Eastman dintr-un text lung |
 | Merrill Lynch (Louis Engel): peste 6.000 de cuvinte despre bursă; 5.033 de cereri într-o lună, fără să fi fost gândit pentru cupoane | Kodak „Pictures from Home” (1917): 300 de cuvinte tăiate până la zero, pentru că fotografia spunea povestea |
 | Ford „The Longest Left Turn in History”: reportaj de anduranță citit ca un roman | Tecla „A $10,000 Mistake”: două fraze de Frank Irving Fletcher, discipol al conciziei |
-| Postum „Why Men Crack”: narațiune lungă, fără strigătele obișnuite ale epocii | Y&R „Impact”: două definiții de dicționar și atât |
 
 Concluzia lui Watkins vine prin comparație: *Anthony Adverse* avea peste o mie de pagini, *Goodbye, Mr. Chips* puțin peste o sută, și ambele au fost bestselleruri. Textul trebuie făcut interesant și croit din experiența de zi cu zi; atunci va fi citit. Morala lui Merrill Lynch: nu-ți fie frică să spui toată povestea dacă ea lămurește problema și le dă oamenilor informații utile.
 

@@ -9,6 +9,7 @@ level: 2
 tags: [platforma, pdf, website, behance, dribbble, format]
 sources:
   - SRC-048 | cap. 5 („Portfolio platforms”, „A website or a PDF?”)
+  - SRC-046 | Pasul 3 („Physical portfolio”, pp. 42–50; „Online portfolio”, pp. 71–76); Pasul 10 („Share”, pp. 292–293)
 status: seed
 ---
 
@@ -33,6 +34,8 @@ Sfaturi practice pentru PDF: export real în PDF (nu formate exotice); aceeași 
 
 Exemplul de avertisment: un recrutor impresionat de un profil Dribbble și-a dat seama că, din greșeală, se uita la portofoliul altui designer — bun pentru recrutor, prost pentru candidat.
 
+**Convergență și nuanță (Kubišová).** Și pentru ea, un PDF bun e „linia de bază”, iar platformele de tip Behance aduc expunere într-o piață în care recrutorii caută activ, dar îți iau controlul asupra prezentării și favorizează rezultatele finale în dauna procesului. Ea adaugă însă un argument pentru **portofoliul tipărit** la interviu: experiența tactilă e mai memorabilă, invită la parcurgerea fiecărei pagini, ai control total asupra felului în care se vede munca și facilitează conversația. Avertismente comune: nu trimite linkuri de Google Drive, nu trimite fișiere PowerPoint, comprimă PDF-ul fără să sacrifici calitatea.
+
 ## Aplicare
 
 - Pentru studenții ADC: un PDF de 10–15 pagini, adaptat fiecărei agenții, plus un site simplu cu proiectele principale.
@@ -52,7 +55,9 @@ Un student aplică la două agenții: pentru agenția digitală pune în față 
 - **vezi** [[PRT-1410]] — structura portofoliului diferă ușor între PDF și site.
 - **fundament** [[PRT-1404]] — personalizarea PDF-ului urmează analiza anunțului.
 - **vezi** [[PRT-1412]] — protecția prin parolă e o soluție proastă și pentru NDA.
+- **vezi** [[PRT-1423]] — mediul se combină cu tipul de portofoliu (sample, full, leave-behind).
 
 ## Surse
 
 - [[SRC-048]] Ian Fenn, *UX Portfolio Design*, cap. 5
+- [[SRC-046]] Zuzana Kubišová, *The Architect's Pocket Guide to Portfolio Design*, Pasul 3, pp. 42–76; Pasul 10, pp. 292–293

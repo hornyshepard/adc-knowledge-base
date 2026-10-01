@@ -55,6 +55,7 @@ Cap. 5 propune selectarea partenerilor de canal prin „oglindirea" scopului, id
 - [[MKT-0206]] — întreprinderea socială și marketing mixul pentru baza piramidei.
 - [[MKT-0207]] — cele 10 credo-uri.
 - [[MKT-0201]] — locul cărții în evoluția 1.0→6.0.
+- [[MKT-0216]] — dezbatere: cum revizuiesc cărțile ulterioare definițiile 1.0/2.0, comunitizarea și purpose-ul din 3.0.
 
 ## Ce lipsește / ce trebuie citit critic
 

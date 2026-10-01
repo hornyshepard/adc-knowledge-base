@@ -19,7 +19,7 @@ status: seed
 
 ## Explicație
 
-**Teza (Wuebben, SRC-008, cap. 4).** Content marketingul *este* marketing și va rămâne standardul și în 2030. Definiția Content Marketing Institute: o abordare strategică de creare și distribuire de conținut valoros, relevant și consecvent, ca să atragi și să păstrezi un public clar definit, cu scopul unei acțiuni profitabile a clientului. Argumentul personal: o reclamă nu l-a făcut niciodată să se simtă mai aproape de o companie, ci doar întrerupt. Brandurile devin edituri (Red Bull Media House; PepsiCo și Mondelez cu divizii de conținut). Până în 2030, „era reclamei care întrerupe se va încheia" (cap. 12).
+**Teza (Wuebben, SRC-008, cap. 4).** Content marketingul *este* marketing și va rămâne standardul și în 2030. Definiția CMI: conținut valoros, relevant și consecvent, care atrage și păstrează un public clar definit, cu scopul unei acțiuni profitabile. Argumentul personal: o reclamă nu l-a făcut niciodată să se simtă mai aproape de o companie, ci doar întrerupt. Brandurile devin edituri (Red Bull Media House, PepsiCo, Mondelez). Până în 2030, reclama care întrerupe ar dispărea (cap. 12).
 
 **Datele care o susțin (Ejeke, SRC-010).** 763,5 milioane de oameni folosesc blocare de reclame. Reclamele native, integrate în formatul paginii, au o rată de click medie de 0,80%, față de 0,09% pentru display (AppNexus). Content marketingul ar costa cu 62% mai puțin decât marketingul outbound și ar aduce de trei ori mai multe lead-uri (CMI).
 
@@ -38,7 +38,7 @@ status: seed
 
 ## Exemplu
 
-Wuebben citează Red Bull Media House ca primul brand care și-a creat oficial o companie media internă, modelul de „brand care devine editură" (SRC-008, cap. 4). Pentru seminar: cât din succesul conținutului Red Bull ține de conținut în sine și cât de distribuția plătită și de sponsorizări? Cartea nu răspunde. Tocmai de aceea e un bun exercițiu de verificare.
+Wuebben citează Red Bull Media House ca primul brand care și-a creat oficial o companie media internă (SRC-008, cap. 4). Exercițiu de seminar: cât din succesul conținutului Red Bull ține de conținut și cât de distribuția plătită și de sponsorizări? Cartea nu răspunde.
 
 ## Întrebări
 

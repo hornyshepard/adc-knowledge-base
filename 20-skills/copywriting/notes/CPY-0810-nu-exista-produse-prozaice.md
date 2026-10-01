@@ -22,11 +22,9 @@ Watkins adună mai multe reclame pentru produse aparent fără farmec și extrag
 
 - **Personificarea.** Leroy, copywriterul Big Ben (Westclox), a decis să-l numească mereu „el”, ca pe o persoană, niciodată ca pe un obiect. Deșteptătorul care întâi șoptește, apoi strigă a devenit membru al familiei.
 - **Povestea fabricației.** George Bijur pentru Weber & Heilbroner: noul cumpărător de batiste, obsedat de meserie, a mers până în câmpurile de in din Irlanda, a comandat pânza direct și a pus-o să fie ruptă, nu tăiată, pentru margini mai bune. Rezultatul: aceeași cutie cu 65 de cenți mai ieftină. Titlul spune că au călătorit 2.000 de mile ca să economisească 65 de cenți.
-- **Omul în locul obiectului.** Asociația Barre Granite arăta fotografii realiste de pietre funerare cu titluri ca „Eternitate”. Watkins, devenit agentul ei, a observat că industria există pentru că a murit cineva care merită ținut minte. Reclamele au început să vorbească despre oameni: „Aunt Meg… Who Never Married”. Reclama a fost prima la „Read Most” în rapoartele Starch.
+- **Omul în locul obiectului.** Asociația Barre Granite arăta fotografii realiste de pietre funerare cu titluri ca „Eternitate”. Watkins, a cărui agenție (H. B. Humphrey) a preluat apoi contul, a observat că industria există pentru că a murit cineva care merită ținut minte. Reclamele au început să vorbească despre oameni: „Aunt Meg… Who Never Married”. Reclama a fost prima la „Read Most” în rapoartele Starch.
 - **Asocierea absurdă.** George Gribbin (Y&R): cămășile au guler, caii au guler, iar gulerul de cal nu se strânge. Rezultatul: o poveste fantezistă despre prietenul Joe Holmes, devenit cal, ca să spună simplu că gulerele Arrow nu intră la apă. Gribbin a uitat să pună prețul în text.
 - **Oameni reali.** Shell a înlocuit benzinarii-manechin cu doi tipi simpatici care îi spun șefului de vânzări că e „nebun”. Seria a fost mai citită decât multe articole din reviste.
-
-Margaret Fishback, la Macy’s, găsea un unghi omenesc chiar în fapte negative. Watkins le recomandă copywriterilor să citească reclamele ei ca pe o Biblie.
 
 ## Aplicare
 

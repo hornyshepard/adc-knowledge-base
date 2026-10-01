@@ -9,6 +9,7 @@ level: 1
 tags: [mediul-de-marketing, CDSTEP, PESTEL, macromediu, generatii, greenwashing]
 sources:
   - SRC-001 | cap. 2, p. 38; cap. 5, p. 154-177
+  - SRC-002 | cap. 1, p. 21-29
 status: seed
 ---
 
@@ -35,6 +36,8 @@ Modelul lui Grewal și Levy (Exhibit 5.1) are trei straturi:
 
 CDSTEP acoperă aceleași forțe ca PESTEL, dar separă cultura și demografia, care contează mult pentru comunicare. Factorul ecologic din PESTEL apare la Grewal și Levy în mediul imediat, ca „mediu fizic". Tot aici autorii definesc **greenwashing**: mai mulți bani cheltuiți pe a pretinde că ești verde decât pe practici reale.
 
+Policarpio (SRC-002) folosește schema Kotler, organizată altfel: **mediul intern**, controlabil (cele 5M: bani, oameni, piețe, materiale, mașini); **micromediul** extern (furnizori, intermediari, parteneri precum agențiile de publicitate, clienți, publicuri, concurenți); **macromediul** (tehnologic, demografic, socio-cultural, economic, politico-legal, fizic). „Publicurile” sunt o categorie utilă pentru comunicare: oameni din afara țintei care pot construi sau distruge imaginea firmei online.
+
 ## Aplicare
 
 - Pentru un insight de campanie, caută la intersecția dintre o tendință CDSTEP și o tensiune personală a țintei (de exemplu sustenabilitate × dorința de a te exprima).
@@ -60,3 +63,4 @@ iRobot (deschiderea capitolului 5) urmărește demografia (populație care îmb�
 ## Surse
 
 - [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 2, p. 38; cap. 5, p. 154-177 (Exhibit 5.1, 5.2, 5.4, 5.5)
+- [[SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 1, p. 21-29 (§1.5)

@@ -47,6 +47,7 @@ Un junior care prezintă unui CMO poate spune: „Am lucrat la lansarea ultimelo
 - **fundament** [[PIT-1405]] — legătura cu nevoia audienței cere cunoașterea ei.
 - **aplicare** [[PIT-1414]] — se livrează în pasul „Authority” al deschiderii.
 - **vezi** [[PIT-1429]] — unicitatea e baza diferențierii față de concurență.
+- **aplicare** [[PRT-1416]] — la interviu, unicitatea se spune prin povestea de sine.
 
 ## Surse
 

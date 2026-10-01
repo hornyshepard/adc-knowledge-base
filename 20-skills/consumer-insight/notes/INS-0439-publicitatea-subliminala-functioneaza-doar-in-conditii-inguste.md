@@ -48,6 +48,7 @@ Lipton Ice (Karremans et al., 2006) și replicarea BBC (2015) — același desig
 - **fundament** [[INS-0414]] — priming-ul subliminal și supraliminal au efecte comparabile în laborator.
 - **vezi** [[INS-0415]] — exemplu de efect fragil la replicare.
 - **vezi** [[INS-0438]] — scopurile activate de mediu, condiția-cheie a efectului.
+- **vezi** [[INS-0446]] — psihanaliza, Dichter și Packard, contextul în care s-a născut mitul.
 
 ## Surse
 

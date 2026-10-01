@@ -52,6 +52,7 @@ Nike (p. 175): un pantof fără brand servește la fel de bine scopul de a alerg
 - **vezi** [[CPY-0403]] — potrivirea apelului cu trăsăturile persoanei.
 - **vezi** [[ADV-0402]] — grila Rossiter-Percy distinge tot motivații informaționale și transformaționale.
 - **vezi** [[INS-0409]] — mesajele potrivite cu schema de sine sunt procesate mai atent.
+- **extinde** [[BRD-0401]] — brandurile iconice oferă mituri pentru proiectele identitare.
 
 ## Surse
 

@@ -50,6 +50,7 @@ Psoriazis și depresie: un arbore simplu, aplicabil cu creionul pe hârtie de or
 - **extinde** [[AIM-1313]] — ansamblurile pornesc de la arborii de clasificare.
 - **vezi** [[AIM-1305]] — explicabilitatea ca obligație etică și de reglementare.
 - **vezi** [[AIM-1306]] — supra-ajustarea, problema clasică a rețelelor neuronale.
+- **vezi** [[AIM-1326]] — aceeași întrebare, „unde rămâne omul?", aplicată creației de brand.
 
 ## Surse
 

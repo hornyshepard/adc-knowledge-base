@@ -46,6 +46,7 @@ Afișul Advil cu un bărbat care se ține de cap: durerea vizibilă declanșeaz�
 - **fundament** [[INS-0401]] — etapa preatentivă este prima din modelul în patru trepte.
 - **extinde** [[INS-0403]] — fluența procesării explică de ce expunerea incidentală produce plăcere.
 - **aplicare** [[INS-0412]] — urmele implicite scapă testelor clasice de recall.
+- **aplicare** [[ART-0401]] — principiile de plasare aplicate în bannere și layout.
 
 ## Surse
 

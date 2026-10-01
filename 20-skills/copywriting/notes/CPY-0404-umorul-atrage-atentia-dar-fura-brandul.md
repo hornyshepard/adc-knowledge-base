@@ -49,6 +49,7 @@ Reclama BMW în care logoul Jaguar pare să fugă speriat de BMW (p. 226): umor 
 - **fundament** [[INS-0426]] — condiționarea evaluativă transferă plăcerea asupra brandului.
 - **vezi** [[INS-0421]] — atitudinile implicite decid alegerile grăbite.
 - **alternativa** [[CPY-0405]] — apelul sexual atrage și el atenția, cu rezultate mai slabe.
+- **vezi** [[INS-0444]] — umorul ca emoție cu activare mare favorizează distribuirea.
 
 ## Surse
 

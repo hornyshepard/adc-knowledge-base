@@ -20,7 +20,7 @@ status: seed
 
 Watkins documentează o familie întreagă de reclame construite pe stânjeneală:
 
-- **Listerine** („Often a Bridesmaid, but Never a Bride”). Când frații Lambert au vrut să scoată produsul din farmacie, chimistul companiei a citit lista de utilizări și a pomenit **halitoza**. Toți au întrebat ce e aceea; cineva a spus că acesta ar putea fi „cuiul” în care să agațe pălăria. Agenția de atunci a primit ideea cu răceală; clienții au insistat.
+- **Listerine** („Often a Bridesmaid, but Never a Bride”). Când frații Lambert au vrut să scoată produsul din farmacie, chimistul companiei a citit lista de utilizări și a pomenit **halitoza**. Toți au întrebat ce e aceea; cineva a spus că acesta ar putea fi „cuiul” în care să agațe pălăria.
 - **Odorono** (James Webb Young, 1919). Un subiect tabu, tratat „deschis”. Circa 200 de cititoare ale *Ladies’ Home Journal* și-au anulat abonamentul, câteva femei i-au spus lui Young că reclama e o insultă, iar vânzările au crescut cu 112% în acel an.
 - **Book of Etiquette** („Again She Ordered Chicken Salad”). Tânăra care comandă iar salată de pui pentru că nu știe meniul franțuzesc.
 - **U.S. School of Music**. Râsetele prietenilor înainte de primul acord.

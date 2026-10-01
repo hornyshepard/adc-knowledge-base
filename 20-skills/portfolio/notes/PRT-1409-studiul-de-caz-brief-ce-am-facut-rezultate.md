@@ -53,6 +53,7 @@ Citatul ales de Fenn (Tate Linden): designerii buni sunt lăudați pentru tehnic
 - **alternativa** [[PIT-1416]] — SOLVE e o structură apropiată pentru cazurile spuse într-un pitch.
 - **fundament** [[PRT-1403]] — materia primă vine din jurnalul de lucru.
 - **vezi** [[PRT-1408]] — titlul studiului rezumă rezultatul cu formula X-Y-Z.
+- **vezi** [[PRT-1424]] — Kubišová detaliază cum arată studiul de caz pe pagină: titlu, detalii, descriere, legende.
 
 ## Surse
 

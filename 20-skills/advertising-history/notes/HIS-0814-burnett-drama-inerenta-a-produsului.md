@@ -24,7 +24,7 @@ Richards îl descrie pe Burnett (agenție deschisă la Chicago în 1935) ca pe u
 Watkins (care lucra la Burnett în 1959) oferă două studii de caz scrise chiar de oamenii agenției:
 
 - **Pillsbury (1950).** Piața mixurilor pentru prăjituri se baza pe comoditate. Burnett a schimbat strategia spre **calitate**: câștigă cel care demonstrează cel mai bine calitatea. Fotograful a urmărit să surprindă „drama inerentă” a unei prăjituri „în forma ei cea mai pură”, fără înfrumusețări și fără interes împrumutat. Burnett a cerut ca poza să fie pusă pe pagină cât de mare se putea, iar textul a rămas la fel de conversațional ca imaginea.
-- **Marlboro (1955).** Detaliat în [[ART-0804]]: drama nu e în filtru sau în cutie, ci în personalitatea masculină a fumătorului.
+- Marlboro (1955), detaliat în [[ART-0804]]: drama nu e în filtru sau în cutie, ci în personalitatea masculină a fumătorului.
 
 Richards adaugă și un avantaj al personajului inventat: nu îmbătrânește, nu moare și nu ajunge în tribunal, spre deosebire de celebrități (vezi [[HIS-0821]]).
 

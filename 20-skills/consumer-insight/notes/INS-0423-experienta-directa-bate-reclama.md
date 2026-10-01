@@ -48,6 +48,7 @@ Test-drive-ul ca instrument: atitudinea formată la volan prezice cumpărarea ma
 - **extinde** [[INS-0422]] — experiența directă este o sursă de atitudini puternice.
 - **vezi** [[INS-0416]] — totuși, reclama poate rescrie amintirea experienței ambigue.
 - **vezi** [[INS-0424]] — fără experiență, consumatorul folosește euristici.
+- **aplicare** [[EXP-0401]] — experiențele de retail construite ca ritualuri.
 
 ## Surse
 

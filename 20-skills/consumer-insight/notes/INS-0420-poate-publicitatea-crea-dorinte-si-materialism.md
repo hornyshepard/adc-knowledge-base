@@ -9,6 +9,7 @@ level: 3
 tags: [materialism, copii, etica, persuasion-knowledge, bunastare]
 sources:
   - SRC-012 | cap. 1, p. 16-17
+  - SRC-013 | cap. 6, p. 96-97; cap. 4, p. 48
 status: seed
 ---
 
@@ -27,6 +28,8 @@ Dovezile, în ordinea solidității:
 - **Opree et al. (2016)**, panel cu 1.133 de copii: niciun efect direct al expunerii asupra satisfacției de viață, dar un efect indirect pozitiv, prin bunăstarea psihologică.
 
 Concluzia autorilor: publicitatea poate fi și binecuvântare, și blestem; întrebarea utilă este pentru cine și în ce condiții.
+
+Parsons, Maclaran și Chatzidakis (SRC-013) formulează aceeași dezbatere ca „oglindă sau tipar": Pollay (1986) vede publicitatea ca forță formatoare, care întărește materialismul, anxietatea și competiția socială; Holbrook (1987) răspunde că ea mai degrabă oglindește valorile publicului decât le modelează. Ei amintesc și efectele asupra imaginii corporale a tinerelor (modele foarte slabe) și vulnerabilitatea copiilor și a vârstnicilor.
 
 ## Aplicare
 
@@ -47,7 +50,9 @@ Studiul Opree et al. (2014): expunerea măsurată prin frecvența vizionării a 
 
 - **vezi** [[INS-0419]] — diferența dintre datele transversale și cele longitudinale/experimentale.
 - **vezi** [[INS-0417]] — cunoașterea persuasiunii stă la baza rezistenței adulților.
+- **vezi** [[ADV-0411]] — reclamele construiesc și normele de gen și de maternitate.
 
 ## Surse
 
 - [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 1, p. 16-17
+- [[SRC-013]] Parsons, Maclaran & Chatzidakis, *Contemporary Issues in Marketing and Consumer Behaviour*, cap. 6, p. 96-97; cap. 4, p. 48

@@ -18,7 +18,7 @@ status: seed
 
 ## Explicație
 
-Cazul central din carte este **Fyre Festival (2017)**: un festival de lux pe o insulă din Bahamas, promovat de peste 400 de influenceri, mulți fără să declare că au fost plătiți sau au primit cadouri. Un pătrat portocaliu postat simultan de ambasadori a ajuns la peste 300 de milioane de oameni în 24 de ore; s-ar fi plătit 250.000 de dolari pentru o singură postare; 95% dintre bilete s-au vândut în 48 de ore. Realitatea: mai puțin de opt săptămâni de producție, mutarea pe altă insulă, vile promise care nu existau, echipe fără roluri clare, investitori induși în eroare. Reacția pe social media împotriva influencerilor a fost, notează autorul, „aproape jubilatorie".
+Cazul central din carte este **Fyre Festival (2017)**: un festival de lux pe o insulă izolată, promovat de peste 400 de influenceri, mulți fără să declare că au fost plătiți sau au primit cadouri. Un pătrat portocaliu postat simultan de ambasadori a ajuns la peste 300 de milioane de oameni în 24 de ore; s-ar fi plătit 250.000 de dolari pentru o singură postare; 95% dintre bilete s-au vândut în 48 de ore. Realitatea: mai puțin de opt săptămâni de producție, mutarea pe altă insulă, vile promise care nu existau, echipe fără roluri clare, investitori induși în eroare. Reacția pe social media împotriva influencerilor a fost, notează autorul, „aproape jubilatorie".
 
 Alte eșecuri citate:
 

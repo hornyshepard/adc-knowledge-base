@@ -9,6 +9,7 @@ level: 2
 tags: [inferente-pragmatice, publicitate-inselatoare, etica, claims, comparatii-omise]
 sources:
   - SRC-012 | cap. 2, p. 77, 80
+  - SRC-013 | cap. 6, p. 96, 99-101
 status: seed
 ---
 
@@ -30,6 +31,8 @@ status: seed
 
 Contextul general: Jacoby și Hoyer (1982) au estimat că circa 80% din mesajele TV sunt înțelese greșit într-o anumită privință. Iar efectul de adevăr face ca afirmația acceptată în grabă să fie rar corectată.
 
+Parsons, Maclaran și Chatzidakis (SRC-013) adaugă o tehnică tipică industriei cosmetice: **jargonul pseudo-științific** („tehnologie de inversare a glicării", „complex de peptide-B3"), combinat cu verbe active (repară, umple, restaurează). Un sondaj al autorității britanice ASA pe 445 de reclame cosmetice a găsit încălcări evidente ale codurilor în 7% din cazuri și în 19% la cremele de piele. Iar circa 70% dintre consumatori cred, de decenii, că reclamele sunt adesea neadevărate, deși le consideră informative.
+
 ## Aplicare
 
 - Folosește lista ca **checklist etic și legal** la revizia copy-ului: ce va înțelege omul obișnuit, nu ce spune textul la propriu.
@@ -50,7 +53,9 @@ Sloganul parafrazat după Carlsberg („probabil cea mai bună bere din lume") �
 - **fundament** [[INS-0408]] — efectul de adevăr face ca inferențele să fie rar corectate.
 - **vezi** [[INS-0405]] — promisiunea exagerată duce la dezamăgire după cumpărare.
 - **vezi** [[CPY]] — hub-ul de copywriting.
+- **vezi** [[BRD-0402]] — afirmațiile „verzi" vagi sunt o formă de greenwashing.
 
 ## Surse
 
 - [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 2, p. 77, 80
+- [[SRC-013]] Parsons, Maclaran & Chatzidakis, *Contemporary Issues in Marketing and Consumer Behaviour*, cap. 6, p. 96, 99-101

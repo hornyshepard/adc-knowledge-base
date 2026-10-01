@@ -55,6 +55,7 @@ Cazul Companiei A arată tiparul tipic: câștigul de timp vine abia după ce ec
 - **fundament** [[AIM-1317]] — promptul-brief e pasul 1 al ciclului.
 - **vezi** [[AIM-1318]] — transparența față de public privind conținutul generat cu AI.
 - **vezi** [[DIG-1301]] — riscul pierderii vocii în e-mailurile automatizate.
+- **vezi** [[AIM-1326]] — dezbaterea mai largă: poate AI-ul crea identitatea unui brand?
 
 ## Surse
 

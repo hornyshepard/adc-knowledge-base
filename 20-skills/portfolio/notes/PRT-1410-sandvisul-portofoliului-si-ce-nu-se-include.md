@@ -9,6 +9,7 @@ level: 1
 tags: [structura, about-me, testimoniale, premii, voluntariat, ce-nu-includ]
 sources:
   - SRC-048 | cap. 5 („Portfolio format & structure”); cap. 6 („What not to include”); cap. 8 („Completing the picture”)
+  - SRC-046 | Pasul 4 („How to approach a visual narrative”, p. 89); Pasul 8 (pp. 189–225)
 status: seed
 ---
 
@@ -30,6 +31,8 @@ status: seed
 
 **Ce nu incluzi:** „creier stâng / creier drept” și tipul Myers-Briggs (fără bază științifică — un cercetător sau designer ar trebui să știe asta); media de absolvire după 2–3 ani de experiență; apartenența la Mensa; zodia; povestea „cum am ajuns în domeniu” și „ce iubesc la meseria asta” (portofoliul arată cum răspunzi nevoilor cititorului, nu ale tale); CV-ul amestecat în PDF (e document separat sau anexă la final, aceeași orientare).
 
+Kubišová propune o structură apropiată pentru portofoliul tipărit sau PDF: copertă → CV (opțional) → declarație de design (opțional) → cuprins → pentru fiecare proiect, o pagină de introducere urmată de paginile proiectului → extra (lucrări creative din alte domenii, cercetare) → pagina de mulțumire cu o cerere clară (contact, site). Pe site, pagina de contact e ultima opțiune din meniu și apare și în subsolul fiecărei pagini.
+
 ## Aplicare
 
 - Pentru un student ADC: copertă cu nume și rol dorit → introducere de 40 de cuvinte → 3–4 studii de caz → premii și concursuri studențești, workshopuri, voluntariat cu rezultate → un testimonial de la un profesor sau mentor → contact.
@@ -49,7 +52,9 @@ Un student care a coordonat voluntar campania unui ONG local scrie: „Am organi
 - **fundament** [[PRT-1401]] — structura există ca să servească cititorul.
 - **extinde** [[PRT-1409]] — studiile de caz sunt „umplutura” sandvișului.
 - **vezi** [[PRT-1408]] — introducerea și „About me” deschid sandvișul.
+- **vezi** [[PRT-1426]] — CV-ul și declarația de design sunt componente ale „sandvișului”.
 
 ## Surse
 
 - [[SRC-048]] Ian Fenn, *UX Portfolio Design*, cap. 5, 6 și 8
+- [[SRC-046]] Zuzana Kubišová, *The Architect's Pocket Guide to Portfolio Design*, Pașii 4 și 8

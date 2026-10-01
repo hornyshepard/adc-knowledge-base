@@ -1,354 +1,55 @@
 # Sănătatea bazei de cunoștințe
 
-_Generat de `tools/kb.py check` la 2026-10-01 11:51._
+_Generat de `tools/kb.py check` la 2026-10-01 12:00._
 
-- Note totale: **689** (permanente: 637, surse: 34, skill-uri: 17, hărți: 0)
-- Probleme: **336**
+- Note totale: **805** (permanente: 740, surse: 47, skill-uri: 17, hărți: 0)
+- Probleme: **40**
 
-## Legătură ruptă (220)
+## Legătură ruptă (25)
 
-- 10-sources/SRC-003-marketing-3-0-philip-kotler.md → MKT-0201
-- 10-sources/SRC-004-marketing-4-0-philip-kotler.md → MKT-0201
-- 10-sources/SRC-005-marketing-5-0-philip-kotler.md → MKT-0201
-- 10-sources/SRC-022-the-creative-brief-blueprint.md → SRC-025
-- 10-sources/SRC-024-the-a-z-of-visual-ideas.md → IDE-0715
-- 10-sources/SRC-024-the-a-z-of-visual-ideas.md → ART-0702
-- 10-sources/SRC-024-the-a-z-of-visual-ideas.md → ART-0703
-- 10-sources/SRC-024-the-a-z-of-visual-ideas.md → ART-0704
-- 10-sources/SRC-024-the-a-z-of-visual-ideas.md → ART-0705
-- 10-sources/SRC-024-the-a-z-of-visual-ideas.md → ART-0706
-- 10-sources/SRC-024-the-a-z-of-visual-ideas.md → CPY-0701
-- 10-sources/SRC-024-the-a-z-of-visual-ideas.md → SRC-025
-- 10-sources/SRC-024-the-a-z-of-visual-ideas.md → STO-0709
-- 10-sources/SRC-027-a-history-of-advertising.md → ART-0801
-- 10-sources/SRC-027-a-history-of-advertising.md → ART-0802
-- 10-sources/SRC-027-a-history-of-advertising.md → CPY-0811
-- 10-sources/SRC-027-a-history-of-advertising.md → IDE-0801
-- 10-sources/SRC-027-a-history-of-advertising.md → CPY-0813
-- 10-sources/SRC-027-a-history-of-advertising.md → CPY-0815
-- 10-sources/SRC-027-a-history-of-advertising.md → SRC-028
-- 10-sources/SRC-031-digital-marketing-manual.md → DIG-1035
-- 10-sources/SRC-031-digital-marketing-manual.md → ADV-1001
-- 10-sources/SRC-031-digital-marketing-manual.md → DIG-1036
-- 10-sources/SRC-032-digital-advertising-in-post-cookies-era.md → DIG-1035
-- 10-sources/SRC-032-digital-advertising-in-post-cookies-era.md → DIG-1036
-- 10-sources/SRC-032-digital-advertising-in-post-cookies-era.md → BRF-1001
-- 10-sources/SRC-032-digital-advertising-in-post-cookies-era.md → ADV-1001
-- 10-sources/SRC-032-digital-advertising-in-post-cookies-era.md → ART-1001
-- 10-sources/SRC-032-digital-advertising-in-post-cookies-era.md → SOC-1006
-- 10-sources/SRC-032-digital-advertising-in-post-cookies-era.md → SOC-1007
-- 10-sources/SRC-032-digital-advertising-in-post-cookies-era.md → SOC-1004
-- 10-sources/SRC-032-digital-advertising-in-post-cookies-era.md → SOC-1008
-- 20-skills/advertising-history/notes/HIS-0802-brandul-garantie-de-origine-si-calitate.md → SRC-028
-- 20-skills/advertising-history/notes/HIS-0803-reclama-pentru-analfabeti-imagine-simbol-si-voce.md → ART-0803
-- 20-skills/advertising-history/notes/HIS-0803-reclama-pentru-analfabeti-imagine-simbol-si-voce.md → CPY-0811
-- 20-skills/advertising-history/notes/HIS-0804-publicitatea-motorul-financiar-al-presei.md → ART-0801
-- 20-skills/advertising-history/notes/HIS-0809-razboaiele-mondiale-au-facut-din-reclama-arma-de-opinie.md → ART-0803
-- 20-skills/advertising-history/notes/HIS-0809-razboaiele-mondiale-au-facut-din-reclama-arma-de-opinie.md → CPY-0814
-- 20-skills/advertising-history/notes/HIS-0809-razboaiele-mondiale-au-facut-din-reclama-arma-de-opinie.md → SRC-028
-- 20-skills/advertising-history/notes/HIS-0810-genealogia-stilurilor-de-copy.md → IDE-0801
-- 20-skills/advertising-history/notes/HIS-0810-genealogia-stilurilor-de-copy.md → CPY-0813
-- 20-skills/advertising-history/notes/HIS-0810-genealogia-stilurilor-de-copy.md → SRC-028
-- 20-skills/advertising-history/notes/HIS-0811-revolutia-creativa-copywriter-si-art-director-impreuna.md → IDE-0801
-- 20-skills/advertising-history/notes/HIS-0811-revolutia-creativa-copywriter-si-art-director-impreuna.md → IDE-0802
-- 20-skills/advertising-history/notes/HIS-0811-revolutia-creativa-copywriter-si-art-director-impreuna.md → SRC-028
-- 20-skills/advertising-history/notes/HIS-0812-publicitatea-stiinta-sau-arta.md → SRC-028
-- 20-skills/advertising-history/notes/HIS-0813-ogilvy-fapte-fara-adjective-si-o-imagine-care-intreaba.md → CPY-0817
-- 20-skills/advertising-history/notes/HIS-0813-ogilvy-fapte-fara-adjective-si-o-imagine-care-intreaba.md → ART-0803
-- 20-skills/advertising-history/notes/HIS-0813-ogilvy-fapte-fara-adjective-si-o-imagine-care-intreaba.md → SRC-028
-- 20-skills/advertising-history/notes/HIS-0814-burnett-drama-inerenta-a-produsului.md → ART-0804
-- 20-skills/advertising-history/notes/HIS-0814-burnett-drama-inerenta-a-produsului.md → ART-0803
-- 20-skills/advertising-history/notes/HIS-0814-burnett-drama-inerenta-a-produsului.md → SRC-028
-- 20-skills/advertising-history/notes/HIS-0819-premiile-estetica-sau-eficienta.md → SRC-028
-- 20-skills/advertising-history/notes/HIS-0821-personajele-inventate-nu-gresesc-celebritatile-da.md → SRC-028
-- 20-skills/advertising-history/notes/HIS-0822-reclama-politica-a-invatat-de-la-cea-comerciala.md → CPY-0814
-- 20-skills/advertising-history/notes/HIS-0822-reclama-politica-a-invatat-de-la-cea-comerciala.md → CPY-0811
-- 20-skills/advertising-history/notes/HIS-0822-reclama-politica-a-invatat-de-la-cea-comerciala.md → SRC-028
-- 20-skills/advertising-history/notes/HIS-0823-diversitatea-a-intrat-tarziu-in-agentii-si-in-reclame.md → SRC-028
-- 20-skills/advertising-history/notes/HIS-0824-tutunul-frontul-limitelor-publicitatii.md → ART-0804
-- 20-skills/advertising-history/notes/HIS-0824-tutunul-frontul-limitelor-publicitatii.md → SRC-028
-- 20-skills/advertising-history/notes/HIS-0825-demonstratia-trebuie-sa-fie-reala.md → SRC-028
-- 20-skills/advertising-history/notes/HIS-0826-marile-campanii-au-inventat-ocazii-de-consum.md → IDE-0802
-- 20-skills/advertising-history/notes/HIS-0826-marile-campanii-au-inventat-ocazii-de-consum.md → CPY-0811
-- 20-skills/advertising-history/notes/HIS-0826-marile-campanii-au-inventat-ocazii-de-consum.md → SRC-028
-- 20-skills/advertising-history/notes/HIS-0827-lansarile-clasice-test-teaser-diversiune.md → CPY-0816
-- 20-skills/advertising-history/notes/HIS-0827-lansarile-clasice-test-teaser-diversiune.md → SRC-028
-- 20-skills/advertising-strategy/notes/ADV-0101-imc-integreaza-canalele-pentru-claritate-consecventa-impact.md → SRC-001
-- 20-skills/advertising-strategy/notes/ADV-0102-aida-gandeste-simte-actioneaza-si-efectul-intarziat.md → SRC-001
-- 20-skills/advertising-strategy/notes/ADV-0103-bugetul-din-obiective-si-sarcini-eficienta-prin-grp-ctr-romi.md → DIG-0103
-- 20-skills/advertising-strategy/notes/ADV-0103-bugetul-din-obiective-si-sarcini-eficienta-prin-grp-ctr-romi.md → SRC-001
-- 20-skills/advertising-strategy/notes/ADV-0104-campania-publicitara-in-sapte-pasi-de-la-tinta-la-masurare.md → SRC-001
-- 20-skills/advertising-strategy/notes/ADV-0105-reclama-informeaza-convinge-sau-reaminteste-dupa-etapa-produsului.md → SRC-001
-- 20-skills/advertising-strategy/notes/ADV-0106-mesajul-usp-unic-relevant-durabil-si-apelul-informational-sau-emotional.md → SRC-001
-- 20-skills/advertising-strategy/notes/ADV-0107-mixul-media-mass-sau-nisa-si-programare-continua-flighting-pulsing.md → DIG-0104
-- 20-skills/advertising-strategy/notes/ADV-0107-mixul-media-mass-sau-nisa-si-programare-continua-flighting-pulsing.md → SRC-001
-- 20-skills/advertising-strategy/notes/ADV-0108-puffery-exagerarea-subiectiva-e-legala-cifra-trebuie-dovedita.md → SRC-001
-- 20-skills/advertising-strategy/notes/ADV-0109-pr-ul-castiga-credibilitate-pentru-ca-spatiul-nu-e-cumparat.md → SOC-0101
-- 20-skills/advertising-strategy/notes/ADV-0109-pr-ul-castiga-credibilitate-pentru-ca-spatiul-nu-e-cumparat.md → SRC-001
-- 20-skills/advertising-strategy/notes/ADV-0110-promotiile-aduc-vanzari-azi-dar-pot-fura-din-cele-de-maine.md → SRC-001
-- 20-skills/advertising-strategy/notes/ADV-0603-copy-strategy-fixeaza-beneficiul-dovada-si-tonul.md → INS-0607
-- 20-skills/advertising-strategy/notes/ADV-0603-copy-strategy-fixeaza-beneficiul-dovada-si-tonul.md → SRC-021
-- 20-skills/advertising-strategy/notes/ADV-0606-schimbarea-prea-deasa-a-campaniei-distruge-penetrarea.md → ADV-0625
-- 20-skills/advertising-strategy/notes/ADV-0606-schimbarea-prea-deasa-a-campaniei-distruge-penetrarea.md → SRC-021
-- 20-skills/ai-marketing/notes/AIM-1301-personalizarea-cu-ai-are-patru-registre.md → SRC-042
-- 20-skills/ai-marketing/notes/AIM-1325-ascultarea-vizuala-gaseste-brandul-in-imagini.md → SRC-041
-- 20-skills/ai-marketing/notes/AIM-1325-ascultarea-vizuala-gaseste-brandul-in-imagini.md → SRC-042
-- 20-skills/ai-marketing/notes/AIM-1326-poate-ai-ul-crea-identitatea-unui-brand.md → SRC-041
-- 20-skills/ai-marketing/notes/AIM-1326-poate-ai-ul-crea-identitatea-unui-brand.md → SRC-042
-- 20-skills/art-direction/notes/ART-0701-testul-unui-singur-perete.md → ART-0705
-- 20-skills/brand-strategy/notes/BRD-0101-brandul-ajuta-clientul-sa-aleaga-repede-si-firma-sa-scape-de-concurenta-pe-pret.md → SRC-001
-- 20-skills/brand-strategy/notes/BRD-0102-capitalul-de-brand-notorietate-valoare-perceputa-asocieri-loialitate.md → SRC-001
-- 20-skills/brand-strategy/notes/BRD-0103-cine-detine-brandul-si-cum-il-numesti-producator-sau-retailer-familie-sau-individual.md → SRC-001
-- 20-skills/brand-strategy/notes/BRD-0104-extensia-de-brand-economiseste-notorietate-dar-poate-dilua-brandul.md → SRC-001
-- 20-skills/brand-strategy/notes/BRD-0105-repozitionarea-merita-doar-pentru-o-tendinta-reala-nu-pentru-o-moda.md → SRC-001
-- 20-skills/client-business/notes/CLI-0701-clientul-bun-primeste-munca-buna.md → SRC-025
-- 20-skills/consumer-insight/notes/INS-0101-decizia-de-cumparare-are-cinci-etape-si-continua-dupa-cumparare.md → SRC-001
-- 20-skills/consumer-insight/notes/INS-0102-orice-produs-satisface-nevoi-functionale-si-psihologice-in-proportii-diferite.md → SRC-001
-- 20-skills/consumer-insight/notes/INS-0103-cinci-tipuri-de-risc-perceput-cu-cat-e-mai-mare-cu-atat-cauti-mai-mult.md → SRC-001
-- 20-skills/consumer-insight/notes/INS-0104-consumatorul-alege-din-setul-evocat-dupa-atributul-determinant.md → SRC-001
-- 20-skills/consumer-insight/notes/INS-0105-arhitectura-alegerii-nudge-si-optiunea-implicita.md → SRC-001
-- 20-skills/consumer-insight/notes/INS-0106-atitudinea-are-trei-componente-cognitiva-afectiva-comportamentala.md → SRC-001
-- 20-skills/consumer-insight/notes/INS-0107-implicarea-decide-daca-mesajul-e-procesat-central-sau-periferic.md → SRC-001
-- 20-skills/consumer-insight/notes/INS-0108-decizia-e-influentata-de-factori-psihologici-sociali-situationali-si-mix.md → SRC-001
-- 20-skills/consumer-insight/notes/INS-0204-cinci-generatii-si-patru-etape-de-viata.md → MKT-0201
-- 20-skills/consumer-insight/notes/INS-0204-cinci-generatii-si-patru-etape-de-viata.md → SRC-006
-- 20-skills/consumer-insight/notes/INS-0701-insight-ul-este-un-adevar-uman-semnificativ.md → SRC-025
-- 20-skills/consumer-insight/notes/INS-0702-insight-ul-se-gaseste-tragand-de-firul-unui-ce-surprinzator.md → SRC-025
-- 20-skills/copywriting/notes/CPY-0801-promisiunea-este-sufletul-reclamei.md → SRC-028
-- 20-skills/copywriting/notes/CPY-0802-reason-why-vanzare-tiparita.md → SRC-028
-- 20-skills/copywriting/notes/CPY-0803-reclama-de-imagine-vinde-un-sentiment.md → ART-0804
-- 20-skills/copywriting/notes/CPY-0803-reclama-de-imagine-vinde-un-sentiment.md → SRC-028
-- 20-skills/copywriting/notes/CPY-0804-text-lung-sau-scurt-lungimea-depinde-de-interes.md → ART-0803
-- 20-skills/copywriting/notes/CPY-0804-text-lung-sau-scurt-lungimea-depinde-de-interes.md → SRC-028
-- 20-skills/copywriting/notes/CPY-0805-scoala-mail-order-cuponul-ca-experiment.md → CPY-0817
-- 20-skills/copywriting/notes/CPY-0805-scoala-mail-order-cuponul-ca-experiment.md → SRC-028
-- 20-skills/copywriting/notes/CPY-0806-teama-sociala-vinde-dar-exista-calea-pozitiva.md → CPY-0813
-- 20-skills/copywriting/notes/CPY-0806-teama-sociala-vinde-dar-exista-calea-pozitiva.md → SRC-028
-- 20-skills/copywriting/notes/CPY-0807-metoda-james-webb-young-un-om-anume.md → CPY-0812
-- 20-skills/copywriting/notes/CPY-0807-metoda-james-webb-young-un-om-anume.md → SRC-028
-- 20-skills/copywriting/notes/CPY-0808-o-reclama-mare-idee-sinceritate-memorie-lunga.md → CPY-0812
-- 20-skills/copywriting/notes/CPY-0808-o-reclama-mare-idee-sinceritate-memorie-lunga.md → SRC-028
-- 20-skills/copywriting/notes/CPY-0809-titlurile-bune-sunt-gasite-nu-inventate.md → IDE-0802
-- 20-skills/copywriting/notes/CPY-0809-titlurile-bune-sunt-gasite-nu-inventate.md → CPY-0811
-- 20-skills/copywriting/notes/CPY-0809-titlurile-bune-sunt-gasite-nu-inventate.md → CPY-0812
-- 20-skills/copywriting/notes/CPY-0809-titlurile-bune-sunt-gasite-nu-inventate.md → SRC-028
-- 20-skills/copywriting/notes/CPY-0810-nu-exista-produse-prozaice.md → CPY-0813
-- 20-skills/copywriting/notes/CPY-0810-nu-exista-produse-prozaice.md → SRC-028
-- 20-skills/copywriting/notes/CPY-1001-anuntul-de-cautare-set-de-piese-interschimbabile.md → ART-1001
-- 20-skills/creative-brief/notes/BRF-0705-declaratia-de-pozitionare-tinta-cadru-diferenta-motiv.md → BRD-0701
-- 20-skills/creative-brief/notes/BRF-0707-un-singur-beneficiu-nu-cinci.md → STO-0704
-- 20-skills/creative-brief/notes/BRF-0707-un-singur-beneficiu-nu-cinci.md → SRC-025
-- 20-skills/creative-brief/notes/BRF-0708-dezbatere-beneficiul-emotional-nu-e-automat-superior.md → STO-0704
-- 20-skills/creative-brief/notes/BRF-0708-dezbatere-beneficiul-emotional-nu-e-automat-superior.md → STO-0707
-- 20-skills/creative-brief/notes/BRF-0708-dezbatere-beneficiul-emotional-nu-e-automat-superior.md → SRC-025
-- 20-skills/creative-brief/notes/BRF-0713-brief-ul-ingradeste-curtea.md → ART-0706
-- 20-skills/creative-brief/notes/BRF-0713-brief-ul-ingradeste-curtea.md → SRC-025
-- 20-skills/creative-brief/notes/BRF-0716-brief-ul-get-to-by-strategia-intr-o-fraza.md → STO-0701
-- 20-skills/creative-ideation/notes/IDE-0701-brainjack-ideea-captureaza-mintea-nu-doar-ochiul.md → CPY-0701
-- 20-skills/creative-ideation/notes/IDE-0703-cand-ideea-nu-vine-incubatie-distragere-declansatori.md → SRC-025
-- 20-skills/creative-ideation/notes/IDE-0704-ideile-noi-sunt-combinatii-bisociatia-lui-koestler.md → SRC-025
-- 20-skills/creative-ideation/notes/IDE-0705-juxtapunerea-doua-imagini-alaturate.md → ART-0705
-- 20-skills/creative-ideation/notes/IDE-0705-juxtapunerea-doua-imagini-alaturate.md → ART-0703
-- 20-skills/creative-ideation/notes/IDE-0706-cliseul-conventia-si-formatul-familiar-folosite-pe-dos.md → ART-0702
-- 20-skills/creative-ideation/notes/IDE-0707-metafora-vizuala-si-asemanarea-formala.md → ART-0702
-- 20-skills/creative-ideation/notes/IDE-0708-inversarea-problemei-dezavantajul-devine-argumentul.md → IDE-0714
-- 20-skills/creative-ideation/notes/IDE-0708-inversarea-problemei-dezavantajul-devine-argumentul.md → ART-0706
-- 20-skills/creative-ideation/notes/IDE-0708-inversarea-problemei-dezavantajul-devine-argumentul.md → SRC-025
-- 20-skills/creative-ideation/notes/IDE-0709-umorul-ironia-si-satira-rastoarna-asteptarea.md → STO-0709
-- 20-skills/creative-ideation/notes/IDE-0709-umorul-ironia-si-satira-rastoarna-asteptarea.md → STO-0710
-- 20-skills/creative-ideation/notes/IDE-0709-umorul-ironia-si-satira-rastoarna-asteptarea.md → SRC-025
-- 20-skills/creative-ideation/notes/IDE-0710-dezbatere-socul-arma-de-atentie-sau-risc.md → STO-0709
-- 20-skills/creative-ideation/notes/IDE-0710-dezbatere-socul-arma-de-atentie-sau-risc.md → SRC-025
-- 20-skills/creative-ideation/notes/IDE-0711-mesajul-care-nu-arata-a-reclama-locuri-si-formate-neasteptate.md → STO-0705
-- 20-skills/creative-ideation/notes/IDE-0711-mesajul-care-nu-arata-a-reclama-locuri-si-formate-neasteptate.md → STO-0707
-- 20-skills/creative-ideation/notes/IDE-0711-mesajul-care-nu-arata-a-reclama-locuri-si-formate-neasteptate.md → IDE-0714
-- 20-skills/creative-ideation/notes/IDE-0711-mesajul-care-nu-arata-a-reclama-locuri-si-formate-neasteptate.md → SRC-025
-- 20-skills/creative-ideation/notes/IDE-0712-banca-de-inspiratie-creativul-colectioneaza-permanent.md → IDE-0715
-- 20-skills/digital-marketing/notes/DIG-0204-marketingul-bazat-pe-date-segmentul-de-unu-si-ecosistemul-de-date.md → MKT-0216
-- 20-skills/digital-marketing/notes/DIG-0205-marketingul-contextual-senzori-declansatori-trei-niveluri.md → SRC-006
-- 20-skills/digital-marketing/notes/DIG-1004-propunerea-de-valoare-digitala-formula-pentru-tinta-brandul.md → BRF-1001
-- 20-skills/digital-marketing/notes/DIG-1005-palnia-de-conversie-digitala-aida-este-parcursa-neliniar.md → DIG-1035
-- 20-skills/digital-marketing/notes/DIG-1008-minimum-viable-persona-pornesti-cu-minimul.md → SOC-1007
-- 20-skills/digital-marketing/notes/DIG-1010-dcx-se-verifica-cu-fagurele-ux-al-lui-morville.md → ART-1001
-- 20-skills/digital-marketing/notes/DIG-1012-modelul-de-plata-media-urmeaza-obiectivul-si-etapa.md → ADV-1001
-- 20-skills/digital-marketing/notes/DIG-1017-cookie-urile-terte-ce-faceau-si-de-ce-dispar.md → DIG-1035
-- 20-skills/digital-marketing/notes/DIG-1019-targetarea-contextuala-si-semantica.md → DIG-1036
-- 20-skills/digital-marketing/notes/DIG-1024-campania-online-se-planifica-in-trei-pasi.md → BRF-1001
-- 20-skills/digital-marketing/notes/DIG-1027-brand-safety-viewability-si-plafonul-de-frecventa.md → ADV-1001
-- 20-skills/digital-marketing/notes/DIG-1030-cazul-bucatariilor-dmp-dsp-si-bannere-dinamice.md → ART-1001
-- 20-skills/digital-marketing/notes/DIG-1030-cazul-bucatariilor-dmp-dsp-si-bannere-dinamice.md → DIG-1035
-- 20-skills/digital-marketing/notes/DIG-1031-de-la-metrici-brute-la-kpi-scorul-de-engagement.md → SOC-1008
-- 20-skills/digital-marketing/notes/DIG-1033-atribuirea-devine-incerta-etapele-de-inceput-dezavantajate.md → DIG-1035
-- 20-skills/digital-marketing/notes/DIG-1034-formatele-video-youtube-se-aleg-dupa-obiectiv.md → SOC-1007
-- 20-skills/experiential-marketing/notes/EXP-0202-experienta-imersiva-cinci-elemente-si-patru-scenarii-om-digital.md → SRC-006
-- 20-skills/experiential-marketing/notes/EXP-0203-al-treilea-loc-reinventat-realitati-extinse-in-spatiul-fizic.md → SRC-006
-- 20-skills/experiential-marketing/notes/EXP-0204-marketingul-multisenzorial-antidot-la-oboseala-digitala.md → SRC-006
-- 20-skills/marketing-fundamentals/notes/MKT-0101-marketingul-creeaza-capteaza-comunica-si-livreaza-valoare.md → SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0102-valoarea-este-ce-primesti-raportat-la-ce-dai.md → SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0103-evolutia-marketingului-productie-vanzari-piata-valoare.md → SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0104-mixul-4p-creeaza-capteaza-livreaza-comunica-valoarea.md → SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0105-clientul-valoreaza-cat-relatia-nu-cat-tranzactia-clv.md → SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0106-conscious-marketing-pune-scopul-in-centru-csr-il-adauga.md → SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0107-strategia-de-marketing-tinta-mix-si-avantaj-competitiv-durabil.md → SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0108-planul-de-marketing-cinci-pasi-in-trei-faze.md → SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0109-swot-separa-ce-tine-de-firma-de-ce-tine-de-piata.md → SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0110-mediul-de-marketing-imediat-si-macromediul-cdstep.md → SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0111-patru-cai-de-crestere-piata-actuala-sau-noua-produs-actual-sau-nou.md → SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0112-stp-in-cinci-pasi-strategie-segmentare-atractivitate-tinta-pozitionare.md → SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0113-segmentezi-cu-demografia-ca-gasesti-tinta-cu-beneficii-ca-o-convingi.md → SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0114-alegerea-tintei-cinci-criterii-si-patru-strategii-de-targetare.md → SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0115-pozitionarea-patru-baze-verificate-pe-harta-perceptuala.md → SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0116-propunerea-de-valoare-intersectie-nevoi-oferta-fara-concurenta.md → SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0117-produsul-are-trei-straturi-valoare-de-baza-produs-efectiv-augmentat.md → SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0118-ciclul-de-viata-al-produsului-patru-etape-si-capcana-profetiei.md → SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0119-inovatia-se-raspandeste-in-cinci-grupuri-de-adoptatori.md → SOC-0101
-- 20-skills/marketing-fundamentals/notes/MKT-0119-inovatia-se-raspandeste-in-cinci-grupuri-de-adoptatori.md → SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0120-pretul-e-sacrificiul-total-al-clientului-si-se-fixeaza-prin-5c.md → SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0121-strategii-de-pret-edlp-vs-high-low-si-skimming-vs-penetrare.md → SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0122-distributia-canal-direct-sau-indirect-si-trei-niveluri-de-intensitate.md → SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0123-serviciile-sunt-intangibile-inseparabile-eterogene-perisabile.md → SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0124-patru-decalaje-de-serviciu-iar-ultimul-il-creeaza-publicitatea.md → SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0125-cercetarea-de-marketing-cinci-pasi-de-la-obiectiv-la-plan-de-actiune.md → DIG-0103
-- 20-skills/marketing-fundamentals/notes/MKT-0125-cercetarea-de-marketing-cinci-pasi-de-la-obiectiv-la-plan-de-actiune.md → SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0126-date-secundare-ieftine-primare-tintite-calitativ-intai-cantitativ-apoi.md → DIG-0103
-- 20-skills/marketing-fundamentals/notes/MKT-0126-date-secundare-ieftine-primare-tintite-calitativ-intai-cantitativ-apoi.md → SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0202-marketing-3-0-trateaza-clientul-ca-om-intreg-minte-inima-spirit.md → MKT-0201
-- 20-skills/marketing-fundamentals/notes/MKT-0210-calea-clientului-5a-aware-appeal-ask-act-advocate.md → MKT-0201
-- 20-skills/marketing-fundamentals/notes/MKT-0212-marketing-5-0-tehnologie-pentru-umanitate-cinci-componente.md → MKT-0201
-- 20-skills/marketing-fundamentals/notes/MKT-0213-polarizarea-prosperitatii-mijlocul-pietei-dispare.md → MKT-0216
-- 20-skills/marketing-fundamentals/notes/MKT-0215-marketing-6-0-metamarketingul-de-la-multi-la-omni-la-meta.md → MKT-0201
-- 20-skills/marketing-fundamentals/notes/MKT-0215-marketing-6-0-metamarketingul-de-la-multi-la-omni-la-meta.md → SRC-006
-- 20-skills/marketing-fundamentals/notes/MKT-1001-cei-4p-in-digital-patru-seturi-de-decizii.md → DIG-1036
-- 20-skills/social-influencer/notes/SOC-0201-cinci-micro-trenduri-video-scurt-comunitati-comert-interactiv-ai-wearables.md → SRC-006
-- 20-skills/social-influencer/notes/SOC-0202-marketingul-in-metavers-motivatii-si-patru-moduri-de-participare.md → SRC-006
-- 20-skills/social-influencer/notes/SOC-1001-recenzia-negativa-raspuns-rapid-empatic-fara-stergere.md → SRC-033
-- 20-skills/social-influencer/notes/SOC-1002-relatia-materiala-cu-influencerul-se-dezvaluie-clar.md → DIG-1036
-- 20-skills/social-influencer/notes/SOC-1003-focurile-de-tabara-digitale-comunitati-mici-private.md → SOC-1004
-- 20-skills/social-influencer/notes/SOC-1003-focurile-de-tabara-digitale-comunitati-mici-private.md → SRC-033
-- 20-skills/social-influencer/notes/SOC-1301-ai-verifica-autenticitatea-audientei-influencerului.md → SRC-042
-- 20-skills/social-influencer/notes/SOC-1301-ai-verifica-autenticitatea-audientei-influencerului.md → SRC-041
+- 20-skills/advertising-strategy/notes/ADV-1501-publicitatea-intoarce-spre-brand-promotia-misca-vanzarea.md → ADV-1531
+- 20-skills/advertising-strategy/notes/ADV-1501-publicitatea-intoarce-spre-brand-promotia-misca-vanzarea.md → ADV-1519
+- 20-skills/advertising-strategy/notes/ADV-1501-publicitatea-intoarce-spre-brand-promotia-misca-vanzarea.md → SRC-049
+- 20-skills/advertising-strategy/notes/ADV-1502-patru-efecte-de-comunicare-notorietatea-si-atitudinea-mereu.md → ADV-1510
+- 20-skills/advertising-strategy/notes/ADV-1502-patru-efecte-de-comunicare-notorietatea-si-atitudinea-mereu.md → ADV-1511
+- 20-skills/advertising-strategy/notes/ADV-1502-patru-efecte-de-comunicare-notorietatea-si-atitudinea-mereu.md → ADV-1512
+- 20-skills/advertising-strategy/notes/ADV-1502-patru-efecte-de-comunicare-notorietatea-si-atitudinea-mereu.md → SRC-049
+- 20-skills/advertising-strategy/notes/ADV-1503-secventa-de-raspuns-la-comunicare-probabilitati-compuse.md → ADV-1522
+- 20-skills/advertising-strategy/notes/ADV-1503-secventa-de-raspuns-la-comunicare-probabilitati-compuse.md → INS-1508
+- 20-skills/advertising-strategy/notes/ADV-1503-secventa-de-raspuns-la-comunicare-probabilitati-compuse.md → SRC-049
+- 20-skills/advertising-strategy/notes/ADV-1504-planificarea-inverseaza-secventa-de-raspuns.md → SRC-049
+- 20-skills/advertising-strategy/notes/ADV-1505-tinte-pe-reclama-pentru-expunere-pe-campanie-pentru-efecte.md → ADV-1543
+- 20-skills/advertising-strategy/notes/ADV-1505-tinte-pe-reclama-pentru-expunere-pe-campanie-pentru-efecte.md → SRC-049
+- 20-skills/advertising-strategy/notes/ADV-1506-procesul-de-planificare-strategica-in-cinci-pasi.md → ADV-1507
+- 20-skills/advertising-strategy/notes/ADV-1506-procesul-de-planificare-strategica-in-cinci-pasi.md → INS-1502
+- 20-skills/advertising-strategy/notes/ADV-1506-procesul-de-planificare-strategica-in-cinci-pasi.md → ADV-1509
+- 20-skills/advertising-strategy/notes/ADV-1506-procesul-de-planificare-strategica-in-cinci-pasi.md → ADV-1513
+- 20-skills/advertising-strategy/notes/ADV-1506-procesul-de-planificare-strategica-in-cinci-pasi.md → SRC-049
+- 20-skills/consumer-insight/notes/INS-0109-patru-tipuri-de-cumparare-implicare-ori-diferente-intre-branduri.md → SRC-002
+- 20-skills/creative-brief/notes/BRF-1501-documentul-de-briefing-cinci-intrebari-de-marketing.md → BRF-1502
+- 20-skills/creative-brief/notes/BRF-1501-documentul-de-briefing-cinci-intrebari-de-marketing.md → ADV-1507
+- 20-skills/creative-brief/notes/BRF-1501-documentul-de-briefing-cinci-intrebari-de-marketing.md → SRC-049
+- 20-skills/marketing-fundamentals/notes/MKT-0127-conceptul-de-marketing-vs-conceptul-de-vanzare.md → SRC-002
+- 20-skills/marketing-fundamentals/notes/MKT-0128-pentru-servicii-mixul-devine-7p-oameni-procese-dovezi-fizice.md → SRC-002
+- 20-skills/marketing-fundamentals/notes/MKT-0129-marketingul-social-vinde-comportamente-nu-produse.md → SRC-002
 
-## Sursă inexistentă (105)
+## Sursă inexistentă (11)
 
-- 20-skills/advertising-history/notes/HIS-0802-brandul-garantie-de-origine-si-calitate.md: SRC-028
-- 20-skills/advertising-history/notes/HIS-0809-razboaiele-mondiale-au-facut-din-reclama-arma-de-opinie.md: SRC-028
-- 20-skills/advertising-history/notes/HIS-0810-genealogia-stilurilor-de-copy.md: SRC-028
-- 20-skills/advertising-history/notes/HIS-0811-revolutia-creativa-copywriter-si-art-director-impreuna.md: SRC-028
-- 20-skills/advertising-history/notes/HIS-0812-publicitatea-stiinta-sau-arta.md: SRC-028
-- 20-skills/advertising-history/notes/HIS-0813-ogilvy-fapte-fara-adjective-si-o-imagine-care-intreaba.md: SRC-028
-- 20-skills/advertising-history/notes/HIS-0814-burnett-drama-inerenta-a-produsului.md: SRC-028
-- 20-skills/advertising-history/notes/HIS-0819-premiile-estetica-sau-eficienta.md: SRC-028
-- 20-skills/advertising-history/notes/HIS-0821-personajele-inventate-nu-gresesc-celebritatile-da.md: SRC-028
-- 20-skills/advertising-history/notes/HIS-0822-reclama-politica-a-invatat-de-la-cea-comerciala.md: SRC-028
-- 20-skills/advertising-history/notes/HIS-0823-diversitatea-a-intrat-tarziu-in-agentii-si-in-reclame.md: SRC-028
-- 20-skills/advertising-history/notes/HIS-0824-tutunul-frontul-limitelor-publicitatii.md: SRC-028
-- 20-skills/advertising-history/notes/HIS-0825-demonstratia-trebuie-sa-fie-reala.md: SRC-028
-- 20-skills/advertising-history/notes/HIS-0826-marile-campanii-au-inventat-ocazii-de-consum.md: SRC-028
-- 20-skills/advertising-history/notes/HIS-0827-lansarile-clasice-test-teaser-diversiune.md: SRC-028
-- 20-skills/advertising-strategy/notes/ADV-0101-imc-integreaza-canalele-pentru-claritate-consecventa-impact.md: SRC-001
-- 20-skills/advertising-strategy/notes/ADV-0102-aida-gandeste-simte-actioneaza-si-efectul-intarziat.md: SRC-001
-- 20-skills/advertising-strategy/notes/ADV-0103-bugetul-din-obiective-si-sarcini-eficienta-prin-grp-ctr-romi.md: SRC-001
-- 20-skills/advertising-strategy/notes/ADV-0104-campania-publicitara-in-sapte-pasi-de-la-tinta-la-masurare.md: SRC-001
-- 20-skills/advertising-strategy/notes/ADV-0105-reclama-informeaza-convinge-sau-reaminteste-dupa-etapa-produsului.md: SRC-001
-- 20-skills/advertising-strategy/notes/ADV-0106-mesajul-usp-unic-relevant-durabil-si-apelul-informational-sau-emotional.md: SRC-001
-- 20-skills/advertising-strategy/notes/ADV-0107-mixul-media-mass-sau-nisa-si-programare-continua-flighting-pulsing.md: SRC-001
-- 20-skills/advertising-strategy/notes/ADV-0108-puffery-exagerarea-subiectiva-e-legala-cifra-trebuie-dovedita.md: SRC-001
-- 20-skills/advertising-strategy/notes/ADV-0109-pr-ul-castiga-credibilitate-pentru-ca-spatiul-nu-e-cumparat.md: SRC-001
-- 20-skills/advertising-strategy/notes/ADV-0110-promotiile-aduc-vanzari-azi-dar-pot-fura-din-cele-de-maine.md: SRC-001
-- 20-skills/advertising-strategy/notes/ADV-0603-copy-strategy-fixeaza-beneficiul-dovada-si-tonul.md: SRC-021
-- 20-skills/advertising-strategy/notes/ADV-0606-schimbarea-prea-deasa-a-campaniei-distruge-penetrarea.md: SRC-021
-- 20-skills/ai-marketing/notes/AIM-1301-personalizarea-cu-ai-are-patru-registre.md: SRC-042
-- 20-skills/ai-marketing/notes/AIM-1325-ascultarea-vizuala-gaseste-brandul-in-imagini.md: SRC-041
-- 20-skills/ai-marketing/notes/AIM-1325-ascultarea-vizuala-gaseste-brandul-in-imagini.md: SRC-042
-- 20-skills/ai-marketing/notes/AIM-1326-poate-ai-ul-crea-identitatea-unui-brand.md: SRC-041
-- 20-skills/ai-marketing/notes/AIM-1326-poate-ai-ul-crea-identitatea-unui-brand.md: SRC-042
-- 20-skills/brand-strategy/notes/BRD-0101-brandul-ajuta-clientul-sa-aleaga-repede-si-firma-sa-scape-de-concurenta-pe-pret.md: SRC-001
-- 20-skills/brand-strategy/notes/BRD-0102-capitalul-de-brand-notorietate-valoare-perceputa-asocieri-loialitate.md: SRC-001
-- 20-skills/brand-strategy/notes/BRD-0103-cine-detine-brandul-si-cum-il-numesti-producator-sau-retailer-familie-sau-individual.md: SRC-001
-- 20-skills/brand-strategy/notes/BRD-0104-extensia-de-brand-economiseste-notorietate-dar-poate-dilua-brandul.md: SRC-001
-- 20-skills/brand-strategy/notes/BRD-0105-repozitionarea-merita-doar-pentru-o-tendinta-reala-nu-pentru-o-moda.md: SRC-001
-- 20-skills/client-business/notes/CLI-0701-clientul-bun-primeste-munca-buna.md: SRC-025
-- 20-skills/consumer-insight/notes/INS-0101-decizia-de-cumparare-are-cinci-etape-si-continua-dupa-cumparare.md: SRC-001
-- 20-skills/consumer-insight/notes/INS-0102-orice-produs-satisface-nevoi-functionale-si-psihologice-in-proportii-diferite.md: SRC-001
-- 20-skills/consumer-insight/notes/INS-0103-cinci-tipuri-de-risc-perceput-cu-cat-e-mai-mare-cu-atat-cauti-mai-mult.md: SRC-001
-- 20-skills/consumer-insight/notes/INS-0104-consumatorul-alege-din-setul-evocat-dupa-atributul-determinant.md: SRC-001
-- 20-skills/consumer-insight/notes/INS-0105-arhitectura-alegerii-nudge-si-optiunea-implicita.md: SRC-001
-- 20-skills/consumer-insight/notes/INS-0106-atitudinea-are-trei-componente-cognitiva-afectiva-comportamentala.md: SRC-001
-- 20-skills/consumer-insight/notes/INS-0107-implicarea-decide-daca-mesajul-e-procesat-central-sau-periferic.md: SRC-001
-- 20-skills/consumer-insight/notes/INS-0108-decizia-e-influentata-de-factori-psihologici-sociali-situationali-si-mix.md: SRC-001
-- 20-skills/consumer-insight/notes/INS-0204-cinci-generatii-si-patru-etape-de-viata.md: SRC-006
-- 20-skills/consumer-insight/notes/INS-0701-insight-ul-este-un-adevar-uman-semnificativ.md: SRC-025
-- 20-skills/consumer-insight/notes/INS-0702-insight-ul-se-gaseste-tragand-de-firul-unui-ce-surprinzator.md: SRC-025
-- 20-skills/copywriting/notes/CPY-0801-promisiunea-este-sufletul-reclamei.md: SRC-028
-- 20-skills/copywriting/notes/CPY-0802-reason-why-vanzare-tiparita.md: SRC-028
-- 20-skills/copywriting/notes/CPY-0803-reclama-de-imagine-vinde-un-sentiment.md: SRC-028
-- 20-skills/copywriting/notes/CPY-0804-text-lung-sau-scurt-lungimea-depinde-de-interes.md: SRC-028
-- 20-skills/copywriting/notes/CPY-0805-scoala-mail-order-cuponul-ca-experiment.md: SRC-028
-- 20-skills/copywriting/notes/CPY-0806-teama-sociala-vinde-dar-exista-calea-pozitiva.md: SRC-028
-- 20-skills/copywriting/notes/CPY-0807-metoda-james-webb-young-un-om-anume.md: SRC-028
-- 20-skills/copywriting/notes/CPY-0808-o-reclama-mare-idee-sinceritate-memorie-lunga.md: SRC-028
-- 20-skills/copywriting/notes/CPY-0809-titlurile-bune-sunt-gasite-nu-inventate.md: SRC-028
-- 20-skills/copywriting/notes/CPY-0810-nu-exista-produse-prozaice.md: SRC-028
-- 20-skills/creative-brief/notes/BRF-0707-un-singur-beneficiu-nu-cinci.md: SRC-025
-- 20-skills/creative-brief/notes/BRF-0708-dezbatere-beneficiul-emotional-nu-e-automat-superior.md: SRC-025
-- 20-skills/creative-brief/notes/BRF-0713-brief-ul-ingradeste-curtea.md: SRC-025
-- 20-skills/creative-ideation/notes/IDE-0703-cand-ideea-nu-vine-incubatie-distragere-declansatori.md: SRC-025
-- 20-skills/creative-ideation/notes/IDE-0704-ideile-noi-sunt-combinatii-bisociatia-lui-koestler.md: SRC-025
-- 20-skills/creative-ideation/notes/IDE-0708-inversarea-problemei-dezavantajul-devine-argumentul.md: SRC-025
-- 20-skills/creative-ideation/notes/IDE-0709-umorul-ironia-si-satira-rastoarna-asteptarea.md: SRC-025
-- 20-skills/creative-ideation/notes/IDE-0710-dezbatere-socul-arma-de-atentie-sau-risc.md: SRC-025
-- 20-skills/creative-ideation/notes/IDE-0711-mesajul-care-nu-arata-a-reclama-locuri-si-formate-neasteptate.md: SRC-025
-- 20-skills/digital-marketing/notes/DIG-0205-marketingul-contextual-senzori-declansatori-trei-niveluri.md: SRC-006
-- 20-skills/experiential-marketing/notes/EXP-0202-experienta-imersiva-cinci-elemente-si-patru-scenarii-om-digital.md: SRC-006
-- 20-skills/experiential-marketing/notes/EXP-0203-al-treilea-loc-reinventat-realitati-extinse-in-spatiul-fizic.md: SRC-006
-- 20-skills/experiential-marketing/notes/EXP-0204-marketingul-multisenzorial-antidot-la-oboseala-digitala.md: SRC-006
-- 20-skills/marketing-fundamentals/notes/MKT-0101-marketingul-creeaza-capteaza-comunica-si-livreaza-valoare.md: SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0102-valoarea-este-ce-primesti-raportat-la-ce-dai.md: SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0103-evolutia-marketingului-productie-vanzari-piata-valoare.md: SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0104-mixul-4p-creeaza-capteaza-livreaza-comunica-valoarea.md: SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0105-clientul-valoreaza-cat-relatia-nu-cat-tranzactia-clv.md: SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0106-conscious-marketing-pune-scopul-in-centru-csr-il-adauga.md: SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0107-strategia-de-marketing-tinta-mix-si-avantaj-competitiv-durabil.md: SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0108-planul-de-marketing-cinci-pasi-in-trei-faze.md: SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0109-swot-separa-ce-tine-de-firma-de-ce-tine-de-piata.md: SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0110-mediul-de-marketing-imediat-si-macromediul-cdstep.md: SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0111-patru-cai-de-crestere-piata-actuala-sau-noua-produs-actual-sau-nou.md: SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0112-stp-in-cinci-pasi-strategie-segmentare-atractivitate-tinta-pozitionare.md: SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0113-segmentezi-cu-demografia-ca-gasesti-tinta-cu-beneficii-ca-o-convingi.md: SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0114-alegerea-tintei-cinci-criterii-si-patru-strategii-de-targetare.md: SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0115-pozitionarea-patru-baze-verificate-pe-harta-perceptuala.md: SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0116-propunerea-de-valoare-intersectie-nevoi-oferta-fara-concurenta.md: SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0117-produsul-are-trei-straturi-valoare-de-baza-produs-efectiv-augmentat.md: SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0118-ciclul-de-viata-al-produsului-patru-etape-si-capcana-profetiei.md: SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0119-inovatia-se-raspandeste-in-cinci-grupuri-de-adoptatori.md: SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0120-pretul-e-sacrificiul-total-al-clientului-si-se-fixeaza-prin-5c.md: SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0121-strategii-de-pret-edlp-vs-high-low-si-skimming-vs-penetrare.md: SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0122-distributia-canal-direct-sau-indirect-si-trei-niveluri-de-intensitate.md: SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0123-serviciile-sunt-intangibile-inseparabile-eterogene-perisabile.md: SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0124-patru-decalaje-de-serviciu-iar-ultimul-il-creeaza-publicitatea.md: SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0125-cercetarea-de-marketing-cinci-pasi-de-la-obiectiv-la-plan-de-actiune.md: SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0126-date-secundare-ieftine-primare-tintite-calitativ-intai-cantitativ-apoi.md: SRC-001
-- 20-skills/marketing-fundamentals/notes/MKT-0215-marketing-6-0-metamarketingul-de-la-multi-la-omni-la-meta.md: SRC-006
-- 20-skills/social-influencer/notes/SOC-0201-cinci-micro-trenduri-video-scurt-comunitati-comert-interactiv-ai-wearables.md: SRC-006
-- 20-skills/social-influencer/notes/SOC-0202-marketingul-in-metavers-motivatii-si-patru-moduri-de-participare.md: SRC-006
-- 20-skills/social-influencer/notes/SOC-1001-recenzia-negativa-raspuns-rapid-empatic-fara-stergere.md: SRC-033
-- 20-skills/social-influencer/notes/SOC-1003-focurile-de-tabara-digitale-comunitati-mici-private.md: SRC-033
-- 20-skills/social-influencer/notes/SOC-1301-ai-verifica-autenticitatea-audientei-influencerului.md: SRC-042
-- 20-skills/social-influencer/notes/SOC-1301-ai-verifica-autenticitatea-audientei-influencerului.md: SRC-041
+- 20-skills/advertising-strategy/notes/ADV-1501-publicitatea-intoarce-spre-brand-promotia-misca-vanzarea.md: SRC-049
+- 20-skills/advertising-strategy/notes/ADV-1502-patru-efecte-de-comunicare-notorietatea-si-atitudinea-mereu.md: SRC-049
+- 20-skills/advertising-strategy/notes/ADV-1503-secventa-de-raspuns-la-comunicare-probabilitati-compuse.md: SRC-049
+- 20-skills/advertising-strategy/notes/ADV-1504-planificarea-inverseaza-secventa-de-raspuns.md: SRC-049
+- 20-skills/advertising-strategy/notes/ADV-1505-tinte-pe-reclama-pentru-expunere-pe-campanie-pentru-efecte.md: SRC-049
+- 20-skills/advertising-strategy/notes/ADV-1506-procesul-de-planificare-strategica-in-cinci-pasi.md: SRC-049
+- 20-skills/consumer-insight/notes/INS-0109-patru-tipuri-de-cumparare-implicare-ori-diferente-intre-branduri.md: SRC-002
+- 20-skills/creative-brief/notes/BRF-1501-documentul-de-briefing-cinci-intrebari-de-marketing.md: SRC-049
+- 20-skills/marketing-fundamentals/notes/MKT-0127-conceptul-de-marketing-vs-conceptul-de-vanzare.md: SRC-002
+- 20-skills/marketing-fundamentals/notes/MKT-0128-pentru-servicii-mixul-devine-7p-oameni-procese-dovezi-fizice.md: SRC-002
+- 20-skills/marketing-fundamentals/notes/MKT-0129-marketingul-social-vinde-comportamente-nu-produse.md: SRC-002
 
-## Orfan (nicio notă permanentă nu trimite spre ea) (10)
+## Orfan (nicio notă permanentă nu trimite spre ea) (4)
 
-- 20-skills/advertising-strategy/notes/ADV-0407-repetitia-creste-apoi-uzeaza-variatia-amana-uzura.md
-- 20-skills/ai-marketing/notes/AIM-1326-poate-ai-ul-crea-identitatea-unui-brand.md
-- 20-skills/art-direction/notes/ART-0401-privirea-modelului-spre-produs-duce-atentia.md
-- 20-skills/brand-strategy/notes/BRD-0528-personalitatea-brandului-are-cinci-dimensiuni-in-modelul.md
-- 20-skills/brand-strategy/notes/BRD-0529-misiunea-spune-de-ce-exista-brandul-acum-viziunea-unde-vrea.md
-- 20-skills/consumer-insight/notes/INS-0105-arhitectura-alegerii-nudge-si-optiunea-implicita.md
-- 20-skills/consumer-insight/notes/INS-0444-continutul-se-distribuie-cand-activeaza-emotii.md
-- 20-skills/creative-ideation/notes/IDE-0711-mesajul-care-nu-arata-a-reclama-locuri-si-formate-neasteptate.md
-- 20-skills/marketing-fundamentals/notes/MKT-0122-distributia-canal-direct-sau-indirect-si-trei-niveluri-de-intensitate.md
-- 20-skills/marketing-fundamentals/notes/MKT-0213-polarizarea-prosperitatii-mijlocul-pietei-dispare.md
-
-## Relație necunoscută (1)
-
-- 20-skills/advertising-history/notes/HIS-0814-burnett-drama-inerenta-a-produsului.md: - **Marlboro (1955).** Detaliat în [[ART-0804]]: drama nu e 
+- 20-skills/consumer-insight/notes/INS-0109-patru-tipuri-de-cumparare-implicare-ori-diferente-intre-branduri.md
+- 20-skills/marketing-fundamentals/notes/MKT-0127-conceptul-de-marketing-vs-conceptul-de-vanzare.md
+- 20-skills/marketing-fundamentals/notes/MKT-0128-pentru-servicii-mixul-devine-7p-oameni-procese-dovezi-fizice.md
+- 20-skills/marketing-fundamentals/notes/MKT-0129-marketingul-social-vinde-comportamente-nu-produse.md

@@ -9,6 +9,7 @@ level: 2
 tags: [junior, proiecte-personale, pro-bono, hackathon, spec-work, concursuri]
 sources:
   - SRC-048 | cap. 9 („Limited work”, „Make up a project”, „Design contests”); cap. 6 („Again, avoid the hyperbole”)
+  - SRC-047 | cap. 2 („I've Got Nothing”); cap. 8 („I've Got Nothing”)
 status: seed
 ---
 
@@ -35,6 +36,8 @@ Exemplul constrângerilor: în 2010, redesignul spectaculos al tichetului de îm
 
 Regula de ton: nu te prezenta drept „strateg desăvârșit” când ai doar proiecte de curs — se observă. Spune ce studiezi și ce cauți.
 
+Morgan oferă variante similare pentru cei care „nu au nimic”: machete sau rapoarte create ca demonstrație, mostre personale (un site, un buget, un calendar), un proiect voluntar pentru un ONG, un prieten sau un vecin, ori o prezentare despre propriile realizări publicată online. Spre deosebire de Fenn, ea vede și concursurile de design ca sursă legitimă de material (vezi dezbaterea despre graficele de competențe și concursuri).
+
 ## Aplicare
 
 - Student ADC: transformă cel mai bun proiect de curs într-un studiu de caz complet; adaugă un proiect pro bono pentru un ONG și unul personal care rezolvă o problemă reală, cu constrângeri reale (buget, canal, legislație).
@@ -54,7 +57,9 @@ O campanie inventată pentru un brand local de cafea, cu buget realist, cercetar
 - **vezi** [[PRT-1405]] — și pentru junior calitatea bate volumul.
 - **aplicare** [[PRT-1409]] — proiectul pro bono sau personal se scrie ca orice studiu de caz.
 - **vezi** [[PRT-1408]] — introducerea juniorului spune onest ce caută, fără hiperbolă.
+- **vezi** [[PRT-1418]] — Morgan și Fenn sunt în dezacord asupra concursurilor de design.
 
 ## Surse
 
 - [[SRC-048]] Ian Fenn, *UX Portfolio Design*, cap. 6 și 9
+- [[SRC-047]] Hannah Morgan, *The Infographic Resume*, cap. 2 și 8

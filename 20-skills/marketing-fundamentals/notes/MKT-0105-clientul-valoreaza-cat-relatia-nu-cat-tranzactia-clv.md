@@ -9,6 +9,7 @@ level: 2
 tags: [CLV, CRM, loialitate, marketing-relational, retentie]
 sources:
   - SRC-001 | cap. 1, p. 16; cap. 2, p. 31-33; anexa 10A, p. 349-351
+  - SRC-002 | cap. 1, p. 16-17
 status: seed
 ---
 
@@ -27,6 +28,8 @@ Anexa 10A formalizează calculul. **CLV** (*customer lifetime value*) este contr
 CLV = Σ [profitul din anul t × rata de retenție^(t−1)] / (1 + i)^(t−1) − costul de achiziție
 
 Patru întrebări alimentează formula: câți ani durează relația (T), ce profit anual aduce clientul, ce procent de clienți rămân de la un an la altul (retenția) și cât valorează azi banii de mâine (rata de actualizare i). Pentru un orizont infinit, formula se simplifică: profit × [1 + r / (1 + i − r)] − cost de achiziție.
+
+La nivel de firmă, Policarpio (SRC-002) numește suma tuturor CLV-urilor **capital de clienți** (*customer equity*): valoarea combinată pe durata vieții a clienților actuali și potențiali. El o propune ca măsură de performanță mai bună decât vânzările curente sau cota de piață.
 
 ## Aplicare
 
@@ -53,3 +56,4 @@ Curățătoria Very Clean a stricat un nasture la cămașa de 200 de dolari a lu
 ## Surse
 
 - [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 1, p. 16; cap. 2, p. 31-33; anexa 10A, p. 349-351
+- [[SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 1, p. 16-17 (§1.3.4-1.3.5)

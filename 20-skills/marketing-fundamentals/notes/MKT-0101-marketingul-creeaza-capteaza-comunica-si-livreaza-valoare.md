@@ -9,6 +9,7 @@ level: 1
 tags: [definitie-marketing, AMA, schimb, valoare, stakeholderi]
 sources:
   - SRC-001 | cap. 1, p. 4-12
+  - SRC-002 | cap. 1, p. 3-4, 12-17
 status: seed
 ---
 
@@ -32,6 +33,8 @@ Definiția este desfăcută în cinci aspecte de bază (Exhibit 1.1):
 
 Ideea de schimb e importantă pentru publicitate: datele personale pe care clientul le cedează (adresă, istoric de cumpărare) sunt și ele o „plată".
 
+Policarpio (SRC-002) ajunge la aceeași idee prin formula Kotler-Armstrong: marketingul creează valoare pentru clienți și captează în schimb valoare de la ei, prin relații profitabile. Procesul are cinci pași: înțelegi piața (nevoi, dorințe și cerere, adică dorința susținută de putere de cumpărare); proiectezi o strategie orientată spre client (pe cine servești și cu ce propunere de valoare); construiești un program integrat (4P); construiești relații profitabile; captezi valoare (vânzări, loialitate, capital de clienți). Atenție: aceeași carte dă, cu o pagină înainte, și o definiție reductivă („procesul de a promova un produs”), contrazisă de restul capitolului.
+
 ## Aplicare
 
 - Când un client spune „vrem marketing", întreabă ce verb lipsește: creare (produs), captare (preț), livrare (distribuție) sau comunicare (promovare). Publicitatea rezolvă doar unul dintre ele.
@@ -52,7 +55,9 @@ Hydro Flask (cap. 1, deschidere): un produs mai bun (sticle izoterme colorate), 
 - **extinde** [[MKT-0102]] — definiția se sprijină pe noțiunea de valoare, detaliată acolo.
 - **extinde** [[MKT-0104]] — cele 4P sunt instrumentele prin care se creează, captează, livrează și comunică valoarea.
 - **vezi** [[MKT-0103]] — definiția actuală e rezultatul trecerii de la orientarea pe producție la cea pe valoare.
+- **vezi** [[MKT-0127]] — conceptul de marketing, opus conceptului de vânzare, e filozofia din spatele definiției.
 
 ## Surse
 
 - [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 1, p. 4-12 (Exhibit 1.1, 1.2, 1.4)
+- [[SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 1, p. 3-4, 12-17 (§1.1, §1.3)

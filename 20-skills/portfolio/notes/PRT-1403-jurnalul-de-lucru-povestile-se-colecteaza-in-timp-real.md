@@ -9,6 +9,7 @@ level: 2
 tags: [jurnal, documentare, proces, arhivare, testimoniale]
 sources:
   - SRC-048 | cap. 2 („Capturing your stories”)
+  - SRC-046 | Pasul 2 („Organizing”, pp. 17–24)
 status: seed
 ---
 
@@ -29,6 +30,8 @@ Pe lângă notițe:
 Pentru proiectele vechi, **Stockwell Spreadsheet** (creat de consultanta Amanda Stockwell, după modelul unui audit de conținut): un tabel cu tipul proiectului, rolul tău, durata, deciziile-cheie și, mai ales, rezultatele.
 
 Beneficiul secundar e reflecția: recitit, jurnalul arată tipare în preferințele tale și goluri de competențe, care pot ghida următoarele alegeri de carieră.
+
+Kubišová adaugă disciplina fișierelor: organizare pe categorii generice (cronologie, tip de material, software), etichete descriptive care încep cu data (de exemplu „2024.10.17_Proiect_ElevațiaB_Desen”), arhivare la fiecare final de semestru (sau la șase luni, pentru profesioniști) și copii de siguranță separate. Pentru lucrările fizice (machete, ambalaje, instalații) cere fotografii făcute cu intenție: cameră stabilă, două surse de lumină (directă și difuză), fundal neutru, unghiuri care explică ideea și un obiect recunoscut care dă scara.
 
 ## Aplicare
 
@@ -53,3 +56,4 @@ Un copywriter care a notat la timp că „clientul a respins ruta A pentru că t
 ## Surse
 
 - [[SRC-048]] Ian Fenn, *UX Portfolio Design*, cap. 2
+- [[SRC-046]] Zuzana Kubišová, *The Architect's Pocket Guide to Portfolio Design*, Pasul 2, pp. 17–24

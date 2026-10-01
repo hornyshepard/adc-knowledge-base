@@ -32,7 +32,7 @@ McTigue și Rucker deschid capitolul cu nava *Vasa* (1628), scufundată la prima
 ## Aplicare
 
 - În brief: ce indicator, ce prag, ce test înainte de lansare, ce test în piață.
-- Împărtășește strategia de măsurare cu agenția. Un client a măsurat puterea de curățare printre bărbați și femei și a raportat 44% în loc de 50%, deși ținta erau femeile, la care cifra trecuse de 60%.
+- Împărtășește strategia de măsurare cu agenția. Un client a măsurat puterea de curățare printre bărbați și femei și a raportat 44% în loc de 50%, deși produsul și reclama se adresau femeilor; printre femei, intenția de cumpărare urcase la aproape 60%.
 - Nu măsura totul: întrebările multe se „contaminează" între ele (moale → „bun" → „de calitate").
 
 ## Exemplu

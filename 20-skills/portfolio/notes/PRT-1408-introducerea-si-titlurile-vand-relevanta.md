@@ -47,6 +47,7 @@ Slab: „Campanie pentru brandul de apă X”. Puternic: „Am crescut cu 30% in
 - **fundament** [[PRT-1406]] — introducerea și titlurile alcătuiesc fast track-ul.
 - **vezi** [[PIT-1430]] — aceeași idee: unicitatea legată de nevoia audienței, nu autoelogiu.
 - **vezi** [[PIT-1408]] — titlul-realizare funcționează ca un headline de pitch.
+- **vezi** [[PRT-1416]] — aceeași relevanță pentru cititor, aplicată răspunsului oral „Spune-mi despre tine”.
 
 ## Surse
 

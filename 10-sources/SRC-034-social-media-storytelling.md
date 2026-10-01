@@ -66,6 +66,7 @@ level: 2
 - [[SOC-1111]] — Cazul FAQ YOU: 100.000 de urmăritori pe TikTok fără buget, fără dans, fără influenceri.
 - [[SOC-1112]] — Riscul de a te lipi de hashtag-uri și meme virale (Rihanna vs. Snapchat; Lidl, Lego).
 - [[DIG-1101]] — Customer journey-ul în cinci pași și regula „cât mai scurt".
+- Citată și în notele construite în principal pe [[SRC-035]]: [[SOC-1122]] (cooperări lungi, DieLochis), [[SOC-1126]] (diferențele dintre platforme, A. Sbai), [[STO-1115]] (Ice Bucket Challenge).
 
 ## Ce lipsește / ce trebuie citit critic
 

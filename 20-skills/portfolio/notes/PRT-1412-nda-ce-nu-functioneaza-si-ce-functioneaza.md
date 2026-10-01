@@ -9,6 +9,8 @@ level: 2
 tags: [nda, confidentialitate, etica, contract, portofoliu]
 sources:
   - SRC-048 | cap. 9 („Non-disclosure agreements”)
+  - SRC-047 | cap. 2 („Samples of Work”)
+  - SRC-046 | Pasul 2 („Presenting others' work”, p. 37); Pasul 8 („What to include in project details”, pp. 213–214)
 status: seed
 ---
 
@@ -34,6 +36,10 @@ Acordurile de confidențialitate (*Non-Disclosure Agreements*, NDA) protejează 
 5. Înscrie proiectul, cu acordul clientului, la un premiu: înscrierea devine publică.
 6. „Portofoliul de înțelepciune”: articole scurte despre cum ai rezolva probleme tipice ale angajatorului, în locul studiilor de caz.
 
+Morgan adaugă o soluție intermediară: dacă nu poți folosi documentul real, poți recrea o versiune generică, fără detalii sau informații proprietare, cu mențiunea explicită că e o recreare. Argumentul ei e același cu al lui Fenn: când distribui materiale confidențiale, integritatea ta e cea evaluată.
+
+Kubišová amintește două reguli înrudite: cere permisiunea înainte de a folosi proiecte făcute la birou și verifică politica școlii privind proprietatea asupra lucrărilor de studiu (unele instituții îi acordă profesorului un drept asupra lor); în proiectele colective, descrie exact contribuția ta și creditează-i pe toți — integritatea face parte din ce se evaluează.
+
 ## Aplicare
 
 - În agenții, campaniile nelansate și pitch-urile pierdute sunt de regulă confidențiale: nu le pune în portofoliul public fără acordul agenției și al clientului.
@@ -57,3 +63,5 @@ Un junior care a lucrat la un pitch pierdut poate descrie, fără numele clientu
 ## Surse
 
 - [[SRC-048]] Ian Fenn, *UX Portfolio Design*, cap. 9 („Non-disclosure agreements”)
+- [[SRC-047]] Hannah Morgan, *The Infographic Resume*, cap. 2
+- [[SRC-046]] Zuzana Kubišová, *The Architect's Pocket Guide to Portfolio Design*, Pasul 2, p. 37; Pasul 8, pp. 213–214

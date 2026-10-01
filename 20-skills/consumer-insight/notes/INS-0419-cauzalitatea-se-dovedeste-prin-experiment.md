@@ -54,6 +54,7 @@ Fabricantul de răcoritoare care crește bugetul și vede vânzări mai mari nu 
 - **vezi** [[INS-0412]] — și metricile de memorie induc în eroare.
 - **vezi** [[INS-0415]] — experimentele trebuie să aibă eșantioane suficiente ca să fie replicabile.
 - **vezi** [[ADV-0403]] — modelele agregate de răspuns al vânzărilor nu explică mecanismul.
+- **contrazice** [[INS-0446]] — tradiția psihanalitică și interpretativă respinge experimentul ca singur criteriu.
 
 ## Surse
 

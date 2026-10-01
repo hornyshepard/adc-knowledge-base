@@ -49,6 +49,7 @@ Ford Model T este exemplul clasic de orientare pe producție. Hermès, care lans
 - **fundament** [[MKT-0101]] — definiția actuală e punctul de sosire al acestei evoluții.
 - **extinde** [[MKT-0102]] — era valorii se sprijină pe definiția valorii ca beneficii raportate la costuri.
 - **vezi** [[MKT-0105]] — orientarea relațională este forma practică a erei valorii.
+- **alternativa** [[MKT-0127]] — Kotler descrie aceeași evoluție ca cinci filozofii de management (producție, produs, vânzare, marketing, societal).
 
 ## Surse
 

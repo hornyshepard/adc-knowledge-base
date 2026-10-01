@@ -51,6 +51,7 @@ Fructele de mare: deși sănătoase, nu sunt cumpărate pentru că familia nu le
 - **extinde** [[INS-0436]] — intențiile de implementare reduc distanța dintre intenție și comportament.
 - **contrazice** [[INS-0437]] — pentru comportamentele habituale, comportamentul trecut bate intenția.
 - **vezi** [[INS-0417]] — frâna (omega) e adesea norma sau controlul, nu atitudinea.
+- **aplicare** [[INS-0447]] — decalajul dintre atitudinile etice declarate și cumpărare.
 
 ## Surse
 

@@ -9,6 +9,7 @@ level: 1
 tags: [lizibilitate, scanare, lungime, design-de-portofoliu, scriere]
 sources:
   - SRC-048 | cap. 4 („Designing for busy people”)
+  - SRC-047 | cap. 4 („Making the Initial Cut”)
 status: seed
 ---
 
@@ -27,6 +28,8 @@ Recrutorii și hiring managerii au în comun lipsa de timp. Un studiu TheLadders
 **Aspectul contează.** Toate portofoliile care i-au impresionat pe hiring manageri erau frumoase, nu doar bine scrise — efectul estetic-utilizabilitate (Donald Norman). Layoutul, tipografia și culoarea trebuie să susțină mesajul.
 
 Reguli specifice de portofoliu: grilă și spațiu alb; legende sub fiecare imagine; artefactele decupate doar cât să-ți susțină ideea; fără fotografii de stoc; fără grafice-bară cu „80% Photoshop” (nu înseamnă nimic și arată că nu știi design de informație); fără citate inspiraționale (Steve Jobs) și niciodată citate de utilizatori inventate; scris la diateza activă, fraze scurte, fără jargon și fără hiperbolă.
+
+Morgan citează aceleași date (TheLadders: circa 6 secunde pentru prima lectură a unui CV) și un studiu CareerBuilder în care o cincime din managerii HR spuneau că petrec sub 30 de secunde pe o aplicație; de aici, la ea, argumentul pentru elemente vizuale care pot fi „cuprinse dintr-o privire”.
 
 ## Aplicare
 
@@ -48,7 +51,9 @@ Un studiu de caz cu titlul-realizare, o imagine mare cu legendă și trei bullet
 - **aplicare** [[PRT-1408]] — introducerea și titlurile formează fast track-ul.
 - **vezi** [[PIT-1418]] — testul telefonului mobil și „o idee pe slide” au aceeași logică.
 - **vezi** [[PRT-1413]] — testul de 30 de secunde se face într-o sesiune de critică structurată.
+- **vezi** [[PRT-1425]] — principiile de layout care fac posibilă lectura rapidă.
 
 ## Surse
 
 - [[SRC-048]] Ian Fenn, *UX Portfolio Design*, cap. 4
+- [[SRC-047]] Hannah Morgan, *The Infographic Resume*, cap. 4

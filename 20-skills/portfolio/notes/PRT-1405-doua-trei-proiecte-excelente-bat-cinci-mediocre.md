@@ -9,6 +9,7 @@ level: 1
 tags: [curatorie, selectie, calitate, portofoliu]
 sources:
   - SRC-048 | cap. 3 („Understanding your users”); cap. 5 („Portfolio curation”)
+  - SRC-046 | Pasul 2 („Curating”, pp. 24–29)
 status: seed
 ---
 
@@ -30,6 +31,8 @@ Reguli derivate:
 
 Selecția se face cu matricea dintre nevoile angajatorului și dovezile tale; proiectul care apare de mai multe ori în matrice merită un studiu de caz detaliat, celelalte doar rezumate.
 
+Kubišová ajunge la aceeași concluzie din perspectiva arhitecților: portofoliul nu e un catalog al istoriei tale de lucru, iar trei imagini excelente sunt mai bune decât șapte bune; ea oferă și o metodă concretă de selecție, în trei grămezi (DA / NU / POATE).
+
 ## Aplicare
 
 - Exercițiul „ștergerii”: tipărește portofoliul, taie tot ce nu e printre cele mai bune lucrări ale tale și compară cele două versiuni cu un coleg.
@@ -50,7 +53,9 @@ Un portofoliu de art director cu 3 campanii solide (o idee mare, execuții pe ma
 - **vezi** [[PRT-1406]] — un portofoliu scurt răspunde lipsei de timp a cititorului.
 - **vezi** [[PIT-1408]] — aceeași disciplină a selecției ca la cele trei mesaje cheie ale unui pitch.
 - **vezi** [[PRT-1411]] — pentru juniori, un singur studiu de caz bun poate fi suficient.
+- **extinde** [[PRT-1422]] — metoda DA / NU / POATE pune principiul în practică.
 
 ## Surse
 
 - [[SRC-048]] Ian Fenn, *UX Portfolio Design*, cap. 3 și 5
+- [[SRC-046]] Zuzana Kubišová, *The Architect's Pocket Guide to Portfolio Design*, Pasul 2

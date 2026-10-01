@@ -10,6 +10,7 @@ tags: [portofoliu, prezentare, interviu, pre-read, case-study-canvas]
 sources:
   - SRC-048 | cap. 1 („Portfolio =/= portfolio presentation”); Anexa 2 („The Case Study Canvas”)
   - SRC-043 | cap. 3 („Your presentation deck might not be their takeaway deck”)
+  - SRC-047 | cap. 10 („Start with a Storyboard”)
 status: seed
 ---
 
@@ -26,6 +27,8 @@ Rolurile diferă și în procesul de angajare: pentru majoritatea companiilor, e
 Pentru prezentarea propriu-zisă, Anexa 2 (Case Study Canvas) dă o regulă de ordine: **începe deck-ul cu rezultatele**, apoi problema de business, provocările proiectului și cum le-ai abordat, ilustrate cu imagini și artefacte.
 
 **Convergență cu Colenso.** În *Cut-Through*, deck-ul de prezentare și documentul lăsat clientului sunt, la fel, „complet complementare, dar complet diferite”: primul susține argumentul la nivel înalt, al doilea intră în detalii. Regula se aplică identic portofoliului.
+
+Morgan aplică aceeași distincție CV-ului de tip prezentare trimis online: deck-ul trebuie să „stea singur”, pentru că nu ești acolo să-l prezinți — primul slide trebuie să capteze atenția și să fie relevant pentru angajator, fiecare slide transmite o singură idee cu un element vizual puternic, iar finalul conține o cerere clară (să te contacteze).
 
 ## Aplicare
 
@@ -51,3 +54,4 @@ Un art director care prezintă o campanie la interviu arată pe ecran key visual
 
 - [[SRC-048]] Ian Fenn, *UX Portfolio Design*, cap. 1; Anexa 2
 - [[SRC-043]] Dominic Colenso, *Cut-Through*, cap. 3
+- [[SRC-047]] Hannah Morgan, *The Infographic Resume*, cap. 10

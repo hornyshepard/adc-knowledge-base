@@ -9,6 +9,7 @@ level: 3
 tags: [brand-value, brand-equity, evaluare-de-brand, marketing-si-finante, conjoint, iso-20671]
 sources:
   - SRC-014 | cap. 16 (Calder), p. 234–246
+  - SRC-016 | cap. 7, interviul „Abundance” cu Denise Beckles
 status: seed
 ---
 
@@ -27,6 +28,8 @@ Soluția: brandul ca **activ intangibil** — o resursă controlată de firmă (
 - **Abordările directe** ale consultanțelor (BrandZ: semnificativ, diferit, proeminent; Interbrand) — cel puțin 39 de modele, adesea netransparente și inconsecvente între ele.
 
 Ideea-cheie: **puterea nu e performanță**. Un brand iubit poate pierde în piață din cauza prețului sau a distribuției. De aceea e nevoie de o **evaluare a performanței brandului** (standardul ISO 20671), care izolează contribuția brandului la alegere. Proiectul MASB pe 33 de branduri a găsit că alegerea brandului explică aproximativ 75% din variația vânzărilor, restul venind din preț și distribuție. Metodele de preferință declarată (conjoint, experimente de alegere discretă) separă brandul de ceilalți factori: într-un exemplu ilustrativ, Starbucks a avut o contribuție de 0,276, față de 0,470 pentru preț și 0,249 pentru distanță.
+
+O voce rară din partea finanțelor confirmă perspectiva: Denise Beckles, fost CFO cu experiență în fuziuni și achiziții (interviu în *Goddess Guide to Branding*, SRC-016), spune că nu poți „tăia" costuri până la succes, că cifrele sunt expresia puterii brandului și că, la evaluarea unei firme, se uită la marjă și la cât de implicați sunt clienții, nu doar la creșterea veniturilor.
 
 ## Aplicare
 
@@ -52,3 +55,4 @@ Nestlé a plătit 7,2 miliarde $ doar pentru licența brandului Starbucks pe caf
 ## Surse
 
 - [[SRC-014]] Bobby J. Calder, „Connecting Marketing and Finance via Brand Value", cap. 16 în *Kellogg on Branding in a Hyper-Connected World*, p. 234–246
+- [[SRC-016]] Jane McCarthy & Kate McAndrew, *Goddess Guide to Branding*, cap. 7, interviul „Abundance” (Denise Beckles)

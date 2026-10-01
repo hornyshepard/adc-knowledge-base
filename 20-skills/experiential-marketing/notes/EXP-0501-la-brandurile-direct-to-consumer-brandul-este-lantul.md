@@ -9,6 +9,7 @@ level: 2
 tags: [customer-experience, dtc, moments-of-truth, ux, fricțiune, 4p, blue-apron, harrys]
 sources:
   - SRC-014 | cap. 23 (Pereira), p. 294–300
+  - SRC-016 | cap. 6 (interviul cu Katie Conway); cap. 7, interviul „Experience” cu Janet T. Planet
 status: seed
 ---
 
@@ -25,6 +26,8 @@ Sergio Pereira (președinte Quill.com, fost la Barilla și Conagra) descrie trec
 - **Indochino** — costume la comandă la preț de raft; măsurătorile într-un magazin sunt un moment de răsfăț, dar o greșeală de croială care cere retur rupe lanțul.
 
 Impactul asupra celor 4P: **produsul** e gândit pentru microsegmente cu valori proprii (Allbirds, UNTUCKit); **prețul** premium e acceptat dacă experiența e fără cusur; **distribuția** e P-ul cel mai schimbat (ambalajele gândite pentru raft se strică în coletele individuale); **promovarea** e amenințată de recenziile și postările despre eșecuri, deci social listening-ul și echipa de relații cu clienții devin surse de insight.
+
+Designerii de experiență intervievați în *Goddess Guide to Branding* (SRC-016) completează imaginea: Janet T. Planet (Disney, Virgin Voyages) se întreabă mereu cum transformă vizitatorul din observator în participant și insistă pe despachetare, pentru că așteptările au crescut enorm (exemplul ei: cutia probioticelor Seed); Katie Conway recomandă investiția emoțională în două-trei momente-cheie, acolo unde categoria doare.
 
 Pereira cere talente de UX/CX, cercetare agilă și un lanț de aprovizionare orientat spre încântarea clientului, nu doar spre eficiență: „cumpărătorul are controlul".
 
@@ -53,3 +56,4 @@ Harry's a intrat ulterior și în magazinele Target — semn că și brandurile 
 ## Surse
 
 - [[SRC-014]] Sergio Pereira, „Customer Experience: The New Frontier of Branding", cap. 23 în *Kellogg on Branding in a Hyper-Connected World*, p. 294–300
+- [[SRC-016]] Jane McCarthy & Kate McAndrew, *Goddess Guide to Branding*, cap. 6 „Finding Your Gift” (Katie Conway); cap. 7, interviul „Experience” (Janet T. Planet)

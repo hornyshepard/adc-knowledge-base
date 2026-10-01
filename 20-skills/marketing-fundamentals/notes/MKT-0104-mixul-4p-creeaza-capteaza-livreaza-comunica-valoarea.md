@@ -9,6 +9,7 @@ level: 1
 tags: [marketing-mix, 4P, produs, pret, distributie, promovare, McCarthy]
 sources:
   - SRC-001 | cap. 1, p. 7-9; cap. 2, p. 43-45
+  - SRC-002 | cap. 1, p. 29-33
 status: seed
 ---
 
@@ -34,6 +35,8 @@ Două observații ale autorilor contează pentru agenții:
 
 Produsul include și ideile. O campanie pentru purtarea căștii pe bicicletă „vinde" o idee, iar copiii care poartă casca au „cumpărat-o".
 
+Policarpio (SRC-002) confirmă ideea despre preț (singurul element care aduce venit, restul sunt costuri) și adaugă o nuanță utilă: prețul semnalează și poziționarea (preț mic înseamnă brand de valoare). Pentru servicii, el extinde mixul la 7P.
+
 ## Aplicare
 
 - Înainte să propui o campanie, verifică celelalte trei P: reclama nu poate repara un preț greșit sau un produs absent din magazine.
@@ -55,7 +58,10 @@ Adolescenții care revând haine pe Poshmark (Adding Value 1.2) aplică intuitiv
 - **extinde** [[MKT-0107]] — mixul este a doua componentă a strategiei de marketing, după piața țintă.
 - **extinde** [[ADV-0101]] — al patrulea P, promovarea, este detaliat ca IMC.
 - **vezi** [[MKT-0120]] — prețul, singurul P care aduce venit, are propria logică (5C).
+- **extinde** [[MKT-0122]] — al treilea P, plasarea, e detaliat prin canale și intensitatea distribuției.
+- **vezi** [[MKT-0128]] — pentru servicii, mixul se extinde la 7P (oameni, procese, dovezi fizice).
 
 ## Surse
 
 - [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 1, p. 7-9 (Exhibit 1.3); cap. 2, p. 43-45
+- [[SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 1, p. 29-33 (§1.6)

@@ -50,6 +50,7 @@ Studiul Sparrow et al. (2011): „știm mai puține fapte, dar știm mai bine un
 - **extinde** [[INS-0408]] — efectul de adevăr în mediul online.
 - **vezi** [[INS-0440]] — dovada socială, principiul cel mai robust online.
 - **vezi** [[INS-0442]] — încrederea, filtrul de dinaintea euristicilor.
+- **vezi** [[INS-0444]] — conversațiile dintre consumatori, a treia sursă de persuasiune online.
 
 ## Surse
 

@@ -46,7 +46,7 @@ level: 2
 | 14 | Neuroștiința în evaluarea brandurilor (Cerf) | — (EEG, fMRI, eye-tracking; citit, nenotat separat) |
 | 15 | Măsurarea relevanței și sănătății brandului (Hennessy) | [[BRD-0521]], [[BRD-0522]], [[BRD-0508]] |
 | 16 | Marketing și finanțe: valoarea brandului (Calder) | [[BRD-0523]] |
-| 17 | Has purpose lost its purpose? McDonald's (Lagnado & Mitchell) | [[BRD-0510]] |
+| 17 | Has purpose lost its purpose? McDonald's (Lagnado & Mitchell) | [[BRD-0510]], [[BRD-0529]] |
 | 18 | Ulta Beauty (Dillon & Kimbell) | [[BRD-0515]] |
 | 19 | John Deere (Docherty & Porter) | [[BRD-0527]] |
 | 20 | Novant Health (Davis & Duvall) | [[BRD-0511]] |

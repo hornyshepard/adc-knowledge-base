@@ -14,7 +14,7 @@ level: 2
 
 # Marketing 4.0: Moving from Traditional to Digital
 
-**Philip Kotler, Hermawan Kartajaya, Iwan Setiawan, 2017** (copyright 2017; cartea a apărut la sfârșitul lui 2016). John Wiley & Sons, Hoboken (ISBN 978-1-119-34120-8). Cercetarea a fost făcută de echipa MarkPlus, Inc. (Indonezia). Copia text e un EPUB fără pagini, așa că notele citează capitolul și secțiunea.
+**Philip Kotler, Hermawan Kartajaya, Iwan Setiawan, 2017** (copyright 2017; scrisă în 2016, după cum spun autorii în Marketing 5.0). John Wiley & Sons, Hoboken (ISBN 978-1-119-34120-8). Cercetarea a fost făcută de echipa MarkPlus, Inc. (Indonezia). Copia text e un EPUB fără pagini, așa că notele citează capitolul și secțiunea.
 
 ## Fișa pe scurt
 
@@ -57,6 +57,7 @@ level: 2
 - [[DIG-0201]] — omnichannel: hartă, Pareto, silozuri.
 - [[DIG-0202]] — aplicații, social CRM, gamificare.
 - [[EXP-0201]] — WOW: surprinzător, personal, contagios.
+- [[MKT-0216]] — dezbatere: comunitățile ca segmente și rolul digitalului sunt revizuite în 5.0 și 6.0.
 
 ## Ce lipsește / ce trebuie citit critic
 

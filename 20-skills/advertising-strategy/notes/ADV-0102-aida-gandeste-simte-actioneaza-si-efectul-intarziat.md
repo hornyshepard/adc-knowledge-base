@@ -9,6 +9,7 @@ level: 1
 tags: [AIDA, ierarhia-efectelor, think-feel-do, notorietate, top-of-mind, aided-recall, lagged-effect]
 sources:
   - SRC-001 | cap. 18, p. 563-570
+  - SRC-002 | cap. 1, p. 31; cap. 3, p. 92
 status: seed
 ---
 
@@ -33,6 +34,8 @@ Două nuanțe ale autorilor:
 
 - **Ordinea poate varia.** La cumpărarea din impuls, consumatorul simte și acționează înainte să gândească.
 - **Efectul întârziat** (*lagged effect*): oamenii au nevoie de mai multe expuneri ca să proceseze mesajul, iar răspunsul poate veni mult după campanie. De Beers nu știe care reclamă a dus la cumpărarea unui diamant, dar prezența constantă face ca diamantul să fie primul gând la ocazia potrivită.
+
+Același model apare și în SRC-002, aplicat la promovare și la piața țintă: indiferent unde se află clientul în parcursul lui, promovarea urmărește conștientizare, interes, dorință sau acțiune.
 
 ## Aplicare
 
@@ -59,3 +62,4 @@ Aflac (Adding Value 18.2) avea notorietate (rața), dar nu și interes: oamenii 
 ## Surse
 
 - [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 18, p. 563-570 (Exhibit 18.1, 18.2, Adding Value 18.2)
+- [[SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 1, p. 31 (§1.6.4); cap. 3, p. 92 (§3.6.2)

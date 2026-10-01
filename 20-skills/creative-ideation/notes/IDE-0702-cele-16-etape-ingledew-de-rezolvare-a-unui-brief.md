@@ -23,7 +23,7 @@ Ingledew descompune creația comercială în 16 etape:
 | # | Etapă | Ce faci |
 |---|---|---|
 | 1 | Briefing-ul | clarifici ce ți se cere și ce livrezi; pui orice întrebare, oricât de naivă |
-| 2 | Analiza provocării | reciteşti și reduci brief-ul la esență („o problemă bine formulată e pe jumătate rezolvată", Dewey) |
+| 2 | Analiza provocării | recitești și reduci brief-ul la esență („o problemă bine formulată e pe jumătate rezolvată", Dewey) |
 | 3 | Primele idei | aduni ideile-reflex, intuitive |
 | 4 | Vizualizarea | desenezi imediat; desenul naște conexiuni noi |
 | 5 | Cunoaște subiectul | documentare, interviuri, folosirea produsului; mergi și pe tangente |
