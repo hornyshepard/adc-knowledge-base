@@ -50,7 +50,7 @@ Timberland se poziționa ca „the good outdoor-inspired footwear and apparel co
 - **fundament** [[MKT-0202]] — triada minte–inimă–spirit din Marketing 3.0 stă la baza celor trei laturi.
 - **vezi** [[BRD-0202]] — matricea VBM aplică aceeași logică asupra misiunii, viziunii și valorilor.
 - **vezi** [[MKT-0203]] — „character building" e versiunea orizontală a construirii brandului.
-- **extinde** [[BRD-0209]] — Marketing 4.0 duce ideea mai departe, cerând brandului un caracter uman.
+- **extinde** [[BRD-0206]] — Marketing 4.0 duce ideea mai departe, cerând brandului un caracter uman.
 
 ## Surse
 

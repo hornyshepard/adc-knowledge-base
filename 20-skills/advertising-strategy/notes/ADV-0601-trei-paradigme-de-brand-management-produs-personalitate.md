@@ -45,9 +45,9 @@ P&G a construit copy strategy pentru un brand gândit ca produs (Ivory, Camay). 
 
 ## Legături
 
-- **extinde** [[ADV-0603]] — copy strategy e mecanismul-prototip al paradigmei product branding.
-- **extinde** [[ADV-0608]] — brand image deschide paradigma personality branding.
-- **extinde** [[BRD-0606]] — brandurile iconice reprezintă vârful paradigmei consumer branding.
+- **vezi** [[ADV-0603]] — copy strategy e mecanismul-prototip al paradigmei product branding.
+- **vezi** [[ADV-0608]] — brand image deschide paradigma personality branding.
+- **vezi** [[BRD-0606]] — brandurile iconice reprezintă vârful paradigmei consumer branding.
 - **vezi** [[ADV-0602]] — ierarhia paradigmă–teorie–mecanism e răspunsul autorului la folosirea vagă a cuvântului „strategie".
 
 ## Surse

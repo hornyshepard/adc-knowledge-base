@@ -1,0 +1,56 @@
+---
+id: CPY-0402
+title: Mesajul bilateral câștigă credibilitate dacă recunoaște un defect minor, plauzibil și legat de beneficiul principal
+type: zettel
+kind: principle
+skill: copywriting
+also: [consumer-insight, advertising-strategy]
+level: 2
+tags: [mesaj-bilateral, two-sided, credibilitate, avis, onestitate, contraargumente]
+sources:
+  - SRC-012 | cap. 1, p. 23-24; cap. 5, p. 237-239
+status: seed
+---
+
+# Mesajul bilateral câștigă credibilitate dacă recunoaște un defect minor, plauzibil și legat de beneficiul principal
+
+> **Ideea în o frază:** a admite o slăbiciune face afirmațiile pozitive mai credibile, dar nu crește automat atitudinea față de brand — totul depinde de ce defect alegi și cât spațiu îi dai.
+
+## Explicație
+
+Mesajul unilateral (*one-sided*) conține doar argumente favorabile; cel bilateral (*two-sided*) include și aspecte negative. Cercetările vechi (Hovland, Lumsdaine & Sheffield, 1949) au arătat că mesajul unilateral convinge mai bine publicul deja favorabil, iar cel bilateral — publicul neinformat sau inițial ostil.
+
+Fennis și Stroebe rezumă cercetarea mai nouă: mesajele bilaterale ies din clutter, reduc contraargumentarea, sunt percepute ca mai credibile și întăresc percepția atributelor pozitive menționate. Dar efectul asupra atitudinii globale și a intenției de cumpărare e inconsistent. Explicația, în logica modelului Fishbein: defectul scade evaluarea, credibilitatea crește certitudinea pentru atributele pozitive; există un punct optim.
+
+Reguli practice derivate (Crowley & Hoyer, 1994; Pechmann, 1992; Pizzutti et al., 2016):
+
+1. Informația negativă să nu depășească **două cincimi** din mesaj.
+2. Nu admite defecte la **atribute importante** (blugi „incomozi" au scăzut intenția de cumpărare, deși vânzătorul a părut mai onest).
+3. Un defect banal e prea evident ca tactică; mai credibile sunt defectele care pot fi verificate doar după cumpărare.
+4. Cel mai bun defect e cel **corelat** cu beneficiul: înghețata „cremoasă, dar bogată în calorii" a câștigat atitudine, pentru că caloriile confirmau cremozitatea.
+5. Respinge defectul când concurența e probabil să atace pe acel atribut; atitudinile formate astfel rezistă mai bine.
+
+## Aplicare
+
+- Caută „defectul care dovedește beneficiul": scump pentru că e lucrat manual, lent pentru că e gătit ca acasă.
+- Nu folosi bilateralitatea pentru atributul care decide cumpărarea.
+- Pentru branduri noi sau publicuri sceptice, bilateralitatea e o tactică omega utilă.
+
+## Exemplu
+
+Avis: „Suntem doar numărul doi. Așa că ne străduim mai mult." — un dezavantaj transformat în beneficiu (cap. 1, p. 24).
+
+## Întrebări
+
+- Ce brand românesc ar putea câștiga recunoscând un defect? Care ar fi acela?
+- Când devine „onestitatea" în reclamă un clișeu?
+
+## Legături
+
+- **aplicare** [[INS-0417]] — mesajul bilateral este o strategie omega.
+- **fundament** [[INS-0427]] — modelul expectanță-valoare explică punctul optim.
+- **vezi** [[INS-0434]] — reduce percepția intenției persuasive și rezistența.
+
+## Surse
+
+- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 1, p. 23-24; cap. 5, p. 237-239

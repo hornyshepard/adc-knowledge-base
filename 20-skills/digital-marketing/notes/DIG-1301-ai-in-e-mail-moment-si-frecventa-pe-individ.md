@@ -9,6 +9,7 @@ level: 2
 tags: [email-marketing, send-time-optimization, automatizare, customer-journey]
 sources:
   - SRC-037 | cap. 7 (7.2-7.6)
+  - SRC-040 | secț. 4, cap. 2 (Contact Strategy)
 status: seed
 ---
 
@@ -32,6 +33,8 @@ Cartea le aplică pe patru e-mailuri de ciclu de viață: **bun venit** (recoman
 
 Două avertismente: supra-personalizarea (mesajul pare că „știe prea mult") și pierderea vocii brandului în automatizare. Noil recomandă ca un om să verifice conținutul generat.
 
+Richards și McLean ([[SRC-040]]) adaugă stratul de reguli de deasupra algoritmului: o **strategie de contact** scrisă (frecvență maximă pe canal și pe produs, ferestre orare), care nu poate fi încălcată de managerii de produs dornici să-și trimită campaniile.
+
 ## Aplicare
 
 - Scrie fluxurile de e-mail ca **scenarii** (declanșator → mesaj → regulă de continuare), nu ca newslettere izolate.
@@ -51,7 +54,9 @@ Un serviciu de abonament fitness, în exemplul din carte, trimite planul săptă
 
 - **aplicare** [[AIM-1302]] — fluxurile de e-mail activează segmentele dinamice.
 - **aplicare** [[AIM-1301]] — e-mailul combină registrele comportamental și predictiv.
+- **vezi** [[AIM-1324]] — strategia de contact și arbitrajul ofertelor în sistemele automate.
 
 ## Surse
 
 - [[SRC-037]] Karen Noil, *AI-Driven Marketing*, cap. 7 (7.2-7.6)
+- [[SRC-040]] Aly Richards & Scott McLean, *Intelligent Customer Engagement*, secț. 4, cap. 2

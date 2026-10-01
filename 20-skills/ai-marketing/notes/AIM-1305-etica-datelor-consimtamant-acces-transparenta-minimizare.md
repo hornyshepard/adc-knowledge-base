@@ -9,6 +9,7 @@ level: 1
 tags: [etica, gdpr, confidentialitate, explicabilitate, responsabilitate]
 sources:
   - SRC-037 | cap. 12 (12.1-12.5)
+  - SRC-039 | cap. 3 (Privacy-by-Design Principles for Personalized Marketing, p. 73–74)
 status: seed
 ---
 
@@ -35,6 +36,8 @@ Peste ele, capitolul adaugă trei obligații specifice AI:
 
 Biasul algoritmic apare ca risc separat: un model antrenat pe date părtinitoare poate exclude grupuri de la reclame imobiliare sau poate repeta stereotipuri de gen în recomandări.
 
+Najafov ([[SRC-039]]) ajunge la aceeași listă din direcția opusă, a designului. Principiile lui de **confidențialitate prin design** (*privacy by design*) pentru personalizare adaugă trei elemente: anonimizarea, **controlul utilizatorului** (vede, editează, șterge, refuză personalizarea) și auditul periodic al practicilor de date. Convergența celor două cărți arată că lista e deja standard de industrie, nu opinia unui autor.
+
 ## Aplicare
 
 - Înainte de o campanie personalizată, verifică cele patru reguli ca pe o listă de control.
@@ -54,7 +57,9 @@ Exemplul din carte: o platformă imobiliară care țintește reclame cu AI trebu
 
 - **extinde** [[AIM-1301]] — supra-personalizarea e varianta comercială a aceleiași probleme.
 - **vezi** [[AIM-1304]] — chatbotul e locul unde răspunderea pentru erorile AI devine vizibilă.
+- **extinde** [[AIM-1318]] — transparența față de public privind conținutul generat cu AI.
 
 ## Surse
 
 - [[SRC-037]] Karen Noil, *AI-Driven Marketing*, cap. 12 (12.1-12.5)
+- [[SRC-039]] Eldar Najafov, *ChatGPT for Marketing*, cap. 3, p. 73–74

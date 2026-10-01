@@ -1,0 +1,54 @@
+---
+id: SOC-0301
+title: "Threadless: comunitatea propune, votează și cumpără — clientul devine compania"
+type: zettel
+kind: case
+skill: social-influencer
+also: [marketing-fundamentals, brand-strategy, creative-ideation]
+level: 2
+tags: [threadless, comunitate, crowdsourcing, user-innovation, co-creatie, lego]
+sources:
+  - SRC-008 | cap. 16, „The Story of Threadless"; „Prosumer-to-Prosumer Connections at LEGO"
+status: seed
+---
+
+# Threadless: comunitatea propune, votează și cumpără — clientul devine compania
+
+> **Ideea în o frază:** Threadless și-a construit afacerea pe o comunitate online care trimite designuri, votează ce se produce și cumpără. Brandul nu sunt tricourile, ci experiența comunității.
+
+## Explicație
+
+Threadless a fost fondată în 2000, la Chicago, de Jake Nickell și Jacob DeHart: o comunitate de artiști plus un magazin online. Mecanismul: membrii trimit mii de designuri pe săptămână (pentru tricouri, hanorace, artă pentru casă), comunitatea votează, iar cele câștigătoare se produc și se vând (15–80 de dolari). Fiecare produs poartă numele artistului (cap. 16).
+
+Cifrele din articolul „The Customer is the Company" (2008), citat de Wuebben: fără publicitate, fără designeri profesioniști, fără forță de vânzări și fără distribuție în retail. Marje de peste 30%. Fiecare produs se vinde până la epuizare, pentru că comunitatea a spus dinainte ce vrea. Sloganul: „Make friends. Then, make things with your friends." Sediul e deschis clienților, iar fondatorul descrie brandul ca pe un club.
+
+Interpretarea academică: Eric von Hippel numește firma un „exemplu perfect" de inovare de către utilizatori: cele mai multe inovații vin de la cei care folosesc produsele, nu din laboratoare. Karim Lakhani (Harvard) spune că Threadless șterge granița dintre producător și consumator, pentru că ideile, marketingul și prognoza vânzărilor sunt distribuite în comunitate. Contrastul vine de la Frank Piller: BMW primește o mie de idei bune pe an prin portalul său și folosește poate una la doi ani. Platforma de idei nu valorează nimic dacă inputul nu se folosește.
+
+LEGO ilustrează aceeași logică. Programul Ambassador (40 de fani în dialog aproape zilnic cu marketingul) și comunitatea LEGO Click (2011) le permit fanilor să-și împărtășească creațiile, ceea ce amplifică conținutul.
+
+## Aplicare
+
+Patru condiții pentru o comunitate de co-creație (deduse din caz):
+1. dai comunității o **decizie reală** (votul decide producția);
+2. **creditezi** public creatorii;
+3. **închizi bucla**: ce se votează chiar se produce;
+4. oferi un **loc** sau un ritual (sediu deschis, concursuri, premii).
+
+## Exemplu
+
+Concursul transformă artiștii în promotori. Fiecare participant își trimite prietenii să voteze, deci achiziția de clienți vine din cuvântul din gură în gură (designerul Tom Burns: „a huge word-of-mouth thing").
+
+## Întrebări
+
+- Funcționează modelul în categorii unde designul nu e principalul motiv de cumpărare?
+- Cum eviți ca o comunitate de co-creație să devină muncă gratuită pentru brand?
+
+## Legături
+
+- **exemplu** [[MKT-0313]] — Threadless e cazul-școală de prosumare.
+- **vezi** [[IDE-0301]] — creativitatea distribuită contrazice mitul geniului solitar.
+- **vezi** [[CLI-0301]] — „ideile vin de oriunde" și „oamenii sunt canale media".
+
+## Surse
+
+- [[SRC-008]] Jon Wuebben, *Future Marketing: Winning in the Prosumer Age*, cap. 16

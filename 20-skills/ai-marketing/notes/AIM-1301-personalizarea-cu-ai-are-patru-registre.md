@@ -9,6 +9,8 @@ level: 1
 tags: [personalizare, segmentare, predictie, date-comportamentale, supra-personalizare]
 sources:
   - SRC-037 | cap. 2 (2.3-2.4), cap. 6 (6.2, 6.6)
+  - SRC-039 | cap. 7 (Case Study: Spotify, p. 137–139)
+  - SRC-042 | cap. 11 (AI's Social Impact)
 status: seed
 ---
 
@@ -27,7 +29,7 @@ Karen Noil pornește de la ideea că personalizarea pe criterii demografice (vâ
 | Micro-segment (*hyper-segmentation*) | grupuri foarte înguste, cu trăsături comune | clientele care au cumpărat rochii de vară primesc noutăți în stilul lor |
 | Predictiv (*predictive personalization*) | probabilitatea următoarei acțiuni | librăria online care anticipează următorul roman polițist |
 
-Cartea numește și două limite: **supra-personalizarea** (*over-personalization*), când mesajul pare intruziv și erodează încrederea, și **silozurile de date** (*data silos*): dacă CRM-ul, magazinul online și social media nu sunt legate, profilul unificat nu există și personalizarea rămâne cosmetică.
+Cartea numește și două limite: **supra-personalizarea** (*over-personalization*), când mesajul pare intruziv și erodează încrederea, și **silozurile de date** (*data silos*): dacă CRM-ul, magazinul online și social media nu sunt legate, profilul unificat nu există și personalizarea rămâne cosmetică. Iroegbu ([[SRC-042]], cap. 11) adaugă un cost social: supra-personalizarea poate închide oamenii în „bule de filtrare" (*filter bubbles*), care le reduc expunerea la idei noi.
 
 ## Aplicare
 
@@ -37,7 +39,7 @@ Cartea numește și două limite: **supra-personalizarea** (*over-personalizatio
 
 ## Exemplu
 
-Amazon („Customers who bought this also bought…") și Netflix sunt exemplele-standard din carte: ambele combină registrul comportamental cu cel predictiv, folosind și ce au ales clienții asemănători.
+Amazon („Customers who bought this also bought…") și Netflix sunt exemplele-standard din carte: ambele combină registrul comportamental cu cel predictiv, folosind și ce au ales clienții asemănători. Najafov ([[SRC-039]], cap. 7) detaliază mecanica Spotify: semnale de comportament (melodii sărite, ascultate repetat, playlisturi), filtrare colaborativă (ce ascultă oamenii cu gusturi apropiate), analiza versurilor și a metadatelor, analiza audio (tempo, tonalitate).
 
 ## Întrebări
 
@@ -54,3 +56,5 @@ Amazon („Customers who bought this also bought…") și Netflix sunt exemplele
 ## Surse
 
 - [[SRC-037]] Karen Noil, *AI-Driven Marketing*, cap. 2 (2.3-2.4), cap. 6 (6.2, 6.6)
+- [[SRC-039]] Eldar Najafov, *ChatGPT for Marketing*, cap. 7, p. 137–139
+- [[SRC-042]] Chidiebere Iroegbu, *The Future of Marketing*, cap. 11

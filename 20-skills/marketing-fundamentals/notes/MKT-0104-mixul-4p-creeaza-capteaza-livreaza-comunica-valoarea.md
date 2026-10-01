@@ -1,0 +1,61 @@
+---
+id: MKT-0104
+title: Mixul de marketing 4P — produsul creează, prețul captează, plasarea livrează, promovarea comunică valoarea
+type: zettel
+kind: framework
+skill: marketing-fundamentals
+also: [advertising-strategy, brand-strategy]
+level: 1
+tags: [marketing-mix, 4P, produs, pret, distributie, promovare, McCarthy]
+sources:
+  - SRC-001 | cap. 1, p. 7-9; cap. 2, p. 43-45
+status: seed
+---
+
+# Mixul de marketing 4P — produsul creează, prețul captează, plasarea livrează, promovarea comunică valoarea
+
+> **Ideea în o frază:** cele patru P (formulate de E. Jerome McCarthy în 1960) sunt deciziile controlabile prin care firma răspunde dorințelor pieței țintă, și fiecare are un rol distinct în lanțul valorii.
+
+## Explicație
+
+Grewal și Levy leagă fiecare P de un verb al valorii (Exhibit 1.3):
+
+| P | Rolul în valoare | Ce decizii conține | Exemplu din carte |
+|---|---|---|---|
+| Produs (*product*) | creează valoare | bunuri, servicii, idei | Dyson: ventilatoare fără palete, percepute ca superioare |
+| Preț (*price*) | captează valoare | tot ce dă cumpărătorul: bani, timp, energie | Frontier: tarif mic, dacă accepți locul din mijloc și bagajul sub scaun |
+| Plasare (*place*) | livrează valoarea | distribuție, retail, lanț de aprovizionare | Starbucks: chioșcuri în aeroporturi și supermarketuri |
+| Promovare (*promotion*) | comunică valoarea | publicitate, PR, promoții, vânzare personală, online | Oatly: întâi baristas, apoi ambalaje cu texte îndrăznețe |
+
+Două observații ale autorilor contează pentru agenții:
+
+- **Prețul este singurul P care aduce bani.** Celelalte trei generează costuri. Dacă prețul e prea mare, nu ai volum. Dacă e prea mic, pierzi marjă.
+- **Promovarea este IMC.** În capitolul 2, al patrulea P e redefinit ca integrated marketing communications: publicitate, vânzare personală, promoții, PR, marketing direct și online, combinate pentru claritate și consecvență. Prin ele se comunică propunerea de valoare.
+
+Produsul include și ideile. O campanie pentru purtarea căștii pe bicicletă „vinde" o idee, iar copiii care poartă casca au „cumpărat-o".
+
+## Aplicare
+
+- Înainte să propui o campanie, verifică celelalte trei P: reclama nu poate repara un preț greșit sau un produs absent din magazine.
+- Folosește 4P ca grilă de audit al unui brand: pentru fiecare P, ce valoare adaugă și ce contrazice promisiunea?
+- Exercițiu clasic din carte: aplică cele 4P propriei persoane când cauți un job.
+
+## Exemplu
+
+Adolescenții care revând haine pe Poshmark (Adding Value 1.2) aplică intuitiv mixul: aleg piese distinctive (produs), le descriu viu (promovare), le pun la prețuri care se vând repede (preț) și le postează seara, după școală, când cumpărătorii sunt online (plasare).
+
+## Întrebări
+
+- Este 4P o perspectivă a vânzătorului? Cum ar arăta mixul formulat din punctul de vedere al clientului?
+- Pentru servicii, ajung patru P? (vezi extinderea la 7P)
+
+## Legături
+
+- **fundament** [[MKT-0101]] — cele 4P sunt operaționalizarea definiției marketingului.
+- **extinde** [[MKT-0107]] — mixul este a doua componentă a strategiei de marketing, după piața țintă.
+- **extinde** [[ADV-0101]] — al patrulea P, promovarea, este detaliat ca IMC.
+- **vezi** [[MKT-0120]] — prețul, singurul P care aduce venit, are propria logică (5C).
+
+## Surse
+
+- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 1, p. 7-9 (Exhibit 1.3); cap. 2, p. 43-45
