@@ -43,10 +43,18 @@ Kapferer, citat în același capitol, explică avantajul pionierului: primul bra
 
 ## Legături
 
-- **fundament** [[ADV-0610]] — principiile poziționării, mai ales brandul de referință și simplitatea.
-- **vezi** [[ADV-0611]] — metoda mută poziționarea de la atributul de produs (moștenirea USP) spre context.
-- **vezi** [[ADV-0605]] — „revendicarea primului" de la Reeves e o formă timpurie de a stabili regulile jocului.
+- **fundament** [[ADV-0610-pozitionarea-sprijinita-pe-noua-principii-cognitive|ADV-0610]] — principiile poziționării, mai ales brandul de referință și simplitatea.
+- **vezi** [[ADV-0611-pozitionarea-e-mostenitoarea-usp-ului|ADV-0611]] — metoda mută poziționarea de la atributul de produs (moștenirea USP) spre context.
+- **vezi** [[ADV-0605-trei-drumuri-spre-un-usp-gasesti-construiesti-revendici|ADV-0605]] — „revendicarea primului" de la Reeves e o formă timpurie de a stabili regulile jocului.
 
 ## Surse
 
-- [[SRC-018]] Jorge David Fernández Gómez, *Strategic Advertising Mechanisms*, cap. 7 §7.3 (Ollé & Riu 2009; Kapferer 1992; Nilson 1998)
+- [[SRC-018-strategic-advertising-mechanisms|SRC-018]] Jorge David Fernández Gómez, *Strategic Advertising Mechanisms*, cap. 7 §7.3 (Ollé & Riu 2009; Kapferer 1992; Nilson 1998)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0610-pozitionarea-sprijinita-pe-noua-principii-cognitive|ADV-0610]] _vezi_ — Poziționarea (Trout & Ries) se sprijină pe nouă principii — de la saturația informațională la permanență
+- [[BRD-0607-harta-de-pozitionare-in-patru-pasi-si-sase-criterii|BRD-0607]] _extinde_ — Harta de poziționare se face în patru pași, iar poziționarea aleasă trece șase teste — clară, pertinentă, distinctivă, coerentă, atractivă, durabilă
+- [[SRC-018-strategic-advertising-mechanisms|SRC-018]] — Strategic Advertising Mechanisms: From Copy Strategy to Iconic Brands
+<!-- backlinks:end -->

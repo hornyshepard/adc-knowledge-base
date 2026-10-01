@@ -47,10 +47,19 @@ Bloom & Wild a pus în centrul de preferințe opțiunea de a nu primi mesaje de 
 
 ## Legături
 
-- **vezi** [[AIM-0301]] — personalizarea pe care o alimentează aceste date și limitele ei.
-- **aplicare** [[DIG-0303]] — omnicanalul cere date colectate la fiecare punct de contact.
-- **vezi** [[BRD-0301]] — centrul de preferințe ca expresie a grijii pentru client.
+- **vezi** [[AIM-0301-paradoxul-personalizarii-relevanta-versus-intimitate|AIM-0301]] — personalizarea pe care o alimentează aceste date și limitele ei.
+- **aplicare** [[DIG-0303-omnicanal-inseamna-canale-care-se-intaresc-reciproc|DIG-0303]] — omnicanalul cere date colectate la fiecare punct de contact.
+- **vezi** [[BRD-0301-bloom-and-wild-renuntarea-la-campaniile-sensibile|BRD-0301]] — centrul de preferințe ca expresie a grijii pentru client.
 
 ## Surse
 
-- [[SRC-010]] Patrick Ejeke, *Marketing Trends*, trendurile 29, 40, 48, 49, 55
+- [[SRC-010-marketing-trends-ejeke|SRC-010]] Patrick Ejeke, *Marketing Trends*, trendurile 29, 40, 48, 49, 55
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-0301-paradoxul-personalizarii-relevanta-versus-intimitate|AIM-0301]] _vezi_ — Paradoxul personalizării: cu cât reclama știe mai mult despre tine, cu atât riscă să te sperie
+- [[BRD-0301-bloom-and-wild-renuntarea-la-campaniile-sensibile|BRD-0301]] _aplicare_ — Bloom & Wild: să le permiți clienților să refuze campaniile de Ziua Mamei e tot marketing — marketing atent
+- [[DIG-0303-omnicanal-inseamna-canale-care-se-intaresc-reciproc|DIG-0303]] _vezi_ — Omnicanal nu înseamnă prezență pe multe canale, ci canale care se întăresc reciproc — și se măsoară altfel
+- [[SRC-010-marketing-trends-ejeke|SRC-010]] — Marketing Trends: 63 Digital Marketing Trends in the Age of Automation, Integrated Marketing, Omnichannel Marketing, Metaverse, Big Data, NFTs, AI, AR & VR
+<!-- backlinks:end -->

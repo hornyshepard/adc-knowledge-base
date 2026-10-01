@@ -41,10 +41,19 @@ Un plan cu „strategie TikTok", „strategie de influenceri" și „strategie O
 
 ## Legături
 
-- **fundament** [[ADV-0601]] — ierarhia paradigmă–teorie–mecanism dă sens cuvântului „strategie".
-- **vezi** [[ADV-0603]] — copy strategy separă explicit partea strategică (a clientului) de execuție (a agenției).
-- **vezi** [[HIS-0601]] — tot motive comerciale explică și reambalarea mecanismelor sub nume noi.
+- **fundament** [[ADV-0601-trei-paradigme-de-brand-management-produs-personalitate|ADV-0601]] — ierarhia paradigmă–teorie–mecanism dă sens cuvântului „strategie".
+- **vezi** [[ADV-0603-copy-strategy-fixeaza-beneficiul-dovada-si-tonul|ADV-0603]] — copy strategy separă explicit partea strategică (a clientului) de execuție (a agenției).
+- **vezi** [[HIS-0601-inventia-recurenta-mecanismele-strategice-se-reambaleaza|HIS-0601]] — tot motive comerciale explică și reambalarea mecanismelor sub nume noi.
 
 ## Surse
 
-- [[SRC-018]] Jorge David Fernández Gómez, *Strategic Advertising Mechanisms*, Introducere și nota 1
+- [[SRC-018-strategic-advertising-mechanisms|SRC-018]] Jorge David Fernández Gómez, *Strategic Advertising Mechanisms*, Introducere și nota 1
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0601-trei-paradigme-de-brand-management-produs-personalitate|ADV-0601]] _vezi_ — Mecanismele strategice ale publicității se ordonează în trei paradigme — product, personality și consumer branding
+- [[HIS-0601-inventia-recurenta-mecanismele-strategice-se-reambaleaza|HIS-0601]] _vezi_ — „Invenția recurentă" — publicitatea își reinventează periodic mecanismele strategice sub nume noi
+- [[PIT-0601-recomandarea-de-agentie-arata-alegerea-nu-drumul|PIT-0601]] _vezi_ — Recomandarea de agenție („reco") arată de ce s-a ales o soluție, nu drumul întortocheat până la ea
+- [[SRC-018-strategic-advertising-mechanisms|SRC-018]] — Strategic Advertising Mechanisms: From Copy Strategy to Iconic Brands
+<!-- backlinks:end -->

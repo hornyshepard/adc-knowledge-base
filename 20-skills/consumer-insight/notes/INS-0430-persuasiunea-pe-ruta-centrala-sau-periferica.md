@@ -57,12 +57,27 @@ Nuanțe importante din carte:
 
 ## Legături
 
-- **fundament** [[INS-0401]] — implicarea decide nivelul de procesare și în modelul în patru etape.
-- **contrazice** [[INS-0431]] — unimodelul contestă diferența de natură dintre indicii și argumente.
-- **extinde** [[INS-0432]] — rolurile multiple ale vedetei și congruența sursei.
-- **vezi** [[INS-0412]] — memoria argumentelor nu prezice atitudinea, de unde accentul pe gânduri.
-- **vezi** [[INS-0410]] — încrederea în propriile gânduri (auto-validarea) amplifică ruta centrală.
+- **fundament** [[INS-0401-procesarea-reclamei-are-patru-etape|INS-0401]] — implicarea decide nivelul de procesare și în modelul în patru etape.
+- **contrazice** [[INS-0431-unimodelul-indiciile-si-argumentele-sunt-dovezi|INS-0431]] — unimodelul contestă diferența de natură dintre indicii și argumente.
+- **extinde** [[INS-0432-vedeta-convinge-ca-argument-doar-cand-e-relevanta|INS-0432]] — rolurile multiple ale vedetei și congruența sursei.
+- **vezi** [[INS-0412-recall-ul-e-o-masura-slaba-a-eficientei|INS-0412]] — memoria argumentelor nu prezice atitudinea, de unde accentul pe gânduri.
+- **vezi** [[INS-0410-cere-zece-motive-si-convingi-mai-putin|INS-0410]] — încrederea în propriile gânduri (auto-validarea) amplifică ruta centrală.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 5, p. 187-219; cap. 1, p. 41-43
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 5, p. 187-219; cap. 1, p. 41-43
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0407-repetitia-creste-apoi-uzeaza-variatia-amana-uzura|ADV-0407]] _fundament_ — Repetiția crește atitudinea până la un vârf, apoi o uzează — iar variația substanțială amână uzura mai bine decât cea cosmetică
+- [[CPY-0403-apelul-rational-sau-emotional-depinde-de-om|CPY-0403]] _vezi_ — Apelul rațional sau emoțional nu e o filozofie de agenție, ci o potrivire cu produsul și cu persoana
+- [[CPY-0406-perturba-apoi-reincadreaza|CPY-0406]] _fundament_ — „Perturbă, apoi reîncadrează" — o ciudățenie mică în formularea prețului, urmată de o concluzie persuasivă, crește vânzarea
+- [[INS-0410-cere-zece-motive-si-convingi-mai-putin|INS-0410]] _extinde_ — Cere-i clientului zece motive și îl convingi mai puțin decât cu unul (ușurința reamintirii)
+- [[INS-0431-unimodelul-indiciile-si-argumentele-sunt-dovezi|INS-0431]] _contrazice_ — Unimodelul — indiciile și argumentele nu sunt două rute, ci două tipuri de dovezi judecate după aceeași regulă
+- [[INS-0432-vedeta-convinge-ca-argument-doar-cand-e-relevanta|INS-0432]] _fundament_ — Vedeta din reclamă e indiciu periferic la implicare mică și devine argument doar când e relevantă pentru produs
+- [[INS-0433-apelurile-la-frica-mai-multa-frica-mai-multa-persuasiune|INS-0433]] _fundament_ — Apelurile la frică funcționează mai bine cu cât amenințarea e mai gravă — ideea că frica mare „blochează" mesajul nu s-a confirmat
+- [[INS-0441-un-motiv-oarecare-ajuta-la-cereri-mici|INS-0441]] _fundament_ — La cereri mici, orice „pentru că" funcționează; la cereri mari, doar motivele reale (lipsa de atenție în conformare)
+- [[INS-0445-sapte-trasaturi-ale-consumului-postmodern|INS-0445]] _alternativa_ — Consumul postmodern are șapte trăsături — de la hiperrealitate și nostalgie la pastișă și „rebeliunea care se vinde"
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

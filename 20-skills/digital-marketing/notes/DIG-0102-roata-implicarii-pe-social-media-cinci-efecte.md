@@ -47,10 +47,19 @@ Coca-Cola a folosit tehnologia *beacon* ca să ofere o Coca-Cola gratuită spect
 
 ## Legături
 
-- **fundament** [[DIG-0101]] — roata explică mecanismele celui de-al patrulea E, implicarea.
-- **extinde** [[SOC-0101]] — efectul de rețea este exploatat prin influenceri.
-- **aplicare** [[DIG-0103]] — ascultarea și analiza transformă datele de implicare în decizii.
+- **fundament** [[DIG-0101-cadrul-4e-entuziasmeaza-educa-experienta-implica|DIG-0101]] — roata explică mecanismele celui de-al patrulea E, implicarea.
+- **extinde** [[SOC-0101-alegi-influencerul-dupa-4r-relevanta-reach-raspuns-randament|SOC-0101]] — efectul de rețea este exploatat prin influenceri.
+- **aplicare** [[DIG-0103-asculta-analizeaza-actioneaza-procesul-de-implicare-digitala|DIG-0103]] — ascultarea și analiza transformă datele de implicare în decizii.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 3, p. 95-100 (Exhibit 3.3)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 3, p. 95-100 (Exhibit 3.3)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0101-cadrul-4e-entuziasmeaza-educa-experienta-implica|DIG-0101]] _extinde_ — Cadrul 4E — marketingul digital trebuie să entuziasmeze, să educe, să ofere experiența produsului și să implice
+- [[DIG-0103-asculta-analizeaza-actioneaza-procesul-de-implicare-digitala|DIG-0103]] _fundament_ — Implicarea digitală urmează trei etape — ascultă, analizează, acționează — iar campania pe social media are cinci pași
+- [[SOC-0101-alegi-influencerul-dupa-4r-relevanta-reach-raspuns-randament|SOC-0101]] _fundament_ — Influencerul se alege după 4R — relevanță, reach, răspuns, randament — nu după numărul de urmăritori
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+<!-- backlinks:end -->

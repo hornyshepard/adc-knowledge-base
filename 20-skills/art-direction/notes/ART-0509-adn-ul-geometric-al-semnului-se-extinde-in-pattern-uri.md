@@ -43,10 +43,18 @@ Pentru Landmark Church, semnul (un oraș, un deal sugerat și o cruce în spați
 
 ## Legături
 
-- **extinde** [[ART-0508]] — elementele derivate completează sistemul modular de logo-uri.
-- **vezi** [[ART-0502]] — și șablonul lui Calder cere ca toate indiciile să întărească aceleași asocieri.
-- **vezi** [[ART-0504]] — consecvența amplifică efectul timpului și al expunerilor repetate.
+- **extinde** [[ART-0508-un-sistem-de-identitate-modular-are-semn-logo-orizontal|ART-0508]] — elementele derivate completează sistemul modular de logo-uri.
+- **vezi** [[ART-0502-sablonul-de-design-de-brand-douasprezece-tipuri-de-indicii|ART-0502]] — și șablonul lui Calder cere ca toate indiciile să întărească aceleași asocieri.
+- **vezi** [[ART-0504-un-logo-dureaza-prin-zece-piloni-dintre-care-designerul|ART-0504]] — consecvența amplifică efectul timpului și al expunerilor repetate.
 
 ## Surse
 
-- [[SRC-017]] Allan Peters, *Logos That Last*, cap. 5 „Brand Extensions" (secțiunile „Brand Patterns", „Brand Icons", „Brand Flourishes & Badge Shapes", „Brand Typography", „Brand Illustrations"); cap. 8 (Landmark)
+- [[SRC-017-logos-that-last|SRC-017]] Allan Peters, *Logos That Last*, cap. 5 „Brand Extensions" (secțiunile „Brand Patterns", „Brand Icons", „Brand Flourishes & Badge Shapes", „Brand Typography", „Brand Illustrations"); cap. 8 (Landmark)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0508-un-sistem-de-identitate-modular-are-semn-logo-orizontal|ART-0508]] _extinde_ — Un sistem de identitate modular are semn, logo orizontal, vertical și badge
+- [[PIT-0501-logo-ul-puternic-se-vinde-condus-de-designer-nu-dictat-de|PIT-0501]] _vezi_ — Logo-ul puternic se vinde condus de designer, nu dictat de client
+- [[SRC-017-logos-that-last|SRC-017]] — Logos That Last: How to Create Iconic Visual Branding
+<!-- backlinks:end -->

@@ -49,12 +49,21 @@ Un student care a coordonat voluntar campania unui ONG local scrie: „Am organi
 
 ## Legături
 
-- **fundament** [[PRT-1401]] — structura există ca să servească cititorul.
-- **extinde** [[PRT-1409]] — studiile de caz sunt „umplutura” sandvișului.
-- **vezi** [[PRT-1408]] — introducerea și „About me” deschid sandvișul.
-- **vezi** [[PRT-1426]] — CV-ul și declarația de design sunt componente ale „sandvișului”.
+- **fundament** [[PRT-1401-portofoliul-e-un-produs-utilizatorul-e-recrutorul|PRT-1401]] — structura există ca să servească cititorul.
+- **extinde** [[PRT-1409-studiul-de-caz-brief-ce-am-facut-rezultate|PRT-1409]] — studiile de caz sunt „umplutura” sandvișului.
+- **vezi** [[PRT-1408-introducerea-si-titlurile-vand-relevanta|PRT-1408]] — introducerea și „About me” deschid sandvișul.
+- **vezi** [[PRT-1426-cv-declaratia-de-design-si-scrisoarea-de-intentie|PRT-1426]] — CV-ul și declarația de design sunt componente ale „sandvișului”.
 
 ## Surse
 
-- [[SRC-048]] Ian Fenn, *UX Portfolio Design*, cap. 5, 6 și 8
-- [[SRC-046]] Zuzana Kubišová, *The Architect's Pocket Guide to Portfolio Design*, Pașii 4 și 8
+- [[SRC-048-ux-portfolio-design|SRC-048]] Ian Fenn, *UX Portfolio Design*, cap. 5, 6 și 8
+- [[SRC-046-architects-pocket-guide-to-portfolio-design|SRC-046]] Zuzana Kubišová, *The Architect's Pocket Guide to Portfolio Design*, Pașii 4 și 8
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PRT-1407-pdf-personalizabil-intai-apoi-site|PRT-1407]] _vezi_ — Pornește cu un portofoliu PDF personalizabil și adaugă apoi un site; comunitățile de portofoliu sunt riscante
+- [[PRT-1421-ritmul-portofoliului-patru-metode-de-ordonare|PRT-1421]] _vezi_ — Ordinea proiectelor creează ritmul portofoliului — patru metode, de la cronologic la relevanță
+- [[SRC-046-architects-pocket-guide-to-portfolio-design|SRC-046]] — The Architect's Pocket Guide to Portfolio Design
+- [[SRC-048-ux-portfolio-design|SRC-048]] — UX Portfolio Design
+<!-- backlinks:end -->

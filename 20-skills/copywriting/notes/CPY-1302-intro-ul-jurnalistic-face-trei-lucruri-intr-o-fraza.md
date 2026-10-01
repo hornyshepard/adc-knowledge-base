@@ -49,9 +49,16 @@ Paralela cu o ediție de ziar: editorii aleg articolele după ce așteaptă citi
 
 ## Legături
 
-- **vezi** [[STO-1303]] — structura narativă mare în care se înscriu textele.
-- **aplicare** [[STO-1302]] — știri, articole de fond și campanii din calendarul editorial.
+- **vezi** [[STO-1303-calatoria-eroului-e-ciclul-de-cumparare-eroul-e-clientul|STO-1303]] — structura narativă mare în care se înscriu textele.
+- **aplicare** [[STO-1302-pilonii-de-continut-trei-teste-patru-functii|STO-1302]] — știri, articole de fond și campanii din calendarul editorial.
 
 ## Surse
 
-- [[SRC-040]] Aly Richards & Scott McLean, *Intelligent Customer Engagement*, secț. 3, cap. 6
+- [[SRC-040-intelligent-customer-engagement|SRC-040]] Aly Richards & Scott McLean, *Intelligent Customer Engagement*, secț. 3, cap. 6
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[STO-1303-calatoria-eroului-e-ciclul-de-cumparare-eroul-e-clientul|STO-1303]] _vezi_ — Călătoria eroului e ciclul de cumpărare văzut de client — iar eroul e clientul, nu brandul
+- [[SRC-040-intelligent-customer-engagement|SRC-040]] — Intelligent Customer Engagement: The Future of Content Marketing
+<!-- backlinks:end -->

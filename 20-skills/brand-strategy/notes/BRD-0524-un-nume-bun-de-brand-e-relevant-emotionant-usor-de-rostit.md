@@ -51,11 +51,20 @@ BlackBerry (creat de agenția Lexicon în locul lui „PocketLink") folosea alit
 
 ## Legături
 
-- **extinde** [[BRD-0525]] — numele e al doilea dintre cei patru pași ai creării unui brand.
-- **vezi** [[ART-0502]] — numele e primul dintre cele 12 indicii de design de brand.
-- **fundament** [[ART-0501]] — numele lucrează prin asocieri automate, de tip Sistem 1.
+- **extinde** [[BRD-0525-un-brand-nou-se-construieste-in-patru-pasi-carlig-nume|BRD-0525]] — numele e al doilea dintre cei patru pași ai creării unui brand.
+- **vezi** [[ART-0502-sablonul-de-design-de-brand-douasprezece-tipuri-de-indicii|ART-0502]] — numele e primul dintre cele 12 indicii de design de brand.
+- **fundament** [[ART-0501-designul-de-brand-lucreaza-in-sistemul-1-si-porneste-de-la|ART-0501]] — numele lucrează prin asocieri automate, de tip Sistem 1.
 
 ## Surse
 
-- [[SRC-014]] Paul Earle, „Brand New: Creating a Brand from Scratch", cap. 24, p. 303–307; Bobby J. Calder, „Brand Design and Design Thinking", cap. 7, p. 98–100, în *Kellogg on Branding in a Hyper-Connected World*
-- [[SRC-016]] Jane McCarthy & Kate McAndrew, *Goddess Guide to Branding*, cap. 7 „Finding Your Style”, interviul „Voice” (Myra El-Bayoumi)
+- [[SRC-014-kellogg-on-branding|SRC-014]] Paul Earle, „Brand New: Creating a Brand from Scratch", cap. 24, p. 303–307; Bobby J. Calder, „Brand Design and Design Thinking", cap. 7, p. 98–100, în *Kellogg on Branding in a Hyper-Connected World*
+- [[SRC-016-the-goddess-guide-to-branding-jane-mccarthy|SRC-016]] Jane McCarthy & Kate McAndrew, *Goddess Guide to Branding*, cap. 7 „Finding Your Style”, interviul „Voice” (Myra El-Bayoumi)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0502-sablonul-de-design-de-brand-douasprezece-tipuri-de-indicii|ART-0502]] _vezi_ — Șablonul de design de brand: douăsprezece tipuri de indicii senzoriale
+- [[BRD-0525-un-brand-nou-se-construieste-in-patru-pasi-carlig-nume|BRD-0525]] _extinde_ — Un brand nou se construiește în patru pași: cârlig, nume, marcă, design
+- [[SRC-014-kellogg-on-branding|SRC-014]] — Kellogg on Branding in a Hyper-Connected World
+- [[SRC-016-the-goddess-guide-to-branding-jane-mccarthy|SRC-016]] — Goddess Guide to Branding
+<!-- backlinks:end -->

@@ -51,10 +51,19 @@ Heineken sau Absolut Vodka (exemplele autorilor, p. 142): publicitate repetată 
 
 ## Legături
 
-- **extinde** [[INS-0421]] — atitudinile implicite și explicite pot diverge mai ales la ambivalență.
-- **vezi** [[INS-0423]] — experiența directă produce atitudini puternice.
-- **vezi** [[INS-0410]] — ușurința reamintirii influențează mai ales atitudinile slabe.
+- **extinde** [[INS-0421-atitudinile-implicite-prezic-alegerea-sub-presiune|INS-0421]] — atitudinile implicite și explicite pot diverge mai ales la ambivalență.
+- **vezi** [[INS-0423-experienta-directa-bate-reclama|INS-0423]] — experiența directă produce atitudini puternice.
+- **vezi** [[INS-0410-cere-zece-motive-si-convingi-mai-putin|INS-0410]] — ușurința reamintirii influențează mai ales atitudinile slabe.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 4, p. 141-153, 169-170
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 4, p. 141-153, 169-170
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[INS-0421-atitudinile-implicite-prezic-alegerea-sub-presiune|INS-0421]] _vezi_ — Atitudinile implicite prezic alegerea când omul e grăbit sau obosit, cele explicite când are timp să se controleze
+- [[INS-0423-experienta-directa-bate-reclama|INS-0423]] _extinde_ — Atitudinile formate prin experiență directă prezic comportamentul mai bine decât cele formate din reclame
+- [[INS-0440-sapte-principii-de-influenta-fara-schimbarea-atitudinii|INS-0440]] _vezi_ — Conformarea fără schimbarea atitudinii se obține prin șapte principii de influență (Cialdini plus confuzia)
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

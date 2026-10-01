@@ -48,13 +48,24 @@ Sloganul „You get a lot to like” rezuma un mesaj simplu stabilit de agenție
 
 ## Legături
 
-- **exemplu** [[HIS-0814]] — Burnett și personajele lui de brand.
-- **aplicare** [[ART-0803]] — imaginea dominantă cu text minim.
-- **vezi** [[HIS-0824]] — Marlboro în istoria publicității de tutun.
-- **contrazice** [[CPY-0817]] — uneori consecvența trebuie ruptă: imaginea veche trebuia inversată.
-- **vezi** [[CPY-0806]] — refuzul apelului la frică.
+- **exemplu** [[HIS-0814-burnett-drama-inerenta-a-produsului|HIS-0814]] — Burnett și personajele lui de brand.
+- **aplicare** [[ART-0803-o-imagine-dominanta-poate-spune-povestea|ART-0803]] — imaginea dominantă cu text minim.
+- **vezi** [[HIS-0824-tutunul-frontul-limitelor-publicitatii|HIS-0824]] — Marlboro în istoria publicității de tutun.
+- **contrazice** [[CPY-0817-consecventa-bate-noutatea|CPY-0817]] — uneori consecvența trebuie ruptă: imaginea veche trebuia inversată.
+- **vezi** [[CPY-0806-teama-sociala-vinde-dar-exista-calea-pozitiva|CPY-0806]] — refuzul apelului la frică.
 
 ## Surse
 
-- [[SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrarea „Marlboro — You Get a Lot to Like”
-- [[SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 10, p. 200; cap. 13, p. 293
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrarea „Marlboro — You Get a Lot to Like”
+- [[SRC-027-a-history-of-advertising|SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 10, p. 200; cap. 13, p. 293
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0803-o-imagine-dominanta-poate-spune-povestea|ART-0803]] _exemplu_ — O singură imagine dominantă poate spune povestea — dacă textul o susține, nu o repetă
+- [[CPY-0803-reclama-de-imagine-vinde-un-sentiment|CPY-0803]] _exemplu_ — Reclama de imagine vinde un sentiment, nu o fișă tehnică
+- [[CPY-0817-consecventa-bate-noutatea|CPY-0817]] _contrazice_ — Consecvența bate noutatea — nu schimba o reclamă care încă funcționează
+- [[HIS-0814-burnett-drama-inerenta-a-produsului|HIS-0814]] _exemplu_ — Leo Burnett — drama inerentă a produsului și personajele care o poartă
+- [[HIS-0824-tutunul-frontul-limitelor-publicitatii|HIS-0824]] _exemplu_ — Tutunul a fost frontul pe care publicitatea și-a testat puterea și limitele
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] — The 100 Greatest Advertisements 1852–1958: Who Wrote Them and What They Did
+<!-- backlinks:end -->

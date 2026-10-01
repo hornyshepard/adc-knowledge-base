@@ -50,10 +50,18 @@ O campanie care laudă atmosfera unei cafenele (numărător) e subminată dacă 
 
 ## Legături
 
-- **fundament** [[BRD-0503]] — ecuația detaliază punctul de diferență din declarația de poziționare.
-- **vezi** [[EXP-0501]] — la brandurile direct-to-consumer, costul de timp și experiența devin centrale.
-- **vezi** [[BRD-0505]] — elementele care nu diferențiază trebuie doar aduse la paritate.
+- **fundament** [[BRD-0503-declaratia-de-pozitionare-are-patru-elemente-tinta-cadru|BRD-0503]] — ecuația detaliază punctul de diferență din declarația de poziționare.
+- **vezi** [[EXP-0501-la-brandurile-direct-to-consumer-brandul-este-lantul|EXP-0501]] — la brandurile direct-to-consumer, costul de timp și experiența devin centrale.
+- **vezi** [[BRD-0505-dovezile-bazate-pe-atribute-se-copiaza-cele-bazate-pe|BRD-0505]] — elementele care nu diferențiază trebuie doar aduse la paritate.
 
 ## Surse
 
-- [[SRC-014]] Alice M. Tybout, „Brand Positioning", cap. 1 în *Kellogg on Branding in a Hyper-Connected World*, p. 9–10
+- [[SRC-014-kellogg-on-branding|SRC-014]] Alice M. Tybout, „Brand Positioning", cap. 1 în *Kellogg on Branding in a Hyper-Connected World*, p. 9–10
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0503-declaratia-de-pozitionare-are-patru-elemente-tinta-cadru|BRD-0503]] _extinde_ — Declarația de poziționare are patru elemente: țintă, cadru, diferență, dovadă
+- [[EXP-0501-la-brandurile-direct-to-consumer-brandul-este-lantul|EXP-0501]] _vezi_ — La brandurile direct-to-consumer, brandul este lanțul complet al experienței
+- [[SRC-014-kellogg-on-branding|SRC-014]] — Kellogg on Branding in a Hyper-Connected World
+<!-- backlinks:end -->

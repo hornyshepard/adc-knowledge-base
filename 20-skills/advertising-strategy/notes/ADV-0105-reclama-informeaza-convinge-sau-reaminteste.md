@@ -55,11 +55,21 @@ Arby's a transformat o veste banală (schimbarea furnizorului de suc) într-o ca
 
 ## Legături
 
-- **fundament** [[ADV-0104]] — obiectivele sunt pasul 2 al campaniei publicitare.
-- **fundament** [[MKT-0118]] — rolul reclamei urmează etapa din ciclul de viață al produsului.
-- **vezi** [[ADV-0110]] — strategiile pull și push se aplică și promoțiilor de vânzări.
-- **vezi** [[MKT-0129]] — PSA-urile sunt o formă de marketing social, care vinde comportamente.
+- **fundament** [[ADV-0104-campania-publicitara-in-sapte-pasi-de-la-tinta-la-masurare|ADV-0104]] — obiectivele sunt pasul 2 al campaniei publicitare.
+- **fundament** [[MKT-0118-ciclul-de-viata-al-produsului-si-capcana-lui|MKT-0118]] — rolul reclamei urmează etapa din ciclul de viață al produsului.
+- **vezi** [[ADV-0110-promotiile-aduc-vanzari-azi-dar-pot-fura-din-cele-de-maine|ADV-0110]] — strategiile pull și push se aplică și promoțiilor de vânzări.
+- **vezi** [[MKT-0129-marketingul-social-vinde-comportamente-nu-produse|MKT-0129]] — PSA-urile sunt o formă de marketing social, care vinde comportamente.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 19, p. 592-596 (Adding Value 19.1, Dilema 19.1)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 19, p. 592-596 (Adding Value 19.1, Dilema 19.1)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0104-campania-publicitara-in-sapte-pasi-de-la-tinta-la-masurare|ADV-0104]] _extinde_ — O campanie publicitară se planifică în șapte pași — de la publicul țintă la evaluarea impactului
+- [[INS-0109-patru-tipuri-de-cumparare-matricea-assael|INS-0109]] _aplicare_ — Patru tipuri de comportament de cumpărare rezultă din implicare × diferențele percepute între branduri (matricea Assael)
+- [[MKT-0118-ciclul-de-viata-al-produsului-si-capcana-lui|MKT-0118]] _aplicare_ — Ciclul de viață al produsului are patru etape, dar folosit mecanic devine o profeție care se autoîmplinește
+- [[MKT-0129-marketingul-social-vinde-comportamente-nu-produse|MKT-0129]] _vezi_ — Marketingul social vinde comportamente, nu produse — și nu e același lucru cu marketingul pe social media
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+<!-- backlinks:end -->

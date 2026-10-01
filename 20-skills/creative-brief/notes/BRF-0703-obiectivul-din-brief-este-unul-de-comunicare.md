@@ -46,10 +46,25 @@ Un brand de maioneză voia +5% într-o piață stagnantă. Calculul: circa 15% d
 
 ## Legături
 
-- **fundament** [[BRF-0702]] — obiectivul este prima dintre cele șase componente.
-- **aplicare** [[BRF-0710]] — măsurarea reflectă exact obiectivul scris aici.
-- **exemplu** [[BRF-0714]] — Stark trece de la „+5% vânzări" la „percepția de securitate de la 15% la 35%".
+- **fundament** [[BRF-0702-brief-ul-mctigue-rucker-are-sase-componente-pe-o-pagina|BRF-0702]] — obiectivul este prima dintre cele șase componente.
+- **aplicare** [[BRF-0710-masurarea-se-scrie-in-brief-inainte-de-campanie|BRF-0710]] — măsurarea reflectă exact obiectivul scris aici.
+- **exemplu** [[BRF-0714-cazul-stark-cloud-solutions-de-la-brief-bun-la-excelent|BRF-0714]] — Stark trece de la „+5% vânzări" la „percepția de securitate de la 15% la 35%".
 
 ## Surse
 
-- [[SRC-022]] Kevin McTigue, Derek D. Rucker, *The Creative Brief Blueprint*, cap. 2 „Objectives"
+- [[SRC-022-the-creative-brief-blueprint|SRC-022]] Kevin McTigue, Derek D. Rucker, *The Creative Brief Blueprint*, cap. 2 „Objectives"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRF-0702-brief-ul-mctigue-rucker-are-sase-componente-pe-o-pagina|BRF-0702]] — Brief-ul McTigue–Rucker are șase componente și încape pe o singură pagină
+- [[BRF-0704-targetarea-inseamna-prioritizare-trei-erori-si-tinta-own-attract-accept|BRF-0704]] _fundament_ — Targetarea înseamnă prioritizare — trei erori tipice și ținta Own–Attract–Accept
+- [[BRF-0710-masurarea-se-scrie-in-brief-inainte-de-campanie|BRF-0710]] _fundament_ — Măsurarea se scrie în brief înainte de campanie, iar testarea se justifică prin incertitudine și miză
+- [[BRF-0714-cazul-stark-cloud-solutions-de-la-brief-bun-la-excelent|BRF-0714]] _aplicare_ — Cazul Stark Cloud Solutions — cum devine un brief „bun" unul excelent, secțiune cu secțiune
+- [[BRF-0715-modelul-euro-rscg-australia-sarcina-trei-insighturi-creatia|BRF-0715]] — Modelul de brief Euro RSCG Australia — sarcina, trei insight-uri triangulate, creația și un lanț de aprobări
+- [[BRF-0716-brief-ul-get-to-by-strategia-intr-o-fraza|BRF-0716]] _vezi_ — Brief-ul Get/To/By pune toată strategia într-o frază cu patru verigi — țintă, răspuns, mesaj, motiv
+- [[IDE-0714-reincadrarea-problemei-din-brief|IDE-0714]] _vezi_ — Reîncadrarea problemei din brief deschide soluții dintr-o altă categorie
+- [[IDE-0716-procesul-in-sapte-pasi-de-rezolvare-a-problemelor|IDE-0716]] — Procesul în șapte pași de rezolvare a problemelor — de la definirea decalajului la revizuirea rezultatului
+- [[STO-0701-o-poveste-e-shareworthy-cand-are-valoare-de-folosinta|STO-0701]] — O poveste de brand e „shareworthy" când are valoare de folosință pentru public, nu doar pentru brand
+- [[SRC-022-the-creative-brief-blueprint|SRC-022]] — The Creative Brief Blueprint
+<!-- backlinks:end -->

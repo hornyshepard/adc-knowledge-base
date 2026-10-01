@@ -42,12 +42,20 @@ Watkins adaugă ilustratorii-vedetă ai primei jumătăți a secolului XX. Coles
 
 ## Legături
 
-- **fundament** [[ART-0801]] — eliberarea tehnică a tiparului a făcut posibilă arta în reclamă.
-- **vezi** [[CPY-0803]] — reclama de imagine în copywriting.
-- **contrazice** [[HIS-0814]] — Burnett respingea interesul împrumutat, în favoarea dramei din produs.
-- **vezi** [[HIS-0819]] — expoziția ADC (1921), primul premiu pentru estetica reclamei.
+- **fundament** [[ART-0801-layoutul-de-reclama-s-a-inventat-sub-constrangeri|ART-0801]] — eliberarea tehnică a tiparului a făcut posibilă arta în reclamă.
+- **vezi** [[CPY-0803-reclama-de-imagine-vinde-un-sentiment|CPY-0803]] — reclama de imagine în copywriting.
+- **contrazice** [[HIS-0814-burnett-drama-inerenta-a-produsului|HIS-0814]] — Burnett respingea interesul împrumutat, în favoarea dramei din produs.
+- **vezi** [[HIS-0819-premiile-estetica-sau-eficienta|HIS-0819]] — expoziția ADC (1921), primul premiu pentru estetica reclamei.
 
 ## Surse
 
-- [[SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 7, p. 121–123, 144; cap. 16, p. 402
-- [[SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Holeproof Hosiery — The First Use of Cheesecake in Advertising” și „Kelly-Springfield — The Fellowes Series”
+- [[SRC-027-a-history-of-advertising|SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 7, p. 121–123, 144; cap. 16, p. 402
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Holeproof Hosiery — The First Use of Cheesecake in Advertising” și „Kelly-Springfield — The Fellowes Series”
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0801-layoutul-de-reclama-s-a-inventat-sub-constrangeri|ART-0801]] _extinde_ — Layoutul de reclamă s-a inventat sub constrângeri — spațiul alb al lui Franklin și „epoca repetiției"
+- [[SRC-027-a-history-of-advertising|SRC-027]] — A History of Advertising: The First 300,000 Years
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] — The 100 Greatest Advertisements 1852–1958: Who Wrote Them and What They Did
+<!-- backlinks:end -->

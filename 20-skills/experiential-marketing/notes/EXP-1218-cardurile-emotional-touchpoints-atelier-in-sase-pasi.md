@@ -52,10 +52,19 @@ Un lanț de restaurante poate descoperi că emoția cea mai puternică nu e lega
 
 ## Legături
 
-- **aplicare** [[EXP-1217]] — pune în practică logica punctelor de contact emoționale.
-- **vezi** [[EXP-1216]] — metoda cere și dezvoltă capitalul de empatie al celui care moderează.
-- **vezi** [[INS-1209]] — cardurile funcționează ca stimuli proiectivi care ajută la exprimarea emoțiilor.
+- **aplicare** [[EXP-1217-emotional-touchpoints-emotia-defineste-contactul|EXP-1217]] — pune în practică logica punctelor de contact emoționale.
+- **vezi** [[EXP-1216-capitalul-de-empatie-inlocuieste-people|EXP-1216]] — metoda cere și dezvoltă capitalul de empatie al celui care moderează.
+- **vezi** [[INS-1209-tehnicile-proiective-scot-ce-nu-se-spune-direct|INS-1209]] — cardurile funcționează ca stimuli proiectivi care ajută la exprimarea emoțiilor.
 
 ## Surse
 
-- [[SRC-036]] Wided Batat, *Experiential Marketing*, cap. 9, secț. „Emotional touchpoints toolkit" (Figura 9.2, mini-cazul 9.2, Tabelul 9.1)
+- [[SRC-036-experiential-marketing|SRC-036]] Wided Batat, *Experiential Marketing*, cap. 9, secț. „Emotional touchpoints toolkit" (Figura 9.2, mini-cazul 9.2, Tabelul 9.1)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[EXP-1217-emotional-touchpoints-emotia-defineste-contactul|EXP-1217]] _vezi_ — Emotional touchpoints — punctul de contact se definește prin emoția pe care o produce, nu prin canal
+- [[INS-1208-harta-empatiei-si-modelul-mclaren|INS-1208]] _vezi_ — Capitalul de empatie se formează cu harta empatiei și cu cele șase aspecte ale modelului McLaren
+- [[INS-1209-tehnicile-proiective-scot-ce-nu-se-spune-direct|INS-1209]] _vezi_ — Tehnicile proiective scot la suprafață ce consumatorii nu spun direct, pentru că îi pun să vorbească despre alții
+- [[SRC-036-experiential-marketing|SRC-036]] — Experiential Marketing: Consumer Behavior, Customer Experience and the 7Es
+<!-- backlinks:end -->

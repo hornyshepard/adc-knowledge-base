@@ -51,11 +51,22 @@ Allstate „Mayhem" are identificare târzie a brandului, dar a strâns peste 20
 
 ## Legături
 
-- **fundament** [[BRD-0503]] — brief-ul creativ preia ținta, insight-ul și poziția.
-- **extinde** [[ADV-0502]] — încadrarea pe promovare sau prevenție ca tehnică de amplificare.
-- **vezi** [[BRD-0505]] — dovezile-atribut și dovezile-imagine devin tehnici de execuție.
-- **alternativa** [[STO-0501]] — povestea de brand în care brandul nu e protagonist.
+- **fundament** [[BRD-0503-declaratia-de-pozitionare-are-patru-elemente-tinta-cadru|BRD-0503]] — brief-ul creativ preia ținta, insight-ul și poziția.
+- **extinde** [[ADV-0502-mesajul-trebuie-incadrat-dupa-orientarea-de-promovare-sau|ADV-0502]] — încadrarea pe promovare sau prevenție ca tehnică de amplificare.
+- **vezi** [[BRD-0505-dovezile-bazate-pe-atribute-se-copiaza-cele-bazate-pe|BRD-0505]] — dovezile-atribut și dovezile-imagine devin tehnici de execuție.
+- **alternativa** [[STO-0501-in-povestea-de-brand-brandul-e-oxigen-peste-tot-dar|STO-0501]] — povestea de brand în care brandul nu e protagonist.
 
 ## Surse
 
-- [[SRC-014]] Brian Sternthal, cap. 10, p. 150–154; Cindy Halvorsen, „Managing Brand Communications in a Digital World", cap. 22, p. 289–290, în *Kellogg on Branding in a Hyper-Connected World*
+- [[SRC-014-kellogg-on-branding|SRC-014]] Brian Sternthal, cap. 10, p. 150–154; Cindy Halvorsen, „Managing Brand Communications in a Digital World", cap. 22, p. 289–290, în *Kellogg on Branding in a Hyper-Connected World*
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0502-mesajul-trebuie-incadrat-dupa-orientarea-de-promovare-sau|ADV-0502]] _extinde_ — Mesajul trebuie încadrat după orientarea de promovare sau de prevenție
+- [[ADV-0505-cei-4m-ai-strategiei-media-potrivire-monopolizare-moment|ADV-0505]] _fundament_ — Cei 4M ai strategiei media: potrivire, monopolizare, moment, mentalitate
+- [[BRD-0503-declaratia-de-pozitionare-are-patru-elemente-tinta-cadru|BRD-0503]] _aplicare_ — Declarația de poziționare are patru elemente: țintă, cadru, diferență, dovadă
+- [[BRD-0505-dovezile-bazate-pe-atribute-se-copiaza-cele-bazate-pe|BRD-0505]] _aplicare_ — Dovezile bazate pe atribute se copiază, cele bazate pe imagine se pot deține
+- [[STO-0501-in-povestea-de-brand-brandul-e-oxigen-peste-tot-dar|STO-0501]] _contrazice_ — În povestea de brand, brandul e oxigen: peste tot, dar niciodată protagonist
+- [[SRC-014-kellogg-on-branding|SRC-014]] — Kellogg on Branding in a Hyper-Connected World
+<!-- backlinks:end -->

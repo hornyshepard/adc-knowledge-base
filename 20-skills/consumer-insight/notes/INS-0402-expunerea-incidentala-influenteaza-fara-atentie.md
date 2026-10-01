@@ -43,11 +43,22 @@ Afișul Advil cu un bărbat care se ține de cap: durerea vizibilă declanșeaz�
 
 ## Legături
 
-- **fundament** [[INS-0401]] — etapa preatentivă este prima din modelul în patru trepte.
-- **extinde** [[INS-0403]] — fluența procesării explică de ce expunerea incidentală produce plăcere.
-- **aplicare** [[INS-0412]] — urmele implicite scapă testelor clasice de recall.
-- **aplicare** [[ART-0401]] — principiile de plasare aplicate în bannere și layout.
+- **fundament** [[INS-0401-procesarea-reclamei-are-patru-etape|INS-0401]] — etapa preatentivă este prima din modelul în patru trepte.
+- **extinde** [[INS-0403-fluenta-procesarii-se-simte-ca-placere|INS-0403]] — fluența procesării explică de ce expunerea incidentală produce plăcere.
+- **aplicare** [[INS-0412-recall-ul-e-o-masura-slaba-a-eficientei|INS-0412]] — urmele implicite scapă testelor clasice de recall.
+- **aplicare** [[ART-0401-privirea-modelului-spre-produs-duce-atentia|ART-0401]] — principiile de plasare aplicate în bannere și layout.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 2, p. 55-62
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 2, p. 55-62
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0401-privirea-modelului-spre-produs-duce-atentia|ART-0401]] _fundament_ — Privirea modelului îndreptată spre produs duce atenția la produs; privirea spre cititor o oprește pe chip
+- [[INS-0401-procesarea-reclamei-are-patru-etape|INS-0401]] _extinde_ — Procesarea unei reclame trece prin patru etape, de la scanarea preatentivă la raționamentul elaborativ
+- [[INS-0403-fluenta-procesarii-se-simte-ca-placere|INS-0403]] _fundament_ — Fluența procesării se simte ca plăcere și e atribuită greșit brandului
+- [[INS-0412-recall-ul-e-o-masura-slaba-a-eficientei|INS-0412]] _fundament_ — Recall-ul și recunoașterea sunt măsuri slabe ale eficienței unei reclame
+- [[INS-0433-apelurile-la-frica-mai-multa-frica-mai-multa-persuasiune|INS-0433]] _vezi_ — Apelurile la frică funcționează mai bine cu cât amenințarea e mai gravă — ideea că frica mare „blochează" mesajul nu s-a confirmat
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

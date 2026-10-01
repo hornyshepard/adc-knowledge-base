@@ -43,10 +43,17 @@ O idee din aceeași familie: dușurile „Sprite shower" de pe plajele din Rio, 
 
 ## Legături
 
-- **exemplu** [[EXP-1210]] — aplicare a semnăturii gustative, cea mai greu de folosit dintre cele cinci.
-- **exemplu** [[EXP-1208]] — extraordinarul adus în mijlocul unei rutine ordinare.
-- **vezi** [[EXP-1211]] — o experiență de „enchantment" în termenii matricei teritoriilor.
+- **exemplu** [[EXP-1210-marketingul-senzorial-cinci-semnaturi|EXP-1210]] — aplicare a semnăturii gustative, cea mai greu de folosit dintre cele cinci.
+- **exemplu** [[EXP-1208-experiente-ordinare-vs-extraordinare|EXP-1208]] — extraordinarul adus în mijlocul unei rutine ordinare.
+- **vezi** [[EXP-1211-experience-territory-matrix-respect-centricity|EXP-1211]] — o experiență de „enchantment" în termenii matricei teritoriilor.
 
 ## Surse
 
-- [[SRC-036]] Wided Batat, *Experiential Marketing*, cap. 3, mini-cazul 3.14 „Badoit… and the launch of a taste marketing campaign"; cap. 4, mini-cazul 4.2 (Sprite)
+- [[SRC-036-experiential-marketing|SRC-036]] Wided Batat, *Experiential Marketing*, cap. 3, mini-cazul 3.14 „Badoit… and the launch of a taste marketing campaign"; cap. 4, mini-cazul 4.2 (Sprite)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[EXP-1210-marketingul-senzorial-cinci-semnaturi|EXP-1210]] _vezi_ — Marketingul senzorial construiește cinci semnături de brand — olfactivă, auditivă, tactilă, vizuală, gustativă
+- [[SRC-036-experiential-marketing|SRC-036]] — Experiential Marketing: Consumer Behavior, Customer Experience and the 7Es
+<!-- backlinks:end -->

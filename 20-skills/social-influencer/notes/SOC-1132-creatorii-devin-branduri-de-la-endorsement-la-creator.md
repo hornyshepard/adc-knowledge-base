@@ -46,10 +46,18 @@ Comedianții Rhett și Link au devenit Mythical Entertainment; Fine Brothers au 
 
 ## Legături
 
-- **extinde** [[SOC-1113]] — granița dintre creator și brand se estompează.
-- **vezi** [[SOC-1121]] — co-creația de produs e o etapă a ciclului de lansare.
-- **vezi** [[SOC-1128]] — creator economy schimbă cine deține relația cu talentul.
+- **extinde** [[SOC-1113-influencer-marketingul-nu-este-endorsement-de-celebritate|SOC-1113]] — granița dintre creator și brand se estompează.
+- **vezi** [[SOC-1121-influencerii-pot-fi-folositi-pe-tot-ciclul-de-lansare-al|SOC-1121]] — co-creația de produs e o etapă a ciclului de lansare.
+- **vezi** [[SOC-1128-cine-detine-influencer-marketingul-pr-media-agentia|SOC-1128]] — creator economy schimbă cine deține relația cu talentul.
 
 ## Surse
 
-- [[SRC-035]] Glenister, *Influencer Marketing Strategy*, Foreword (E. Dahan), p. 14; cap. 1, p. 30, 38–39; cap. 5, p. 169, 178–179; cap. 8, p. 228–229; cap. 9, p. 242–256
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] Glenister, *Influencer Marketing Strategy*, Foreword (E. Dahan), p. 14; cap. 1, p. 30, 38–39; cap. 5, p. 169, 178–179; cap. 8, p. 228–229; cap. 9, p. 242–256
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[SOC-1113-influencer-marketingul-nu-este-endorsement-de-celebritate|SOC-1113]] _vezi_ — Influencer marketingul nu este endorsement de celebritate, afiliere sau direct marketing
+- [[SOC-1121-influencerii-pot-fi-folositi-pe-tot-ciclul-de-lansare-al|SOC-1121]] _vezi_ — Influencerii pot fi folosiți pe tot ciclul de lansare al unui produs
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] — Influencer Marketing Strategy: How influencers can help grow your business
+<!-- backlinks:end -->

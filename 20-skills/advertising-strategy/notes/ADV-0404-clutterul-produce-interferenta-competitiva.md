@@ -46,10 +46,19 @@ Studiul Keller: indiciul vizual din reclamă pe colțul ambalajului a funcționa
 
 ## Legături
 
-- **fundament** [[INS-0411]] — interferența e o teorie a uitării din cercetarea memoriei.
-- **vezi** [[ADV-0405]] — repetiția și poziția în calup sunt alte arme contra clutter-ului.
-- **vezi** [[INS-0404]] — saliența ajută stimulul să iasă din clutter.
+- **fundament** [[INS-0411-memoria-retine-ce-procesam-in-profunzime|INS-0411]] — interferența e o teorie a uitării din cercetarea memoriei.
+- **vezi** [[ADV-0405-repetitia-spatiata-si-pozitia-in-calup|ADV-0405]] — repetiția și poziția în calup sunt alte arme contra clutter-ului.
+- **vezi** [[INS-0404-salienta-vividness-noutate-capteaza-atentia|INS-0404]] — saliența ajută stimulul să iasă din clutter.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 3, p. 118-122
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 3, p. 118-122
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0405-repetitia-spatiata-si-pozitia-in-calup|ADV-0405]] _vezi_ — Repetiția spațiată bate repetiția masivă, iar primul spot din calup e cel mai bine reținut
+- [[ADV-0409-sponsorizarea-congruenta-avantajeaza-liderul|ADV-0409]] _vezi_ — Sponsorizarea congruentă e ținută minte mai bine, dar poate fi atribuită greșit liderului categoriei
+- [[INS-0404-salienta-vividness-noutate-capteaza-atentia|INS-0404]] _vezi_ — Saliența, vividness-ul și noutatea captează atenția involuntar, dar saliența dispare când toți copiază
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

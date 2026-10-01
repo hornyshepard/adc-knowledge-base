@@ -46,11 +46,22 @@ Pâinea Harry's demonstrează „moale și pufoasă" cu imaginea unui copil care
 
 ## Legături
 
-- **fundament** [[BRD-0503]] — RTB este al patrulea element al declarației de poziționare.
-- **extinde** [[BRD-0507]] — trecerea de la dovadă-atribut la dovadă-imagine e o strategie de susținere a poziției.
-- **vezi** [[BRD-0511]] — brandurile-ingredient fac un atribut imposibil de copiat legal.
-- **aplicare** [[ADV-0503]] — dovezile se transformă în tehnici de amplificare a mesajului.
+- **fundament** [[BRD-0503-declaratia-de-pozitionare-are-patru-elemente-tinta-cadru|BRD-0503]] — RTB este al patrulea element al declarației de poziționare.
+- **extinde** [[BRD-0507-o-pozitie-se-sustine-prin-instantiere-moderna-schimbarea|BRD-0507]] — trecerea de la dovadă-atribut la dovadă-imagine e o strategie de susținere a poziției.
+- **vezi** [[BRD-0511-arhitectura-de-brand-de-la-branded-house-la-house-of-brands|BRD-0511]] — brandurile-ingredient fac un atribut imposibil de copiat legal.
+- **aplicare** [[ADV-0503-strategia-creativa-in-trei-pasi-atentie-amplificare|ADV-0503]] — dovezile se transformă în tehnici de amplificare a mesajului.
 
 ## Surse
 
-- [[SRC-014]] Alice M. Tybout, „Brand Positioning", cap. 1 în *Kellogg on Branding in a Hyper-Connected World*, p. 7–9
+- [[SRC-014-kellogg-on-branding|SRC-014]] Alice M. Tybout, „Brand Positioning", cap. 1 în *Kellogg on Branding in a Hyper-Connected World*, p. 7–9
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0503-strategia-creativa-in-trei-pasi-atentie-amplificare|ADV-0503]] _vezi_ — Strategia creativă în trei pași: atenție, amplificare, legătura cu brandul
+- [[BRD-0503-declaratia-de-pozitionare-are-patru-elemente-tinta-cadru|BRD-0503]] _extinde_ — Declarația de poziționare are patru elemente: țintă, cadru, diferență, dovadă
+- [[BRD-0506-ecuatia-valorii-brandurile-concureaza-la-numarator-sau-la|BRD-0506]] _vezi_ — Ecuația valorii: brandurile concurează la numărător sau la numitor
+- [[BRD-0507-o-pozitie-se-sustine-prin-instantiere-moderna-schimbarea|BRD-0507]] _extinde_ — O poziție se susține prin instanțiere modernă, schimbarea dovezii și laddering
+- [[BRD-0511-arhitectura-de-brand-de-la-branded-house-la-house-of-brands|BRD-0511]] _vezi_ — Arhitectura de brand: de la branded house la house of brands
+- [[SRC-014-kellogg-on-branding|SRC-014]] — Kellogg on Branding in a Hyper-Connected World
+<!-- backlinks:end -->

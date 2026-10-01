@@ -48,10 +48,18 @@ Campania antifumat din Thailanda: copii le cereau fumătorilor un foc; adulții 
 
 ## Legături
 
-- **fundament** [[BRD-0517]] — motivațiile fundamentale (competență, comunitate, mulțumire) precedă încadrarea.
-- **extinde** [[ADV-0503]] — încadrarea e o tehnică de amplificare din strategia creativă.
-- **vezi** [[INS-0501]] — orientarea țintei se descoperă prin cercetare calitativă.
+- **fundament** [[BRD-0517-matricea-motivelor-coerenta-agentie-si-comuniune-spre-sine|BRD-0517]] — motivațiile fundamentale (competență, comunitate, mulțumire) precedă încadrarea.
+- **extinde** [[ADV-0503-strategia-creativa-in-trei-pasi-atentie-amplificare|ADV-0503]] — încadrarea e o tehnică de amplificare din strategia creativă.
+- **vezi** [[INS-0501-insight-ul-vine-din-urmarirea-insistenta-a-lui-de-ce-si-a|INS-0501]] — orientarea țintei se descoperă prin cercetare calitativă.
 
 ## Surse
 
-- [[SRC-014]] Brian Sternthal, „Building Strong Brands through Advertising Strategy in the Online Age", cap. 10 în *Kellogg on Branding in a Hyper-Connected World*, p. 146–148, 152
+- [[SRC-014-kellogg-on-branding|SRC-014]] Brian Sternthal, „Building Strong Brands through Advertising Strategy in the Online Age", cap. 10 în *Kellogg on Branding in a Hyper-Connected World*, p. 146–148, 152
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0503-strategia-creativa-in-trei-pasi-atentie-amplificare|ADV-0503]] _extinde_ — Strategia creativă în trei pași: atenție, amplificare, legătura cu brandul
+- [[BRD-0517-matricea-motivelor-coerenta-agentie-si-comuniune-spre-sine|BRD-0517]] _aplicare_ — Matricea motivelor: coerență, agenție și comuniune, spre sine sau spre ceilalți
+- [[SRC-014-kellogg-on-branding|SRC-014]] — Kellogg on Branding in a Hyper-Connected World
+<!-- backlinks:end -->

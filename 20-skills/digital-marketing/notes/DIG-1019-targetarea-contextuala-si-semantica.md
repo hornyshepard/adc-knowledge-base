@@ -46,11 +46,21 @@ O firmă alimentară a cumpărat pe un site de știri respectabil reclame la un 
 
 ## Legături
 
-- **extinde** [[DIG-1018]] — prima și a doua dintre cele cinci familii de targetare.
-- **vezi** [[DIG-1027]] — brand safety ca setare de calitate a campaniei.
-- **vezi** [[DIG-1036]] — cazul XXXL Sports, un parcurs contextual pe site-uri media.
-- **vezi** [[DIG-1011]] — congruența cu contextul crește CTR-ul.
+- **extinde** [[DIG-1018-cinci-familii-de-targetare-fara-cookie-uri-terte|DIG-1018]] — prima și a doua dintre cele cinci familii de targetare.
+- **vezi** [[DIG-1027-brand-safety-viewability-si-plafonul-de-frecventa|DIG-1027]] — brand safety ca setare de calitate a campaniei.
+- **vezi** [[DIG-1036-publicitatea-nativa-credibilitate-versus-transparenta|DIG-1036]] — cazul XXXL Sports, un parcurs contextual pe site-uri media.
+- **vezi** [[DIG-1011-reclama-si-pagina-de-destinatie-spun-acelasi-lucru|DIG-1011]] — congruența cu contextul crește CTR-ul.
 
 ## Surse
 
-- [[SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 1.3.1–1.3.2 (p. 20–24)
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 1.3.1–1.3.2 (p. 20–24)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-1011-reclama-si-pagina-de-destinatie-spun-acelasi-lucru|DIG-1011]] _vezi_ — Reclama, pagina de destinație și contextul în care apare reclama trebuie să spună același lucru — incongruența rupe conversia și încrederea
+- [[DIG-1018-cinci-familii-de-targetare-fara-cookie-uri-terte|DIG-1018]] _vezi_ — Fără cookie-uri terțe rămân cinci familii de targetare, iar profilul pe cookie descria oricum un dispozitiv, nu un om
+- [[DIG-1027-brand-safety-viewability-si-plafonul-de-frecventa|DIG-1027]] _vezi_ — Setările de calitate decid dacă impresiile plătite contează — brand safety, vizibilitate (viewability) și plafonul de frecvență
+- [[DIG-1036-publicitatea-nativa-credibilitate-versus-transparenta|DIG-1036]] _vezi_ — Publicitatea nativă își ia credibilitatea din faptul că seamănă cu conținutul editorial — exact lucrul pe care regulile de transparență îl limitează
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] — Digital Advertising in the Post-cookie Era: Strategic Campaign Planning Across the Customer Journey
+<!-- backlinks:end -->

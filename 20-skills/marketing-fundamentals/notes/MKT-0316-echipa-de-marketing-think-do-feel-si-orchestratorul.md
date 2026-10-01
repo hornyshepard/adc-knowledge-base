@@ -46,10 +46,17 @@ La evenimente importante, Wuebben recomandă o „sală de control" (*mission co
 
 ## Legături
 
-- **vezi** [[CLI-0301]] — aceeași logică de rețea flexibilă se aplică agenției.
-- **vezi** [[IDE-0301]] — echipele amestecate contrazic mitul geniului solitar.
-- **extinde** [[MKT-0315]] — echipa e răspunsul organizațional la schimbările prezise.
+- **vezi** [[CLI-0301-agentia-viitorului-sase-forte-care-ii-muta-modelul|CLI-0301]] — aceeași logică de rețea flexibilă se aplică agenției.
+- **vezi** [[IDE-0301-geniul-e-un-sport-de-echipa-trei-mituri-ale-creativitatii|IDE-0301]] — echipele amestecate contrazic mitul geniului solitar.
+- **extinde** [[MKT-0315-zece-schimbari-prezise-pentru-2021-de-la-branduri-la-platforme|MKT-0315]] — echipa e răspunsul organizațional la schimbările prezise.
 
 ## Surse
 
-- [[SRC-008]] Jon Wuebben, *Future Marketing: Winning in the Prosumer Age*, cap. 10; cap. 15
+- [[SRC-008-future-marketing|SRC-008]] Jon Wuebben, *Future Marketing: Winning in the Prosumer Age*, cap. 10; cap. 15
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CLI-0301-agentia-viitorului-sase-forte-care-ii-muta-modelul|CLI-0301]] _vezi_ — Agenția viitorului: șase forțe care îi schimbă modelul de afaceri
+- [[SRC-008-future-marketing|SRC-008]] — Future Marketing: Winning in the Prosumer Age
+<!-- backlinks:end -->

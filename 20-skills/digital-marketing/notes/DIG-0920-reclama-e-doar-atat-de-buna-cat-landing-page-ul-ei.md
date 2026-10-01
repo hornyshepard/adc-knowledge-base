@@ -46,11 +46,23 @@ Pentru o firmă de software B2B, MarketingExperiments a optimizat întâi anunț
 
 ## Legături
 
-- **extinde** [[DIG-0919]] — dezvoltă etapa a treia din campania de paid search.
-- **vezi** [[DIG-0918]] — experiența paginii intră direct în Quality Score.
-- **vezi** [[DIG-0908]] — landing page-ul e primul punct de abandon din pâlnie.
-- **vezi** [[DIG-0913]] — aceleași convenții de lectură se aplică și aici.
+- **extinde** [[DIG-0919-campania-de-paid-search-si-paid-social-are-cinci-etape|DIG-0919]] — dezvoltă etapa a treia din campania de paid search.
+- **vezi** [[DIG-0918-ad-rank-si-quality-score-pozitia-se-castiga-cu-relevanta|DIG-0918]] — experiența paginii intră direct în Quality Score.
+- **vezi** [[DIG-0908-palnia-de-conversie-arata-unde-pleaca-vizitatorii|DIG-0908]] — landing page-ul e primul punct de abandon din pâlnie.
+- **vezi** [[DIG-0913-pagina-web-se-citeste-dupa-conventii-triunghiul-de-aur|DIG-0913]] — aceleași convenții de lectură se aplică și aici.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 8, p. 226-227; cap. 13, p. 369-372, 374
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 8, p. 226-227; cap. 13, p. 369-372, 374
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0908-palnia-de-conversie-arata-unde-pleaca-vizitatorii|DIG-0908]] _aplicare_ — Pâlnia de conversie arată unde pleacă vizitatorii; treaba marketerului e să afle de ce
+- [[DIG-0913-pagina-web-se-citeste-dupa-conventii-triunghiul-de-aur|DIG-0913]] _vezi_ — Pagina web se citește după convenții — triunghiul de aur, above the fold, logo în stânga sus
+- [[DIG-0918-ad-rank-si-quality-score-pozitia-se-castiga-cu-relevanta|DIG-0918]] _aplicare_ — În Google Ads poziția se câștigă cu relevanță, nu doar cu bani — Ad Rank combină licitația cu Quality Score
+- [[DIG-0919-campania-de-paid-search-si-paid-social-are-cinci-etape|DIG-0919]] _aplicare_ — Campania de paid search și paid social are cinci etape — de la cercetarea cuvintelor-cheie la testare
+- [[DIG-0931-demand-generation-de-la-continut-la-lead-calificat|DIG-0931]] _aplicare_ — Demand generation duce prospectul de la conținut la lead calificat în șase pași, iar în B2B decizia e luată de un grup
+- [[DIG-0933-testul-ab-o-singura-variabila-si-semnificatie-statistica|DIG-0933]] _aplicare_ — Testul A/B schimbă o singură variabilă, pornește de la o ipoteză și așteaptă semnificația statistică
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+<!-- backlinks:end -->

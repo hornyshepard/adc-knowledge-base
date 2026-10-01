@@ -53,10 +53,17 @@ Pentru un chestionar de satisfacție la ieșirea dintr-un parc de distracții, a
 
 ## Legături
 
-- **vezi** [[ADV-0618]] — post-testele sunt studii cantitative cu chestionar scurt.
-- **vezi** [[INS-0602]] — insight-urile vin mai ales din studiile calitative.
-- **vezi** [[INS-0601]] — interviul în profunzime moștenește tehnicile cercetării motivaționale.
+- **vezi** [[ADV-0618-post-testul-masoara-urma-reclamei-prin-cinci-scoruri|ADV-0618]] — post-testele sunt studii cantitative cu chestionar scurt.
+- **vezi** [[INS-0602-insight-ul-e-o-dilema-a-consumatorului-pe-care-brandul-o-rezolva|INS-0602]] — insight-urile vin mai ales din studiile calitative.
+- **vezi** [[INS-0601-cercetarea-motivationala-cauta-de-ce-ul-ascuns-al-cumpararii|INS-0601]] — interviul în profunzime moștenește tehnicile cercetării motivaționale.
 
 ## Surse
 
-- [[SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 45 (p. 144–147), outil 46 (p. 148–150)
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 45 (p. 144–147), outil 46 (p. 148–150)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0618-post-testul-masoara-urma-reclamei-prin-cinci-scoruri|ADV-0618]] _vezi_ — Post-testul măsoară urma lăsată de reclamă prin cinci scoruri, bilanțul măsoară campania întreagă
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] — La boîte à outils de la publicité
+<!-- backlinks:end -->

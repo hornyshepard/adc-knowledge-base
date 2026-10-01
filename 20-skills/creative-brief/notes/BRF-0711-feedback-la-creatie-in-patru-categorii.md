@@ -35,7 +35,7 @@ McTigue și Rucker descriu o ședință tipică. Agenția a avut o lună, ideea 
 
 - Fă un tabel cu patru coloane pe care îl completezi în timpul prezentării.
 - Dacă ești junior și vorbești primul, spune puțin: ideea, nu locația sau casting-ul.
-- Folosește vocabularul ADPLAN ([[BRF-0712]]) ca să transformi „nu-mi place" într-o întrebare de efect.
+- Folosește vocabularul ADPLAN ([[BRF-0712-adplan-sase-intrebari-pentru-o-executie-on-brief|BRF-0712]]) ca să transformi „nu-mi place" într-o întrebare de efect.
 
 ## Întrebări
 
@@ -44,11 +44,22 @@ McTigue și Rucker descriu o ședință tipică. Agenția a avut o lună, ideea 
 
 ## Legături
 
-- **aplicare** [[BRF-0701]] — brief-ul e reperul fiecărei ședințe de feedback.
-- **extinde** [[BRF-0712]] — ADPLAN dă conținutul întrebărilor și al semnalelor roșii.
-- **vezi** [[CLI-0701]] — feedback-ul bun construiește încrederea dintre client și agenție.
-- **exemplu** [[BRF-0714]] — prima reclamă Stark, „pe brief, dar slabă", e punctul de plecare.
+- **aplicare** [[BRF-0701-brief-ul-creativ-este-planul-de-arhitect-al-executiei|BRF-0701]] — brief-ul e reperul fiecărei ședințe de feedback.
+- **extinde** [[BRF-0712-adplan-sase-intrebari-pentru-o-executie-on-brief|BRF-0712]] — ADPLAN dă conținutul întrebărilor și al semnalelor roșii.
+- **vezi** [[CLI-0701-clientul-bun-primeste-munca-buna|CLI-0701]] — feedback-ul bun construiește încrederea dintre client și agenție.
+- **exemplu** [[BRF-0714-cazul-stark-cloud-solutions-de-la-brief-bun-la-excelent|BRF-0714]] — prima reclamă Stark, „pe brief, dar slabă", e punctul de plecare.
 
 ## Surse
 
-- [[SRC-022]] Kevin McTigue, Derek D. Rucker, *The Creative Brief Blueprint*, cap. 8 „Agency Relationships and Creative Feedback"
+- [[SRC-022-the-creative-brief-blueprint|SRC-022]] Kevin McTigue, Derek D. Rucker, *The Creative Brief Blueprint*, cap. 8 „Agency Relationships and Creative Feedback"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRF-0701-brief-ul-creativ-este-planul-de-arhitect-al-executiei|BRF-0701]] _aplicare_ — Brief-ul creativ este planul de arhitect al execuției — hartă pentru creație și criteriu de evaluare
+- [[BRF-0712-adplan-sase-intrebari-pentru-o-executie-on-brief|BRF-0712]] _extinde_ — ADPLAN — șase întrebări pentru o execuție care e „on brief" dar tot poate eșua
+- [[BRF-0714-cazul-stark-cloud-solutions-de-la-brief-bun-la-excelent|BRF-0714]] _vezi_ — Cazul Stark Cloud Solutions — cum devine un brief „bun" unul excelent, secțiune cu secțiune
+- [[BRF-0719-brief-ul-singleton-ogilvy-mather-rol-insight-punct-unic-dovada|BRF-0719]] — Brief-ul Singleton Ogilvy & Mather — rolul comunicării, un insight util, gândește/simte/fă și punctul unic cu dovada lui
+- [[CLI-0701-clientul-bun-primeste-munca-buna|CLI-0701]] _vezi_ — Clientul bun primește munca bună — aliniere de la început, încredere și risc strategic
+- [[SRC-022-the-creative-brief-blueprint|SRC-022]] — The Creative Brief Blueprint
+<!-- backlinks:end -->

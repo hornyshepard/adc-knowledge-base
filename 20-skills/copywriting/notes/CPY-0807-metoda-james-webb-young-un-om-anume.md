@@ -48,11 +48,21 @@ Seria „Tell It to Sweeney” (din 1922) a convins advertiserii conservatori c�
 
 ## Legături
 
-- **fundament** [[HIS-0815]] — atenția cititorului precis, primul pas al modelelor de efect.
-- **aplicare** [[CPY-0804]] — Young nu se temea de textul lung, pentru că știa cui îi scrie.
-- **vezi** [[CPY-0812]] — vocea personală care vorbește unui singur om.
-- **vezi** [[HIS-0816]] — planificatorul strategic aduce omul acesta în brief.
+- **fundament** [[HIS-0815-aida-inventata-de-copywriteri|HIS-0815]] — atenția cititorului precis, primul pas al modelelor de efect.
+- **aplicare** [[CPY-0804-text-lung-sau-scurt-lungimea-depinde-de-interes|CPY-0804]] — Young nu se temea de textul lung, pentru că știa cui îi scrie.
+- **vezi** [[CPY-0812-vocea-personala-a-proprietarului|CPY-0812]] — vocea personală care vorbește unui singur om.
+- **vezi** [[HIS-0816-account-planning-intrebari-nu-raspunsuri|HIS-0816]] — planificatorul strategic aduce omul acesta în brief.
 
 ## Surse
 
-- [[SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Odorono”, „Webb Young — Hand Woven by the Mountain People of New Mexico”, „Farm & Fireside”, „New York Daily News — Tell It to Sweeney”, „Hamilton Watch”, „Sherwin Cody”
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Odorono”, „Webb Young — Hand Woven by the Mountain People of New Mexico”, „Farm & Fireside”, „New York Daily News — Tell It to Sweeney”, „Hamilton Watch”, „Sherwin Cody”
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0804-text-lung-sau-scurt-lungimea-depinde-de-interes|CPY-0804]] _vezi_ — Text lung sau text scurt? Lungimea depinde de interes, nu de o regulă
+- [[CPY-0812-vocea-personala-a-proprietarului|CPY-0812]] _extinde_ — Vocea personală a proprietarului bate tonul corporatist
+- [[HIS-0815-aida-inventata-de-copywriteri|HIS-0815]] _aplicare_ — AIDA a fost inventată de copywriteri, nu de psihologi — genealogia modelelor de efect
+- [[HIS-0816-account-planning-intrebari-nu-raspunsuri|HIS-0816]] _aplicare_ — Planificarea strategică (account planning) a mutat cercetarea de la răspunsuri la întrebări
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] — The 100 Greatest Advertisements 1852–1958: Who Wrote Them and What They Did
+<!-- backlinks:end -->

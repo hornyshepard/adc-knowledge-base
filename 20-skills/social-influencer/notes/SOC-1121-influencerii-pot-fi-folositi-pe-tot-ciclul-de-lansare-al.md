@@ -48,10 +48,18 @@ Pentru noul îndulcitor Purecane, agenția MG Empower a invitat patru nutrițion
 
 ## Legături
 
-- **aplicare** [[SOC-1114]] — fiecare nivel de reach primește un rol diferit pe ciclul de lansare.
-- **vezi** [[DIG-1101]] — etapele corespund pașilor customer journey-ului (inspirație, informare, verificare).
-- **vezi** [[SOC-1132]] — co-creația de produs cu influenceri duce spre creator economy.
+- **aplicare** [[SOC-1114-nivelurile-de-influenceri-dupa-reach-nano-micro-mid-tier|SOC-1114]] — fiecare nivel de reach primește un rol diferit pe ciclul de lansare.
+- **vezi** [[DIG-1101-customer-journey-ul-digital-trebuie-scurtat-fiecare-pas-e-o|DIG-1101]] — etapele corespund pașilor customer journey-ului (inspirație, informare, verificare).
+- **vezi** [[SOC-1132-creatorii-devin-branduri-de-la-endorsement-la-creator|SOC-1132]] — co-creația de produs cu influenceri duce spre creator economy.
 
 ## Surse
 
-- [[SRC-035]] Glenister, *Influencer Marketing Strategy*, cap. 1 (J. Sinkwitz), p. 61; cap. 3, p. 122–125; cap. 11, p. 301
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] Glenister, *Influencer Marketing Strategy*, cap. 1 (J. Sinkwitz), p. 61; cap. 3, p. 122–125; cap. 11, p. 301
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[SOC-1114-nivelurile-de-influenceri-dupa-reach-nano-micro-mid-tier|SOC-1114]] _aplicare_ — Nivelurile de influenceri după reach: nano, micro, mid-tier, macro, mega
+- [[SOC-1132-creatorii-devin-branduri-de-la-endorsement-la-creator|SOC-1132]] _vezi_ — Creatorii devin branduri: de la endorsement la creator economy
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] — Influencer Marketing Strategy: How influencers can help grow your business
+<!-- backlinks:end -->

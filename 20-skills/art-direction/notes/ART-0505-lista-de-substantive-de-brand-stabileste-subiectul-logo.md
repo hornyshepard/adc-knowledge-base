@@ -48,10 +48,19 @@ Pentru New South Outdoor (panouri publicitare), concurenții aveau logo-uri tipo
 
 ## Legături
 
-- **fundament** [[ART-0501]] — substantivele trebuie să servească asocierile-țintă ale brandului.
-- **extinde** [[ART-0506]] — substantivele aprobate se combină prin cinci tehnici.
-- **aplicare** [[ART-0507]] — lista este primul pas din procesul de brand mark.
+- **fundament** [[ART-0501-designul-de-brand-lucreaza-in-sistemul-1-si-porneste-de-la|ART-0501]] — substantivele trebuie să servească asocierile-țintă ale brandului.
+- **extinde** [[ART-0506-cinci-tehnici-de-a-combina-doua-substantive-intr-un-semn|ART-0506]] — substantivele aprobate se combină prin cinci tehnici.
+- **aplicare** [[ART-0507-procesul-de-brand-mark-cincizeci-de-schite-inainte-de-orice|ART-0507]] — lista este primul pas din procesul de brand mark.
 
 ## Surse
 
-- [[SRC-017]] Allan Peters, *Logos That Last*, cap. 2 „Brand Mark Process" (secțiunile „Brand Noun Process", „An Unexpected Twist"); cap. 8 „Case Studies" (New South)
+- [[SRC-017-logos-that-last|SRC-017]] Allan Peters, *Logos That Last*, cap. 2 „Brand Mark Process" (secțiunile „Brand Noun Process", „An Unexpected Twist"); cap. 8 „Case Studies" (New South)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0506-cinci-tehnici-de-a-combina-doua-substantive-intr-un-semn|ART-0506]] _fundament_ — Cinci tehnici de a combina două substantive într-un semn original
+- [[ART-0507-procesul-de-brand-mark-cincizeci-de-schite-inainte-de-orice|ART-0507]] _fundament_ — Procesul de brand mark: cincizeci de schițe înainte de orice finisare
+- [[PIT-0501-logo-ul-puternic-se-vinde-condus-de-designer-nu-dictat-de|PIT-0501]] _vezi_ — Logo-ul puternic se vinde condus de designer, nu dictat de client
+- [[SRC-017-logos-that-last|SRC-017]] — Logos That Last: How to Create Iconic Visual Branding
+<!-- backlinks:end -->

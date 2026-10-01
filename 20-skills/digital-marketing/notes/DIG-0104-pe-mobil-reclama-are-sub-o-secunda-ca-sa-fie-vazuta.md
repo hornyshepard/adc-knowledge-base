@@ -49,10 +49,17 @@ Wayfair (Social & Mobile Marketing 2.1, aceeași pagină) postează pe Facebook 
 
 ## Legături
 
-- **vezi** [[ADV-0107]] — fiecare medium cere execuții adaptate felului în care e folosit.
-- **vezi** [[INS-0107]] — implicarea mică înseamnă procesare periferică, pe indicii, exact ce descrie studiul.
-- **vezi** [[DIG-0101]] — „Excite" pe mobil înseamnă oprirea derulării.
+- **vezi** [[ADV-0107-mixul-media-mass-sau-nisa-continuu-flighting-pulsing|ADV-0107]] — fiecare medium cere execuții adaptate felului în care e folosit.
+- **vezi** [[INS-0107-implicarea-decide-procesarea-centrala-sau-periferica|INS-0107]] — implicarea mică înseamnă procesare periferică, pe indicii, exact ce descrie studiul.
+- **vezi** [[DIG-0101-cadrul-4e-entuziasmeaza-educa-experienta-implica|DIG-0101]] — „Excite" pe mobil înseamnă oprirea derulării.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 2, p. 46-47 (Marketing Analytics 2.1, Social & Mobile Marketing 2.1)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 2, p. 46-47 (Marketing Analytics 2.1, Social & Mobile Marketing 2.1)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0107-mixul-media-mass-sau-nisa-continuu-flighting-pulsing|ADV-0107]] _vezi_ — Planificarea media alege mixul (mass sau nișă, fiecare medium cu punctele lui tari) și ritmul — continuu, în valuri sau în pulsuri
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+<!-- backlinks:end -->

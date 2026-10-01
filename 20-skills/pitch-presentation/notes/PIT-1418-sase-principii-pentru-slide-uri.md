@@ -47,10 +47,22 @@ Colenso a folosit 67 de slide-uri într-un slot de 45 de minute (a terminat la 4
 
 ## Legături
 
-- **fundament** [[PIT-1412]] — vizualurile sunt alese ca „stardust” înainte de a fi așezate pe slide.
-- **vezi** [[PIT-1419]] — slide-urile nu înlocuiesc framework-ul din care vorbești.
-- **vezi** [[PIT-1426]] — în prezentările virtuale, slide-urile se scot periodic de pe ecran.
+- **fundament** [[PIT-1412-stardust-dovezile-care-fac-mesajul-memorabil|PIT-1412]] — vizualurile sunt alese ca „stardust” înainte de a fi așezate pe slide.
+- **vezi** [[PIT-1419-framework-uri-nu-scripturi-memorate|PIT-1419]] — slide-urile nu înlocuiesc framework-ul din care vorbești.
+- **vezi** [[PIT-1426-prezentarea-virtuala-si-hibrida|PIT-1426]] — în prezentările virtuale, slide-urile se scot periodic de pe ecran.
 
 ## Surse
 
-- [[SRC-043]] Dominic Colenso, *Cut-Through*, cap. 3 („Don't kill them with boring slides”)
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] Dominic Colenso, *Cut-Through*, cap. 3 („Don't kill them with boring slides”)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PIT-1412-stardust-dovezile-care-fac-mesajul-memorabil|PIT-1412]] _vezi_ — „Stardust” — cinci tipuri de dovezi care fac un mesaj memorabil
+- [[PIT-1426-prezentarea-virtuala-si-hibrida|PIT-1426]] _vezi_ — Prezentarea virtuală cere gândire de editor TV — privire în cameră, cadru strâns, schimbări de „plan”
+- [[PRT-1402-portofoliul-diferit-de-prezentarea-portofoliului|PRT-1402]] _vezi_ — Portofoliul trimis dinainte și prezentarea portofoliului sunt două documente diferite
+- [[PRT-1406-portofoliul-proiectat-pentru-30-de-secunde|PRT-1406]] _vezi_ — Portofoliul se proiectează pentru 30 de secunde — un fast track și un slow track
+- [[PRT-1423-trei-tipuri-de-portofoliu-sample-full-leave-behind|PRT-1423]] _vezi_ — Un candidat are nevoie de trei tipuri de portofoliu — sample, full și leave-behind
+- [[PRT-1425-portofoliul-e-un-proiect-de-design-structura-invizibila|PRT-1425]] _vezi_ — Portofoliul este el însuși un proiect de design — structura invizibilă lasă munca să vorbească, decorul o acoperă
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] — Cut-Through: The pitch and presentation playbook
+<!-- backlinks:end -->

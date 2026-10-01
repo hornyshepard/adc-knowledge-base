@@ -46,10 +46,20 @@ Același vizual, un cuplu pe o bancă în ploaie, poate fi citit ca melancolie, 
 
 ## Legături
 
-- **fundament** [[CPY-0602]] — denotația și conotația corespund funcțiilor referențială și poetică.
-- **vezi** [[BRD-0601]] — Gardner și Levy cereau deja ca textul să fie gândit și prin sensurile lui simbolice.
-- **vezi** [[INS-0604]] — al doilea grad și umorul sunt procedee de atenție.
+- **fundament** [[CPY-0602-cele-sase-functii-ale-lui-jakobson-aplicate-mesajului-publicitar|CPY-0602]] — denotația și conotația corespund funcțiilor referențială și poetică.
+- **vezi** [[BRD-0601-gardner-levy-brandul-e-un-simbol-complex-de-asocieri|BRD-0601]] — Gardner și Levy cereau deja ca textul să fie gândit și prin sensurile lui simbolice.
+- **vezi** [[INS-0604-perceptia-e-selectiva-reclama-are-nevoie-de-procedee-de-atentie|INS-0604]] — al doilea grad și umorul sunt procedee de atenție.
 
 ## Surse
 
-- [[SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 18 (p. 64–67), dosarul 3 (p. 53)
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 18 (p. 64–67), dosarul 3 (p. 53)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0601-strategy-visual-demonstratia-vizuala-a-promisiunii|ART-0601]] _vezi_ — „Strategy visual" — demonstrația vizuală a promisiunii e Graalul reclamei, pentru că ce vezi crezi fără să decodezi
+- [[CPY-0602-cele-sase-functii-ale-lui-jakobson-aplicate-mesajului-publicitar|CPY-0602]] _vezi_ — Orice mesaj publicitar ierarhizează cele șase funcții ale limbajului (Jakobson) — și una trebuie să domine
+- [[CPY-0608-mesajul-memorabil-repetitie-rima-chunking-sincronizare|CPY-0608]] _vezi_ — Un mesaj devine memorabil prin repetiție, rimă, ritm, „chunking", răsucirea unei expresii cunoscute și sincronizare audio-video
+- [[INS-0604-perceptia-e-selectiva-reclama-are-nevoie-de-procedee-de-atentie|INS-0604]] _vezi_ — Percepția e selectivă, așa că reclama are nevoie de procedee de atenție — emoție, personificare, spectacol, surpriză, umor
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] — La boîte à outils de la publicité
+<!-- backlinks:end -->

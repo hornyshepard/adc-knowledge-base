@@ -51,10 +51,19 @@ Ogilvy a preluat de la Gardner și Levy ideile de „simbol complex", segmentare
 
 ## Legături
 
-- **fundament** [[INS-0601]] — articolul vine din școala cercetării motivaționale.
-- **vezi** [[ADV-0608]] — Ogilvy transformă ideea în filozofie publicitară.
-- **vezi** [[ADV-0601]] — textul fondează paradigma personality branding.
+- **fundament** [[INS-0601-cercetarea-motivationala-cauta-de-ce-ul-ascuns-al-cumpararii|INS-0601]] — articolul vine din școala cercetării motivaționale.
+- **vezi** [[ADV-0608-brand-image-fiecare-reclama-contribuie-la-simbolul-brandului|ADV-0608]] — Ogilvy transformă ideea în filozofie publicitară.
+- **vezi** [[ADV-0601-trei-paradigme-de-brand-management-produs-personalitate|ADV-0601]] — textul fondează paradigma personality branding.
 
 ## Surse
 
-- [[SRC-018]] Jorge David Fernández Gómez, *Strategic Advertising Mechanisms*, cap. 3 §3.5 (Gardner & Levy 1955: 34–39)
+- [[SRC-018-strategic-advertising-mechanisms|SRC-018]] Jorge David Fernández Gómez, *Strategic Advertising Mechanisms*, cap. 3 §3.5 (Gardner & Levy 1955: 34–39)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0608-brand-image-fiecare-reclama-contribuie-la-simbolul-brandului|ADV-0608]] _fundament_ — Brand image (Ogilvy) — fiecare reclamă e o contribuție la simbolul complex care este imaginea brandului
+- [[CPY-0603-titlul-ancoreaza-conotatiile-imaginii|CPY-0603]] _vezi_ — Imaginea agață, titlul ancorează — denotația informează, conotația adaugă sensuri pe care ținta trebuie să le decodeze
+- [[INS-0601-cercetarea-motivationala-cauta-de-ce-ul-ascuns-al-cumpararii|INS-0601]] _vezi_ — Cercetarea motivațională caută „de ce"-ul ascuns al cumpărării — și a creat atât progres, cât și mituri
+- [[SRC-018-strategic-advertising-mechanisms|SRC-018]] — Strategic Advertising Mechanisms: From Copy Strategy to Iconic Brands
+<!-- backlinks:end -->

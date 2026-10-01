@@ -48,10 +48,17 @@ Sticlele reutilizabile din capitolul 1: aceeași funcție (să ai apă rece la t
 
 ## Legături
 
-- **fundament** [[INS-0101]] — recunoașterea nevoii este prima etapă a deciziei.
-- **aplicare** [[ADV-0106]] — apelurile informaționale vizează nevoi funcționale, iar cele emoționale vizează nevoi psihologice.
-- **vezi** [[INS-0108]] — motivele, inclusiv ierarhia lui Maslow, explică ce nevoie devine dominantă.
+- **fundament** [[INS-0101-decizia-de-cumparare-cinci-etape-si-dupa-cumparare|INS-0101]] — recunoașterea nevoii este prima etapă a deciziei.
+- **aplicare** [[ADV-0106-mesajul-usp-si-apelul-informational-sau-emotional|ADV-0106]] — apelurile informaționale vizează nevoi funcționale, iar cele emoționale vizează nevoi psihologice.
+- **vezi** [[INS-0108-factori-psihologici-sociali-situationali-si-mix|INS-0108]] — motivele, inclusiv ierarhia lui Maslow, explică ce nevoie devine dominantă.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 6, p. 188-190
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 6, p. 188-190
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0106-mesajul-usp-si-apelul-informational-sau-emotional|ADV-0106]] _fundament_ — Mesajul condensează propunerea de valoare într-un USP unic, relevant și durabil, transmis printr-un apel informațional sau emoțional
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+<!-- backlinks:end -->

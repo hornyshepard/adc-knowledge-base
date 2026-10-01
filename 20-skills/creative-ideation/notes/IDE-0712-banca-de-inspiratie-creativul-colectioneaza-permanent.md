@@ -44,15 +44,24 @@ Marcel Breuer a desenat scaunul tubular după ce a mers pe noua lui bicicletă, 
 
 ## Întrebări
 
-- Cum eviți ca banca de inspirație să devină o colecție de clișee (vezi [[IDE-0706]])?
+- Cum eviți ca banca de inspirație să devină o colecție de clișee (vezi [[IDE-0706-cliseul-conventia-si-formatul-familiar-folosite-pe-dos|IDE-0706]])?
 - Ce înseamnă „cultura înaltă și cultura joasă" pentru un creativ din România?
 
 ## Legături
 
-- **fundament** [[IDE-0704]] — banca de inspirație e materia primă a combinațiilor.
-- **vezi** [[IDE-0703]] — incubația are nevoie de un depozit plin.
-- **vezi** [[IDE-0715]] — inspirația „de acum": zeitgeist-ul și momentele culturale.
+- **fundament** [[IDE-0704-ideile-noi-sunt-combinatii-bisociatia-lui-koestler|IDE-0704]] — banca de inspirație e materia primă a combinațiilor.
+- **vezi** [[IDE-0703-cand-ideea-nu-vine-incubatie-distragere-declansatori|IDE-0703]] — incubația are nevoie de un depozit plin.
+- **vezi** [[IDE-0715-culture-surfing-ideea-se-agata-de-un-moment-cultural|IDE-0715]] — inspirația „de acum": zeitgeist-ul și momentele culturale.
 
 ## Surse
 
-- [[SRC-024]] John Ingledew, *The A–Z of Visual Ideas*, Introducere și intrările „Finding ideas", „Sketchbooks and scrapbooks", „Museums", „Travel", „Knowledge", „You!", „Art", „Movies"
+- [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] John Ingledew, *The A–Z of Visual Ideas*, Introducere și intrările „Finding ideas", „Sketchbooks and scrapbooks", „Museums", „Travel", „Knowledge", „You!", „Art", „Movies"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[IDE-0703-cand-ideea-nu-vine-incubatie-distragere-declansatori|IDE-0703]] _vezi_ — Când ideea nu vine — incubație, distragere creativă și declanșatori aleatori
+- [[IDE-0704-ideile-noi-sunt-combinatii-bisociatia-lui-koestler|IDE-0704]] _vezi_ — Ideile noi sunt combinații — bisociația lui Koestler și gândirea combinatorie
+- [[IDE-0715-culture-surfing-ideea-se-agata-de-un-moment-cultural|IDE-0715]] _vezi_ — „Culture surfing" — ideea se agață de un moment cultural doar dacă valorile brandului îi dau voie
+- [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] — The A–Z of Visual Ideas: How to Solve Any Creative Brief
+<!-- backlinks:end -->

@@ -48,11 +48,20 @@ Hopkins, admirat de Reeves tocmai pentru asta, a folosit în reclamele de bere f
 
 ## Legături
 
-- **fundament** [[ADV-0604]] — cele trei condiții ale USP-ului.
-- **vezi** [[ADV-0610]] — „a fi primul" devine principiul central al poziționării.
-- **vezi** [[CPY-0601]] — Hopkins practica deja căutarea faptului nespus despre produs.
+- **fundament** [[ADV-0604-usp-are-trei-conditii-propunere-unica-care-vinde|ADV-0604]] — cele trei condiții ale USP-ului.
+- **vezi** [[ADV-0610-pozitionarea-sprijinita-pe-noua-principii-cognitive|ADV-0610]] — „a fi primul" devine principiul central al poziționării.
+- **vezi** [[CPY-0601-reason-why-reclama-ca-vanzare-tiparita-cu-motive|CPY-0601]] — Hopkins practica deja căutarea faptului nespus despre produs.
 
 ## Surse
 
-- [[SRC-018]] Jorge David Fernández Gómez, *Strategic Advertising Mechanisms*, cap. 2 §2.3 (Reeves 1961: 54–57)
-- [[SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 23, p. 86
+- [[SRC-018-strategic-advertising-mechanisms|SRC-018]] Jorge David Fernández Gómez, *Strategic Advertising Mechanisms*, cap. 2 §2.3 (Reeves 1961: 54–57)
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 23, p. 86
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0604-usp-are-trei-conditii-propunere-unica-care-vinde|ADV-0604]] _vezi_ — USP-ul lui Reeves are trei condiții — o propunere concretă, unică și suficient de puternică încât să mute masele
+- [[BRD-0605-contextualizare-si-conceptualizare-a-picta-axele-pozitionarii|BRD-0605]] _vezi_ — Poziționarea în doi pași — contextualizare (alegi brandul de referință) și conceptualizare (îl spui simplu)
+- [[SRC-018-strategic-advertising-mechanisms|SRC-018]] — Strategic Advertising Mechanisms: From Copy Strategy to Iconic Brands
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] — La boîte à outils de la publicité
+<!-- backlinks:end -->

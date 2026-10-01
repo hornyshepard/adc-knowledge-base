@@ -50,12 +50,26 @@ Bates a ținut aceeași reclamă pentru același client 11 ani; agenția se lău
 
 ## Legături
 
-- **fundament** [[ADV-0604]] — perseverența e trăsătura distinctivă a USP-ului.
-- **vezi** [[ADV-0610]] — principiul permanenței poziționării preia aceeași idee.
-- **contrazice** [[BRD-0606]] — brandurile iconice trebuie să-și reinventeze mitul când cultura se schimbă.
-- **exemplu** [[ADV-0625]] — campania Jell-O cu Bill Cosby a rulat peste 20 de ani pentru că i s-a dat timp.
+- **fundament** [[ADV-0604-usp-are-trei-conditii-propunere-unica-care-vinde|ADV-0604]] — perseverența e trăsătura distinctivă a USP-ului.
+- **vezi** [[ADV-0610-pozitionarea-sprijinita-pe-noua-principii-cognitive|ADV-0610]] — principiul permanenței poziționării preia aceeași idee.
+- **contrazice** [[BRD-0606-brandurile-iconice-mitul-identitar-raspunde-unei-tensiuni-culturale|BRD-0606]] — brandurile iconice trebuie să-și reinventeze mitul când cultura se schimbă.
+- **exemplu** [[ADV-0625-jell-o-cosby-campania-cu-scor-slab-care-a-tinut-20-de-ani|ADV-0625]] — campania Jell-O cu Bill Cosby a rulat peste 20 de ani pentru că i s-a dat timp.
 
 ## Surse
 
-- [[SRC-018]] Jorge David Fernández Gómez, *Strategic Advertising Mechanisms*, cap. 2 §2.3; cap. 3 §3.4; cap. 7 §7.3
-- [[SRC-021]] Barry Milavsky, *Overcome AD-versity*, cap. 3 (p. 49–51), cap. 8 (p. 131–132), cap. 10 (p. 149–154)
+- [[SRC-018-strategic-advertising-mechanisms|SRC-018]] Jorge David Fernández Gómez, *Strategic Advertising Mechanisms*, cap. 2 §2.3; cap. 3 §3.4; cap. 7 §7.3
+- [[SRC-021-overcome-ad-versity|SRC-021]] Barry Milavsky, *Overcome AD-versity*, cap. 3 (p. 49–51), cap. 8 (p. 131–132), cap. 10 (p. 149–154)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0604-usp-are-trei-conditii-propunere-unica-care-vinde|ADV-0604]] _vezi_ — USP-ul lui Reeves are trei condiții — o propunere concretă, unică și suficient de puternică încât să mute masele
+- [[ADV-0610-pozitionarea-sprijinita-pe-noua-principii-cognitive|ADV-0610]] _vezi_ — Poziționarea (Trout & Ries) se sprijină pe nouă principii — de la saturația informațională la permanență
+- [[ADV-0616-grp-acoperire-ori-repetitie-vocabularul-media-planningului|ADV-0616]] _vezi_ — GRP = acoperire × repetiție — vocabularul de bază al media planning-ului
+- [[ADV-0619-disruption-conventie-ruptura-viziune|ADV-0619]] _contrazice_ — Disruption (Dru, BDDP) — identifici convenția categoriei, o rupi și propui o viziune
+- [[ADV-0625-jell-o-cosby-campania-cu-scor-slab-care-a-tinut-20-de-ani|ADV-0625]] _exemplu_ — Jell-O Pudding cu Bill Cosby — campania cu scor de memorare slab care a crescut vânzările și a ținut peste 20 de ani
+- [[BRD-0606-brandurile-iconice-mitul-identitar-raspunde-unei-tensiuni-culturale|BRD-0606]] _contrazice_ — Brandurile iconice (Holt) devin icoane oferind un mit identitar care răspunde unei tensiuni culturale
+- [[INS-0604-perceptia-e-selectiva-reclama-are-nevoie-de-procedee-de-atentie|INS-0604]] _vezi_ — Percepția e selectivă, așa că reclama are nevoie de procedee de atenție — emoție, personificare, spectacol, surpriză, umor
+- [[SRC-018-strategic-advertising-mechanisms|SRC-018]] — Strategic Advertising Mechanisms: From Copy Strategy to Iconic Brands
+- [[SRC-021-overcome-ad-versity|SRC-021]] — Overcome AD-versity: How to Put Persuasion Power in Advertising
+<!-- backlinks:end -->

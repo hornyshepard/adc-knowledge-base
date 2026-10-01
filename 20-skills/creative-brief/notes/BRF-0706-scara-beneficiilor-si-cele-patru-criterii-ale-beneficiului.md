@@ -53,10 +53,19 @@ Apple are reclame de brand foarte emoționale, dar la lansarea unui dispozitiv n
 
 ## Legături
 
-- **extinde** [[BRF-0705]] — scara alimentează punctul de diferență și motivele de a crede.
-- **vezi** [[BRF-0708]] — dezbaterea: e emoționalul automat superior?
-- **fundament** [[INS-0701]] — primul test cere legătura cu un insight.
+- **extinde** [[BRF-0705-declaratia-de-pozitionare-tinta-cadru-diferenta-motiv|BRF-0705]] — scara alimentează punctul de diferență și motivele de a crede.
+- **vezi** [[BRF-0708-dezbatere-beneficiul-emotional-nu-e-automat-superior|BRF-0708]] — dezbaterea: e emoționalul automat superior?
+- **fundament** [[INS-0701-insight-ul-este-un-adevar-uman-semnificativ|INS-0701]] — primul test cere legătura cu un insight.
 
 ## Surse
 
-- [[SRC-022]] Kevin McTigue, Derek D. Rucker, *The Creative Brief Blueprint*, cap. 5 „Positioning"
+- [[SRC-022-the-creative-brief-blueprint|SRC-022]] Kevin McTigue, Derek D. Rucker, *The Creative Brief Blueprint*, cap. 5 „Positioning"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRF-0705-declaratia-de-pozitionare-tinta-cadru-diferenta-motiv|BRF-0705]] _extinde_ — Declarația de poziționare din brief — țintă, cadru de referință, punct de diferență, motiv de a crede
+- [[BRF-0708-dezbatere-beneficiul-emotional-nu-e-automat-superior|BRF-0708]] _extinde_ — Dezbatere — beneficiul emoțional nu e automat superior celui funcțional
+- [[BRF-0718-brief-ul-red-cell-opt-cerinte-si-calendar|BRF-0718]] _vezi_ — Brief-ul Red Cell — opt cerințe, „indicii de execuție" și un calendar de aprobări pe o singură pagină
+- [[SRC-022-the-creative-brief-blueprint|SRC-022]] — The Creative Brief Blueprint
+<!-- backlinks:end -->

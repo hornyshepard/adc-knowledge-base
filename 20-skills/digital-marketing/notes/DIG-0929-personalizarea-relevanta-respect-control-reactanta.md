@@ -50,12 +50,25 @@ Cele **trei R** ale e-mail marketingului:
 
 ## Legături
 
-- **contrazice** [[DIG-0923]] — precizia targetării comportamentale poate deveni contraproductivă.
-- **extinde** [[DIG-0926]] — controlul destinatarului duce permisiunea mai departe.
-- **vezi** [[DIG-0935]] — Spotify Wrapped arată personalizarea făcută transparent și dorită.
-- **vezi** [[DIG-0932]] — în modelul IDIC, customizarea vine abia la final, după identificare și interacțiune.
+- **contrazice** [[DIG-0923-targetarea-contextuala-vs-comportamentala|DIG-0923]] — precizia targetării comportamentale poate deveni contraproductivă.
+- **extinde** [[DIG-0926-permisiunea-in-email-are-patru-niveluri|DIG-0926]] — controlul destinatarului duce permisiunea mai departe.
+- **vezi** [[DIG-0935-spotify-wrapped-datele-clientului-devin-continut-distribuit|DIG-0935]] — Spotify Wrapped arată personalizarea făcută transparent și dorită.
+- **vezi** [[DIG-0932-modelul-idic-identifica-diferentiaza-interactioneaza-customizeaza|DIG-0932]] — în modelul IDIC, customizarea vine abia la final, după identificare și interacțiune.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 11, p. 316-318
-- [[SRC-030]] K. Connors, *Advanced Digital Marketing Strategies*, cap. 6
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 11, p. 316-318
+- [[SRC-030-digital-marketing-strategies|SRC-030]] K. Connors, *Advanced Digital Marketing Strategies*, cap. 6
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0901-share-a-coke-personalizarea-ambalajului-a-devenit-continut-social|ADV-0901]] _vezi_ — Share a Coke — personalizarea ambalajului a devenit conținut social, susținut de o comunicare integrată
+- [[DIG-0923-targetarea-contextuala-vs-comportamentala|DIG-0923]] _contrazice_ — Targetarea contextuală urmărește pagina, cea comportamentală urmărește omul
+- [[DIG-0924-retargetingul-trebuie-segmentat-dupa-stadiul-din-journey|DIG-0924]] _vezi_ — Retargetingul trebuie segmentat după stadiul din journey și dozat, altfel devine hărțuire
+- [[DIG-0926-permisiunea-in-email-are-patru-niveluri|DIG-0926]] _aplicare_ — Permisiunea în e-mail marketing are patru niveluri, de la opt-out la double opt-in
+- [[DIG-0932-modelul-idic-identifica-diferentiaza-interactioneaza-customizeaza|DIG-0932]] _vezi_ — Modelul IDIC — identifică, diferențiază, interacționează, customizează — pune clientul, nu produsul, în centrul CRM
+- [[DIG-0935-spotify-wrapped-datele-clientului-devin-continut-distribuit|DIG-0935]] _vezi_ — Spotify Wrapped — datele clientului devin un cadou personal pe care el însuși îl distribuie
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+- [[SRC-030-digital-marketing-strategies|SRC-030]] — Advanced Digital Marketing Strategies: Mastering SEO, Social Media, Content Marketing, and AI for Maximum Online Growth
+<!-- backlinks:end -->

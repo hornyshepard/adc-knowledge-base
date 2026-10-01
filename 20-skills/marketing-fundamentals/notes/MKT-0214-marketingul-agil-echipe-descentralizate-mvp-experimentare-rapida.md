@@ -48,10 +48,17 @@ Zara a răspuns rapid criticilor despre risipă și condițiile de muncă din fa
 
 ## Legături
 
-- **fundament** [[MKT-0212]] — agilitatea e a doua disciplină a Marketingului 5.0.
-- **vezi** [[DIG-0204]] — analitica în timp real se bazează pe ecosistemul de date.
-- **vezi** [[MKT-0203]] — co-crearea și platforma personalizabilă din 3.0 reapar ca principii agile.
+- **fundament** [[MKT-0212-marketing-5-0-tehnologie-pentru-umanitate-cinci-componente|MKT-0212]] — agilitatea e a doua disciplină a Marketingului 5.0.
+- **vezi** [[DIG-0204-marketingul-bazat-pe-date-segmentul-de-unu-si-ecosistemul-de-date|DIG-0204]] — analitica în timp real se bazează pe ecosistemul de date.
+- **vezi** [[MKT-0203-marketingul-orizontal-co-creare-comunitizare-caracter|MKT-0203]] — co-crearea și platforma personalizabilă din 3.0 reapar ca principii agile.
 
 ## Surse
 
-- [[SRC-005]] Kotler, Kartajaya, Setiawan, *Marketing 5.0*, cap. 12 „Agile Marketing: Executing Operations at Pace and Scale" (Fig. 12.1, 12.2)
+- [[SRC-005-marketing-5-0-philip-kotler|SRC-005]] Kotler, Kartajaya, Setiawan, *Marketing 5.0*, cap. 12 „Agile Marketing: Executing Operations at Pace and Scale" (Fig. 12.1, 12.2)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[MKT-0212-marketing-5-0-tehnologie-pentru-umanitate-cinci-componente|MKT-0212]] _aplicare_ — Marketing 5.0 folosește tehnologii care imită omul pe toată călătoria clientului, prin două discipline și trei aplicații
+- [[SRC-005-marketing-5-0-philip-kotler|SRC-005]] — Marketing 5.0: Technology for Humanity
+<!-- backlinks:end -->

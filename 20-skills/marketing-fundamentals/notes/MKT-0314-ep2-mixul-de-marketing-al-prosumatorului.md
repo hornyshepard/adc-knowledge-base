@@ -45,11 +45,23 @@ Wuebben spune că Apple nu vinde un telefon, ci apartenența la un tip de om (�
 
 ## Legături
 
-- **fundament** [[MKT-0313]] — mixul pornește de la prosumator.
-- **vezi** [[EXP-0301]] — componenta „Experiences" detaliată cu Pine & Gilmore.
-- **vezi** [[STO-0301]] — „Passion" se comunică prin narațiune, nu doar prin poveste.
-- **vezi** [[AIM-0301]] — limitele componentei „Personalization".
+- **fundament** [[MKT-0313-prosumatorul-clientul-care-produce-o-parte-din-valoare|MKT-0313]] — mixul pornește de la prosumator.
+- **vezi** [[EXP-0301-experienta-ca-oferta-economica-patru-taramuri-pine-gilmore|EXP-0301]] — componenta „Experiences" detaliată cu Pine & Gilmore.
+- **vezi** [[STO-0301-povestea-se-incheie-narativa-te-invita|STO-0301]] — „Passion" se comunică prin narațiune, nu doar prin poveste.
+- **vezi** [[AIM-0301-paradoxul-personalizarii-relevanta-versus-intimitate|AIM-0301]] — limitele componentei „Personalization".
 
 ## Surse
 
-- [[SRC-008]] Jon Wuebben, *Future Marketing: Winning in the Prosumer Age*, cap. 14
+- [[SRC-008-future-marketing|SRC-008]] Jon Wuebben, *Future Marketing: Winning in the Prosumer Age*, cap. 14
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-0301-paradoxul-personalizarii-relevanta-versus-intimitate|AIM-0301]] _extinde_ — Paradoxul personalizării: cu cât reclama știe mai mult despre tine, cu atât riscă să te sperie
+- [[DIG-0301-pull-marketing-attract-assist-affiliate-return-on-attention|DIG-0301]] _vezi_ — Pull marketing: Attract, Assist, Affiliate — și măsurarea prin „return on attention”
+- [[EXP-0301-experienta-ca-oferta-economica-patru-taramuri-pine-gilmore|EXP-0301]] _extinde_ — Experiența e o ofertă economică distinctă: progresia valorii și cele patru tărâmuri ale lui Pine & Gilmore
+- [[MKT-0313-prosumatorul-clientul-care-produce-o-parte-din-valoare|MKT-0313]] _vezi_ — Prosumatorul: clientul care produce o parte din valoare — pe care Kotler îl vedea, încă din 1986, ca segment de piață
+- [[MKT-0317-cand-copia-e-gratuita-valoarea-se-muta-generativele-lui-kelly|MKT-0317]] _vezi_ — Când copia e gratuită, valoarea se mută în ce nu poate fi copiat: generativele lui Kevin Kelly
+- [[STO-0301-povestea-se-incheie-narativa-te-invita|STO-0301]] _extinde_ — Povestea se încheie, narațiunea te invită: distincția lui Hagel între story și narrative
+- [[SRC-008-future-marketing|SRC-008]] — Future Marketing: Winning in the Prosumer Age
+<!-- backlinks:end -->

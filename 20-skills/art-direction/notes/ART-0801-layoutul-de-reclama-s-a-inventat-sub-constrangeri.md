@@ -44,10 +44,19 @@ Reclamele pentru *New York Ledger* din 1856 se repetau atât de des încât umpl
 
 ## Legături
 
-- **vezi** [[HIS-0804]] — presa finanțată din reclame și regulile ei.
-- **extinde** [[ART-0802]] — după eliberarea tehnică, arta plastică intră în reclamă.
-- **vezi** [[CPY-0815]] — Burma-Shave, alt format inventat sub constrângerea vitezei.
+- **vezi** [[HIS-0804-publicitatea-motorul-financiar-al-presei|HIS-0804]] — presa finanțată din reclame și regulile ei.
+- **extinde** [[ART-0802-arta-plastica-in-reclama-afisul-si-bubbles|ART-0802]] — după eliberarea tehnică, arta plastică intră în reclamă.
+- **vezi** [[CPY-0815-burma-shave-copy-serial-care-controleaza-ritmul|CPY-0815]] — Burma-Shave, alt format inventat sub constrângerea vitezei.
 
 ## Surse
 
-- [[SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 4, p. 66–69, 73–74; cap. 6, p. 109–110; cap. 7, p. 122–123, 126–127
+- [[SRC-027-a-history-of-advertising|SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 4, p. 66–69, 73–74; cap. 6, p. 109–110; cap. 7, p. 122–123, 126–127
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0802-arta-plastica-in-reclama-afisul-si-bubbles|ART-0802]] _fundament_ — Arta plastică a intrat în reclamă prin afiș și prin „Bubbles" — începutul reclamei de imagine
+- [[CPY-0815-burma-shave-copy-serial-care-controleaza-ritmul|CPY-0815]] _aplicare_ — Burma-Shave — copy serial care controlează ritmul lecturii și transformă drumul în joc
+- [[HIS-0804-publicitatea-motorul-financiar-al-presei|HIS-0804]] — Publicitatea a devenit motorul financiar al presei — și presa a devenit a doua „stăpână" a reclamei
+- [[SRC-027-a-history-of-advertising|SRC-027]] — A History of Advertising: The First 300,000 Years
+<!-- backlinks:end -->

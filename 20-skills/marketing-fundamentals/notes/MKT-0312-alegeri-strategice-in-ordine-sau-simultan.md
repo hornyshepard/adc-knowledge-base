@@ -42,10 +42,18 @@ Un brand de bere care alege să nu mai concureze pe preț în hipermarketuri (re
 
 ## Legături
 
-- **contrazice** [[MKT-0301]] — teza ordinii stricte a celor trei alegeri.
-- **vezi** [[MKT-0310]] — diferențierea are sens doar în cadrul unui „unde joci".
-- **vezi** [[MKT-0309]] — tipul de situație schimbă felul în care decizi.
+- **contrazice** [[MKT-0301-strategia-inseamna-trei-alegeri-in-ordine|MKT-0301]] — teza ordinii stricte a celor trei alegeri.
+- **vezi** [[MKT-0310-diferentierea-inseamna-altfel-nu-mai-bine|MKT-0310]] — diferențierea are sens doar în cadrul unui „unde joci".
+- **vezi** [[MKT-0309-patru-contexte-de-decizie-sub-incertitudine|MKT-0309]] — tipul de situație schimbă felul în care decizi.
 
 ## Surse
 
-- [[SRC-007]] H. von Scheel et al., *Strategy in the Age of Disruption*, cap. 2, p. 57; cap. 5, p. 164, 220–221
+- [[SRC-007-strategy-in-the-age-of-disruption|SRC-007]] H. von Scheel et al., *Strategy in the Age of Disruption*, cap. 2, p. 57; cap. 5, p. 164, 220–221
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[MKT-0301-strategia-inseamna-trei-alegeri-in-ordine|MKT-0301]] _contrazice_ — Strategia înseamnă trei alegeri, în ordine: ce nu faci, unde ești diferit, pe ce te concentrezi
+- [[MKT-0309-patru-contexte-de-decizie-sub-incertitudine|MKT-0309]] _vezi_ — Contextul decide metoda: patru tipuri de cunoscut și necunoscut cer patru moduri de a decide
+- [[SRC-007-strategy-in-the-age-of-disruption|SRC-007]] — Strategy in the Age of Disruption: A Handbook to Anticipate Change and Make Smart Decisions
+<!-- backlinks:end -->

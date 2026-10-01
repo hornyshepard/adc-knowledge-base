@@ -46,11 +46,19 @@ Cazul Seema din carte. Drumul ideal: reclamă pe Facebook, video pe site, chatbo
 
 ## Legături
 
-- **extinde** [[DIG-1001]] — *Allure* și *Advance* lucrează pe etapele pâlniei.
-- **alternativa** [[DIG-1025]] — customer journey construit pe o persona, cu fazele Aware–Appeal–Ask (SRC-032).
-- **vezi** [[DIG-1035]] — retargetingul e răspunsul tactic la drumurile întrerupte.
-- **vezi** [[DIG-1011]] — fricțiunea apare des la trecerea de la reclamă la pagină.
+- **extinde** [[DIG-1001-cele-7a-ale-marketingului-digital-completeaza-cei-4p|DIG-1001]] — *Allure* și *Advance* lucrează pe etapele pâlniei.
+- **alternativa** [[DIG-1025-customer-journey-in-cinci-pasi-si-rolul-implicarii|DIG-1025]] — customer journey construit pe o persona, cu fazele Aware–Appeal–Ask (SRC-032).
+- **vezi** [[DIG-1035-retargetingul-eficient-in-era-cookie-expus-dupa|DIG-1035]] — retargetingul e răspunsul tactic la drumurile întrerupte.
+- **vezi** [[DIG-1011-reclama-si-pagina-de-destinatie-spun-acelasi-lucru|DIG-1011]] — fricțiunea apare des la trecerea de la reclamă la pagină.
 
 ## Surse
 
-- [[SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 3 (p. 86–91)
+- [[SRC-031-digital-marketing-manual|SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 3 (p. 86–91)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-1001-cele-7a-ale-marketingului-digital-completeaza-cei-4p|DIG-1001]] _vezi_ — Cele 7A ale marketingului digital (Add, Allure, Advance, Adapt, Associate, Abide, Analyze) completează cei 4P
+- [[DIG-1025-customer-journey-in-cinci-pasi-si-rolul-implicarii|DIG-1025]] _alternativa_ — Customer journey se construiește pe o persona în cinci pași, iar implicarea decide cât durează faza de dinaintea cumpărării
+- [[SRC-031-digital-marketing-manual|SRC-031]] — Digital Marketing
+<!-- backlinks:end -->

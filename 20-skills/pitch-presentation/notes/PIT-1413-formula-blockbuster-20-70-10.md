@@ -46,11 +46,22 @@ Pentru un pitch de 20 de minute: 4 minute context și insight, 14 minute strateg
 
 ## Legături
 
-- **fundament** [[PIT-1402]] — este superstructura fixată în etapa Distil.
-- **extinde** [[PIT-1414]] — S.T.A.R. umple cei 20% de setup.
-- **extinde** [[PIT-1415]] — structurile 1.2.3. umplu cei 70%.
-- **extinde** [[PIT-1417]] — S.A.L.T. umple cei 10% de final.
+- **fundament** [[PIT-1402-metoda-celor-sase-d|PIT-1402]] — este superstructura fixată în etapa Distil.
+- **extinde** [[PIT-1414-deschiderea-star|PIT-1414]] — S.T.A.R. umple cei 20% de setup.
+- **extinde** [[PIT-1415-mijlocul-1-2-3-pop-ppf-si-zece-formule|PIT-1415]] — structurile 1.2.3. umplu cei 70%.
+- **extinde** [[PIT-1417-incheierea-salt-si-regula-peak-end|PIT-1417]] — S.A.L.T. umple cei 10% de final.
 
 ## Surse
 
-- [[SRC-043]] Dominic Colenso, *Cut-Through*, cap. 2 („Use the blockbuster formula”)
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] Dominic Colenso, *Cut-Through*, cap. 2 („Use the blockbuster formula”)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PIT-1402-metoda-celor-sase-d|PIT-1402]] _vezi_ — Un pitch se construiește în șase pași — Discover, Distil, Design, Drill, Deliver, Debrief
+- [[PIT-1414-deschiderea-star|PIT-1414]] _fundament_ — Deschiderea S.T.A.R. — Surprise, Takeaways, Authority, Roadmap
+- [[PIT-1415-mijlocul-1-2-3-pop-ppf-si-zece-formule|PIT-1415]] _fundament_ — Mijlocul prezentării se organizează în trei părți — POP, PPF și alte zece formule
+- [[PIT-1417-incheierea-salt-si-regula-peak-end|PIT-1417]] _fundament_ — Încheierea S.A.L.T. controlează ultima impresie, conform regulii peak-end
+- [[PRT-1421-ritmul-portofoliului-patru-metode-de-ordonare|PRT-1421]] _aplicare_ — Ordinea proiectelor creează ritmul portofoliului — patru metode, de la cronologic la relevanță
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] — Cut-Through: The pitch and presentation playbook
+<!-- backlinks:end -->

@@ -48,11 +48,22 @@ Campania Domino's din 2010 a arătat public criticile clienților la adresa pizz
 
 ## Legături
 
-- **extinde** [[BRD-0201]] — modelul 3i cerea integritate; aici caracterul devine o personalitate umană completă.
-- **fundament** [[INS-0203]] — antropologia digitală descoperă anxietățile la care răspunde brandul uman.
-- **aplicare** [[ADV-0202]] — atributele umane sunt intervenția pentru atracția slabă (aware → appeal).
-- **vezi** [[MKT-0209]] — „clarificarea caracterului și codurilor" înlocuiește poziționarea clasică.
+- **extinde** [[BRD-0201-modelul-3i-identitate-integritate-imagine-de-brand|BRD-0201]] — modelul 3i cerea integritate; aici caracterul devine o personalitate umană completă.
+- **fundament** [[INS-0203-antropologia-digitala-social-listening-netnografie-cercetare-empatica|INS-0203]] — antropologia digitală descoperă anxietățile la care răspunde brandul uman.
+- **aplicare** [[ADV-0202-par-si-bar-masoara-conversia-notorietatii-in-cumparare-si-recomandare|ADV-0202]] — atributele umane sunt intervenția pentru atracția slabă (aware → appeal).
+- **vezi** [[MKT-0209-marketing-4-0-redefineste-stp-pozitionarea-4p-si-serviciul|MKT-0209]] — „clarificarea caracterului și codurilor" înlocuiește poziționarea clasică.
 
 ## Surse
 
-- [[SRC-004]] Kotler, Kartajaya, Setiawan, *Marketing 4.0*, cap. 8 „Human-Centric Marketing for Brand Attraction", secțiunea „Building the Six Attributes of Human-Centric Brands"
+- [[SRC-004-marketing-4-0-philip-kotler|SRC-004]] Kotler, Kartajaya, Setiawan, *Marketing 4.0*, cap. 8 „Human-Centric Marketing for Brand Attraction", secțiunea „Building the Six Attributes of Human-Centric Brands"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0202-par-si-bar-masoara-conversia-notorietatii-in-cumparare-si-recomandare|ADV-0202]] _vezi_ — PAR și BAR măsoară productivitatea marketingului — cât din notorietate devine cumpărare și recomandare
+- [[BRD-0201-modelul-3i-identitate-integritate-imagine-de-brand|BRD-0201]] _extinde_ — Modelul 3i — brandul e credibil doar când identitatea, integritatea și imaginea sunt aliniate
+- [[EXP-0204-marketingul-multisenzorial-antidot-la-oboseala-digitala|EXP-0204]] _extinde_ — Marketingul multisenzorial e antidotul la oboseala digitală — fiecare simț are un rol diferit, iar stimulii trebuie să spună aceeași poveste
+- [[INS-0203-antropologia-digitala-social-listening-netnografie-cercetare-empatica|INS-0203]] _aplicare_ — Antropologia digitală descoperă anxietățile ascunse prin social listening, netnografie și cercetare empatică
+- [[MKT-0209-marketing-4-0-redefineste-stp-pozitionarea-4p-si-serviciul|MKT-0209]] _vezi_ — Marketing 4.0 redefinește conceptele clasice — comunități în loc de segmente, caracter în loc de poziționare, 4C în loc de 4P
+- [[SRC-004-marketing-4-0-philip-kotler|SRC-004]] — Marketing 4.0: Moving from Traditional to Digital
+<!-- backlinks:end -->

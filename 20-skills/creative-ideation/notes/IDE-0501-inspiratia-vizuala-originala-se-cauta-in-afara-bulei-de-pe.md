@@ -49,11 +49,19 @@ Peters a transformat căutările de embleme vechi într-un proiect personal — 
 
 ## Legături
 
-- **vezi** [[ART-0504]] — originalitatea e un pilon al logo-ului durabil.
-- **aplicare** [[ART-0506]] — referințele noi alimentează combinațiile de substantive.
-- **vezi** [[PRT-0501]] — vânătoarea de inspirație a devenit un proiect personal vizibil în portofoliu.
+- **vezi** [[ART-0504-un-logo-dureaza-prin-zece-piloni-dintre-care-designerul|ART-0504]] — originalitatea e un pilon al logo-ului durabil.
+- **aplicare** [[ART-0506-cinci-tehnici-de-a-combina-doua-substantive-intr-un-semn|ART-0506]] — referințele noi alimentează combinațiile de substantive.
+- **vezi** [[PRT-0501-proiectele-personale-aduc-in-portofoliu-munca-pe-care-vrei|PRT-0501]] — vânătoarea de inspirație a devenit un proiect personal vizibil în portofoliu.
 
 ## Surse
 
-- [[SRC-017]] Allan Peters, *Logos That Last*, cap. 3 „Inspiration Hunting" (secțiunile „What I Look For & Where I Look For It", „Unique Badges", „Bold Brand Marks", „Custom Typography"); cap. 7 „The Shop" (Americana, Badgehunting)
-- [[SRC-016]] Jane McCarthy & Kate McAndrew, *Goddess Guide to Branding*, cap. 7, interviul „Symbols (and More)” (Sarah Moffat)
+- [[SRC-017-logos-that-last|SRC-017]] Allan Peters, *Logos That Last*, cap. 3 „Inspiration Hunting" (secțiunile „What I Look For & Where I Look For It", „Unique Badges", „Bold Brand Marks", „Custom Typography"); cap. 7 „The Shop" (Americana, Badgehunting)
+- [[SRC-016-the-goddess-guide-to-branding-jane-mccarthy|SRC-016]] Jane McCarthy & Kate McAndrew, *Goddess Guide to Branding*, cap. 7, interviul „Symbols (and More)” (Sarah Moffat)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PRT-0501-proiectele-personale-aduc-in-portofoliu-munca-pe-care-vrei|PRT-0501]] _vezi_ — Proiectele personale aduc în portofoliu munca pe care vrei s-o primești
+- [[SRC-016-the-goddess-guide-to-branding-jane-mccarthy|SRC-016]] — Goddess Guide to Branding
+- [[SRC-017-logos-that-last|SRC-017]] — Logos That Last: How to Create Iconic Visual Branding
+<!-- backlinks:end -->

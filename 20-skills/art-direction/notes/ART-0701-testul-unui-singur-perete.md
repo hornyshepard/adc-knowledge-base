@@ -43,10 +43,20 @@ Orbit a ajuns numărul unu în SUA cu spoturi absurde, dar mereu marcate: aceea�
 
 ## Legături
 
-- **extinde** [[BRF-0709]] — elementele de brand sunt baza pilonilor „personalitate" și „mandatories".
-- **vezi** [[BRF-0712]] — distincția și legătura cu brandul din ADPLAN depind de aceste semnale.
-- **vezi** [[ART-0705]] — tipografia ca voce consecventă a brandului.
+- **extinde** [[BRF-0709-sectiunea-de-executie-patru-piloni|BRF-0709]] — elementele de brand sunt baza pilonilor „personalitate" și „mandatories".
+- **vezi** [[BRF-0712-adplan-sase-intrebari-pentru-o-executie-on-brief|BRF-0712]] — distincția și legătura cu brandul din ADPLAN depind de aceste semnale.
+- **vezi** [[ART-0705-tipografia-distributia-de-actori-a-cuvintelor|ART-0705]] — tipografia ca voce consecventă a brandului.
 
 ## Surse
 
-- [[SRC-022]] Kevin McTigue, Derek D. Rucker, *The Creative Brief Blueprint*, cap. 6 „Execution" și cap. 8
+- [[SRC-022-the-creative-brief-blueprint|SRC-022]] Kevin McTigue, Derek D. Rucker, *The Creative Brief Blueprint*, cap. 6 „Execution" și cap. 8
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0705-tipografia-distributia-de-actori-a-cuvintelor|ART-0705]] _vezi_ — Tipografia este distribuția de actori a cuvintelor, iar cuvântul și imaginea trebuie să se tensioneze, nu să se repete
+- [[BRF-0709-sectiunea-de-executie-patru-piloni|BRF-0709]] _extinde_ — Secțiunea de execuție a brief-ului are patru piloni — personalitate, mandatories, timing și buget, media
+- [[BRF-0712-adplan-sase-intrebari-pentru-o-executie-on-brief|BRF-0712]] _vezi_ — ADPLAN — șase întrebări pentru o execuție care e „on brief" dar tot poate eșua
+- [[IDE-0715-culture-surfing-ideea-se-agata-de-un-moment-cultural|IDE-0715]] — „Culture surfing" — ideea se agață de un moment cultural doar dacă valorile brandului îi dau voie
+- [[SRC-022-the-creative-brief-blueprint|SRC-022]] — The Creative Brief Blueprint
+<!-- backlinks:end -->

@@ -44,16 +44,26 @@ Ultima-minută creează și ea intensitate, dar Ingledew nu o recomandă ca stra
 
 ## Întrebări
 
-- Cum faci loc incubației într-un calendar de agenție care taie primul timpul de dezvoltare creativă (vezi [[BRF-0709]])?
+- Cum faci loc incubației într-un calendar de agenție care taie primul timpul de dezvoltare creativă (vezi [[BRF-0709-sectiunea-de-executie-patru-piloni|BRF-0709]])?
 - Incubația ține de ritmul individual. Cum o adaptezi pentru o echipă?
 
 ## Legături
 
-- **extinde** [[IDE-0702]] — ce faci în etapele 8–10 ale procesului.
-- **vezi** [[IDE-0704]] — declanșatorii aleatori forțează combinații noi.
-- **vezi** [[IDE-0712]] — fără banca de inspirație, incubația n-are din ce lucra.
+- **extinde** [[IDE-0702-cele-16-etape-ingledew-de-rezolvare-a-unui-brief|IDE-0702]] — ce faci în etapele 8–10 ale procesului.
+- **vezi** [[IDE-0704-ideile-noi-sunt-combinatii-bisociatia-lui-koestler|IDE-0704]] — declanșatorii aleatori forțează combinații noi.
+- **vezi** [[IDE-0712-banca-de-inspiratie-creativul-colectioneaza-permanent|IDE-0712]] — fără banca de inspirație, incubația n-are din ce lucra.
 
 ## Surse
 
-- [[SRC-024]] John Ingledew, *The A–Z of Visual Ideas*, „Strategies for solving a creative brief", „Working on ideas", „Dreams and daydreams"
-- [[SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 6 „The Ideation Process" și „Associative Thinking"
+- [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] John Ingledew, *The A–Z of Visual Ideas*, „Strategies for solving a creative brief", „Working on ideas", „Dreams and daydreams"
+- [[SRC-025-shareworthy|SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 6 „The Ideation Process" și „Associative Thinking"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[IDE-0702-cele-16-etape-ingledew-de-rezolvare-a-unui-brief|IDE-0702]] _vezi_ — Cele 16 etape Ingledew de rezolvare a unui brief creativ — simplifică la fiecare pas
+- [[IDE-0712-banca-de-inspiratie-creativul-colectioneaza-permanent|IDE-0712]] _vezi_ — Banca de inspirație — creativul colecționează permanent, ca să nu pornească niciodată de la zero
+- [[IDE-0717-trusa-scamper-sase-palarii-matrice-de-decizie|IDE-0717]] _vezi_ — Trusa de generare și selecție — SCAMPER, cele șase pălării și matricea de decizie ponderată
+- [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] — The A–Z of Visual Ideas: How to Solve Any Creative Brief
+- [[SRC-025-shareworthy|SRC-025]] — Shareworthy: Advertising That Creates Powerful Connections Through Storytelling
+<!-- backlinks:end -->

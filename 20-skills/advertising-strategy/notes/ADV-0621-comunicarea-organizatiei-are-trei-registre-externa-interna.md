@@ -47,10 +47,17 @@ Avertismentul cărții pentru registrul instituțional: nu pretinde ce nu ești.
 
 ## Legături
 
-- **vezi** [[ADV-0615]] — țintele de influență din planul de comunicare includ multe dintre părțile interesate.
-- **vezi** [[ADV-0622]] — criza testează coerența celor trei registre.
-- **vezi** [[BRD-0604]] — un brand cu o credință proprie trebuie să o trăiască întâi intern.
+- **vezi** [[ADV-0615-tinta-principala-nucleul-si-tintele-de-influenta-push-pull|ADV-0615]] — țintele de influență din planul de comunicare includ multe dintre părțile interesate.
+- **vezi** [[ADV-0622-comunicarea-de-criza-recunoaste-masoara-nu-nega|ADV-0622]] — criza testează coerența celor trei registre.
+- **vezi** [[BRD-0604-passionbrands-brandul-conduce-consumatorul-nu-e-condus|BRD-0604]] — un brand cu o credință proprie trebuie să o trăiască întâi intern.
 
 ## Surse
 
-- [[SRC-020]] Jordan Muller, *La bible de la communication*, partea a II-a: „Définition de la communication en entreprise", „La communication interne au sein d'une organisation professionnelle", „La communication avec les parties prenantes"
+- [[SRC-020-la-bible-de-la-communication|SRC-020]] Jordan Muller, *La bible de la communication*, partea a II-a: „Définition de la communication en entreprise", „La communication interne au sein d'une organisation professionnelle", „La communication avec les parties prenantes"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0622-comunicarea-de-criza-recunoaste-masoara-nu-nega|ADV-0622]] _vezi_ — În comunicarea de criză, negarea e cea mai proastă opțiune — recunoaște primul, măsoară impactul, alege canalul, spune adevărul, învață
+- [[SRC-020-la-bible-de-la-communication|SRC-020]] — La bible de la communication
+<!-- backlinks:end -->

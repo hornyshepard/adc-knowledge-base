@@ -46,11 +46,23 @@ Autorii numesc greșelile frecvente: nu te întrebi „unde altundeva voi folosi
 
 ## Legături
 
-- **fundament** [[BRF-0702]] — execuția este a cincea componentă a brief-ului.
-- **extinde** [[ART-0701]] — elementele de brand și testul consecvenței vizuale.
-- **exemplu** [[BRF-0714]] — secțiunea de execuție Stark, de la „graphic assets" la piloni compleți.
-- **contrazice** [[BRF-0713]] — obligatoriile în exces încalcă principiul curții îngrădite.
+- **fundament** [[BRF-0702-brief-ul-mctigue-rucker-are-sase-componente-pe-o-pagina|BRF-0702]] — execuția este a cincea componentă a brief-ului.
+- **extinde** [[ART-0701-testul-unui-singur-perete|ART-0701]] — elementele de brand și testul consecvenței vizuale.
+- **exemplu** [[BRF-0714-cazul-stark-cloud-solutions-de-la-brief-bun-la-excelent|BRF-0714]] — secțiunea de execuție Stark, de la „graphic assets" la piloni compleți.
+- **contrazice** [[BRF-0713-brief-ul-ingradeste-curtea|BRF-0713]] — obligatoriile în exces încalcă principiul curții îngrădite.
 
 ## Surse
 
-- [[SRC-022]] Kevin McTigue, Derek D. Rucker, *The Creative Brief Blueprint*, cap. 6 „Execution"
+- [[SRC-022-the-creative-brief-blueprint|SRC-022]] Kevin McTigue, Derek D. Rucker, *The Creative Brief Blueprint*, cap. 6 „Execution"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0701-testul-unui-singur-perete|ART-0701]] _extinde_ — Testul „unui singur perete" — toate materialele unui brand trebuie să pară din aceeași sursă
+- [[ART-0706-garage-genius-mijloace-minime-impact-maxim|ART-0706]] — „Garage genius" — mijloace minime, impact maxim; lipsa bugetului obligă la idee, iar lucrul făcut de mână comunică intim
+- [[BRF-0702-brief-ul-mctigue-rucker-are-sase-componente-pe-o-pagina|BRF-0702]] — Brief-ul McTigue–Rucker are șase componente și încape pe o singură pagină
+- [[BRF-0713-brief-ul-ingradeste-curtea|BRF-0713]] — Brief-ul „îngrădește curtea" — constrângerea strategică le dă creativilor de unde să pornească
+- [[BRF-0717-naked-brief-informativ-si-inspirational|BRF-0717]] — Naked Brief — un brief „informativ și inspirațional", construit pe context, învățare și trei tipuri de măsuri
+- [[IDE-0703-cand-ideea-nu-vine-incubatie-distragere-declansatori|IDE-0703]] — Când ideea nu vine — incubație, distragere creativă și declanșatori aleatori
+- [[SRC-022-the-creative-brief-blueprint|SRC-022]] — The Creative Brief Blueprint
+<!-- backlinks:end -->

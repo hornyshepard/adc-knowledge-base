@@ -48,10 +48,17 @@ Contra campaniei scumpe a unui concurent care își numea benzina „fără prob
 
 ## Legături
 
-- **extinde** [[CPY-0606]] — detaliază criteriul „memorabil" din checklist.
-- **vezi** [[CPY-0603]] — titlul care ancorează imaginea e și o unealtă de memorare.
-- **vezi** [[ADV-0616]] — repetiția se cumpără prin frecvență în planul media.
+- **extinde** [[CPY-0606-ideea-pe-hartie-trece-sase-teste-inainte-de-productie|CPY-0606]] — detaliază criteriul „memorabil" din checklist.
+- **vezi** [[CPY-0603-titlul-ancoreaza-conotatiile-imaginii|CPY-0603]] — titlul care ancorează imaginea e și o unealtă de memorare.
+- **vezi** [[ADV-0616-grp-acoperire-ori-repetitie-vocabularul-media-planningului|ADV-0616]] — repetiția se cumpără prin frecvență în planul media.
 
 ## Surse
 
-- [[SRC-021]] Barry Milavsky, *Overcome AD-versity*, cap. 5 (p. 77–78), cap. 6 (p. 103–105, 109–113)
+- [[SRC-021-overcome-ad-versity|SRC-021]] Barry Milavsky, *Overcome AD-versity*, cap. 5 (p. 77–78), cap. 6 (p. 103–105, 109–113)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0606-ideea-pe-hartie-trece-sase-teste-inainte-de-productie|CPY-0606]] _vezi_ — O idee de reclamă se verifică pe hârtie, înainte de producție — brand clar, provocatoare, clară, memorabilă, unică, accesibilă ca buget
+- [[SRC-021-overcome-ad-versity|SRC-021]] — Overcome AD-versity: How to Put Persuasion Power in Advertising
+<!-- backlinks:end -->

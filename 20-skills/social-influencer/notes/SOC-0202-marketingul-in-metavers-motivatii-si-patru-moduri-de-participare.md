@@ -50,11 +50,18 @@ Concertul Marshmello din Fortnite a avut 10 milioane de participanți simultan, 
 
 ## Legături
 
-- **fundament** [[MKT-0215]] — metaversul e unul dintre cele două medii ale Marketingului 6.0.
-- **extinde** [[DIG-0202]] — gamificarea și loialitatea din 4.0 trec în lumi virtuale.
-- **vezi** [[SOC-0201]] — metaversul e ultimul pas al micro-trendurilor spre imersiune.
-- **vezi** [[INS-0204]] — nativii metaversului sunt generațiile Z și Alpha.
+- **fundament** [[MKT-0215-marketing-6-0-metamarketingul-de-la-multi-la-omni-la-meta|MKT-0215]] — metaversul e unul dintre cele două medii ale Marketingului 6.0.
+- **extinde** [[DIG-0202-engagement-aplicatii-mobile-social-crm-gamificare|DIG-0202]] — gamificarea și loialitatea din 4.0 trec în lumi virtuale.
+- **vezi** [[SOC-0201-cinci-micro-trenduri-video-scurt-comunitati-comert-interactiv-ai-wearables|SOC-0201]] — metaversul e ultimul pas al micro-trendurilor spre imersiune.
+- **vezi** [[INS-0204-cinci-generatii-si-patru-etape-de-viata|INS-0204]] — nativii metaversului sunt generațiile Z și Alpha.
 
 ## Surse
 
-- [[SRC-006]] Kotler, Kartajaya, Setiawan, *Marketing 6.0*, cap. 7 „Tapping into the Metaverse" (Fig. 7.1-7.3); cap. 10 „Metaverse Marketing: Experimenting with the Next-Generation Engagement" (Fig. 10.1-10.5)
+- [[SRC-006-marketing-6-0-philip-kotler|SRC-006]] Kotler, Kartajaya, Setiawan, *Marketing 6.0*, cap. 7 „Tapping into the Metaverse" (Fig. 7.1-7.3); cap. 10 „Metaverse Marketing: Experimenting with the Next-Generation Engagement" (Fig. 10.1-10.5)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[MKT-0215-marketing-6-0-metamarketingul-de-la-multi-la-omni-la-meta|MKT-0215]] _vezi_ — Marketing 6.0 e metamarketing — după multichannel și omnichannel, experiența în care clientul nu mai distinge fizicul de digital
+- [[SRC-006-marketing-6-0-philip-kotler|SRC-006]] — Marketing 6.0: The Future Is Immersive
+<!-- backlinks:end -->

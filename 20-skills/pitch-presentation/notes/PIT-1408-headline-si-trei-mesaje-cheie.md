@@ -43,11 +43,23 @@ Steve Jobs a lansat iPhone-ul cu o triadă: „An iPod, a phone and an internet 
 
 ## Legături
 
-- **fundament** [[PIT-1407]] — headline-ul și mesajele concretizează intenția „Know”.
-- **vezi** [[PIT-1412]] — dovezile („stardust”) se atârnă sub mesajele cheie.
-- **aplicare** [[PIT-1417]] — rezumatul din S.A.L.T. reia cele trei mesaje.
+- **fundament** [[PIT-1407-know-feel-do-why-now|PIT-1407]] — headline-ul și mesajele concretizează intenția „Know”.
+- **vezi** [[PIT-1412-stardust-dovezile-care-fac-mesajul-memorabil|PIT-1412]] — dovezile („stardust”) se atârnă sub mesajele cheie.
+- **aplicare** [[PIT-1417-incheierea-salt-si-regula-peak-end|PIT-1417]] — rezumatul din S.A.L.T. reia cele trei mesaje.
 
 ## Surse
 
-- [[SRC-043]] Dominic Colenso, *Cut-Through*, cap. 2 („Write the headline”, „Harness the power of three”)
-- [[SRC-044]] Bharat Bhuval Nishad, *The Art of Presentation*, „5 Message Points”, „Preparing Your Message Points in Advance”
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] Dominic Colenso, *Cut-Through*, cap. 2 („Write the headline”, „Harness the power of three”)
+- [[SRC-044-art-of-presentation-and-public-speaking|SRC-044]] Bharat Bhuval Nishad, *The Art of Presentation*, „5 Message Points”, „Preparing Your Message Points in Advance”
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CLI-1406-cererea-intalnirii-valoare-pentru-timp|CLI-1406]] _vezi_ — Cererea unei întâlniri trebuie să ofere valoare pentru timpul cerut
+- [[PIT-1407-know-feel-do-why-now|PIT-1407]] _extinde_ — Intenția unei prezentări răspunde la patru întrebări — Know, Feel, Do și Why now
+- [[PIT-1412-stardust-dovezile-care-fac-mesajul-memorabil|PIT-1412]] _fundament_ — „Stardust” — cinci tipuri de dovezi care fac un mesaj memorabil
+- [[PRT-1405-doua-trei-proiecte-excelente-bat-cinci-mediocre|PRT-1405]] _vezi_ — Două-trei proiecte excelente bat cinci proiecte înconjurate de mediocritate
+- [[PRT-1408-introducerea-si-titlurile-vand-relevanta|PRT-1408]] _vezi_ — Introducerea și titlurile studiilor de caz vând relevanța pentru cititor, nu adjective
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] — Cut-Through: The pitch and presentation playbook
+- [[SRC-044-art-of-presentation-and-public-speaking|SRC-044]] — The Art of Presentation And Confident Public Speaking
+<!-- backlinks:end -->

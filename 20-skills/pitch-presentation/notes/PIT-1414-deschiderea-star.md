@@ -45,10 +45,21 @@ O agenție poate deschide cu o cifră din cercetare („7 din 10 clienți ai vo�
 
 ## Legături
 
-- **fundament** [[PIT-1413]] — S.T.A.R. umple actul de setup (20%).
-- **extinde** [[PIT-1430]] — pasul „Authority” aplică principiul unicității prezentatorului.
-- **vezi** [[PIT-1427]] — „regulile jocului” anunțate în Roadmap sunt cadrele de interacțiune.
+- **fundament** [[PIT-1413-formula-blockbuster-20-70-10|PIT-1413]] — S.T.A.R. umple actul de setup (20%).
+- **extinde** [[PIT-1430-unicitatea-prezentatorului-act-de-generozitate|PIT-1430]] — pasul „Authority” aplică principiul unicității prezentatorului.
+- **vezi** [[PIT-1427-implicarea-audientei-fara-tumbleweed|PIT-1427]] — „regulile jocului” anunțate în Roadmap sunt cadrele de interacțiune.
 
 ## Surse
 
-- [[SRC-043]] Dominic Colenso, *Cut-Through*, cap. 3 („Brilliant beginnings”)
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] Dominic Colenso, *Cut-Through*, cap. 3 („Brilliant beginnings”)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PIT-1413-formula-blockbuster-20-70-10|PIT-1413]] _extinde_ — Formula blockbuster — 20% setup, 70% confruntare, 10% rezoluție
+- [[PIT-1419-framework-uri-nu-scripturi-memorate|PIT-1419]] _vezi_ — Prezintă din framework-uri și cuvinte cheie, nu dintr-un script memorat
+- [[PIT-1424-nervii-sunt-energie-respiratie|PIT-1424]] _aplicare_ — Nervii sunt energie — se reîncadrează, se fragmentează în „quick wins” și se calmează prin respirație
+- [[PIT-1427-implicarea-audientei-fara-tumbleweed|PIT-1427]] _vezi_ — Implicarea audienței se construiește prin întrebări retorice, cadre de interacțiune și nume
+- [[PIT-1430-unicitatea-prezentatorului-act-de-generozitate|PIT-1430]] _aplicare_ — A spune de ce ești tu cel potrivit este un act de generozitate față de audiență
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] — Cut-Through: The pitch and presentation playbook
+<!-- backlinks:end -->

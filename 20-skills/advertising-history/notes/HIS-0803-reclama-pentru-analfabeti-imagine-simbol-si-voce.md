@@ -49,11 +49,21 @@ Bastonul de bărbier s-a născut după ce, în 1307, o lege a interzis expunerea
 
 ## Legături
 
-- **fundament** [[HIS-0801]] — fără definiția largă, aceste semne n-ar intra în istoria publicității.
-- **vezi** [[HIS-0802]] — emblemele de breaslă sunt rudele semnelor de origine.
-- **aplicare** [[ART-0803]] — principiul imaginii dominante care spune singură povestea.
-- **vezi** [[CPY-0811]] — strigătele de stradă rimate sunt strămoșii jingle-ului.
+- **fundament** [[HIS-0801-publicitatea-este-orice-comunicare-promotionala|HIS-0801]] — fără definiția largă, aceste semne n-ar intra în istoria publicității.
+- **vezi** [[HIS-0802-brandul-garantie-de-origine-si-calitate|HIS-0802]] — emblemele de breaslă sunt rudele semnelor de origine.
+- **aplicare** [[ART-0803-o-imagine-dominanta-poate-spune-povestea|ART-0803]] — principiul imaginii dominante care spune singură povestea.
+- **vezi** [[CPY-0811-sloganul-bun-repetabil-diferentiator-durabil|CPY-0811]] — strigătele de stradă rimate sunt strămoșii jingle-ului.
 
 ## Surse
 
-- [[SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 2, p. 26–29; cap. 3, p. 33–41; cap. 4, p. 75–78
+- [[SRC-027-a-history-of-advertising|SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 2, p. 26–29; cap. 3, p. 33–41; cap. 4, p. 75–78
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0803-o-imagine-dominanta-poate-spune-povestea|ART-0803]] _vezi_ — O singură imagine dominantă poate spune povestea — dacă textul o susține, nu o repetă
+- [[CPY-0811-sloganul-bun-repetabil-diferentiator-durabil|CPY-0811]] _vezi_ — Sloganul bun e repetabil, diferențiator și rezistă decenii — iar jingle-ul îl face să se cânte
+- [[HIS-0801-publicitatea-este-orice-comunicare-promotionala|HIS-0801]] _vezi_ — Publicitatea este orice comunicare promoțională — de aceea istoria ei începe cu mult înainte de tipar
+- [[HIS-0802-brandul-garantie-de-origine-si-calitate|HIS-0802]] _extinde_ — Brandul s-a născut ca garanție de origine și calitate, atunci când producătorul s-a îndepărtat de cumpărător
+- [[SRC-027-a-history-of-advertising|SRC-027]] — A History of Advertising: The First 300,000 Years
+<!-- backlinks:end -->

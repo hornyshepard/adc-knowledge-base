@@ -38,7 +38,7 @@ Reason-why nu înseamnă text sec. Copywriterii Sears îmbinau faptele cu compar
 
 ## Exemplu
 
-Theodore MacManus a atacat reason-why ca pe un stil care îi tratează pe oameni ca pe niște proști (vezi [[CPY-0803]]). Tensiunea dintre cele două școli traversează tot secolul XX.
+Theodore MacManus a atacat reason-why ca pe un stil care îi tratează pe oameni ca pe niște proști (vezi [[CPY-0803-reclama-de-imagine-vinde-un-sentiment|CPY-0803]]). Tensiunea dintre cele două școli traversează tot secolul XX.
 
 ## Întrebări
 
@@ -47,12 +47,25 @@ Theodore MacManus a atacat reason-why ca pe un stil care îi tratează pe oameni
 
 ## Legături
 
-- **fundament** [[HIS-0810]] — locul reason-why în genealogia stilurilor.
-- **alternativa** [[CPY-0803]] — reclama de imagine ca răspuns la reason-why.
-- **aplicare** [[CPY-0805]] — mail-order-ul a măsurat reason-why-ul cu cupoane.
-- **vezi** [[HIS-0808]] — faptele din copy trebuie să poată fi dovedite.
+- **fundament** [[HIS-0810-genealogia-stilurilor-de-copy|HIS-0810]] — locul reason-why în genealogia stilurilor.
+- **alternativa** [[CPY-0803-reclama-de-imagine-vinde-un-sentiment|CPY-0803]] — reclama de imagine ca răspuns la reason-why.
+- **aplicare** [[CPY-0805-scoala-mail-order-cuponul-ca-experiment|CPY-0805]] — mail-order-ul a măsurat reason-why-ul cu cupoane.
+- **vezi** [[HIS-0808-standardul-ftc-dovada-inaintea-afirmatiei|HIS-0808]] — faptele din copy trebuie să poată fi dovedite.
 
 ## Surse
 
-- [[SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 10, p. 196–197, 207
-- [[SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Ivory Soap”, „Pepsodent — Claude Hopkins’ Film Campaign”, „The Sears, Roebuck Catalogue”, „Canada Dry”
+- [[SRC-027-a-history-of-advertising|SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 10, p. 196–197, 207
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Ivory Soap”, „Pepsodent — Claude Hopkins’ Film Campaign”, „The Sears, Roebuck Catalogue”, „Canada Dry”
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0801-promisiunea-este-sufletul-reclamei|CPY-0801]] _vezi_ — Promisiunea este sufletul reclamei — de la Samuel Johnson (1759) la titlurile mail-order
+- [[CPY-0803-reclama-de-imagine-vinde-un-sentiment|CPY-0803]] _alternativa_ — Reclama de imagine vinde un sentiment, nu o fișă tehnică
+- [[CPY-0810-nu-exista-produse-prozaice|CPY-0810]] _vezi_ — Nu există produse prozaice — doar copywriteri care n-au găsit încă omul din produs
+- [[HIS-0808-standardul-ftc-dovada-inaintea-afirmatiei|HIS-0808]] _fundament_ — Standardul american al înșelăciunii — afirmația trebuie dovedită înainte să fie publicată
+- [[HIS-0810-genealogia-stilurilor-de-copy|HIS-0810]] _extinde_ — Genealogia stilurilor de copy — știre, reason-why, imagine, USP, Big Idea
+- [[HIS-0813-ogilvy-fapte-fara-adjective-si-o-imagine-care-intreaba|HIS-0813]] _vezi_ — David Ogilvy — cercetare, fapte fără adjective și o imagine care pune o întrebare
+- [[HIS-0825-demonstratia-trebuie-sa-fie-reala|HIS-0825]] _vezi_ — Demonstrația trebuie să fie reală — Xerox cu cimpanzeul vs. Volvo și camionul-monstru
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] — The 100 Greatest Advertisements 1852–1958: Who Wrote Them and What They Did
+<!-- backlinks:end -->

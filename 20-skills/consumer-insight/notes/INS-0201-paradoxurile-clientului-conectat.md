@@ -41,11 +41,23 @@ Amazon, un brand nativ online, a avut nevoie de un „canal fizic": butonul Dash
 
 ## Legături
 
-- **fundament** [[MKT-0208]] — paradoxurile decurg din mutarea puterii spre clienții conectați.
-- **vezi** [[BRD-0205]] — Marketing 3.0 vorbea despre paradoxurile globalizării; 4.0 le mută în viața digitală.
-- **aplicare** [[MKT-0210]] — calea 5A integrează online-ul și offline-ul și pune advocacy-ul la final.
-- **extinde** [[INS-0202]] — tinerii, femeile și netizenii sunt cei care fac advocacy-ul să circule.
+- **fundament** [[MKT-0208-puterea-trece-la-clientii-conectati-orizontal-inclusiv-social|MKT-0208]] — paradoxurile decurg din mutarea puterii spre clienții conectați.
+- **vezi** [[BRD-0205-brandurile-culturale-rezolva-paradoxurile-si-anxietatile-colective|BRD-0205]] — Marketing 3.0 vorbea despre paradoxurile globalizării; 4.0 le mută în viața digitală.
+- **aplicare** [[MKT-0210-calea-clientului-5a-aware-appeal-ask-act-advocate|MKT-0210]] — calea 5A integrează online-ul și offline-ul și pune advocacy-ul la final.
+- **extinde** [[INS-0202-tinerii-femeile-netizenii-subculturile-influente|INS-0202]] — tinerii, femeile și netizenii sunt cei care fac advocacy-ul să circule.
 
 ## Surse
 
-- [[SRC-004]] Kotler, Kartajaya, Setiawan, *Marketing 4.0*, cap. 2 „The Paradoxes of Marketing to Connected Customers"
+- [[SRC-004-marketing-4-0-philip-kotler|SRC-004]] Kotler, Kartajaya, Setiawan, *Marketing 4.0*, cap. 2 „The Paradoxes of Marketing to Connected Customers"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-0201-decalajul-digital-real-e-intre-sustinatorii-si-criticii-digitalizarii|AIM-0201]] _vezi_ — Decalajul digital real e între susținătorii și criticii digitalizării — tehnologia câștigă încredere când e personală, socială și experiențială
+- [[BRD-0205-brandurile-culturale-rezolva-paradoxurile-si-anxietatile-colective|BRD-0205]] _extinde_ — Brandurile culturale câștigă rezolvând paradoxurile și anxietățile colective ale societății
+- [[DIG-0201-omnichannel-harta-touchpoint-scenarii-critice-silozuri|DIG-0201]] _fundament_ — Marketingul omnichannel cere harta punctelor de contact, concentrarea pe scenariile critice și spargerea silozurilor
+- [[EXP-0201-wow-ul-e-surprinzator-personal-contagios-si-se-proiecteaza|EXP-0201]] _vezi_ — Momentul WOW e surprinzător, personal și contagios — și poate fi proiectat, nu lăsat la voia întâmplării
+- [[INS-0202-tinerii-femeile-netizenii-subculturile-influente|INS-0202]] _fundament_ — Tinerii, femeile și netizenii (YWN) sunt subculturile cele mai influente din era digitală
+- [[MKT-0208-puterea-trece-la-clientii-conectati-orizontal-inclusiv-social|MKT-0208]] _vezi_ — Puterea a trecut la clienții conectați — de la vertical, exclusiv și individual la orizontal, inclusiv și social
+- [[SRC-004-marketing-4-0-philip-kotler|SRC-004]] — Marketing 4.0: Moving from Traditional to Digital
+<!-- backlinks:end -->

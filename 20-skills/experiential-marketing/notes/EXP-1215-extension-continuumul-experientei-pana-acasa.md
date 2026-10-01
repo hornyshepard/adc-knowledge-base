@@ -41,11 +41,21 @@ Două dimensiuni ale „Extension":
 
 ## Legături
 
-- **extinde** [[EXP-1201]] — detaliază al treilea E al mixului.
-- **extinde** [[EXP-1203]] — operaționalizează markerul cumulativ al experienței.
-- **vezi** [[EXP-1220]] — experiența phygital este continuumul dintre fizic și digital.
-- **vezi** [[EXP-1208]] — continuumul organizat de firmă / auto-organizat apare în dezbaterea ordinar–extraordinar.
+- **extinde** [[EXP-1201-mixul-experiential-7e-inlocuieste-cei-7p|EXP-1201]] — detaliază al treilea E al mixului.
+- **extinde** [[EXP-1203-cei-cinci-markeri-ai-experientei-clientului|EXP-1203]] — operaționalizează markerul cumulativ al experienței.
+- **vezi** [[EXP-1220-experienta-phygital-fizic-plus-digital|EXP-1220]] — experiența phygital este continuumul dintre fizic și digital.
+- **vezi** [[EXP-1208-experiente-ordinare-vs-extraordinare|EXP-1208]] — continuumul organizat de firmă / auto-organizat apare în dezbaterea ordinar–extraordinar.
 
 ## Surse
 
-- [[SRC-036]] Wided Batat, *Experiential Marketing*, cap. 6 (secț. „Experience continuum", „Intra- and extra-domestic experiences"; Theory Boxes 6.1, 6.2; mini-cazurile 6.1, 6.2)
+- [[SRC-036-experiential-marketing|SRC-036]] Wided Batat, *Experiential Marketing*, cap. 6 (secț. „Experience continuum", „Intra- and extra-domestic experiences"; Theory Boxes 6.1, 6.2; mini-cazurile 6.1, 6.2)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[EXP-1201-mixul-experiential-7e-inlocuieste-cei-7p|EXP-1201]] _vezi_ — Mixul de marketing experiențial (7E) înlocuiește cei 7P cu decizii centrate pe experiența clientului
+- [[EXP-1203-cei-cinci-markeri-ai-experientei-clientului|EXP-1203]] _vezi_ — Experiența clientului are cinci markeri — holistică, cumulativă, subiectivă, asamblaj, contrastantă
+- [[EXP-1208-experiente-ordinare-vs-extraordinare|EXP-1208]] _extinde_ — Experiența memorabilă nu cere neapărat extraordinarul — dezbaterea ordinar vs. extraordinar
+- [[EXP-1220-experienta-phygital-fizic-plus-digital|EXP-1220]] _extinde_ — Experiența phygital îmbină siguranța contactului fizic cu interactivitatea digitalului, fără rupturi între canale
+- [[SRC-036-experiential-marketing|SRC-036]] — Experiential Marketing: Consumer Behavior, Customer Experience and the 7Es
+<!-- backlinks:end -->

@@ -46,12 +46,21 @@ Un art director care prezintă o campanie la interviu arată pe ecran key visual
 
 ## Legături
 
-- **vezi** [[PIT-1418]] — aceeași separare dintre deck-ul de prezentare și cel de lăsat.
-- **fundament** [[PRT-1401]] — ambele variante pornesc de la nevoile cititorului.
-- **aplicare** [[PRT-1409]] — studiul de caz scris e baza ambelor variante.
+- **vezi** [[PIT-1418-sase-principii-pentru-slide-uri|PIT-1418]] — aceeași separare dintre deck-ul de prezentare și cel de lăsat.
+- **fundament** [[PRT-1401-portofoliul-e-un-produs-utilizatorul-e-recrutorul|PRT-1401]] — ambele variante pornesc de la nevoile cititorului.
+- **aplicare** [[PRT-1409-studiul-de-caz-brief-ce-am-facut-rezultate|PRT-1409]] — studiul de caz scris e baza ambelor variante.
 
 ## Surse
 
-- [[SRC-048]] Ian Fenn, *UX Portfolio Design*, cap. 1; Anexa 2
-- [[SRC-043]] Dominic Colenso, *Cut-Through*, cap. 3
-- [[SRC-047]] Hannah Morgan, *The Infographic Resume*, cap. 10
+- [[SRC-048-ux-portfolio-design|SRC-048]] Ian Fenn, *UX Portfolio Design*, cap. 1; Anexa 2
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] Dominic Colenso, *Cut-Through*, cap. 3
+- [[SRC-047-the-infographic-resume|SRC-047]] Hannah Morgan, *The Infographic Resume*, cap. 10
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PRT-1401-portofoliul-e-un-produs-utilizatorul-e-recrutorul|PRT-1401]] _vezi_ — Portofoliul este un produs, iar utilizatorul lui este cel care angajează, nu autorul
+- [[PRT-1423-trei-tipuri-de-portofoliu-sample-full-leave-behind|PRT-1423]] _extinde_ — Un candidat are nevoie de trei tipuri de portofoliu — sample, full și leave-behind
+- [[SRC-047-the-infographic-resume|SRC-047]] — The Infographic Resume: How to Create a Visual Portfolio That Showcases Your Skills and Lands the Job
+- [[SRC-048-ux-portfolio-design|SRC-048]] — UX Portfolio Design
+<!-- backlinks:end -->

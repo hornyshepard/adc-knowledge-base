@@ -45,10 +45,21 @@ Intuitive Surgical (sistemul da Vinci, 2000) a vândut peste 4.000 de roboți ș
 
 ## Legături
 
-- **vezi** [[BRD-0504]] — pionierul explică noul printr-o categorie veche, apoi devine el cadrul de referință.
-- **vezi** [[BRD-0508]] — pionierul e forțat să se repoziționeze când apar urmăritorii.
-- **vezi** [[BRD-0512]] — avantajul pionierului dispare când se extinde departe de poziția lui.
+- **vezi** [[BRD-0504-cadrul-de-referinta-spune-consumatorului-ce-scop|BRD-0504]] — pionierul explică noul printr-o categorie veche, apoi devine el cadrul de referință.
+- **vezi** [[BRD-0508-repozitionarea-este-o-solutie-de-ultima-instanta|BRD-0508]] — pionierul e forțat să se repoziționeze când apar urmăritorii.
+- **vezi** [[BRD-0512-o-extensie-de-brand-trebuie-sa-treaca-testul-celor-trei|BRD-0512]] — avantajul pionierului dispare când se extinde departe de poziția lui.
 
 ## Surse
 
-- [[SRC-014]] Gregory S. Carpenter & Kent Nakamoto, „Competitive Brand Strategies: Creating Pioneer, Fast-Follower, and Late-Mover Advantage", cap. 4 în *Kellogg on Branding in a Hyper-Connected World*, p. 53–66
+- [[SRC-014-kellogg-on-branding|SRC-014]] Gregory S. Carpenter & Kent Nakamoto, „Competitive Brand Strategies: Creating Pioneer, Fast-Follower, and Late-Mover Advantage", cap. 4 în *Kellogg on Branding in a Hyper-Connected World*, p. 53–66
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0504-cadrul-de-referinta-spune-consumatorului-ce-scop|BRD-0504]] _vezi_ — Cadrul de referință spune consumatorului ce scop îndeplinește brandul
+- [[BRD-0508-repozitionarea-este-o-solutie-de-ultima-instanta|BRD-0508]] _vezi_ — Repoziționarea este o soluție de ultimă instanță, justificată în puține situații
+- [[BRD-0512-o-extensie-de-brand-trebuie-sa-treaca-testul-celor-trei|BRD-0512]] _vezi_ — O extensie de brand trebuie să treacă testul celor trei întrebări
+- [[BRD-0531-arhetipul-potrivit-e-autentic-pentru-firma-si-atractiv|BRD-0531]] _vezi_ — Arhetipul potrivit e autentic pentru firmă și atractiv pentru client
+- [[BRD-0533-cazul-billie-a-arata-ce-ascunde-categoria-transforma-un|BRD-0533]] _vezi_ — Cazul Billie: a arăta ce ascunde categoria transformă un tabu în poziționare
+- [[SRC-014-kellogg-on-branding|SRC-014]] — Kellogg on Branding in a Hyper-Connected World
+<!-- backlinks:end -->

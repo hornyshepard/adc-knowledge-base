@@ -41,11 +41,21 @@ La Japonia, fiecare postare trimitea mai departe: o fotografie spre un video det
 
 ## Legături
 
-- **exemplu** [[STO-1107]] — campaniile FMD ilustrează strategia all-in-one.
-- **vezi** [[SOC-1110]] — alegerea influencerilor la FMD pornește de la poveste și valori.
-- **vezi** [[STO-1112]] — Sunspot Award a generat UGC în volum mare.
-- **vezi** [[DIG-1101]] — campania Japonia ducea utilizatorul până la rezervare.
+- **exemplu** [[STO-1107-strategia-all-in-one-produci-o-data-distribui-fragmentat-in|STO-1107]] — campaniile FMD ilustrează strategia all-in-one.
+- **vezi** [[SOC-1110-valorile-comune-conteaza-inaintea-reach-ului-in-alegerea|SOC-1110]] — alegerea influencerilor la FMD pornește de la poveste și valori.
+- **vezi** [[STO-1112-ugc-este-continut-castigat-pe-care-brandul-nu-il-poate|STO-1112]] — Sunspot Award a generat UGC în volum mare.
+- **vezi** [[DIG-1101-customer-journey-ul-digital-trebuie-scurtat-fiecare-pas-e-o|DIG-1101]] — campania Japonia ducea utilizatorul până la rezervare.
 
 ## Surse
 
-- [[SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 2.7, p. 94–95; cap. 6.1.1–6.1.3, p. 261–265; cap. 6.2.3, p. 275–277 (S. Gottschalk)
+- [[SRC-034-social-media-storytelling|SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 2.7, p. 94–95; cap. 6.1.1–6.1.3, p. 261–265; cap. 6.2.3, p. 275–277 (S. Gottschalk)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[SOC-1107-atentia-la-un-post-de-influencer-se-imparte-pe-trei-niveluri|SOC-1107]] _vezi_ — Atenția la un post de influencer se împarte pe trei niveluri
+- [[SOC-1108-like-urile-nu-sunt-succes-evaluezi-calatoria-nu-etapa|SOC-1108]] _exemplu_ — Like-urile nu sunt succes: evaluezi călătoria, nu etapa
+- [[STO-1107-strategia-all-in-one-produci-o-data-distribui-fragmentat-in|STO-1107]] _exemplu_ — Strategia all-in-one: produci o dată, distribui fragmentat în timp
+- [[STO-1112-ugc-este-continut-castigat-pe-care-brandul-nu-il-poate|STO-1112]] _exemplu_ — UGC este conținut câștigat pe care brandul nu îl poate controla
+- [[SRC-034-social-media-storytelling|SRC-034]] — Social Media Storytelling
+<!-- backlinks:end -->

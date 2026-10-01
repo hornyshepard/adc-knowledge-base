@@ -51,10 +51,18 @@ O aplicație de banking livrează în principal eficiență și excelență; o c
 
 ## Legături
 
-- **fundament** [[INS-1201]] — tipologia continuă perspectiva experiențială a lui Holbrook & Hirschman.
-- **vezi** [[EXP-1204]] — valoarea este primul dintre rezultatele experienței.
-- **vezi** [[EXP-1220]] — comparația fizic–digital se reia în discuția despre phygital.
+- **fundament** [[INS-1201-consumul-hedonic-fantezii-sentimente-distractie|INS-1201]] — tipologia continuă perspectiva experiențială a lui Holbrook & Hirschman.
+- **vezi** [[EXP-1204-rezultatele-experientei-valoare-transformare|EXP-1204]] — valoarea este primul dintre rezultatele experienței.
+- **vezi** [[EXP-1220-experienta-phygital-fizic-plus-digital|EXP-1220]] — comparația fizic–digital se reia în discuția despre phygital.
 
 ## Surse
 
-- [[SRC-036]] Wided Batat, *Experiential Marketing*, cap. 1, Theory Box 1.1 și secț. „Digital transformation challenges and opportunities for brands?"; cap. 3, secț. „Value"
+- [[SRC-036-experiential-marketing|SRC-036]] Wided Batat, *Experiential Marketing*, cap. 1, Theory Box 1.1 și secț. „Digital transformation challenges and opportunities for brands?"; cap. 3, secț. „Value"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[EXP-1204-rezultatele-experientei-valoare-transformare|EXP-1204]] _fundament_ — O experiență reușită produce patru rezultate — valoare, transformare, competență, memorabilitate
+- [[INS-1201-consumul-hedonic-fantezii-sentimente-distractie|INS-1201]] _vezi_ — Perspectiva experiențială — consumul înseamnă și fantezii, sentimente și distracție, nu doar procesare de informații
+- [[SRC-036-experiential-marketing|SRC-036]] — Experiential Marketing: Consumer Behavior, Customer Experience and the 7Es
+<!-- backlinks:end -->

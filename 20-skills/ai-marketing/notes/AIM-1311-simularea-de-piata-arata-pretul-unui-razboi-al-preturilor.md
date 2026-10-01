@@ -45,10 +45,19 @@ Struhl adaugă reguli de preț: patru niveluri de preț ajung pentru aproape ori
 
 ## Legături
 
-- **fundament** [[AIM-1310]] — alegerea discretă e metoda din spatele simulatorului.
-- **vezi** [[AIM-1309]] — simulatorul dă cotă de preferință, care trebuie ajustată.
-- **vezi** [[BRD-1301]] — brandul apare în model ca valoare reziduală.
+- **fundament** [[AIM-1310-metodele-de-trade-off-cand-folosesti-fiecare|AIM-1310]] — alegerea discretă e metoda din spatele simulatorului.
+- **vezi** [[AIM-1309-cota-de-preferinta-nu-e-cota-de-piata|AIM-1309]] — simulatorul dă cotă de preferință, care trebuie ajustată.
+- **vezi** [[BRD-1301-brandul-ca-container-de-atribute-valoarea-reziduala|BRD-1301]] — brandul apare în model ca valoare reziduală.
 
 ## Surse
 
-- [[SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, cap. 4
+- [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, cap. 4
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-1309-cota-de-preferinta-nu-e-cota-de-piata|AIM-1309]] _aplicare_ — Cota de preferință nu e cotă de piață — prognoza trebuie ajustată pentru notorietate, înțelegere și distribuție
+- [[AIM-1310-metodele-de-trade-off-cand-folosesti-fiecare|AIM-1310]] _extinde_ — Metodele de trade-off — alegere discretă, conjoint, MaxDiff, Q-Sort — răspund la întrebări diferite
+- [[BRD-1301-brandul-ca-container-de-atribute-valoarea-reziduala|BRD-1301]] _vezi_ — În modelele de alegere, brandul e un „container" de atribute, iar valoarea lui se vede în ce rămâne după atribute
+- [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]] — Artificial Intelligence Marketing and Predicting Consumer Choice: An Overview of Tools and Techniques
+<!-- backlinks:end -->

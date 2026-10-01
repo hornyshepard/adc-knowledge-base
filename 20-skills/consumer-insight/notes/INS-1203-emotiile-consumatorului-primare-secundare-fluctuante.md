@@ -42,10 +42,18 @@ Ariel India, #ShareTheLoad (BBDO): un tată își privește fiica, mamă care lu
 
 ## Legături
 
-- **vezi** [[INS-1201]] — emoțiile sunt materia primă a perspectivei experiențiale.
-- **vezi** [[EXP-1217]] — punctele de contact emoționale aplică această tipologie în designul experienței.
-- **vezi** [[EXP-1216]] — angajații sunt „motivatori emoționali" ai experienței.
+- **vezi** [[INS-1201-consumul-hedonic-fantezii-sentimente-distractie|INS-1201]] — emoțiile sunt materia primă a perspectivei experiențiale.
+- **vezi** [[EXP-1217-emotional-touchpoints-emotia-defineste-contactul|EXP-1217]] — punctele de contact emoționale aplică această tipologie în designul experienței.
+- **vezi** [[EXP-1216-capitalul-de-empatie-inlocuieste-people|EXP-1216]] — angajații sunt „motivatori emoționali" ai experienței.
 
 ## Surse
 
-- [[SRC-036]] Wided Batat, *Experiential Marketing*, cap. 1, secț. „The key role of emotion…" (Tabelul 1.5, Figura 1.4, mini-cazul 1.8 Ariel India)
+- [[SRC-036-experiential-marketing|SRC-036]] Wided Batat, *Experiential Marketing*, cap. 1, secț. „The key role of emotion…" (Tabelul 1.5, Figura 1.4, mini-cazul 1.8 Ariel India)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[EXP-1217-emotional-touchpoints-emotia-defineste-contactul|EXP-1217]] _fundament_ — Emotional touchpoints — punctul de contact se definește prin emoția pe care o produce, nu prin canal
+- [[INS-1201-consumul-hedonic-fantezii-sentimente-distractie|INS-1201]] _vezi_ — Perspectiva experiențială — consumul înseamnă și fantezii, sentimente și distracție, nu doar procesare de informații
+- [[SRC-036-experiential-marketing|SRC-036]] — Experiential Marketing: Consumer Behavior, Customer Experience and the 7Es
+<!-- backlinks:end -->

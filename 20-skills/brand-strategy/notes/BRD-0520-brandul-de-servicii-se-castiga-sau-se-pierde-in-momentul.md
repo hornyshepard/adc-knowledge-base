@@ -52,10 +52,18 @@ Serviciul de limuzine Amm's ajunge mereu cu 15 minute înainte, șoferul deschid
 
 ## Legături
 
-- **aplicare** [[BRD-0515]] — implementarea brandului cere cultură și guvernanță, cu atât mai mult la servicii.
-- **vezi** [[EXP-0501]] — și brandurile direct-to-consumer depind de fiecare verigă a experienței.
-- **vezi** [[ADV-0501]] — etapele de utilizare și evaluare din călătoria clientului.
+- **aplicare** [[BRD-0515-implementarea-strategiei-de-brand-cere-sase-elemente-nu|BRD-0515]] — implementarea brandului cere cultură și guvernanță, cu atât mai mult la servicii.
+- **vezi** [[EXP-0501-la-brandurile-direct-to-consumer-brandul-este-lantul|EXP-0501]] — și brandurile direct-to-consumer depind de fiecare verigă a experienței.
+- **vezi** [[ADV-0501-calatoria-clientului-centrata-pe-consumator-sase-etape-trei|ADV-0501]] — etapele de utilizare și evaluare din călătoria clientului.
 
 ## Surse
 
-- [[SRC-014]] Tom O'Toole, „Branding Services in the Digital Era", cap. 12 în *Kellogg on Branding in a Hyper-Connected World*, p. 177–189
+- [[SRC-014-kellogg-on-branding|SRC-014]] Tom O'Toole, „Branding Services in the Digital Era", cap. 12 în *Kellogg on Branding in a Hyper-Connected World*, p. 177–189
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0515-implementarea-strategiei-de-brand-cere-sase-elemente-nu|BRD-0515]] _aplicare_ — Implementarea strategiei de brand cere șase elemente, nu doar o poziționare
+- [[EXP-0501-la-brandurile-direct-to-consumer-brandul-este-lantul|EXP-0501]] _vezi_ — La brandurile direct-to-consumer, brandul este lanțul complet al experienței
+- [[SRC-014-kellogg-on-branding|SRC-014]] — Kellogg on Branding in a Hyper-Connected World
+<!-- backlinks:end -->

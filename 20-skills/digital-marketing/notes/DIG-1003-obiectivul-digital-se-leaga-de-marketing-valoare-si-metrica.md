@@ -47,10 +47,19 @@ CAROL, bicicleta de fitness cu AI din Londra: Instagram-ul trimite spre site, si
 
 ## Legături
 
-- **aplicare** [[DIG-1002]] — lanțul se scrie în secțiunile 2 și 4 ale planului.
-- **vezi** [[DIG-1031]] — cum devine o metrică brută un KPI.
-- **vezi** [[DIG-1032]] — obiective și KPI diferite pe fiecare etapă a journey-ului.
+- **aplicare** [[DIG-1002-planul-strategic-digital-trei-etape-opt-sectiuni|DIG-1002]] — lanțul se scrie în secțiunile 2 și 4 ale planului.
+- **vezi** [[DIG-1031-de-la-metrici-brute-la-kpi-scorul-de-engagement|DIG-1031]] — cum devine o metrică brută un KPI.
+- **vezi** [[DIG-1032-kpi-pe-etape-aware-appeal-ask|DIG-1032]] — obiective și KPI diferite pe fiecare etapă a journey-ului.
 
 ## Surse
 
-- [[SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 1 (p. 39–43) și cap. 2 (p. 64–65)
+- [[SRC-031-digital-marketing-manual|SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 1 (p. 39–43) și cap. 2 (p. 64–65)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-1002-planul-strategic-digital-trei-etape-opt-sectiuni|DIG-1002]] _fundament_ — Planul strategic de marketing digital se face în trei etape și se scrie în opt secțiuni, cu una dedicată legalității și confidențialității
+- [[DIG-1004-propunerea-de-valoare-digitala-formula-pentru-tinta-brandul|DIG-1004]] _fundament_ — Propunerea de valoare digitală se scrie după formula „Pentru [țintă], [brandul] este [ce] care [beneficiu și diferență]"
+- [[DIG-1031-de-la-metrici-brute-la-kpi-scorul-de-engagement|DIG-1031]] _vezi_ — Un KPI nu e orice metrică — metricile brute devin indicatori-cheie când sunt legate de un obiectiv, iar un KPI poate combina mai multe metrici ponderate
+- [[SRC-031-digital-marketing-manual|SRC-031]] — Digital Marketing
+<!-- backlinks:end -->

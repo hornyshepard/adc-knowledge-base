@@ -45,11 +45,21 @@ Disney Consumer Products a creat ghidul nutrițional „better for you" pentru f
 
 ## Legături
 
-- **fundament** [[BRD-0202]] — criteriul de alegere a cauzei e relevanța pentru misiune, viziune și valori.
-- **extinde** [[MKT-0205]] — marketingul verde e un caz particular de transformare, cu actori și segmente proprii.
-- **vezi** [[MKT-0206]] — întreprinderea socială aplică transformarea la baza piramidei.
-- **vezi** [[MKT-0207]] — credo-urile descriu ultima treaptă: integrarea valorilor în marketing.
+- **fundament** [[BRD-0202-matricea-vbm-misiune-viziune-valori-minte-inima-spirit|BRD-0202]] — criteriul de alegere a cauzei e relevanța pentru misiune, viziune și valori.
+- **extinde** [[MKT-0205-marketingul-verde-trei-actori-patru-segmente|MKT-0205]] — marketingul verde e un caz particular de transformare, cu actori și segmente proprii.
+- **vezi** [[MKT-0206-intreprinderea-sociala-la-baza-piramidei-marketing-mix-reproiectat|MKT-0206]] — întreprinderea socială aplică transformarea la baza piramidei.
+- **vezi** [[MKT-0207-cele-10-credo-uri-ale-marketingului-3-0|MKT-0207]] — credo-urile descriu ultima treaptă: integrarea valorilor în marketing.
 
 ## Surse
 
-- [[SRC-003]] Kotler, Kartajaya, Setiawan, *Marketing 3.0*, cap. 7 „Delivering Socio-Cultural Transformation", p. 139-154 (Fig. 7.1, 7.2); cap. 10, p. 187
+- [[SRC-003-marketing-3-0-philip-kotler|SRC-003]] Kotler, Kartajaya, Setiawan, *Marketing 3.0*, cap. 7 „Delivering Socio-Cultural Transformation", p. 139-154 (Fig. 7.1, 7.2); cap. 10, p. 187
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[MKT-0205-marketingul-verde-trei-actori-patru-segmente|MKT-0205]] _fundament_ — Marketingul verde are trei actori (Inovator, Investitor, Propagator) și patru segmente care cer poziționări diferite
+- [[MKT-0206-intreprinderea-sociala-la-baza-piramidei-marketing-mix-reproiectat|MKT-0206]] _vezi_ — Întreprinderea socială de la baza piramidei cere un marketing mix reproiectat
+- [[MKT-0207-cele-10-credo-uri-ale-marketingului-3-0|MKT-0207]] _vezi_ — Cele 10 credo-uri ale Marketingului 3.0 integrează valorile în practica zilnică de marketing
+- [[MKT-0213-polarizarea-prosperitatii-mijlocul-pietei-dispare|MKT-0213]] _vezi_ — Polarizarea prosperității golește mijlocul pieței — rămân doar poziționarea low-cost și cea premium prin experiență
+- [[SRC-003-marketing-3-0-philip-kotler|SRC-003]] — Marketing 3.0: From Products to Customers to the Human Spirit
+<!-- backlinks:end -->

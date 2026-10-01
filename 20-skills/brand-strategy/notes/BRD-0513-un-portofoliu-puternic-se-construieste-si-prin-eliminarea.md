@@ -49,10 +49,18 @@ Macy's a strâns zeci de magazine regionale iconice (Marshall Field's, Dayton's,
 
 ## Legături
 
-- **fundament** [[BRD-0511]] — vocabularul și modelele de arhitectură de brand.
-- **vezi** [[BRD-0512]] — extensiile excesive creează suprapunerile care cer apoi eliminare.
-- **vezi** [[BRD-0515]] — deciziile de portofoliu cer implicarea CEO-ului, ca orice implementare de brand.
+- **fundament** [[BRD-0511-arhitectura-de-brand-de-la-branded-house-la-house-of-brands|BRD-0511]] — vocabularul și modelele de arhitectură de brand.
+- **vezi** [[BRD-0512-o-extensie-de-brand-trebuie-sa-treaca-testul-celor-trei|BRD-0512]] — extensiile excesive creează suprapunerile care cer apoi eliminare.
+- **vezi** [[BRD-0515-implementarea-strategiei-de-brand-cere-sase-elemente-nu|BRD-0515]] — deciziile de portofoliu cer implicarea CEO-ului, ca orice implementare de brand.
 
 ## Surse
 
-- [[SRC-014]] Tim Calkins, „Creating a Powerful Brand Portfolio", cap. 3 în *Kellogg on Branding in a Hyper-Connected World*, p. 42–44, 47–52
+- [[SRC-014-kellogg-on-branding|SRC-014]] Tim Calkins, „Creating a Powerful Brand Portfolio", cap. 3 în *Kellogg on Branding in a Hyper-Connected World*, p. 42–44, 47–52
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0511-arhitectura-de-brand-de-la-branded-house-la-house-of-brands|BRD-0511]] _extinde_ — Arhitectura de brand: de la branded house la house of brands
+- [[BRD-0512-o-extensie-de-brand-trebuie-sa-treaca-testul-celor-trei|BRD-0512]] _extinde_ — O extensie de brand trebuie să treacă testul celor trei întrebări
+- [[SRC-014-kellogg-on-branding|SRC-014]] — Kellogg on Branding in a Hyper-Connected World
+<!-- backlinks:end -->

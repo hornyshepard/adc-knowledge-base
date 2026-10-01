@@ -48,11 +48,20 @@ Studiul Opree et al. (2014): expunerea măsurată prin frecvența vizionării a 
 
 ## Legături
 
-- **vezi** [[INS-0419]] — diferența dintre datele transversale și cele longitudinale/experimentale.
-- **vezi** [[INS-0417]] — cunoașterea persuasiunii stă la baza rezistenței adulților.
-- **vezi** [[ADV-0411]] — reclamele construiesc și normele de gen și de maternitate.
+- **vezi** [[INS-0419-cauzalitatea-se-dovedeste-prin-experiment|INS-0419]] — diferența dintre datele transversale și cele longitudinale/experimentale.
+- **vezi** [[INS-0417-strategii-alfa-si-omega-ale-persuasiunii|INS-0417]] — cunoașterea persuasiunii stă la baza rezistenței adulților.
+- **vezi** [[ADV-0411-femvertising-vinde-imputernicirea|ADV-0411]] — reclamele construiesc și normele de gen și de maternitate.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 1, p. 16-17
-- [[SRC-013]] Parsons, Maclaran & Chatzidakis, *Contemporary Issues in Marketing and Consumer Behaviour*, cap. 6, p. 96-97; cap. 4, p. 48
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 1, p. 16-17
+- [[SRC-013-contemporary-issues-in-marketing-and-consumer-behaviour|SRC-013]] Parsons, Maclaran & Chatzidakis, *Contemporary Issues in Marketing and Consumer Behaviour*, cap. 6, p. 96-97; cap. 4, p. 48
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0411-femvertising-vinde-imputernicirea|ADV-0411]] _vezi_ — Femvertising-ul vinde împuternicirea — câștigă premii și distribuiri, dar rămâne suspect de a revinde aceleași idealuri
+- [[INS-0434-cunoasterea-persuasiunii-declanseaza-reactanta|INS-0434]] _vezi_ — Când publicul vede intenția de a-l convinge, poate face exact opusul (cunoașterea persuasiunii și reactanța)
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+- [[SRC-013-contemporary-issues-in-marketing-and-consumer-behaviour|SRC-013]] — Contemporary Issues in Marketing and Consumer Behaviour (2nd edition)
+<!-- backlinks:end -->

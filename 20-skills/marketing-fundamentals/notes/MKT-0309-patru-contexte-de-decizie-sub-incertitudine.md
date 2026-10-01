@@ -46,10 +46,18 @@ Autorul plasează evenimente ca 11 septembrie 2001 în cadranul „unknown unkno
 
 ## Legături
 
-- **extinde** [[MKT-0303]] — premortem-ul și lupta cu biasurile sunt aplicate pe tipuri de context.
-- **vezi** [[MKT-0312]] — tipul de decizie (de rutină sau strategică) schimbă și el metoda.
-- **vezi** [[MKT-0305]] — explorarea forțelor și driverelor e cerută în contextele neclare.
+- **extinde** [[MKT-0303-strategiile-esueaza-din-cauza-biasurilor|MKT-0303]] — premortem-ul și lupta cu biasurile sunt aplicate pe tipuri de context.
+- **vezi** [[MKT-0312-alegeri-strategice-in-ordine-sau-simultan|MKT-0312]] — tipul de decizie (de rutină sau strategică) schimbă și el metoda.
+- **vezi** [[MKT-0305-o-tendinta-e-intai-driver-apoi-forta|MKT-0305]] — explorarea forțelor și driverelor e cerută în contextele neclare.
 
 ## Surse
 
-- [[SRC-007]] H. von Scheel et al., *Strategy in the Age of Disruption*, cap. 5, p. 189–190
+- [[SRC-007-strategy-in-the-age-of-disruption|SRC-007]] H. von Scheel et al., *Strategy in the Age of Disruption*, cap. 5, p. 189–190
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[MKT-0303-strategiile-esueaza-din-cauza-biasurilor|MKT-0303]] _vezi_ — Cele mai multe strategii eșuează din cauza biasurilor decidenților, nu a lipsei de idei
+- [[MKT-0312-alegeri-strategice-in-ordine-sau-simultan|MKT-0312]] _vezi_ — Alegerile strategice se fac în ordine sau simultan? O tensiune nerezolvată în cartea lui von Scheel
+- [[SRC-007-strategy-in-the-age-of-disruption|SRC-007]] — Strategy in the Age of Disruption: A Handbook to Anticipate Change and Make Smart Decisions
+<!-- backlinks:end -->

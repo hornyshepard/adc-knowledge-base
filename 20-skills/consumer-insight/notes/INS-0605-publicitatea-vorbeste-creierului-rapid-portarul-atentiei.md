@@ -52,11 +52,22 @@ Milavsky povestește un experiment la care a participat ca cercetător: oameni e
 
 ## Legături
 
-- **vezi** [[INS-0604]] — percepția selectivă descrie aceleași filtre în termenii psihologiei clasice.
-- **vezi** [[CPY-0605]] — limita de trei explică de ce un singur motiv bun bate o listă.
-- **vezi** [[ART-0601]] — demonstrația vizuală e drumul cel mai scurt prin creierul rapid.
-- **vezi** [[INS-0608]] — ancora și recența arată cât de ușor e influențat creierul rapid sub presiunea timpului.
+- **vezi** [[INS-0604-perceptia-e-selectiva-reclama-are-nevoie-de-procedee-de-atentie|INS-0604]] — percepția selectivă descrie aceleași filtre în termenii psihologiei clasice.
+- **vezi** [[CPY-0605-un-singur-motiv-bun-bate-o-lista-de-37|CPY-0605]] — limita de trei explică de ce un singur motiv bun bate o listă.
+- **vezi** [[ART-0601-strategy-visual-demonstratia-vizuala-a-promisiunii|ART-0601]] — demonstrația vizuală e drumul cel mai scurt prin creierul rapid.
+- **vezi** [[INS-0608-ancora-si-recenta-creierul-rapid-ghiceste-dupa-ultimul-numar|INS-0608]] — ancora și recența arată cât de ușor e influențat creierul rapid sub presiunea timpului.
 
 ## Surse
 
-- [[SRC-021]] Barry Milavsky, *Overcome AD-versity*, cap. 2 (p. 14–17), cap. 3 (p. 27–28)
+- [[SRC-021-overcome-ad-versity|SRC-021]] Barry Milavsky, *Overcome AD-versity*, cap. 2 (p. 14–17), cap. 3 (p. 27–28)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0601-strategy-visual-demonstratia-vizuala-a-promisiunii|ART-0601]] _fundament_ — „Strategy visual" — demonstrația vizuală a promisiunii e Graalul reclamei, pentru că ce vezi crezi fără să decodezi
+- [[CPY-0605-un-singur-motiv-bun-bate-o-lista-de-37|CPY-0605]] _fundament_ — Un singur motiv bun bate o listă de 37 — maximum trei argumente de suport, pentru că cel mai slab devine ținta contraargumentelor
+- [[INS-0606-credibilitatea-sursei-expertiza-incredere-motivatie|INS-0606]] _vezi_ — Credibilitatea unei surse se judecă pe trei criterii, în ordine — expertiză, încredere, motivație — și o acordă receptorul, nu emițătorul
+- [[INS-0607-nu-contrazice-credinta-tintei-porneste-de-la-ea|INS-0607]] _fundament_ — Nu contrazice credința țintei — pornește de la ea și fă-o să evolueze; confruntarea declanșează apărarea
+- [[INS-0608-ancora-si-recenta-creierul-rapid-ghiceste-dupa-ultimul-numar|INS-0608]] _fundament_ — Ancora și recența — sub presiunea timpului, creierul rapid răspunde cu ultimul lucru văzut, iar prețul se citește prin referințe
+- [[SRC-021-overcome-ad-versity|SRC-021]] — Overcome AD-versity: How to Put Persuasion Power in Advertising
+<!-- backlinks:end -->

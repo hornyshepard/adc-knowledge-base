@@ -55,10 +55,19 @@ Un case study de campanie în PPF: categoria înainte (brand invizibil), situaț
 
 ## Legături
 
-- **fundament** [[PIT-1413]] — formulele umplu actul de confruntare (70%).
-- **vezi** [[PIT-1411]] — „Problems” mizează pe motivația „away from”.
-- **extinde** [[PIT-1416]] — poveștile SELL și SOLVE sunt subploturi în interiorul mijlocului.
+- **fundament** [[PIT-1413-formula-blockbuster-20-70-10|PIT-1413]] — formulele umplu actul de confruntare (70%).
+- **vezi** [[PIT-1411-motivatie-towards-vs-away-from|PIT-1411]] — „Problems” mizează pe motivația „away from”.
+- **extinde** [[PIT-1416-povesti-sell-si-solve-clientul-e-eroul|PIT-1416]] — poveștile SELL și SOLVE sunt subploturi în interiorul mijlocului.
 
 ## Surse
 
-- [[SRC-043]] Dominic Colenso, *Cut-Through*, cap. 3 („Mesmerizing middles”); Anexa A
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] Dominic Colenso, *Cut-Through*, cap. 3 („Mesmerizing middles”); Anexa A
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PIT-1411-motivatie-towards-vs-away-from|PIT-1411]] _aplicare_ — Urgența unui pitch se construiește pe motivația „towards” sau „away from”
+- [[PIT-1413-formula-blockbuster-20-70-10|PIT-1413]] _extinde_ — Formula blockbuster — 20% setup, 70% confruntare, 10% rezoluție
+- [[PIT-1416-povesti-sell-si-solve-clientul-e-eroul|PIT-1416]] _vezi_ — Poveștile dintr-un pitch se structurează cu SELL sau SOLVE, iar eroul este clientul
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] — Cut-Through: The pitch and presentation playbook
+<!-- backlinks:end -->

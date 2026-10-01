@@ -51,11 +51,23 @@ Timberland (Fig. 2.7): misiunea „Make it better" devine chiar tagline; viziune
 
 ## Legături
 
-- **fundament** [[MKT-0202]] — matricea operaționalizează ideea omului întreg din Marketing 3.0.
-- **vezi** [[BRD-0201]] — modelul 3i e perechea ei la nivelul brandului de produs.
-- **extinde** [[BRD-0203]] — coloana „misiune" e detaliată în cele trei trăsături ale unei misiuni bune.
-- **extinde** [[BRD-0204]] — coloana „valori" e detaliată în valorile comune trăite de angajați.
+- **fundament** [[MKT-0202-marketing-3-0-trateaza-clientul-ca-om-intreg-minte-inima-spirit|MKT-0202]] — matricea operaționalizează ideea omului întreg din Marketing 3.0.
+- **vezi** [[BRD-0201-modelul-3i-identitate-integritate-imagine-de-brand|BRD-0201]] — modelul 3i e perechea ei la nivelul brandului de produs.
+- **extinde** [[BRD-0203-misiunea-buna-business-as-unusual-poveste-consumatori-imputerniciti|BRD-0203]] — coloana „misiune" e detaliată în cele trei trăsături ale unei misiuni bune.
+- **extinde** [[BRD-0204-valorile-devin-brand-doar-ca-valori-comune-traite-de-angajati|BRD-0204]] — coloana „valori" e detaliată în valorile comune trăite de angajați.
 
 ## Surse
 
-- [[SRC-003]] Kotler, Kartajaya, Setiawan, *Marketing 3.0*, cap. 2 „Shift to Values-Driven Marketing", p. 57-63 (Fig. 2.5-2.7); cap. 3-6
+- [[SRC-003-marketing-3-0-philip-kotler|SRC-003]] Kotler, Kartajaya, Setiawan, *Marketing 3.0*, cap. 2 „Shift to Values-Driven Marketing", p. 57-63 (Fig. 2.5-2.7); cap. 3-6
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0201-modelul-3i-identitate-integritate-imagine-de-brand|BRD-0201]] _vezi_ — Modelul 3i — brandul e credibil doar când identitatea, integritatea și imaginea sunt aliniate
+- [[BRD-0203-misiunea-buna-business-as-unusual-poveste-consumatori-imputerniciti|BRD-0203]] _fundament_ — O misiune bună de brand are trei ingrediente — business as unusual, o poveste care mișcă și consumatori împuterniciți
+- [[BRD-0204-valorile-devin-brand-doar-ca-valori-comune-traite-de-angajati|BRD-0204]] _fundament_ — Valorile companiei devin brand doar când sunt valori comune trăite în comportamentul angajaților
+- [[MKT-0201-evolutia-marketingului-de-la-1-0-la-6-0|MKT-0201]] _vezi_ — Evoluția marketingului de la 1.0 la 6.0 — de la produs la client, la om, la digital, la tehnologie pentru umanitate și la imersiune
+- [[MKT-0202-marketing-3-0-trateaza-clientul-ca-om-intreg-minte-inima-spirit|MKT-0202]] _aplicare_ — Marketing 3.0 tratează clientul ca om întreg — minte, inimă și spirit
+- [[MKT-0204-filantropie-cause-marketing-transformare-socio-culturala|MKT-0204]] _fundament_ — Problemele sociale se abordează în trei trepte — filantropie, cause marketing, transformare socio-culturală
+- [[SRC-003-marketing-3-0-philip-kotler|SRC-003]] — Marketing 3.0: From Products to Customers to the Human Spirit
+<!-- backlinks:end -->

@@ -45,11 +45,19 @@ Același mecanism de „spațiu alb" apare la Liquid Death, care vinde apă cu e
 
 ## Legături
 
-- **exemplu** [[BRD-0531]] — Billie ilustrează alegerea unui arhetip neașteptat pentru categorie.
-- **vezi** [[BRD-0514]] — un intrat târziu câștigă schimbând criteriile după care e judecată categoria.
-- **vezi** [[INS-0501]] — insight-ul a venit din observarea a ce lipsea din comunicarea categoriei.
-- **vezi** [[BRD-0510]] — scopul funcționează aici pentru că e legat direct de produs.
+- **exemplu** [[BRD-0531-arhetipul-potrivit-e-autentic-pentru-firma-si-atractiv|BRD-0531]] — Billie ilustrează alegerea unui arhetip neașteptat pentru categorie.
+- **vezi** [[BRD-0514-momentul-intrarii-pe-piata-pionier-urmaritor-rapid-sau|BRD-0514]] — un intrat târziu câștigă schimbând criteriile după care e judecată categoria.
+- **vezi** [[INS-0501-insight-ul-vine-din-urmarirea-insistenta-a-lui-de-ce-si-a|INS-0501]] — insight-ul a venit din observarea a ce lipsea din comunicarea categoriei.
+- **vezi** [[BRD-0510-scop-sau-pozitionare-brandurile-opereaza-la-altitudini|BRD-0510]] — scopul funcționează aici pentru că e legat direct de produs.
 
 ## Surse
 
-- [[SRC-016]] Jane McCarthy & Kate McAndrew, *Goddess Guide to Branding*, cap. 2 „The Goddess Interviews", secțiunea „Queen Persephone the Fire", interviul cu Georgina Gooley (Billie)
+- [[SRC-016-the-goddess-guide-to-branding-jane-mccarthy|SRC-016]] Jane McCarthy & Kate McAndrew, *Goddess Guide to Branding*, cap. 2 „The Goddess Interviews", secțiunea „Queen Persephone the Fire", interviul cu Georgina Gooley (Billie)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0530-opt-arhetipuri-zeite-ofera-o-alternativa-feminina-la-cele|BRD-0530]] _exemplu_ — Opt arhetipuri-zeițe oferă o alternativă feminină la cele 12 arhetipuri jungiene
+- [[BRD-0531-arhetipul-potrivit-e-autentic-pentru-firma-si-atractiv|BRD-0531]] _exemplu_ — Arhetipul potrivit e autentic pentru firmă și atractiv pentru client
+- [[SRC-016-the-goddess-guide-to-branding-jane-mccarthy|SRC-016]] — Goddess Guide to Branding
+<!-- backlinks:end -->

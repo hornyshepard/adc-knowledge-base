@@ -47,11 +47,21 @@ Ilustrare de agenție: un brand regional de cafea vrea „să fie peste tot". Va
 
 ## Legături
 
-- **extinde** [[MKT-0302]] — cele trei alegeri sunt faza din mijloc a ciclului poziționare → alegeri → execuție.
-- **vezi** [[MKT-0307]] — Can–Want–Should este instrumentul autorului pentru a găsi ce nu faci.
-- **vezi** [[MKT-0310]] — detaliază alegerea „unde ești diferit".
-- **contrazice** [[MKT-0312]] — în altă parte, aceeași carte cere ca alegerile să fie făcute simultan, nu în ordine.
+- **extinde** [[MKT-0302-strategia-ca-ciclu-de-viata-regula-40-20-40|MKT-0302]] — cele trei alegeri sunt faza din mijloc a ciclului poziționare → alegeri → execuție.
+- **vezi** [[MKT-0307-can-want-should-zona-de-pericol|MKT-0307]] — Can–Want–Should este instrumentul autorului pentru a găsi ce nu faci.
+- **vezi** [[MKT-0310-diferentierea-inseamna-altfel-nu-mai-bine|MKT-0310]] — detaliază alegerea „unde ești diferit".
+- **contrazice** [[MKT-0312-alegeri-strategice-in-ordine-sau-simultan|MKT-0312]] — în altă parte, aceeași carte cere ca alegerile să fie făcute simultan, nu în ordine.
 
 ## Surse
 
-- [[SRC-007]] H. von Scheel, C. Popa, J. von Scheel, *Strategy in the Age of Disruption*, cap. 2, p. 50, 57–58; cap. 5, p. 164, 192
+- [[SRC-007-strategy-in-the-age-of-disruption|SRC-007]] H. von Scheel, C. Popa, J. von Scheel, *Strategy in the Age of Disruption*, cap. 2, p. 50, 57–58; cap. 5, p. 164, 192
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[MKT-0302-strategia-ca-ciclu-de-viata-regula-40-20-40|MKT-0302]] _vezi_ — Strategia e un ciclu de viață — poziționare, alegeri, execuție — cu regula de timp 40-20-40
+- [[MKT-0307-can-want-should-zona-de-pericol|MKT-0307]] _fundament_ — Can–Want–Should: zona de pericol se află între ce poți și ce vrei, când sari peste ce trebuie
+- [[MKT-0310-diferentierea-inseamna-altfel-nu-mai-bine|MKT-0310]] _fundament_ — Diferențierea înseamnă să fii altfel, nu mai bun — iar avantajele de ordin superior, ca reputația brandului, durează mai mult
+- [[MKT-0312-alegeri-strategice-in-ordine-sau-simultan|MKT-0312]] _contrazice_ — Alegerile strategice se fac în ordine sau simultan? O tensiune nerezolvată în cartea lui von Scheel
+- [[SRC-007-strategy-in-the-age-of-disruption|SRC-007]] — Strategy in the Age of Disruption: A Handbook to Anticipate Change and Make Smart Decisions
+<!-- backlinks:end -->

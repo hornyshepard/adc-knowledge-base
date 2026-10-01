@@ -51,13 +51,24 @@ Aperol Spritz în SUA: ținta erau elitele urbane din New York (pasul 1). Decizi
 
 ## Legături
 
-- **extinde** [[ADV-1504]] — cei cinci pași detaliază planificarea inversă.
-- **fundament** [[BRF-1501]] — revizuirea planului de marketing precede pasul 1.
-- **aplicare** [[ADV-1507]] — pasul 1, alegerea grupului de cumpărători.
-- **aplicare** [[INS-1502]] — pasul 2, modelul secvenței comportamentale.
-- **aplicare** [[ADV-1509]] — pasul 3, modelul general de poziționare.
-- **aplicare** [[ADV-1513]] — pasul 4, grila Rossiter-Percy.
+- **extinde** [[ADV-1504-planificarea-inverseaza-secventa-de-raspuns|ADV-1504]] — cei cinci pași detaliază planificarea inversă.
+- **fundament** [[BRF-1501-documentul-de-briefing-cinci-intrebari-de-marketing|BRF-1501]] — revizuirea planului de marketing precede pasul 1.
+- **aplicare** [[ADV-1507-cinci-grupuri-de-cumparatori-incercare-sau-recumparare|ADV-1507]] — pasul 1, alegerea grupului de cumpărători.
+- **aplicare** [[INS-1502-modelul-secventei-comportamentale-bsm|INS-1502]] — pasul 2, modelul secvenței comportamentale.
+- **aplicare** [[ADV-1509-modelul-general-de-pozitionare-ce-este-ce-ofera|ADV-1509]] — pasul 3, modelul general de poziționare.
+- **aplicare** [[ADV-1513-grila-rossiter-percy-patru-strategii-de-atitudine|ADV-1513]] — pasul 4, grila Rossiter-Percy.
 
 ## Surse
 
-- [[SRC-049]] Larry Percy & Richard Rosenbaum-Elliott, *Strategic Advertising Management*, cap. 5, Table 5.2 (audio 11–12); studiul de caz Aperol (cap. 5, audio 12)
+- [[SRC-049-strategic-advertising-management|SRC-049]] Larry Percy & Richard Rosenbaum-Elliott, *Strategic Advertising Management*, cap. 5, Table 5.2 (audio 11–12); studiul de caz Aperol (cap. 5, audio 12)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-1504-planificarea-inverseaza-secventa-de-raspuns|ADV-1504]] _extinde_ — Planificarea parcurge secvența de răspuns în sens invers, iar o greșeală la un pas nu anulează pașii de dinainte
+- [[ADV-1507-cinci-grupuri-de-cumparatori-incercare-sau-recumparare|ADV-1507]] _extinde_ — Audiența țintă se alege dintre cinci grupuri de cumpărători, iar fiecare grup cere încercare sau recumpărare, la costuri diferite
+- [[BRF-1501-documentul-de-briefing-cinci-intrebari-de-marketing|BRF-1501]] _vezi_ — Înainte de strategie, documentul de briefing răspunde la cinci întrebări de marketing, începând cu „ce vindem, explicat unui străin"
+- [[INS-1501-cinci-roluri-in-decizie-reclama-vorbeste-unui-rol|INS-1501]] _vezi_ — În orice decizie de cumpărare există cinci roluri, iar publicitatea vorbește unui individ într-un rol, nu unui grup
+- [[INS-1502-modelul-secventei-comportamentale-bsm|INS-1502]] _vezi_ — Modelul secvenței comportamentale (BSM) pune pe o grilă etapele deciziei și, pentru fiecare, cine, unde, când și cum
+- [[SRC-049-strategic-advertising-management|SRC-049]] — Strategic Advertising Management (6th edition)
+<!-- backlinks:end -->

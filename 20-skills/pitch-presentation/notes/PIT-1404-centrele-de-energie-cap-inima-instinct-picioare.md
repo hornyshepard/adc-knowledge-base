@@ -45,10 +45,19 @@ Un director financiar „cap” va primi înainte de ședință un document cu c
 
 ## Legături
 
-- **extinde** [[PIT-1405]] — tipologia se aplică după cercetarea faptelor despre audiență.
-- **aplicare** [[PIT-1421]] — criteriul „Approach” din ABC folosește aceleași patru energii.
-- **vezi** [[PIT-1412]] — fiecare tip de „stardust” servește alt centru de energie.
+- **extinde** [[PIT-1405-cercetarea-audientei-fapte-vs-sentimente|PIT-1405]] — tipologia se aplică după cercetarea faptelor despre audiență.
+- **aplicare** [[PIT-1421-echipa-de-pitch-abc-si-tranzitii|PIT-1421]] — criteriul „Approach” din ABC folosește aceleași patru energii.
+- **vezi** [[PIT-1412-stardust-dovezile-care-fac-mesajul-memorabil|PIT-1412]] — fiecare tip de „stardust” servește alt centru de energie.
 
 ## Surse
 
-- [[SRC-043]] Dominic Colenso, *Cut-Through*, cap. 1 („Put people in boxes”, „Head/Heart/Gut/Feet energy”)
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] Dominic Colenso, *Cut-Through*, cap. 1 („Put people in boxes”, „Head/Heart/Gut/Feet energy”)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PIT-1405-cercetarea-audientei-fapte-vs-sentimente|PIT-1405]] _vezi_ — Cercetarea audienței separă faptele verificabile de sentimente
+- [[PIT-1411-motivatie-towards-vs-away-from|PIT-1411]] _vezi_ — Urgența unui pitch se construiește pe motivația „towards” sau „away from”
+- [[PIT-1421-echipa-de-pitch-abc-si-tranzitii|PIT-1421]] _fundament_ — Echipa de pitch se alege după ABC și se judecă după tranziții
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] — Cut-Through: The pitch and presentation playbook
+<!-- backlinks:end -->

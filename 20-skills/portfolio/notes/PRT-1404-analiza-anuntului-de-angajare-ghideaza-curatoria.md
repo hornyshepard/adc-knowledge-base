@@ -43,10 +43,20 @@ Dacă trei agenții-țintă cer „experiență cu social-first content”, un s
 
 ## Legături
 
-- **fundament** [[PRT-1401]] — analiza aplică principiul că recrutorul e utilizatorul.
-- **aplicare** [[PRT-1405]] — matricea e instrumentul concret al curatoriei.
-- **vezi** [[PIT-1405]] — aceeași cercetare pe fapte despre audiență, aplicată unui pitch.
+- **fundament** [[PRT-1401-portofoliul-e-un-produs-utilizatorul-e-recrutorul|PRT-1401]] — analiza aplică principiul că recrutorul e utilizatorul.
+- **aplicare** [[PRT-1405-doua-trei-proiecte-excelente-bat-cinci-mediocre|PRT-1405]] — matricea e instrumentul concret al curatoriei.
+- **vezi** [[PIT-1405-cercetarea-audientei-fapte-vs-sentimente|PIT-1405]] — aceeași cercetare pe fapte despre audiență, aplicată unui pitch.
 
 ## Surse
 
-- [[SRC-048]] Ian Fenn, *UX Portfolio Design*, cap. 3 și 5; Anexa 1
+- [[SRC-048-ux-portfolio-design|SRC-048]] Ian Fenn, *UX Portfolio Design*, cap. 3 și 5; Anexa 1
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PRT-1401-portofoliul-e-un-produs-utilizatorul-e-recrutorul|PRT-1401]] _extinde_ — Portofoliul este un produs, iar utilizatorul lui este cel care angajează, nu autorul
+- [[PRT-1405-doua-trei-proiecte-excelente-bat-cinci-mediocre|PRT-1405]] _fundament_ — Două-trei proiecte excelente bat cinci proiecte înconjurate de mediocritate
+- [[PRT-1407-pdf-personalizabil-intai-apoi-site|PRT-1407]] _fundament_ — Pornește cu un portofoliu PDF personalizabil și adaugă apoi un site; comunitățile de portofoliu sunt riscante
+- [[PRT-1419-portofoliul-nu-se-gaseste-singur-targetare-si-doi-pasi|PRT-1419]] _aplicare_ — Portofoliul nu se găsește singur — targetare proactivă, „cei doi pași” și măsurarea răspunsului
+- [[SRC-048-ux-portfolio-design|SRC-048]] — UX Portfolio Design
+<!-- backlinks:end -->

@@ -43,10 +43,18 @@ Din aceeași analiză au ieșit acțiuni concrete importante: persoană de conta
 
 ## Legături
 
-- **fundament** [[AIM-1315]] — metoda care a permis testarea.
-- **vezi** [[AIM-1307]] — modelele teoretice ca a patra familie de metode.
-- **aplicare** [[EXP-1301]] — pasul următor: optimizarea serviciilor identificate.
+- **fundament** [[AIM-1315-retelele-bayesiene-tot-se-schimba-odata|AIM-1315]] — metoda care a permis testarea.
+- **vezi** [[AIM-1307-patru-familii-de-metode-de-predictie-a-alegerii|AIM-1307]] — modelele teoretice ca a patra familie de metode.
+- **aplicare** [[EXP-1301-conjoint-ul-de-servicii-arata-supra-si-sub-livrarea|EXP-1301]] — pasul următor: optimizarea serviciilor identificate.
 
 ## Surse
 
-- [[SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, cap. 7
+- [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, cap. 7
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-1307-patru-familii-de-metode-de-predictie-a-alegerii|AIM-1307]] _vezi_ — Metodele de predicție a alegerilor formează patru familii, fiecare cu o imagine implicită despre om
+- [[AIM-1315-retelele-bayesiene-tot-se-schimba-odata|AIM-1315]] _aplicare_ — Rețelele bayesiene pornesc de la ideea că, atunci când schimbi o variabilă, se schimbă toate
+- [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]] — Artificial Intelligence Marketing and Predicting Consumer Choice: An Overview of Tools and Techniques
+<!-- backlinks:end -->

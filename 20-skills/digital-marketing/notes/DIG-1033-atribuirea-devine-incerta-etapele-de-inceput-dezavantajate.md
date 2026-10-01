@@ -46,10 +46,17 @@ O campanie de retargeting arată spectaculos în raportul last-touch, pentru că
 
 ## Legături
 
-- **vezi** [[DIG-1032]] — KPI pe etape, răspunsul parțial al autorilor.
-- **vezi** [[DIG-1024]] — premisa post-cookie a întregului proces de campanie.
-- **vezi** [[DIG-1035]] — retargetingul, principalul beneficiar al atribuirii last-touch.
+- **vezi** [[DIG-1032-kpi-pe-etape-aware-appeal-ask|DIG-1032]] — KPI pe etape, răspunsul parțial al autorilor.
+- **vezi** [[DIG-1024-campania-online-se-planifica-in-trei-pasi|DIG-1024]] — premisa post-cookie a întregului proces de campanie.
+- **vezi** [[DIG-1035-retargetingul-eficient-in-era-cookie-expus-dupa|DIG-1035]] — retargetingul, principalul beneficiar al atribuirii last-touch.
 
 ## Surse
 
-- [[SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 2.1 (p. 39), 3.3 (p. 108–109), 3.4.3.1 (p. 119–120), 4.3 (p. 145)
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 2.1 (p. 39), 3.3 (p. 108–109), 3.4.3.1 (p. 119–120), 4.3 (p. 145)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-1032-kpi-pe-etape-aware-appeal-ask|DIG-1032]] _vezi_ — Fiecare etapă a journey-ului are KPI-urile ei — în Aware reach-ul net și frecvența, în Appeal intrarea în setul evocat, în Ask clicurile și conversiile
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] — Digital Advertising in the Post-cookie Era: Strategic Campaign Planning Across the Customer Journey
+<!-- backlinks:end -->

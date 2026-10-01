@@ -47,10 +47,19 @@ Struhl face două distincții.
 
 ## Legături
 
-- **fundament** [[AIM-1310]] — metodele de trade-off produc cota de preferință.
-- **aplicare** [[AIM-1311]] — simulatorul de piață include controale de ajustare.
-- **vezi** [[INS-1301]] — cadrul de eșantionare greșit strică orice proiecție.
+- **fundament** [[AIM-1310-metodele-de-trade-off-cand-folosesti-fiecare|AIM-1310]] — metodele de trade-off produc cota de preferință.
+- **aplicare** [[AIM-1311-simularea-de-piata-arata-pretul-unui-razboi-al-preturilor|AIM-1311]] — simulatorul de piață include controale de ajustare.
+- **vezi** [[INS-1301-literary-digest-volumul-nu-salveaza-un-cadru-gresit|INS-1301]] — cadrul de eșantionare greșit strică orice proiecție.
 
 ## Surse
 
-- [[SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, cap. 1, 2 și 4
+- [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, cap. 1, 2 și 4
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-1311-simularea-de-piata-arata-pretul-unui-razboi-al-preturilor|AIM-1311]] _vezi_ — Simularea de piață arată când o reducere de preț crește cota, dar scade veniturile
+- [[AIM-1323-modelarea-uplift-cauta-persuadabilii|AIM-1323]] _vezi_ — Modelarea uplift caută persuadabilii — un model de răspuns își atribuie și vânzările care ar fi venit oricum
+- [[INS-1301-literary-digest-volumul-nu-salveaza-un-cadru-gresit|INS-1301]] _aplicare_ — Literary Digest, 1936 — volumul de date nu salvează un cadru de eșantionare greșit
+- [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]] — Artificial Intelligence Marketing and Predicting Consumer Choice: An Overview of Tools and Techniques
+<!-- backlinks:end -->

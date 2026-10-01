@@ -44,11 +44,24 @@ Slab: „Campanie pentru brandul de apă X”. Puternic: „Am crescut cu 30% in
 
 ## Legături
 
-- **fundament** [[PRT-1406]] — introducerea și titlurile alcătuiesc fast track-ul.
-- **vezi** [[PIT-1430]] — aceeași idee: unicitatea legată de nevoia audienței, nu autoelogiu.
-- **vezi** [[PIT-1408]] — titlul-realizare funcționează ca un headline de pitch.
-- **vezi** [[PRT-1416]] — aceeași relevanță pentru cititor, aplicată răspunsului oral „Spune-mi despre tine”.
+- **fundament** [[PRT-1406-portofoliul-proiectat-pentru-30-de-secunde|PRT-1406]] — introducerea și titlurile alcătuiesc fast track-ul.
+- **vezi** [[PIT-1430-unicitatea-prezentatorului-act-de-generozitate|PIT-1430]] — aceeași idee: unicitatea legată de nevoia audienței, nu autoelogiu.
+- **vezi** [[PIT-1408-headline-si-trei-mesaje-cheie|PIT-1408]] — titlul-realizare funcționează ca un headline de pitch.
+- **vezi** [[PRT-1416-povestea-de-sine-explicare-si-pitch-pixar|PRT-1416]] — aceeași relevanță pentru cititor, aplicată răspunsului oral „Spune-mi despre tine”.
 
 ## Surse
 
-- [[SRC-048]] Ian Fenn, *UX Portfolio Design*, cap. 6
+- [[SRC-048-ux-portfolio-design|SRC-048]] Ian Fenn, *UX Portfolio Design*, cap. 6
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PRT-1406-portofoliul-proiectat-pentru-30-de-secunde|PRT-1406]] _aplicare_ — Portofoliul se proiectează pentru 30 de secunde — un fast track și un slow track
+- [[PRT-1409-studiul-de-caz-brief-ce-am-facut-rezultate|PRT-1409]] _vezi_ — Studiul de caz se scrie în patru părți — Brief, Ce am făcut, Rezultate, Instrumente — plus highlights
+- [[PRT-1410-sandvisul-portofoliului-si-ce-nu-se-include|PRT-1410]] _vezi_ — Portofoliul este un „sandviș” — introducere, studii de caz, completări — și are lucruri care nu se pun deloc
+- [[PRT-1411-juniorul-fara-experienta-un-studiu-bun-si-dovezi|PRT-1411]] _vezi_ — Juniorul fără experiență are nevoie de un studiu de caz bun și de dovezi ale calităților cerute, nu de volum
+- [[PRT-1415-inventarul-activelor-si-propunerea-de-valoare|PRT-1415]] _aplicare_ — Povestea profesională se construiește dintr-un inventar al realizărilor cuantificate și dintr-o propunere de valoare în trei întrebări
+- [[PRT-1424-pagina-de-proiect-textul-spune-ce-nu-arata-imaginea|PRT-1424]] _vezi_ — Pe pagina de proiect, textul spune ce imaginea nu poate arăta — titluri specifice, descrieri scurte, legende informative
+- [[PRT-1425-portofoliul-e-un-proiect-de-design-structura-invizibila|PRT-1425]] _contrazice_ — Portofoliul este el însuși un proiect de design — structura invizibilă lasă munca să vorbească, decorul o acoperă
+- [[SRC-048-ux-portfolio-design|SRC-048]] — UX Portfolio Design
+<!-- backlinks:end -->

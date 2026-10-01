@@ -47,11 +47,22 @@ Macy's a descoperit că un dolar investit în SEO aducea șase dolari de vânză
 
 ## Legături
 
-- **fundament** [[ADV-0202]] — omnichannel-ul e intervenția pentru angajamentul scăzut (ask → act).
-- **fundament** [[INS-0201]] — răspunde paradoxului online vs. offline.
-- **vezi** [[MKT-0211]] — trompeta și pâlnia sunt arhetipurile care au cel mai mult nevoie de angajament mai mare.
-- **extinde** [[DIG-0202]] — după cumpărare, aplicațiile și social CRM-ul continuă experiența.
+- **fundament** [[ADV-0202-par-si-bar-masoara-conversia-notorietatii-in-cumparare-si-recomandare|ADV-0202]] — omnichannel-ul e intervenția pentru angajamentul scăzut (ask → act).
+- **fundament** [[INS-0201-paradoxurile-clientului-conectat|INS-0201]] — răspunde paradoxului online vs. offline.
+- **vezi** [[MKT-0211-arhetipurile-de-industrie-dupa-forma-caii-5a|MKT-0211]] — trompeta și pâlnia sunt arhetipurile care au cel mai mult nevoie de angajament mai mare.
+- **extinde** [[DIG-0202-engagement-aplicatii-mobile-social-crm-gamificare|DIG-0202]] — după cumpărare, aplicațiile și social CRM-ul continuă experiența.
 
 ## Surse
 
-- [[SRC-004]] Kotler, Kartajaya, Setiawan, *Marketing 4.0*, cap. 10 „Omnichannel Marketing for Brand Commitment" (Fig. 10.1, 10.2); cap. 6
+- [[SRC-004-marketing-4-0-philip-kotler|SRC-004]] Kotler, Kartajaya, Setiawan, *Marketing 4.0*, cap. 10 „Omnichannel Marketing for Brand Commitment" (Fig. 10.1, 10.2); cap. 6
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0202-engagement-aplicatii-mobile-social-crm-gamificare|DIG-0202]] _vezi_ — Afinitatea de după cumpărare se construiește prin aplicații mobile, social CRM și gamificare
+- [[DIG-0203-pregatirea-digitala-patru-cadrane-origin-onward-organic-omni|DIG-0203]] _extinde_ — Pregătirea digitală se evaluează pe două axe — clienți gata să migreze și companie capabilă — cu patru cadrane și strategii diferite
+- [[DIG-0205-marketingul-contextual-senzori-declansatori-trei-niveluri|DIG-0205]] _extinde_ — Marketingul contextual aduce personalizarea digitală în spațiul fizic — senzori, declanșatori și trei niveluri, informativ, interactiv, imersiv
+- [[MKT-0211-arhetipurile-de-industrie-dupa-forma-caii-5a|MKT-0211]] _vezi_ — Forma căii 5A definește patru arhetipuri de industrie — clanța, peștișorul auriu, trompeta și pâlnia — cu papionul ca ideal
+- [[MKT-0215-marketing-6-0-metamarketingul-de-la-multi-la-omni-la-meta|MKT-0215]] _extinde_ — Marketing 6.0 e metamarketing — după multichannel și omnichannel, experiența în care clientul nu mai distinge fizicul de digital
+- [[SRC-004-marketing-4-0-philip-kotler|SRC-004]] — Marketing 4.0: Moving from Traditional to Digital
+<!-- backlinks:end -->

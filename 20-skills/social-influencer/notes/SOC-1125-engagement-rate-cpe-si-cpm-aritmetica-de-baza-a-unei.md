@@ -54,11 +54,22 @@ Un brand britanic de modă a lucrat cu 40 de influenceri (buget 15.000 de lire, 
 
 ## Legături
 
-- **fundament** [[SOC-1108]] — metricile se interpretează în raport cu drumul complet al utilizatorului.
-- **vezi** [[SOC-1114]] — ER-ul scade natural cu numărul de urmăritori.
-- **vezi** [[SOC-1116]] — un ER anormal semnalează posibilă fraudă.
-- **aplicare** [[SOC-1133]] — KPI-urile decurg din obiectivele SMART.
+- **fundament** [[SOC-1108-like-urile-nu-sunt-succes-evaluezi-calatoria-nu-etapa|SOC-1108]] — metricile se interpretează în raport cu drumul complet al utilizatorului.
+- **vezi** [[SOC-1114-nivelurile-de-influenceri-dupa-reach-nano-micro-mid-tier|SOC-1114]] — ER-ul scade natural cu numărul de urmăritori.
+- **vezi** [[SOC-1116-semnalele-de-frauda-se-verifica-inainte-de-orice-contract|SOC-1116]] — un ER anormal semnalează posibilă fraudă.
+- **aplicare** [[SOC-1133-cadrul-strategic-al-unei-campanii-cu-influenceri-porneste|SOC-1133]] — KPI-urile decurg din obiectivele SMART.
 
 ## Surse
 
-- [[SRC-035]] Glenister, *Influencer Marketing Strategy*, cap. 3, p. 112–114; cap. 5, p. 186; cap. 10, p. 258–276
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] Glenister, *Influencer Marketing Strategy*, cap. 3, p. 112–114; cap. 5, p. 186; cap. 10, p. 258–276
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[SOC-1108-like-urile-nu-sunt-succes-evaluezi-calatoria-nu-etapa|SOC-1108]] _aplicare_ — Like-urile nu sunt succes: evaluezi călătoria, nu etapa
+- [[SOC-1114-nivelurile-de-influenceri-dupa-reach-nano-micro-mid-tier|SOC-1114]] _vezi_ — Nivelurile de influenceri după reach: nano, micro, mid-tier, macro, mega
+- [[SOC-1127-continutul-creatorilor-se-amplifica-platit-dupa-ce-isi|SOC-1127]] _vezi_ — Conținutul creatorilor se amplifică plătit după ce își dovedește performanța
+- [[SOC-1130-tango-si-robinsons-campanii-creator-led-pe-tiktok-masurate|SOC-1130]] _vezi_ — Tango și Robinsons: campanii creator-led pe TikTok măsurate prin brand lift
+- [[SOC-1133-cadrul-strategic-al-unei-campanii-cu-influenceri-porneste|SOC-1133]] _vezi_ — Cadrul strategic al unei campanii cu influenceri pornește de la cercetare și obiective SMART
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] — Influencer Marketing Strategy: How influencers can help grow your business
+<!-- backlinks:end -->

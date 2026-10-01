@@ -50,11 +50,23 @@ Colenso a regizat *Hamlet* pentru vasul de croazieră QM2 (public tradițional) 
 
 ## Legături
 
-- **vezi** [[PIT-1404]] — după fapte, oamenii se pot plasa pe harta centrelor de energie.
-- **aplicare** [[PIT-1430]] — faptele despre audiență permit legarea experienței tale de nevoia ei.
-- **vezi** [[PIT-1403]] — pre-call-ul clarifică și întrebarea de examen.
+- **vezi** [[PIT-1404-centrele-de-energie-cap-inima-instinct-picioare|PIT-1404]] — după fapte, oamenii se pot plasa pe harta centrelor de energie.
+- **aplicare** [[PIT-1430-unicitatea-prezentatorului-act-de-generozitate|PIT-1430]] — faptele despre audiență permit legarea experienței tale de nevoia ei.
+- **vezi** [[PIT-1403-intrebarea-de-examen-si-dreptul-de-a-refuza|PIT-1403]] — pre-call-ul clarifică și întrebarea de examen.
 
 ## Surse
 
-- [[SRC-043]] Dominic Colenso, *Cut-Through*, cap. 1 („Know your audience”)
-- [[SRC-044]] Bharat Bhuval Nishad, *The Art of Presentation*, „Identifying Who You are Shaping Your Message For…”
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] Dominic Colenso, *Cut-Through*, cap. 1 („Know your audience”)
+- [[SRC-044-art-of-presentation-and-public-speaking|SRC-044]] Bharat Bhuval Nishad, *The Art of Presentation*, „Identifying Who You are Shaping Your Message For…”
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CLI-1406-cererea-intalnirii-valoare-pentru-timp|CLI-1406]] _vezi_ — Cererea unei întâlniri trebuie să ofere valoare pentru timpul cerut
+- [[PIT-1404-centrele-de-energie-cap-inima-instinct-picioare|PIT-1404]] _extinde_ — Audiența comunică din patru centre de energie — cap, inimă, instinct și picioare
+- [[PIT-1430-unicitatea-prezentatorului-act-de-generozitate|PIT-1430]] _fundament_ — A spune de ce ești tu cel potrivit este un act de generozitate față de audiență
+- [[PRT-1401-portofoliul-e-un-produs-utilizatorul-e-recrutorul|PRT-1401]] _vezi_ — Portofoliul este un produs, iar utilizatorul lui este cel care angajează, nu autorul
+- [[PRT-1404-analiza-anuntului-de-angajare-ghideaza-curatoria|PRT-1404]] _vezi_ — Curatoria portofoliului pornește din analiza anunțului de angajare, cu markerul
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] — Cut-Through: The pitch and presentation playbook
+- [[SRC-044-art-of-presentation-and-public-speaking|SRC-044]] — The Art of Presentation And Confident Public Speaking
+<!-- backlinks:end -->

@@ -55,10 +55,18 @@ Macy's poate decide o doză mare de TV, radio, print și outdoor între Ziua Rec
 
 ## Legături
 
-- **fundament** [[ADV-0104]] — planificarea media este pasul 5 al campaniei.
-- **vezi** [[ADV-0103]] — GRP-ul și reach-ul sunt metricile prin care se compară planurile.
-- **vezi** [[DIG-0104]] — pe mobil, fereastra de atenție e sub o secundă, ceea ce schimbă execuția.
+- **fundament** [[ADV-0104-campania-publicitara-in-sapte-pasi-de-la-tinta-la-masurare|ADV-0104]] — planificarea media este pasul 5 al campaniei.
+- **vezi** [[ADV-0103-bugetul-din-obiective-si-sarcini-eficienta-prin-grp-ctr-romi|ADV-0103]] — GRP-ul și reach-ul sunt metricile prin care se compară planurile.
+- **vezi** [[DIG-0104-pe-mobil-reclama-are-sub-o-secunda-ca-sa-fie-vazuta|DIG-0104]] — pe mobil, fereastra de atenție e sub o secundă, ceea ce schimbă execuția.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 19, p. 601-603 (Exhibit 19.3)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 19, p. 601-603 (Exhibit 19.3)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0104-campania-publicitara-in-sapte-pasi-de-la-tinta-la-masurare|ADV-0104]] _extinde_ — O campanie publicitară se planifică în șapte pași — de la publicul țintă la evaluarea impactului
+- [[DIG-0104-pe-mobil-reclama-are-sub-o-secunda-ca-sa-fie-vazuta|DIG-0104]] _vezi_ — Pe mobil, o reclamă are mai puțin de o secundă ca să fie văzută — fețe, contrast și emoție instantanee
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+<!-- backlinks:end -->

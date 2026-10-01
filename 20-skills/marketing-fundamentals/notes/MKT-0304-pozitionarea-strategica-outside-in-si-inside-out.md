@@ -48,10 +48,18 @@ Autorul dă un exemplu din electronice: o strategie pentru o piață nedeservit�
 
 ## Legături
 
-- **extinde** [[MKT-0302]] — detaliază faza de poziționare a ciclului.
-- **fundament** [[MKT-0305]] — forțele și driverele sunt materia primă a privirii outside-in.
-- **vezi** [[MKT-0310]] — competențele diferențiatoare din lanțul valoric.
+- **extinde** [[MKT-0302-strategia-ca-ciclu-de-viata-regula-40-20-40|MKT-0302]] — detaliază faza de poziționare a ciclului.
+- **fundament** [[MKT-0305-o-tendinta-e-intai-driver-apoi-forta|MKT-0305]] — forțele și driverele sunt materia primă a privirii outside-in.
+- **vezi** [[MKT-0310-diferentierea-inseamna-altfel-nu-mai-bine|MKT-0310]] — competențele diferențiatoare din lanțul valoric.
 
 ## Surse
 
-- [[SRC-007]] H. von Scheel et al., *Strategy in the Age of Disruption*, cap. 3, p. 64–79
+- [[SRC-007-strategy-in-the-age-of-disruption|SRC-007]] H. von Scheel et al., *Strategy in the Age of Disruption*, cap. 3, p. 64–79
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[MKT-0302-strategia-ca-ciclu-de-viata-regula-40-20-40|MKT-0302]] _vezi_ — Strategia e un ciclu de viață — poziționare, alegeri, execuție — cu regula de timp 40-20-40
+- [[MKT-0310-diferentierea-inseamna-altfel-nu-mai-bine|MKT-0310]] _vezi_ — Diferențierea înseamnă să fii altfel, nu mai bun — iar avantajele de ordin superior, ca reputația brandului, durează mai mult
+- [[SRC-007-strategy-in-the-age-of-disruption|SRC-007]] — Strategy in the Age of Disruption: A Handbook to Anticipate Change and Make Smart Decisions
+<!-- backlinks:end -->

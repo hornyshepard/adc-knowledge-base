@@ -53,11 +53,20 @@ Women's Aid (deschiderea capitolului 19): un panou interactiv cu fața unei feme
 
 ## Legături
 
-- **fundament** [[ADV-0101]] — campania publicitară e o componentă a programului IMC.
-- **extinde** [[ADV-0105]] — pasul 2 detaliază obiectivele publicitare.
-- **extinde** [[ADV-0106]] — pasul 4 detaliază mesajul și apelul.
-- **extinde** [[ADV-0107]] — pasul 5 detaliază planificarea media.
+- **fundament** [[ADV-0101-imc-integreaza-canalele-pentru-claritate-consecventa-impact|ADV-0101]] — campania publicitară e o componentă a programului IMC.
+- **extinde** [[ADV-0105-reclama-informeaza-convinge-sau-reaminteste|ADV-0105]] — pasul 2 detaliază obiectivele publicitare.
+- **extinde** [[ADV-0106-mesajul-usp-si-apelul-informational-sau-emotional|ADV-0106]] — pasul 4 detaliază mesajul și apelul.
+- **extinde** [[ADV-0107-mixul-media-mass-sau-nisa-continuu-flighting-pulsing|ADV-0107]] — pasul 5 detaliază planificarea media.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 19, p. 590-607 (Exhibit 19.1, 19.4)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 19, p. 590-607 (Exhibit 19.1, 19.4)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0103-bugetul-din-obiective-si-sarcini-eficienta-prin-grp-ctr-romi|ADV-0103]] _aplicare_ — Bugetul IMC se construiește din obiective și sarcini, iar eficiența se măsoară cu reach × frecvență (GRP), CTR și ROMI
+- [[ADV-0105-reclama-informeaza-convinge-sau-reaminteste|ADV-0105]] _fundament_ — Orice reclamă informează, convinge sau reamintește — obiectivul se alege după etapa produsului și după focus (produs, instituție, cauză)
+- [[ADV-0107-mixul-media-mass-sau-nisa-continuu-flighting-pulsing|ADV-0107]] _fundament_ — Planificarea media alege mixul (mass sau nișă, fiecare medium cu punctele lui tari) și ritmul — continuu, în valuri sau în pulsuri
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+<!-- backlinks:end -->

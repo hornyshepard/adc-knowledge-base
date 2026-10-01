@@ -45,10 +45,18 @@ Demonstrația nu trebuie să fie perfect logică pentru a convinge, dar trebuie 
 
 ## Legături
 
-- **fundament** [[INS-0605]] — imaginea trece de creierul rapid mai repede decât cuvântul.
-- **vezi** [[ADV-0624]] — demonstrația arată beneficiul final, nu atributul.
-- **vezi** [[CPY-0603]] — când vizualul spune strategia, titlul doar o ancorează.
+- **fundament** [[INS-0605-publicitatea-vorbeste-creierului-rapid-portarul-atentiei|INS-0605]] — imaginea trece de creierul rapid mai repede decât cuvântul.
+- **vezi** [[ADV-0624-de-la-atribut-la-beneficiul-final-si-final-final|ADV-0624]] — demonstrația arată beneficiul final, nu atributul.
+- **vezi** [[CPY-0603-titlul-ancoreaza-conotatiile-imaginii|CPY-0603]] — când vizualul spune strategia, titlul doar o ancorează.
 
 ## Surse
 
-- [[SRC-021]] Barry Milavsky, *Overcome AD-versity*, cap. 2 (p. 18–19), cap. 6 (p. 105–109)
+- [[SRC-021-overcome-ad-versity|SRC-021]] Barry Milavsky, *Overcome AD-versity*, cap. 2 (p. 18–19), cap. 6 (p. 105–109)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0607-formatele-de-executie-slice-of-life-prezentator-testimonial|CPY-0607]] _vezi_ — Formatele de execuție au forțe și slăbiciuni previzibile — slice-of-life, prezentator, purtător de cuvânt, testimonial, vignete, muzică, umor
+- [[INS-0605-publicitatea-vorbeste-creierului-rapid-portarul-atentiei|INS-0605]] _vezi_ — Publicitatea ajunge aproape doar la „creierul rapid", care e portarul atenției — mesajul trebuie să treacă întâi de el
+- [[SRC-021-overcome-ad-versity|SRC-021]] — Overcome AD-versity: How to Put Persuasion Power in Advertising
+<!-- backlinks:end -->

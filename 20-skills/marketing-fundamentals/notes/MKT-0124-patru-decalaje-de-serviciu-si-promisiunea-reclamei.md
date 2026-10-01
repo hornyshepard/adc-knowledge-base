@@ -48,10 +48,21 @@ Hilton (cap. 3) a construit campania „Expect More. Expect Hilton." pe ascultar
 
 ## Legături
 
-- **fundament** [[MKT-0123]] — intangibilitatea și eterogenitatea serviciilor fac aceste decalaje probabile.
-- **vezi** [[INS-0101]] — satisfacția post-cumpărare depinde de raportul dintre așteptări și experiență.
-- **vezi** [[ADV-0108]] — promisiunea exagerată poate trece de limita dintre puffery și înșelăciune.
+- **fundament** [[MKT-0123-serviciile-intangibile-inseparabile-eterogene-perisabile|MKT-0123]] — intangibilitatea și eterogenitatea serviciilor fac aceste decalaje probabile.
+- **vezi** [[INS-0101-decizia-de-cumparare-cinci-etape-si-dupa-cumparare|INS-0101]] — satisfacția post-cumpărare depinde de raportul dintre așteptări și experiență.
+- **vezi** [[ADV-0108-puffery-exagerarea-e-legala-cifra-trebuie-dovedita|ADV-0108]] — promisiunea exagerată poate trece de limita dintre puffery și înșelăciune.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 13, p. 425-427 (Exhibit 13.3); cap. 6, p. 200; cap. 3, p. 83-84
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 13, p. 425-427 (Exhibit 13.3); cap. 6, p. 200; cap. 3, p. 83-84
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0108-puffery-exagerarea-e-legala-cifra-trebuie-dovedita|ADV-0108]] _vezi_ — Exagerarea subiectivă (puffery) e legală, dar orice afirmație cuantificabilă trebuie dovedită
+- [[INS-0101-decizia-de-cumparare-cinci-etape-si-dupa-cumparare|INS-0101]] _vezi_ — Decizia de cumpărare are cinci etape și nu se încheie la casă — satisfacția, disonanța și loialitatea vin după
+- [[MKT-0123-serviciile-intangibile-inseparabile-eterogene-perisabile|MKT-0123]] _extinde_ — Serviciile se deosebesc de bunuri prin patru trăsături — intangibile, inseparabile, eterogene, perisabile
+- [[MKT-0125-cercetarea-de-marketing-in-cinci-pasi|MKT-0125]] _aplicare_ — Cercetarea de marketing are cinci pași — de la obiectiv la plan de acțiune — și transformă datele în informație
+- [[MKT-0128-pentru-servicii-mixul-devine-7p-oameni-procese-dovezi-fizice|MKT-0128]] _aplicare_ — Pentru servicii, mixul devine 7P — se adaugă oamenii, procesele și dovezile fizice
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+<!-- backlinks:end -->

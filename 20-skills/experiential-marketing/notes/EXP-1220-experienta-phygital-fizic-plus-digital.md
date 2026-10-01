@@ -47,10 +47,20 @@ Timberland (New York, 2016): clienții ating eticheta produsului cu o mini-table
 
 ## Legături
 
-- **extinde** [[EXP-1215]] — phygital-ul aplică ideea de continuum între fizic și digital.
-- **vezi** [[EXP-1221]] — cele șase tipologii de experiență phygital.
-- **vezi** [[INS-1202]] — flow-ul online (Hoffman & Novak) e unul dintre instrumentele phygital.
+- **extinde** [[EXP-1215-extension-continuumul-experientei-pana-acasa|EXP-1215]] — phygital-ul aplică ideea de continuum între fizic și digital.
+- **vezi** [[EXP-1221-sase-tipologii-ale-experientei-phygital|EXP-1221]] — cele șase tipologii de experiență phygital.
+- **vezi** [[INS-1202-flow-provocarea-potrivita-cu-competenta|INS-1202]] — flow-ul online (Hoffman & Novak) e unul dintre instrumentele phygital.
 
 ## Surse
 
-- [[SRC-036]] Wided Batat, *Experiential Marketing*, cap. 11 (Theory Box 11.1; mini-cazurile 11.1 Timberland, 11.2 Sue Bee Honey, 11.3 Xerox, 11.4 Fragrance Outlet; secț. „Key success factors")
+- [[SRC-036-experiential-marketing|SRC-036]] Wided Batat, *Experiential Marketing*, cap. 11 (Theory Box 11.1; mini-cazurile 11.1 Timberland, 11.2 Sue Bee Honey, 11.3 Xerox, 11.4 Fragrance Outlet; secț. „Key success factors")
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[EXP-1215-extension-continuumul-experientei-pana-acasa|EXP-1215]] _vezi_ — Extension — experiența trebuie gândită ca un continuum fără rupturi, din magazin până acasă
+- [[EXP-1221-sase-tipologii-ale-experientei-phygital|EXP-1221]] _extinde_ — Experiențele phygital au șase tipologii — conectată, web, VR/AR, socio-digitală, re-creativă, cyborg
+- [[INS-1202-flow-provocarea-potrivita-cu-competenta|INS-1202]] _vezi_ — Flow-ul — absorbția totală apare când provocarea e mare și potrivită cu competența omului
+- [[INS-1204-tipologia-valorii-holbrook-opt-valori|INS-1204]] _vezi_ — Tipologia valorii lui Holbrook — opt valori cu care se poate analiza orice experiență, fizică sau digitală
+- [[SRC-036-experiential-marketing|SRC-036]] — Experiential Marketing: Consumer Behavior, Customer Experience and the 7Es
+<!-- backlinks:end -->

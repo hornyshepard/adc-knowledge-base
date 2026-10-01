@@ -51,11 +51,18 @@ Disputa Elon Musk – Jack Ma de la World AI Conference (2019) ilustrează polar
 
 ## Legături
 
-- **fundament** [[MKT-0212]] — decalajul digital e a treia provocare care definește contextul Marketing 5.0.
-- **vezi** [[INS-0201]] — paradoxurile conectivității din 4.0 sunt aici reformulate ca frici și promisiuni.
-- **extinde** [[AIM-0203]] — combinarea high-tech cu high-touch e dezvoltată în noul CX.
-- **vezi** [[DIG-0203]] — pregătirea digitală a clienților și a companiei decide strategia.
+- **fundament** [[MKT-0212-marketing-5-0-tehnologie-pentru-umanitate-cinci-componente|MKT-0212]] — decalajul digital e a treia provocare care definește contextul Marketing 5.0.
+- **vezi** [[INS-0201-paradoxurile-clientului-conectat|INS-0201]] — paradoxurile conectivității din 4.0 sunt aici reformulate ca frici și promisiuni.
+- **extinde** [[AIM-0203-masinile-sunt-cool-oamenii-sunt-calzi-noul-cx|AIM-0203]] — combinarea high-tech cu high-touch e dezvoltată în noul CX.
+- **vezi** [[DIG-0203-pregatirea-digitala-patru-cadrane-origin-onward-organic-omni|DIG-0203]] — pregătirea digitală a clienților și a companiei decide strategia.
 
 ## Surse
 
-- [[SRC-005]] Kotler, Kartajaya, Setiawan, *Marketing 5.0*, cap. 4 „Digital Divide: Making Tech Personal, Social, and Experiential" (Fig. 4.1, 4.2)
+- [[SRC-005-marketing-5-0-philip-kotler|SRC-005]] Kotler, Kartajaya, Setiawan, *Marketing 5.0*, cap. 4 „Digital Divide: Making Tech Personal, Social, and Experiential" (Fig. 4.1, 4.2)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0203-pregatirea-digitala-patru-cadrane-origin-onward-organic-omni|DIG-0203]] _vezi_ — Pregătirea digitală se evaluează pe două axe — clienți gata să migreze și companie capabilă — cu patru cadrane și strategii diferite
+- [[SRC-005-marketing-5-0-philip-kotler|SRC-005]] — Marketing 5.0: Technology for Humanity
+<!-- backlinks:end -->

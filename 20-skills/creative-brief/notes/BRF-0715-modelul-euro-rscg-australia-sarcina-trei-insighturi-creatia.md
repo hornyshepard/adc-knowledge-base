@@ -33,12 +33,12 @@ Formularul are un antet administrativ (client și brand, nume de proiect, respon
 ## Aplicare
 
 - Când completezi blocul 2, verifică dacă cele trei insight-uri se întâlnesc într-un punct; acolo stă de obicei gândul unic.
-- Rescrie „obiectivul de business" și ca obiectiv de comunicare (vezi [[BRF-0703]]), altfel creativii rămân doar cu „vindem mai mult".
+- Rescrie „obiectivul de business" și ca obiectiv de comunicare (vezi [[BRF-0703-obiectivul-din-brief-este-unul-de-comunicare|BRF-0703]]), altfel creativii rămân doar cu „vindem mai mult".
 - Folosește lanțul de aprobări ca regulă: brief-ul nu pleacă la creație fără semnătura strategiei și a directorului de creație.
 
 ## Exemplu
 
-Pentru exercițiu, ia cazul Stark ([[BRF-0714]]): insight-ul consumatorului (frica de securitate), insight-ul de produs (criptarea), insight-ul de categorie (cloudul e perceput ca mai puțin sigur decât serverele proprii) duc firesc la gândul unic „mai sigur decât serverul tău".
+Pentru exercițiu, ia cazul Stark ([[BRF-0714-cazul-stark-cloud-solutions-de-la-brief-bun-la-excelent|BRF-0714]]): insight-ul consumatorului (frica de securitate), insight-ul de produs (criptarea), insight-ul de categorie (cloudul e perceput ca mai puțin sigur decât serverele proprii) duc firesc la gândul unic „mai sigur decât serverul tău".
 
 ## Întrebări
 
@@ -47,10 +47,17 @@ Pentru exercițiu, ia cazul Stark ([[BRF-0714]]): insight-ul consumatorului (fri
 
 ## Legături
 
-- **vezi** [[BRF-0720]] — comparația cu celelalte patru formulare.
-- **vezi** [[BRF-0707]] — „gândul unic" este forma lui Euro RSCG pentru propoziția unică.
-- **vezi** [[INS-0701]] — insight-ul consumatorului trebuie să treacă cele trei teste McTigue–Rucker.
+- **vezi** [[BRF-0720-comparatie-intre-modelele-de-brief-de-agentie|BRF-0720]] — comparația cu celelalte patru formulare.
+- **vezi** [[BRF-0707-un-singur-beneficiu-nu-cinci|BRF-0707]] — „gândul unic" este forma lui Euro RSCG pentru propoziția unică.
+- **vezi** [[INS-0701-insight-ul-este-un-adevar-uman-semnificativ|INS-0701]] — insight-ul consumatorului trebuie să treacă cele trei teste McTigue–Rucker.
 
 ## Surse
 
-- [[SRC-023]] Modele de brief de agenție — Euro RSCG Australia, formular de brief, p. 1
+- [[SRC-023-modele-de-brief-de-agentie|SRC-023]] Modele de brief de agenție — Euro RSCG Australia, formular de brief, p. 1
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRF-0720-comparatie-intre-modelele-de-brief-de-agentie|BRF-0720]] _extinde_ — Modelele de brief de agenție au același nucleu, dar fiecare optimizează altceva — inspirația, concizia, contextul, procesul sau dovada
+- [[SRC-023-modele-de-brief-de-agentie|SRC-023]] — Modele de brief de agenție (Euro RSCG, Get/To/By, Naked, Red Cell, Singleton Ogilvy & Mather)
+<!-- backlinks:end -->

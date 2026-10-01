@@ -42,10 +42,19 @@ Adobe a publicat în spațiul de brand al New York Times un articol despre cump�
 
 ## Legături
 
-- **vezi** [[DIG-0921]] — nativul e alternativa la bannerul care „arată a reclamă".
-- **vezi** [[DIG-0925]] — nativul e media plătită cu forma media proprii sau câștigate.
-- **extinde** [[STO-0903]] — în content marketing, nativul e un canal de distribuție plătit.
+- **vezi** [[DIG-0921-reclama-display-de-la-banner-static-la-rich-media|DIG-0921]] — nativul e alternativa la bannerul care „arată a reclamă".
+- **vezi** [[DIG-0925-media-owned-earned-paid-control-credibilitate-acoperire|DIG-0925]] — nativul e media plătită cu forma media proprii sau câștigate.
+- **extinde** [[STO-0903-strategia-de-content-marketing-are-patru-pasi|STO-0903]] — în content marketing, nativul e un canal de distribuție plătit.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 12, p. 345-347; cap. 8, p. 230, 236-237
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 12, p. 345-347; cap. 8, p. 230, 236-237
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0921-reclama-display-de-la-banner-static-la-rich-media|DIG-0921]] _vezi_ — Reclama display a evoluat de la bannerul static la rich media și video, dar ideea creativă rămâne umană
+- [[DIG-0925-media-owned-earned-paid-control-credibilitate-acoperire|DIG-0925]] _vezi_ — Media owned, earned și paid se completează — control, credibilitate și acoperire
+- [[STO-0903-strategia-de-content-marketing-are-patru-pasi|STO-0903]] _vezi_ — Strategia de content marketing are patru pași — creezi, dezvolți audiența, distribui, evaluezi
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+<!-- backlinks:end -->

@@ -44,10 +44,18 @@ Cazul Volvo e exemplul central. Ca alternativă, cartea propune pentru o compani
 
 ## Legături
 
-- **vezi** [[STO-1303]] — călătoria în trei acte și pragul dintre ele.
-- **fundament** [[STO-1301]] — destinația de conținut are nevoie de un subiect comun.
-- **vezi** [[AIM-1323]] — și modelele de decizie atribuie greșit meritul ultimului pas.
+- **vezi** [[STO-1303-calatoria-eroului-e-ciclul-de-cumparare-eroul-e-clientul|STO-1303]] — călătoria în trei acte și pragul dintre ele.
+- **fundament** [[STO-1301-punctul-de-mutualitate-subiectul-comun-brand-public|STO-1301]] — destinația de conținut are nevoie de un subiect comun.
+- **vezi** [[AIM-1323-modelarea-uplift-cauta-persuadabilii|AIM-1323]] — și modelele de decizie atribuie greșit meritul ultimului pas.
 
 ## Surse
 
-- [[SRC-040]] Aly Richards & Scott McLean, *Intelligent Customer Engagement*, secț. 3, cap. 2 și 8; secț. 4, cap. 2 și 5; secț. 5, cap. 1
+- [[SRC-040-intelligent-customer-engagement|SRC-040]] Aly Richards & Scott McLean, *Intelligent Customer Engagement*, secț. 3, cap. 2 și 8; secț. 4, cap. 2 și 5; secț. 5, cap. 1
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[STO-1301-punctul-de-mutualitate-subiectul-comun-brand-public|STO-1301]] _vezi_ — Punctul de mutualitate este subiectul despre care și brandul, și publicul vor să vorbească
+- [[STO-1303-calatoria-eroului-e-ciclul-de-cumparare-eroul-e-clientul|STO-1303]] _vezi_ — Călătoria eroului e ciclul de cumpărare văzut de client — iar eroul e clientul, nu brandul
+- [[SRC-040-intelligent-customer-engagement|SRC-040]] — Intelligent Customer Engagement: The Future of Content Marketing
+<!-- backlinks:end -->

@@ -43,10 +43,21 @@ Cazul JC Penney arată costul ignorării percepțiilor: clienții nu au recunosc
 
 ## Legături
 
-- **fundament** [[AIM-1307]] — limita derivă din imaginea implicită a familiei „date istorice".
-- **vezi** [[INS-1301]] — mai multe date din locul greșit nu ajută.
-- **contrazice** [[AIM-1301]] — promisiunea personalizării bazate pe date are aceleași limite.
+- **fundament** [[AIM-1307-patru-familii-de-metode-de-predictie-a-alegerii|AIM-1307]] — limita derivă din imaginea implicită a familiei „date istorice".
+- **vezi** [[INS-1301-literary-digest-volumul-nu-salveaza-un-cadru-gresit|INS-1301]] — mai multe date din locul greșit nu ajută.
+- **contrazice** [[AIM-1301-personalizarea-cu-ai-are-patru-registre|AIM-1301]] — promisiunea personalizării bazate pe date are aceleași limite.
 
 ## Surse
 
-- [[SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, cap. 1, 2 și 8
+- [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, cap. 1, 2 și 8
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-1307-patru-familii-de-metode-de-predictie-a-alegerii|AIM-1307]] _extinde_ — Metodele de predicție a alegerilor formează patru familii, fiecare cu o imagine implicită despre om
+- [[AIM-1319-modelul-de-limbaj-rezuma-dar-nu-dovedeste-cauze|AIM-1319]] _contrazice_ — Un model de limbaj rezumă bine text, dar nu dovedește cauze — „de ce a crescut conversia?" nu e o întrebare pentru chatbot
+- [[AIM-1326-poate-ai-ul-crea-identitatea-unui-brand|AIM-1326]] _vezi_ — Poate AI-ul crea identitatea unui brand? Promisiunea „brand assets generate" vs. brandul ca semnificație și relație
+- [[BRD-1301-brandul-ca-container-de-atribute-valoarea-reziduala|BRD-1301]] _vezi_ — În modelele de alegere, brandul e un „container" de atribute, iar valoarea lui se vede în ce rămâne după atribute
+- [[INS-1301-literary-digest-volumul-nu-salveaza-un-cadru-gresit|INS-1301]] _vezi_ — Literary Digest, 1936 — volumul de date nu salvează un cadru de eșantionare greșit
+- [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]] — Artificial Intelligence Marketing and Predicting Consumer Choice: An Overview of Tools and Techniques
+<!-- backlinks:end -->

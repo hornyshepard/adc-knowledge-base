@@ -43,10 +43,19 @@ Limita: arborele e un **algoritm lacom** (*greedy*). Alege la fiecare pas varian
 
 ## Legături
 
-- **aplicare** [[AIM-1302]] — arborele e un instrument concret de micro-segmentare.
-- **vezi** [[AIM-1314]] — pădurile aleatorii și boosting-ul, extensiile de tip ansamblu.
-- **alternativa** [[AIM-1315]] — rețelele bayesiene văd tot tiparul, nu doar situații „dacă–atunci".
+- **aplicare** [[AIM-1302-segmentele-construite-cu-ai-sunt-dinamice|AIM-1302]] — arborele e un instrument concret de micro-segmentare.
+- **vezi** [[AIM-1314-precizie-sau-transparenta-ansamblurile-si-retelele-neuronale|AIM-1314]] — pădurile aleatorii și boosting-ul, extensiile de tip ansamblu.
+- **alternativa** [[AIM-1315-retelele-bayesiene-tot-se-schimba-odata|AIM-1315]] — rețelele bayesiene văd tot tiparul, nu doar situații „dacă–atunci".
 
 ## Surse
 
-- [[SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, cap. 6
+- [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, cap. 6
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-1314-precizie-sau-transparenta-ansamblurile-si-retelele-neuronale|AIM-1314]] _extinde_ — Precizie sau transparență — ansamblurile și rețelele neuronale prezic, dar nu explică
+- [[AIM-1315-retelele-bayesiene-tot-se-schimba-odata|AIM-1315]] _alternativa_ — Rețelele bayesiene pornesc de la ideea că, atunci când schimbi o variabilă, se schimbă toate
+- [[AIM-1316-ce-metoda-pentru-ce-intrebare-de-marketing|AIM-1316]] _aplicare_ — Alegi metoda de analiză după întrebarea de marketing, nu după moda tehnologică
+- [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]] — Artificial Intelligence Marketing and Predicting Consumer Choice: An Overview of Tools and Techniques
+<!-- backlinks:end -->

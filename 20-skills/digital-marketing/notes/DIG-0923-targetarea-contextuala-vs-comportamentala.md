@@ -45,11 +45,22 @@ Pe mobil se adaugă **geo-fencing**: un perimetru virtual în jurul unui loc (st
 
 ## Legături
 
-- **fundament** [[DIG-0922]] — infrastructura programatică face posibilă targetarea în timp real.
-- **vezi** [[DIG-0910]] — eliminarea cookie-urilor third-party lovește direct tipul 2.
-- **extinde** [[DIG-0924]] — retargetingul e cea mai folosită formă de targetare comportamentală.
-- **contrazice** [[DIG-0929]] — precizia mare poate produce reactanță dacă vine prea devreme.
+- **fundament** [[DIG-0922-publicitatea-programatica-cumpara-impresii-prin-licitatie-rtb|DIG-0922]] — infrastructura programatică face posibilă targetarea în timp real.
+- **vezi** [[DIG-0910-cookie-urile-third-party-dispar-datele-first-party-devin-baza|DIG-0910]] — eliminarea cookie-urilor third-party lovește direct tipul 2.
+- **extinde** [[DIG-0924-retargetingul-trebuie-segmentat-dupa-stadiul-din-journey|DIG-0924]] — retargetingul e cea mai folosită formă de targetare comportamentală.
+- **contrazice** [[DIG-0929-personalizarea-relevanta-respect-control-reactanta|DIG-0929]] — precizia mare poate produce reactanță dacă vine prea devreme.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 10, p. 276-281, 284
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 10, p. 276-281, 284
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0910-cookie-urile-third-party-dispar-datele-first-party-devin-baza|DIG-0910]] _extinde_ — Cookie-urile third-party dispar, iar datele first-party devin baza targetării
+- [[DIG-0921-reclama-display-de-la-banner-static-la-rich-media|DIG-0921]] _vezi_ — Reclama display a evoluat de la bannerul static la rich media și video, dar ideea creativă rămâne umană
+- [[DIG-0922-publicitatea-programatica-cumpara-impresii-prin-licitatie-rtb|DIG-0922]] _extinde_ — Publicitatea programatică cumpără afișări automat, prin licitație în timp real, în milisecundele în care se încarcă pagina
+- [[DIG-0924-retargetingul-trebuie-segmentat-dupa-stadiul-din-journey|DIG-0924]] _extinde_ — Retargetingul trebuie segmentat după stadiul din journey și dozat, altfel devine hărțuire
+- [[DIG-0929-personalizarea-relevanta-respect-control-reactanta|DIG-0929]] _contrazice_ — Personalizarea funcționează doar cu relevanță, respect și control; venită prea devreme, produce reactanță
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+<!-- backlinks:end -->

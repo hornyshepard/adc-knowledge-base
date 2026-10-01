@@ -49,11 +49,19 @@ HubSpot folosește un chatbot pentru captarea și „încălzirea" lead-urilor, 
 
 ## Legături
 
-- **fundament** [[AIM-0202]] — fiecare caz de utilizare se bazează pe una sau mai multe tehnologii next tech.
-- **vezi** [[AIM-0203]] — checklistul închide capitolul despre diviziunea muncii om–mașină în noul CX.
-- **aplicare** [[AIM-0205]] — sistemele de recomandare și prognozele sunt aplicații ale marketingului predictiv.
-- **vezi** [[STO-0202]] — content marketingul din 4.0 primește aici instrumente de personalizare.
+- **fundament** [[AIM-0202-next-tech-tehnologiile-care-imita-omul|AIM-0202]] — fiecare caz de utilizare se bazează pe una sau mai multe tehnologii next tech.
+- **vezi** [[AIM-0203-masinile-sunt-cool-oamenii-sunt-calzi-noul-cx|AIM-0203]] — checklistul închide capitolul despre diviziunea muncii om–mașină în noul CX.
+- **aplicare** [[AIM-0205-marketingul-predictiv-clienti-produse-branduri|AIM-0205]] — sistemele de recomandare și prognozele sunt aplicații ale marketingului predictiv.
+- **vezi** [[STO-0202-content-marketing-in-opt-pasi-continutul-e-noua-reclama|STO-0202]] — content marketingul din 4.0 primește aici instrumente de personalizare.
 
 ## Surse
 
-- [[SRC-005]] Kotler, Kartajaya, Setiawan, *Marketing 5.0*, cap. 7, secțiunea „Leveraging the Next Tech for the New CX: A Checklist" (Fig. 7.4)
+- [[SRC-005-marketing-5-0-philip-kotler|SRC-005]] Kotler, Kartajaya, Setiawan, *Marketing 5.0*, cap. 7, secțiunea „Leveraging the Next Tech for the New CX: A Checklist" (Fig. 7.4)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-0202-next-tech-tehnologiile-care-imita-omul|AIM-0202]] _aplicare_ — Next tech sunt tehnologiile care imită capacitățile umane — AI, NLP, senzori, robotică, realitate mixtă, IoT și blockchain
+- [[AIM-0205-marketingul-predictiv-clienti-produse-branduri|AIM-0205]] _aplicare_ — Marketingul predictiv anticipează piața în trei zone — clienți, produse și branduri — cu regresie, filtrare colaborativă și rețele neuronale
+- [[SRC-005-marketing-5-0-philip-kotler|SRC-005]] — Marketing 5.0: Technology for Humanity
+<!-- backlinks:end -->

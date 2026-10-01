@@ -41,10 +41,19 @@ Contrastul din aceeași carte: Uber și-a schimbat în 2016 felul în care e scr
 
 ## Legături
 
-- **exemplu** [[ART-0501]] — cazul ilustrează rolul Sistemului 1 în designul de brand.
-- **vezi** [[ART-0502]] — culoarea, ilustrația și forma sunt indicii distincte din șablonul de design.
-- **vezi** [[BRD-0507]] — susținerea unei poziții cere continuitate, nu doar noutate.
+- **exemplu** [[ART-0501-designul-de-brand-lucreaza-in-sistemul-1-si-porneste-de-la|ART-0501]] — cazul ilustrează rolul Sistemului 1 în designul de brand.
+- **vezi** [[ART-0502-sablonul-de-design-de-brand-douasprezece-tipuri-de-indicii|ART-0502]] — culoarea, ilustrația și forma sunt indicii distincte din șablonul de design.
+- **vezi** [[BRD-0507-o-pozitie-se-sustine-prin-instantiere-moderna-schimbarea|BRD-0507]] — susținerea unei poziții cere continuitate, nu doar noutate.
 
 ## Surse
 
-- [[SRC-014]] Brian Sternthal, „Building Strong Brands through Advertising Strategy in the Online Age", cap. 10, p. 148; Bobby J. Calder, cap. 7, p. 95–97, în *Kellogg on Branding in a Hyper-Connected World*
+- [[SRC-014-kellogg-on-branding|SRC-014]] Brian Sternthal, „Building Strong Brands through Advertising Strategy in the Online Age", cap. 10, p. 148; Bobby J. Calder, cap. 7, p. 95–97, în *Kellogg on Branding in a Hyper-Connected World*
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0501-designul-de-brand-lucreaza-in-sistemul-1-si-porneste-de-la|ART-0501]] _exemplu_ — Designul de brand lucrează în Sistemul 1 și pornește de la 3–4 asociații țintă
+- [[ART-0510-redesignul-unui-logo-trebuie-sa-fie-evolutie-nu-revolutie|ART-0510]] _vezi_ — Redesignul unui logo trebuie să fie evoluție, nu revoluție
+- [[ART-0511-brandul-are-hardware-iconic-de-pastrat-si-software-dinamic|ART-0511]] _vezi_ — Brandul are hardware iconic, de păstrat, și software dinamic, de schimbat
+- [[SRC-014-kellogg-on-branding|SRC-014]] — Kellogg on Branding in a Hyper-Connected World
+<!-- backlinks:end -->

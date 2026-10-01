@@ -41,11 +41,19 @@ Hanurile medievale care ofereau „o gustare gratis” (poemul *Piers Plowman*, 
 
 ## Legături
 
-- **extinde** [[HIS-0802]] — semnele de origine sunt primul tip de comunicare promoțională descris de Richards.
-- **vezi** [[HIS-0803]] — forma reclamelor timpurii a fost dictată de analfabetism.
-- **vezi** [[CPY-0801]] — promisiunea ca nucleu apare deja în vaza „cumpără-mă”.
-- **vezi** [[HIS]] — hub-ul skill-ului de istorie.
+- **extinde** [[HIS-0802-brandul-garantie-de-origine-si-calitate|HIS-0802]] — semnele de origine sunt primul tip de comunicare promoțională descris de Richards.
+- **vezi** [[HIS-0803-reclama-pentru-analfabeti-imagine-simbol-si-voce|HIS-0803]] — forma reclamelor timpurii a fost dictată de analfabetism.
+- **vezi** [[CPY-0801-promisiunea-este-sufletul-reclamei|CPY-0801]] — promisiunea ca nucleu apare deja în vaza „cumpără-mă”.
+- **vezi** [[20-skills/advertising-history/SKILL|HIS]] — hub-ul skill-ului de istorie.
 
 ## Surse
 
-- [[SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 1, p. 9–23; cap. 2, p. 25–31
+- [[SRC-027-a-history-of-advertising|SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 1, p. 9–23; cap. 2, p. 25–31
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[HIS-0802-brandul-garantie-de-origine-si-calitate|HIS-0802]] _fundament_ — Brandul s-a născut ca garanție de origine și calitate, atunci când producătorul s-a îndepărtat de cumpărător
+- [[HIS-0803-reclama-pentru-analfabeti-imagine-simbol-si-voce|HIS-0803]] _fundament_ — Cât timp oamenii nu știau să citească, reclama a fost imagine, simbol și voce
+- [[SRC-027-a-history-of-advertising|SRC-027]] — A History of Advertising: The First 300,000 Years
+<!-- backlinks:end -->

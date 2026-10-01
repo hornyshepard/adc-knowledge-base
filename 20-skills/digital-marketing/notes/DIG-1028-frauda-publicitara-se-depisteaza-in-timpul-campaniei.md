@@ -44,10 +44,18 @@ Cu un ad server propriu, anomalia sare în ochi: 1.000 de clicuri la ora 4 dimin
 
 ## Legături
 
-- **vezi** [[DIG-1027]] — celelalte setări de calitate ale campaniei.
-- **vezi** [[DIG-1012]] — modelul de plată CPA ca protecție.
-- **vezi** [[DIG-1029]] — de ce programmatic-ul e mai expus.
+- **vezi** [[DIG-1027-brand-safety-viewability-si-plafonul-de-frecventa|DIG-1027]] — celelalte setări de calitate ale campaniei.
+- **vezi** [[DIG-1012-modelul-de-plata-media-urmeaza-obiectivul-si-etapa|DIG-1012]] — modelul de plată CPA ca protecție.
+- **vezi** [[DIG-1029-publicitatea-programatica-licitatie-in-timp-real|DIG-1029]] — de ce programmatic-ul e mai expus.
 
 ## Surse
 
-- [[SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 2.3.4.2 (p. 78), 5.1.1.2 (p. 162), 5.2.3 (p. 175–177)
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 2.3.4.2 (p. 78), 5.1.1.2 (p. 162), 5.2.3 (p. 175–177)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-1012-modelul-de-plata-media-urmeaza-obiectivul-si-etapa|DIG-1012]] _vezi_ — Modelul de plată media se alege după obiectiv și etapa din customer journey — CPM pentru notorietate, CPV/CPE pentru atracție, CPC/CPL pentru informare, CPA pentru cumpărare
+- [[DIG-1027-brand-safety-viewability-si-plafonul-de-frecventa|DIG-1027]] _vezi_ — Setările de calitate decid dacă impresiile plătite contează — brand safety, vizibilitate (viewability) și plafonul de frecvență
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] — Digital Advertising in the Post-cookie Era: Strategic Campaign Planning Across the Customer Journey
+<!-- backlinks:end -->

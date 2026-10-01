@@ -48,12 +48,21 @@ Un mesaj despre riscurile alcoolului poate folosi aceeași axă (teama de consec
 
 ## Legături
 
-- **fundament** [[INS-0601]] — axa aplică direct cercetarea motivațională.
-- **extinde** [[ADV-0604]] — axa e citită ca o evoluție psihologică a USP-ului.
-- **vezi** [[ADV-0601]] — mecanism al paradigmei personality branding.
-- **vezi** [[INS-0602]] — insight-ul formulat ca dilemă pune față în față o motivație și o frână.
+- **fundament** [[INS-0601-cercetarea-motivationala-cauta-de-ce-ul-ascuns-al-cumpararii|INS-0601]] — axa aplică direct cercetarea motivațională.
+- **extinde** [[ADV-0604-usp-are-trei-conditii-propunere-unica-care-vinde|ADV-0604]] — axa e citită ca o evoluție psihologică a USP-ului.
+- **vezi** [[ADV-0601-trei-paradigme-de-brand-management-produs-personalitate|ADV-0601]] — mecanism al paradigmei personality branding.
+- **vezi** [[INS-0602-insight-ul-e-o-dilema-a-consumatorului-pe-care-brandul-o-rezolva|INS-0602]] — insight-ul formulat ca dilemă pune față în față o motivație și o frână.
 
 ## Surse
 
-- [[SRC-018]] Jorge David Fernández Gómez, *Strategic Advertising Mechanisms*, cap. 4 §4.1–4.3 și nota 3
-- [[SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 19 (p. 70–72), outil 9 (p. 39)
+- [[SRC-018-strategic-advertising-mechanisms|SRC-018]] Jorge David Fernández Gómez, *Strategic Advertising Mechanisms*, cap. 4 §4.1–4.3 și nota 3
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 19 (p. 70–72), outil 9 (p. 39)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[INS-0601-cercetarea-motivationala-cauta-de-ce-ul-ascuns-al-cumpararii|INS-0601]] _vezi_ — Cercetarea motivațională caută „de ce"-ul ascuns al cumpărării — și a creat atât progres, cât și mituri
+- [[INS-0602-insight-ul-e-o-dilema-a-consumatorului-pe-care-brandul-o-rezolva|INS-0602]] _fundament_ — Insight-ul e o dilemă a consumatorului (dorință contra obstacol) pe care brandul o poate rezolva
+- [[SRC-018-strategic-advertising-mechanisms|SRC-018]] — Strategic Advertising Mechanisms: From Copy Strategy to Iconic Brands
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] — La boîte à outils de la publicité
+<!-- backlinks:end -->

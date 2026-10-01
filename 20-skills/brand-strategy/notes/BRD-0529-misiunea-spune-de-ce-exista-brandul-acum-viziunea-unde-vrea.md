@@ -46,11 +46,19 @@ Google: misiunea — să organizeze informația lumii și s-o facă universal ac
 
 ## Legături
 
-- **vezi** [[BRD-0509]] — scopul și convingerile din modelul Purpose Path to Growth acoperă aceeași zonă.
-- **contrazice** [[BRD-0510]] — critica „peak purpose": declarațiile prea înalte devin platitudini.
-- **aplicare** [[BRD-0515]] — platforma de brand trebuie să fie ușor de pus în practică.
+- **vezi** [[BRD-0509-purpose-path-to-growth-descopera-scopul-apoi-activeaza-l|BRD-0509]] — scopul și convingerile din modelul Purpose Path to Growth acoperă aceeași zonă.
+- **contrazice** [[BRD-0510-scop-sau-pozitionare-brandurile-opereaza-la-altitudini|BRD-0510]] — critica „peak purpose": declarațiile prea înalte devin platitudini.
+- **aplicare** [[BRD-0515-implementarea-strategiei-de-brand-cere-sase-elemente-nu|BRD-0515]] — platforma de brand trebuie să fie ușor de pus în practică.
 
 ## Surse
 
-- [[SRC-015]] Carl J. Damgaard, *The Unbeatable Brand Blueprint*, cap. 2, secțiunile „Crafting a Brand Mission and Vision" și „Defining Your Brand's Values"
-- [[SRC-014]] Silvia Lagnado & Colin Mitchell, cap. 17 în *Kellogg on Branding in a Hyper-Connected World*, p. 252
+- [[SRC-015-the-brand-blueprint|SRC-015]] Carl J. Damgaard, *The Unbeatable Brand Blueprint*, cap. 2, secțiunile „Crafting a Brand Mission and Vision" și „Defining Your Brand's Values"
+- [[SRC-014-kellogg-on-branding|SRC-014]] Silvia Lagnado & Colin Mitchell, cap. 17 în *Kellogg on Branding in a Hyper-Connected World*, p. 252
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0509-purpose-path-to-growth-descopera-scopul-apoi-activeaza-l|BRD-0509]] _vezi_ — Purpose Path to Growth: descoperă scopul, apoi activează-l întâi în interior
+- [[SRC-014-kellogg-on-branding|SRC-014]] — Kellogg on Branding in a Hyper-Connected World
+- [[SRC-015-the-brand-blueprint|SRC-015]] — The Unbeatable Brand Blueprint: The Ultimate Guide for Branding
+<!-- backlinks:end -->

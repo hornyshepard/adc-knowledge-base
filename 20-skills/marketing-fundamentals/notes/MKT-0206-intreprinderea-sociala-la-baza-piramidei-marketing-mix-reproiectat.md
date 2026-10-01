@@ -52,10 +52,18 @@ Project Shakti de la Hindustan Lever transformă mii de femei din mediul rural �
 
 ## Legături
 
-- **fundament** [[MKT-0202]] — întreprinderea socială pune în practică promisiunea Marketingului 3.0 de a face lumea mai bună.
-- **vezi** [[MKT-0204]] — e forma cea mai radicală de transformare socio-culturală.
-- **vezi** [[BRD-0205]] — la baza piramidei, brandul trebuie să fie un icon de încredere al comunității.
+- **fundament** [[MKT-0202-marketing-3-0-trateaza-clientul-ca-om-intreg-minte-inima-spirit|MKT-0202]] — întreprinderea socială pune în practică promisiunea Marketingului 3.0 de a face lumea mai bună.
+- **vezi** [[MKT-0204-filantropie-cause-marketing-transformare-socio-culturala|MKT-0204]] — e forma cea mai radicală de transformare socio-culturală.
+- **vezi** [[BRD-0205-brandurile-culturale-rezolva-paradoxurile-si-anxietatile-colective|BRD-0205]] — la baza piramidei, brandul trebuie să fie un icon de încredere al comunității.
 
 ## Surse
 
-- [[SRC-003]] Kotler, Kartajaya, Setiawan, *Marketing 3.0*, cap. 8 „Creating Emerging Market Entrepreneurs", p. 155-169 (Tabelele 8.1, 8.2)
+- [[SRC-003-marketing-3-0-philip-kotler|SRC-003]] Kotler, Kartajaya, Setiawan, *Marketing 3.0*, cap. 8 „Creating Emerging Market Entrepreneurs", p. 155-169 (Tabelele 8.1, 8.2)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[MKT-0204-filantropie-cause-marketing-transformare-socio-culturala|MKT-0204]] _vezi_ — Problemele sociale se abordează în trei trepte — filantropie, cause marketing, transformare socio-culturală
+- [[MKT-0213-polarizarea-prosperitatii-mijlocul-pietei-dispare|MKT-0213]] _extinde_ — Polarizarea prosperității golește mijlocul pieței — rămân doar poziționarea low-cost și cea premium prin experiență
+- [[SRC-003-marketing-3-0-philip-kotler|SRC-003]] — Marketing 3.0: From Products to Customers to the Human Spirit
+<!-- backlinks:end -->

@@ -46,10 +46,17 @@ Wits Realty: într-o industrie cu logo-uri ieftine și previzibile, identitatea 
 
 ## Legături
 
-- **vezi** [[IDE-0501]] — vânătoarea de inspirație s-a transformat într-un proiect personal vizibil.
-- **vezi** [[ART-0504]] — pasiunea personală e unul dintre pilonii logo-ului care durează.
-- **vezi** [[PIT-0501]] — încrederea de a conduce clientul vine și din munca proprie.
+- **vezi** [[IDE-0501-inspiratia-vizuala-originala-se-cauta-in-afara-bulei-de-pe|IDE-0501]] — vânătoarea de inspirație s-a transformat într-un proiect personal vizibil.
+- **vezi** [[ART-0504-un-logo-dureaza-prin-zece-piloni-dintre-care-designerul|ART-0504]] — pasiunea personală e unul dintre pilonii logo-ului care durează.
+- **vezi** [[PIT-0501-logo-ul-puternic-se-vinde-condus-de-designer-nu-dictat-de|PIT-0501]] — încrederea de a conduce clientul vine și din munca proprie.
 
 ## Surse
 
-- [[SRC-017]] Allan Peters, *Logos That Last*, cap. 9 „Passion Projects" (Camp, Negative Space Alphabet, Loving All Peoples); cap. 7 „The Shop"; „The Beginning"; cap. 8 (Epilogg, Wits Realty)
+- [[SRC-017-logos-that-last|SRC-017]] Allan Peters, *Logos That Last*, cap. 9 „Passion Projects" (Camp, Negative Space Alphabet, Loving All Peoples); cap. 7 „The Shop"; „The Beginning"; cap. 8 (Epilogg, Wits Realty)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[IDE-0501-inspiratia-vizuala-originala-se-cauta-in-afara-bulei-de-pe|IDE-0501]] _vezi_ — Inspirația vizuală originală se caută în afara bulei de pe Pinterest și Dribbble
+- [[SRC-017-logos-that-last|SRC-017]] — Logos That Last: How to Create Iconic Visual Branding
+<!-- backlinks:end -->

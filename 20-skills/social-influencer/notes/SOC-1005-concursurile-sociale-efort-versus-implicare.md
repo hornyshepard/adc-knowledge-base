@@ -48,10 +48,17 @@ Concursul UGC pentru designul tricourilor personalului dintr-un magazin, propus 
 
 ## Legături
 
-- **vezi** [[SOC-1004]] — concursurile alimentează treapta de lead-uri a scării.
-- **vezi** [[SOC-1003]] — concursurile mici țin vie o comunitate.
-- **contrazice** [[DIG-1021]] — SRC-032 avertizează că datele din concursuri sunt adesea incorecte.
+- **vezi** [[SOC-1004-scara-facebook-de-la-organic-la-remarketing|SOC-1004]] — concursurile alimentează treapta de lead-uri a scării.
+- **vezi** [[SOC-1003-focurile-de-tabara-digitale-comunitati-mici-private|SOC-1003]] — concursurile mici țin vie o comunitate.
+- **contrazice** [[DIG-1021-strategia-first-party-incepe-cu-intrebarea-de-vanzari|DIG-1021]] — SRC-032 avertizează că datele din concursuri sunt adesea incorecte.
 
 ## Surse
 
-- [[SRC-033]] Bharat Bhuval Nishad, *Facebook Marketing & Facebook Ads Beginner To Pro*, secț. „Collecting Leads With A Facebook Giveaway campaign" și „Contest Ideas To Try"
+- [[SRC-033-facebook-marketing|SRC-033]] Bharat Bhuval Nishad, *Facebook Marketing & Facebook Ads Beginner To Pro*, secț. „Collecting Leads With A Facebook Giveaway campaign" și „Contest Ideas To Try"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[SOC-1004-scara-facebook-de-la-organic-la-remarketing|SOC-1004]] _vezi_ — Pe Facebook, marketingul urcă o scară — prezență organică, engagement, lead-uri, trafic plătit, remarketing —, pentru că reach-ul organic singur nu mai ajunge
+- [[SRC-033-facebook-marketing|SRC-033]] — Facebook Marketing & Facebook Ads Beginner To Pro
+<!-- backlinks:end -->

@@ -53,10 +53,19 @@ Avis, „suntem pe locul doi, așa că ne străduim mai mult" (cap. 1), reduce v
 
 ## Legături
 
-- **alternativa** [[INS-0425]] — atitudinile se pot forma și pe căi afective, fără convingeri.
-- **vezi** [[ADV-0406]] — reclama acționează și prin plăcerea față de reclamă, nu doar prin convingeri.
-- **aplicare** [[CPY-0402]] — mesajul bilateral reduce valoarea unui atribut slab.
+- **alternativa** [[INS-0425-trei-cai-afective-spre-atitudine|INS-0425]] — atitudinile se pot forma și pe căi afective, fără convingeri.
+- **vezi** [[ADV-0406-placerea-fata-de-reclama-se-transfera-asupra-brandului|ADV-0406]] — reclama acționează și prin plăcerea față de reclamă, nu doar prin convingeri.
+- **aplicare** [[CPY-0402-mesajul-bilateral-castiga-credibilitate|CPY-0402]] — mesajul bilateral reduce valoarea unui atribut slab.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 4, p. 170-173
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 4, p. 170-173
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0406-placerea-fata-de-reclama-se-transfera-asupra-brandului|ADV-0406]] _alternativa_ — Plăcerea față de reclamă se transferă asupra brandului pe două căi (ipoteza dublei medieri)
+- [[CPY-0402-mesajul-bilateral-castiga-credibilitate|CPY-0402]] _fundament_ — Mesajul bilateral câștigă credibilitate dacă recunoaște un defect minor, plauzibil și legat de beneficiul principal
+- [[INS-0435-gaseste-credinta-care-separa-cumparatorii|INS-0435]] _fundament_ — Înainte de a convinge, află dacă frâna e atitudinea, norma socială sau controlul perceput (teoria comportamentului planificat)
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

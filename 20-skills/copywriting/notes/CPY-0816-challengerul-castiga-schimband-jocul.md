@@ -25,7 +25,7 @@ status: seed
 
 **Southern Pacific (1946).** Un „curs scurt de căi ferate pentru directorii companiilor aeriene” a răspuns cu bună dispoziție comparațiilor de preț înșelătoare ale aerului. Curând după apariție, comparațiile au încetat.
 
-Richards adaugă exemplul canonic: Avis, numărul doi după Hertz, a transformat poziția în promisiune: se străduiește mai mult. Iar Volkswagen a făcut din mașina mică un argument (vezi [[HIS-0811]]).
+Richards adaugă exemplul canonic: Avis, numărul doi după Hertz, a transformat poziția în promisiune: se străduiește mai mult. Iar Volkswagen a făcut din mașina mică un argument (vezi [[HIS-0811-revolutia-creativa-copywriter-si-art-director-impreuna|HIS-0811]]).
 
 ## Aplicare
 
@@ -44,12 +44,20 @@ El Al (DDB, 1958) a proclamat că Atlanticul e cu 20% mai mic, iar Watkins o num
 
 ## Legături
 
-- **contrazice** [[HIS-0827]] — Plymouth n-a creat suspans propriu, l-a folosit pe al lui Ford.
-- **vezi** [[CPY-0812]] — autoironia micului comerciant ca ton.
-- **vezi** [[CPY-0809]] — „We Try Harder” a venit din gura clientului.
-- **vezi** [[BRD]] — poziționarea challenger în strategia de brand.
+- **contrazice** [[HIS-0827-lansarile-clasice-test-teaser-diversiune|HIS-0827]] — Plymouth n-a creat suspans propriu, l-a folosit pe al lui Ford.
+- **vezi** [[CPY-0812-vocea-personala-a-proprietarului|CPY-0812]] — autoironia micului comerciant ca ton.
+- **vezi** [[CPY-0809-titlurile-bune-sunt-gasite-nu-inventate|CPY-0809]] — „We Try Harder” a venit din gura clientului.
+- **vezi** [[20-skills/brand-strategy/SKILL|BRD]] — poziționarea challenger în strategia de brand.
 
 ## Surse
 
-- [[SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Plymouth — Look at All Three”, „Stryker Soap Company — No Phoolium”, „Southern Pacific Railroad”, „El Al Israel”
-- [[SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 10, p. 202–203; cap. 16, p. 369–370
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Plymouth — Look at All Three”, „Stryker Soap Company — No Phoolium”, „Southern Pacific Railroad”, „El Al Israel”
+- [[SRC-027-a-history-of-advertising|SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 10, p. 202–203; cap. 16, p. 369–370
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0812-vocea-personala-a-proprietarului|CPY-0812]] _vezi_ — Vocea personală a proprietarului bate tonul corporatist
+- [[HIS-0827-lansarile-clasice-test-teaser-diversiune|HIS-0827]] _contrazice_ — Lansările clasice — produsul testat fără reclamă, teaserul și diversiunea (Camel, Ford Model A, Lux)
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] — The 100 Greatest Advertisements 1852–1958: Who Wrote Them and What They Did
+<!-- backlinks:end -->

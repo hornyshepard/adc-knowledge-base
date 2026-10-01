@@ -52,10 +52,19 @@ Pe același principiu, Noil (SRC-037) propune o reducere celor cu „risc de chu
 
 ## Legături
 
-- **contrazice** [[AIM-1303]] — utilizările-tip ale analizei predictive ignoră incrementalitatea.
-- **vezi** [[AIM-1322]] — rezultatele O2, citite prin această lentilă.
-- **vezi** [[AIM-1309]] — altă capcană: confuzia dintre preferință și piață.
+- **contrazice** [[AIM-1303-analiza-predictiva-este-un-ciclu-nu-un-raport|AIM-1303]] — utilizările-tip ale analizei predictive ignoră incrementalitatea.
+- **vezi** [[AIM-1322-o2-vision-motorul-de-decizie-si-oboseala-audientei|AIM-1322]] — rezultatele O2, citite prin această lentilă.
+- **vezi** [[AIM-1309-cota-de-preferinta-nu-e-cota-de-piata|AIM-1309]] — altă capcană: confuzia dintre preferință și piață.
 
 ## Surse
 
-- [[SRC-040]] Aly Richards & Scott McLean, *Intelligent Customer Engagement*, secț. 2, cap. 3
+- [[SRC-040-intelligent-customer-engagement|SRC-040]] Aly Richards & Scott McLean, *Intelligent Customer Engagement*, secț. 2, cap. 3
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-1303-big-idea-nu-ajunge-long-idea-volvo-epic-split|ADV-1303]] _vezi_ — Un Big Idea nu ajunge fără un „Long Idea" — publicul trebuie așteptat la pasul următor (Volvo Trucks, „Epic Split")
+- [[AIM-1322-o2-vision-motorul-de-decizie-si-oboseala-audientei|AIM-1322]] _extinde_ — O2 Vision — motorul de decizie a dus conversia de la sub 2% la peste 70%, apoi a venit oboseala audienței
+- [[AIM-1324-ofera-ce-accepta-clientul-nu-ce-aduce-marja-maxima|AIM-1324]] _vezi_ — Oferă ce e mai probabil să accepte clientul, nu ce aduce marja cea mai mare — un „da" aduce alt „da"
+- [[SRC-040-intelligent-customer-engagement|SRC-040]] — Intelligent Customer Engagement: The Future of Content Marketing
+<!-- backlinks:end -->

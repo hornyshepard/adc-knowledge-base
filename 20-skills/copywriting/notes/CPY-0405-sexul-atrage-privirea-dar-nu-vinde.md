@@ -51,10 +51,17 @@ Prima reclamă a lui Ogilvy, cu o femeie nud pentru un aragaz — pe care el în
 
 ## Legături
 
-- **alternativa** [[CPY-0404]] — umorul atrage atenția cu efecte mai bune asupra brandului.
-- **contrazice** [[ADV-0406]] — plăcerea față de reclamă nu se transferă aici asupra brandului.
-- **vezi** [[INS-0432]] — atractivitatea sursei ajută doar când e relevantă pentru produs.
+- **alternativa** [[CPY-0404-umorul-atrage-atentia-dar-fura-brandul|CPY-0404]] — umorul atrage atenția cu efecte mai bune asupra brandului.
+- **contrazice** [[ADV-0406-placerea-fata-de-reclama-se-transfera-asupra-brandului|ADV-0406]] — plăcerea față de reclamă nu se transferă aici asupra brandului.
+- **vezi** [[INS-0432-vedeta-convinge-ca-argument-doar-cand-e-relevanta|INS-0432]] — atractivitatea sursei ajută doar când e relevantă pentru produs.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 5, p. 230-233; cap. 1, p. 22-23
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 5, p. 230-233; cap. 1, p. 22-23
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0404-umorul-atrage-atentia-dar-fura-brandul|CPY-0404]] _alternativa_ — Umorul atrage atenția și simpatia, dar fură memoria brandului — funcționează mai ales pentru produse ieftine cumpărate fără gândire
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

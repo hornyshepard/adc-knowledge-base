@@ -51,10 +51,18 @@ Credo-urile 4, 7 și 9 sunt principii clasice (segmentare, CRM, QCD); noutatea e
 
 ## Legături
 
-- **fundament** [[MKT-0202]] — credo-urile rezumă practica Marketingului 3.0.
-- **vezi** [[MKT-0204]] — stadiul „integrare" corespunde treptei transformării socio-culturale.
-- **vezi** [[BRD-0204]] — credo-ul 10 arată ce se întâmplă când decizia ignoră valorile angajaților.
+- **fundament** [[MKT-0202-marketing-3-0-trateaza-clientul-ca-om-intreg-minte-inima-spirit|MKT-0202]] — credo-urile rezumă practica Marketingului 3.0.
+- **vezi** [[MKT-0204-filantropie-cause-marketing-transformare-socio-culturala|MKT-0204]] — stadiul „integrare" corespunde treptei transformării socio-culturale.
+- **vezi** [[BRD-0204-valorile-devin-brand-doar-ca-valori-comune-traite-de-angajati|BRD-0204]] — credo-ul 10 arată ce se întâmplă când decizia ignoră valorile angajaților.
 
 ## Surse
 
-- [[SRC-003]] Kotler, Kartajaya, Setiawan, *Marketing 3.0*, cap. 10 „Putting It All Together", p. 187-197
+- [[SRC-003-marketing-3-0-philip-kotler|SRC-003]] Kotler, Kartajaya, Setiawan, *Marketing 3.0*, cap. 10 „Putting It All Together", p. 187-197
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0204-valorile-devin-brand-doar-ca-valori-comune-traite-de-angajati|BRD-0204]] _vezi_ — Valorile companiei devin brand doar când sunt valori comune trăite în comportamentul angajaților
+- [[MKT-0204-filantropie-cause-marketing-transformare-socio-culturala|MKT-0204]] _vezi_ — Problemele sociale se abordează în trei trepte — filantropie, cause marketing, transformare socio-culturală
+- [[SRC-003-marketing-3-0-philip-kotler|SRC-003]] — Marketing 3.0: From Products to Customers to the Human Spirit
+<!-- backlinks:end -->

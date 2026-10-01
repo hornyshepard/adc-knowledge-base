@@ -44,10 +44,19 @@ Două precizări practice:
 
 ## Legături
 
-- **vezi** [[DIG-1036]] — publicitatea nativă ridică aceeași problemă a recunoașterii reclamei.
-- **vezi** [[DIG-1016]] — și aici afirmațiile sunt judecate ca publicitate.
-- **vezi** [[SOC-1001]] — onestitatea în relația cu publicul protejează reputația.
+- **vezi** [[DIG-1036-publicitatea-nativa-credibilitate-versus-transparenta|DIG-1036]] — publicitatea nativă ridică aceeași problemă a recunoașterii reclamei.
+- **vezi** [[DIG-1016-promisiunea-de-confidentialitate-este-un-claim-publicitar|DIG-1016]] — și aici afirmațiile sunt judecate ca publicitate.
+- **vezi** [[SOC-1001-recenzia-negativa-raspuns-rapid-empatic-fara-stergere|SOC-1001]] — onestitatea în relația cu publicul protejează reputația.
 
 ## Surse
 
-- [[SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 2 (p. 71) și cap. 11 (p. 370)
+- [[SRC-031-digital-marketing-manual|SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 2 (p. 71) și cap. 11 (p. 370)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-1036-publicitatea-nativa-credibilitate-versus-transparenta|DIG-1036]] _vezi_ — Publicitatea nativă își ia credibilitatea din faptul că seamănă cu conținutul editorial — exact lucrul pe care regulile de transparență îl limitează
+- [[SOC-1001-recenzia-negativa-raspuns-rapid-empatic-fara-stergere|SOC-1001]] _vezi_ — La o recenzie negativă, brandul răspunde repede, empatic și profesionist, mută rezolvarea în privat și nu șterge critica
+- [[SOC-1003-focurile-de-tabara-digitale-comunitati-mici-private|SOC-1003]] _vezi_ — Conversația se mută în „focuri de tabără digitale", comunități mici și private, iar brandul intră în ele ca gazdă utilă, nu ca vânzător
+- [[SRC-031-digital-marketing-manual|SRC-031]] — Digital Marketing
+<!-- backlinks:end -->

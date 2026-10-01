@@ -45,10 +45,21 @@ După Zaki & Ochsner, angajații sunt „percepători", iar clienții „ținte"
 
 ## Legături
 
-- **extinde** [[EXP-1201]] — detaliază al cincilea E al mixului.
-- **vezi** [[INS-1208]] — instrumentele de formare a capitalului de empatie (harta empatiei, modelul McLaren).
-- **vezi** [[EXP-1211]] — empatia angajaților influențează direct respectul perceput, axa ETM.
+- **extinde** [[EXP-1201-mixul-experiential-7e-inlocuieste-cei-7p|EXP-1201]] — detaliază al cincilea E al mixului.
+- **vezi** [[INS-1208-harta-empatiei-si-modelul-mclaren|INS-1208]] — instrumentele de formare a capitalului de empatie (harta empatiei, modelul McLaren).
+- **vezi** [[EXP-1211-experience-territory-matrix-respect-centricity|EXP-1211]] — empatia angajaților influențează direct respectul perceput, axa ETM.
 
 ## Surse
 
-- [[SRC-036]] Wided Batat, *Experiential Marketing*, cap. 8 (Theory Box 8.1, Tabelul 8.1, mini-cazul 8.1); cap. 1, secț. „The role of employees as emotional motivators"
+- [[SRC-036-experiential-marketing|SRC-036]] Wided Batat, *Experiential Marketing*, cap. 8 (Theory Box 8.1, Tabelul 8.1, mini-cazul 8.1); cap. 1, secț. „The role of employees as emotional motivators"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[EXP-1201-mixul-experiential-7e-inlocuieste-cei-7p|EXP-1201]] _vezi_ — Mixul de marketing experiențial (7E) înlocuiește cei 7P cu decizii centrate pe experiența clientului
+- [[EXP-1211-experience-territory-matrix-respect-centricity|EXP-1211]] _vezi_ — Experience Territory Matrix încrucișează respectul perceput de client cu customer-centricity-ul firmei
+- [[EXP-1218-cardurile-emotional-touchpoints-atelier-in-sase-pasi|EXP-1218]] _vezi_ — Cardurile „emotional touchpoints" — un atelier în șase pași pentru a afla ce simte clientul la fiecare contact
+- [[INS-1203-emotiile-consumatorului-primare-secundare-fluctuante|INS-1203]] _vezi_ — Emoțiile consumatorului sunt primare sau secundare și fluctuează pe tot parcursul experienței
+- [[INS-1208-harta-empatiei-si-modelul-mclaren|INS-1208]] _aplicare_ — Capitalul de empatie se formează cu harta empatiei și cu cele șase aspecte ale modelului McLaren
+- [[SRC-036-experiential-marketing|SRC-036]] — Experiential Marketing: Consumer Behavior, Customer Experience and the 7Es
+<!-- backlinks:end -->

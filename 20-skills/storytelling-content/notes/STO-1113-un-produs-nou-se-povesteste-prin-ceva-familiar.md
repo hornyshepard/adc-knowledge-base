@@ -41,9 +41,16 @@ Radiodifuzorii au vândut radioul ca „cinema în minte"; Streem își rezumă 
 
 ## Legături
 
-- **vezi** [[STO-1108]] — metafora centrală e principalul instrument pentru a lega noul de familiar.
-- **vezi** [[STO-1101]] — chiar și genurile noi de social media păstrează arhetipuri vechi.
+- **vezi** [[STO-1108-story-dna-o-singura-metafora-centrala-aplicata-pe-toate|STO-1108]] — metafora centrală e principalul instrument pentru a lega noul de familiar.
+- **vezi** [[STO-1101-pe-social-media-ghidul-inlocuieste-eroul-din-calatoria|STO-1101]] — chiar și genurile noi de social media păstrează arhetipuri vechi.
 
 ## Surse
 
-- [[SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, Prefață, p. 13; cap. 1, p. 18–19; cap. 1.1, p. 23; cap. 4.2.5.2, p. 181
+- [[SRC-034-social-media-storytelling|SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, Prefață, p. 13; cap. 1, p. 18–19; cap. 1.1, p. 23; cap. 4.2.5.2, p. 181
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[STO-1108-story-dna-o-singura-metafora-centrala-aplicata-pe-toate|STO-1108]] _vezi_ — Story DNA: o singură metaforă centrală aplicată pe toate straturile
+- [[SRC-034-social-media-storytelling|SRC-034]] — Social Media Storytelling
+<!-- backlinks:end -->

@@ -50,10 +50,19 @@ Primul banner din istorie a rulat pe 27 octombrie 1994: AT&T a plătit 30.000 $ 
 
 ## Legături
 
-- **vezi** [[DIG-1011]] — congruența cu pagina și cu landing page-ul.
-- **vezi** [[CPY-1001]] — aceleași principii de concizie și stimulent în anunțurile de search.
-- **vezi** [[DIG-1030]] — bannerele dinamice aplică regulile la scară, prin șabloane.
+- **vezi** [[DIG-1011-reclama-si-pagina-de-destinatie-spun-acelasi-lucru|DIG-1011]] — congruența cu pagina și cu landing page-ul.
+- **vezi** [[CPY-1001-anuntul-de-cautare-set-de-piese-interschimbabile|CPY-1001]] — aceleași principii de concizie și stimulent în anunțurile de search.
+- **vezi** [[DIG-1030-cazul-bucatariilor-dmp-dsp-si-bannere-dinamice|DIG-1030]] — bannerele dinamice aplică regulile la scară, prin șabloane.
 
 ## Surse
 
-- [[SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 1.1 (p. 13) și 2.3.2–2.3.3 (p. 68–75)
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 1.1 (p. 13) și 2.3.2–2.3.3 (p. 68–75)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-1001-anuntul-de-cautare-set-de-piese-interschimbabile|CPY-1001]] _vezi_ — Anunțul de căutare se scrie ca un set de piese interschimbabile — titluri, descrieri, extensii — pe care algoritmul le combină, deci fiecare piesă trebuie să funcționeze singură
+- [[DIG-1010-dcx-se-verifica-cu-fagurele-ux-al-lui-morville|DIG-1010]] _vezi_ — Experiența digitală a clientului (DCX) se verifică cu fagurele UX al lui Morville — util, utilizabil, dezirabil, găsibil, accesibil, credibil, valoros
+- [[DIG-1030-cazul-bucatariilor-dmp-dsp-si-bannere-dinamice|DIG-1030]] _vezi_ — Cazul bucătăriilor — date imobiliare anonimizate, un DMP, un DSP și bannere dinamice transformă un pliant pentru toată lumea într-o ofertă pentru fiecare gospodărie
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] — Digital Advertising in the Post-cookie Era: Strategic Campaign Planning Across the Customer Journey
+<!-- backlinks:end -->

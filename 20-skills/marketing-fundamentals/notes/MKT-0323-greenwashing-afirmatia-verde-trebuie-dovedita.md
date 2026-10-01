@@ -55,13 +55,26 @@ Contrastul din bibliotecă: Patagonia își comunică practicile *după* ce le a
 
 ## Legături
 
-- **fundament** [[MKT-0320]] — spațiul dintre sustenabilitatea „reală" și cea „percepută".
-- **aplicare** [[MKT-0322]] — indicatorii și auditul extern sunt antidotul principal.
-- **contrazice** [[BRD-0302]] — Patagonia: comunicarea vine după fapte.
-- **vezi** [[MKT-0318]] — Carrotmob condiționează recompensa de o schimbare verificabilă.
+- **fundament** [[MKT-0320-marketing-sustenabil-verde-eco-eficienta-csr-cause-nu-sunt-sinonime|MKT-0320]] — spațiul dintre sustenabilitatea „reală" și cea „percepută".
+- **aplicare** [[MKT-0322-impactul-sustenabil-se-masoara-pe-patru-familii-de-indicatori|MKT-0322]] — indicatorii și auditul extern sunt antidotul principal.
+- **contrazice** [[BRD-0302-patagonia-dont-buy-this-jacket|BRD-0302]] — Patagonia: comunicarea vine după fapte.
+- **vezi** [[MKT-0318-carrotmob-cumpararea-colectiva-conditionata|MKT-0318]] — Carrotmob condiționează recompensa de o schimbare verificabilă.
 
 ## Surse
 
-- [[SRC-011]] Maria Cesarini Viturino, *Sustainable Marketing*, cap. 2–5 și bibliografia
-- [[SRC-010]] Patrick Ejeke, *Marketing Trends*, trendurile 15, 62, 63
-- [[SRC-008]] Jon Wuebben, *Future Marketing*, cap. 9
+- [[SRC-011-sustainable-marketing-viturino|SRC-011]] Maria Cesarini Viturino, *Sustainable Marketing*, cap. 2–5 și bibliografia
+- [[SRC-010-marketing-trends-ejeke|SRC-010]] Patrick Ejeke, *Marketing Trends*, trendurile 15, 62, 63
+- [[SRC-008-future-marketing|SRC-008]] Jon Wuebben, *Future Marketing*, cap. 9
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0302-reclama-incluziva-ton-limbaj-reprezentare|ADV-0302]] _vezi_ — Reclama incluzivă se verifică pe trei axe — ton, limbaj, reprezentare — înainte de publicare
+- [[BRD-0302-patagonia-dont-buy-this-jacket|BRD-0302]] _contrazice_ — Patagonia, „Don't Buy This Jacket”: o reclamă de Black Friday care îți cere să nu cumperi
+- [[MKT-0318-carrotmob-cumpararea-colectiva-conditionata|MKT-0318]] _vezi_ — Carrotmob: consumatorii organizați recompensează o firmă doar dacă face o schimbare responsabilă
+- [[MKT-0320-marketing-sustenabil-verde-eco-eficienta-csr-cause-nu-sunt-sinonime|MKT-0320]] _vezi_ — Marketingul sustenabil, marketingul verde, eco-eficiența, CSR și cause marketing nu sunt sinonime
+- [[MKT-0322-impactul-sustenabil-se-masoara-pe-patru-familii-de-indicatori|MKT-0322]] _vezi_ — Impactul sustenabil se măsoară pe patru familii de indicatori, iar credibilitatea vine din auditul extern
+- [[MKT-0324-designul-pentru-circularitate-produs-si-ambalaj|MKT-0324]] _vezi_ — Designul pentru circularitate: produsul și ambalajul se gândesc de la sfârșitul vieții lor
+- [[SRC-010-marketing-trends-ejeke|SRC-010]] — Marketing Trends: 63 Digital Marketing Trends in the Age of Automation, Integrated Marketing, Omnichannel Marketing, Metaverse, Big Data, NFTs, AI, AR & VR
+- [[SRC-011-sustainable-marketing-viturino|SRC-011]] — Sustainable Marketing: Responsible Practices for the Future of Marketing
+<!-- backlinks:end -->

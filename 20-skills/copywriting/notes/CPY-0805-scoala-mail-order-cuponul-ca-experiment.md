@@ -47,12 +47,24 @@ Fiecare cupon Sherwin Cody, Book of Etiquette sau I.C.S. avea un cod de departam
 
 ## Legături
 
-- **exemplu** [[HIS-0812]] — mail-order-ul a fost nucleul taberei „știință”.
-- **aplicare** [[CPY-0801]] — promisiunea din titlu, testată prin răspunsuri.
-- **vezi** [[CPY-0806]] — multe titluri mail-order au folosit teama socială.
-- **vezi** [[CPY-0817]] — reclamele testate au rulat neschimbate ani întregi.
+- **exemplu** [[HIS-0812-publicitatea-stiinta-sau-arta|HIS-0812]] — mail-order-ul a fost nucleul taberei „știință”.
+- **aplicare** [[CPY-0801-promisiunea-este-sufletul-reclamei|CPY-0801]] — promisiunea din titlu, testată prin răspunsuri.
+- **vezi** [[CPY-0806-teama-sociala-vinde-dar-exista-calea-pozitiva|CPY-0806]] — multe titluri mail-order au folosit teama socială.
+- **vezi** [[CPY-0817-consecventa-bate-noutatea|CPY-0817]] — reclamele testate au rulat neschimbate ani întregi.
 
 ## Surse
 
-- [[SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „U.S. School of Music”, „Dr. Eliot’s Five-Foot Shelf”, „Sherwin Cody”, „The Book of Etiquette”, „Phoenix Mutual”, „International Correspondence School — Coupon Advertisements”, „Dale Carnegie”, „The Sears, Roebuck Catalogue”
-- [[SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 10, p. 198; cap. 14, p. 333–336
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „U.S. School of Music”, „Dr. Eliot’s Five-Foot Shelf”, „Sherwin Cody”, „The Book of Etiquette”, „Phoenix Mutual”, „International Correspondence School — Coupon Advertisements”, „Dale Carnegie”, „The Sears, Roebuck Catalogue”
+- [[SRC-027-a-history-of-advertising|SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 10, p. 198; cap. 14, p. 333–336
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0801-promisiunea-este-sufletul-reclamei|CPY-0801]] _aplicare_ — Promisiunea este sufletul reclamei — de la Samuel Johnson (1759) la titlurile mail-order
+- [[CPY-0802-reason-why-vanzare-tiparita|CPY-0802]] _aplicare_ — Reason-why — reclama ca vânzare tipărită care îi dă cititorului un motiv concret
+- [[CPY-0804-text-lung-sau-scurt-lungimea-depinde-de-interes|CPY-0804]] _vezi_ — Text lung sau text scurt? Lungimea depinde de interes, nu de o regulă
+- [[CPY-0806-teama-sociala-vinde-dar-exista-calea-pozitiva|CPY-0806]] _vezi_ — Teama socială vinde — dar există și calea pozitivă
+- [[CPY-0817-consecventa-bate-noutatea|CPY-0817]] _exemplu_ — Consecvența bate noutatea — nu schimba o reclamă care încă funcționează
+- [[HIS-0812-publicitatea-stiinta-sau-arta|HIS-0812]] _exemplu_ — Publicitatea este știință sau artă? — dezbaterea care a împărțit secolul XX
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] — The 100 Greatest Advertisements 1852–1958: Who Wrote Them and What They Did
+<!-- backlinks:end -->

@@ -47,12 +47,26 @@ Extra a mutat povestea din igienă (protecție anti-carie) în comunitate și se
 
 ## Legături
 
-- **fundament** [[BRD-0503]] — strategiile susțin elementele declarației de poziționare.
-- **alternativa** [[BRD-0508]] — repoziționarea este varianta radicală, de folosit după ce strategiile de susținere au eșuat.
-- **contrazice** [[BRD-0510]] — Lagnado și Mitchell avertizează că laddering-ul prea sus face brandurile identice.
-- **extinde** [[BRD-0505]] — schimbarea dovezii din atribut în imagine.
-- **exemplu** [[BRD-0527]] — John Deere păstrează esența și schimbă felul în care o livrează.
+- **fundament** [[BRD-0503-declaratia-de-pozitionare-are-patru-elemente-tinta-cadru|BRD-0503]] — strategiile susțin elementele declarației de poziționare.
+- **alternativa** [[BRD-0508-repozitionarea-este-o-solutie-de-ultima-instanta|BRD-0508]] — repoziționarea este varianta radicală, de folosit după ce strategiile de susținere au eșuat.
+- **contrazice** [[BRD-0510-scop-sau-pozitionare-brandurile-opereaza-la-altitudini|BRD-0510]] — Lagnado și Mitchell avertizează că laddering-ul prea sus face brandurile identice.
+- **extinde** [[BRD-0505-dovezile-bazate-pe-atribute-se-copiaza-cele-bazate-pe|BRD-0505]] — schimbarea dovezii din atribut în imagine.
+- **exemplu** [[BRD-0527-cazul-john-deere-esenta-brandului-ramane-orientarea|BRD-0527]] — John Deere păstrează esența și schimbă felul în care o livrează.
 
 ## Surse
 
-- [[SRC-014]] Alice M. Tybout, „Brand Positioning", cap. 1 în *Kellogg on Branding in a Hyper-Connected World*, p. 11–15
+- [[SRC-014-kellogg-on-branding|SRC-014]] Alice M. Tybout, „Brand Positioning", cap. 1 în *Kellogg on Branding in a Hyper-Connected World*, p. 11–15
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0503-cazul-tropicana-redesignul-ambalajului-a-sters-indiciile-de|ART-0503]] _vezi_ — Cazul Tropicana: redesignul ambalajului a șters indiciile de recunoaștere
+- [[ART-0510-redesignul-unui-logo-trebuie-sa-fie-evolutie-nu-revolutie|ART-0510]] _vezi_ — Redesignul unui logo trebuie să fie evoluție, nu revoluție
+- [[BRD-0505-dovezile-bazate-pe-atribute-se-copiaza-cele-bazate-pe|BRD-0505]] _extinde_ — Dovezile bazate pe atribute se copiază, cele bazate pe imagine se pot deține
+- [[BRD-0508-repozitionarea-este-o-solutie-de-ultima-instanta|BRD-0508]] _alternativa_ — Repoziționarea este o soluție de ultimă instanță, justificată în puține situații
+- [[BRD-0509-purpose-path-to-growth-descopera-scopul-apoi-activeaza-l|BRD-0509]] _vezi_ — Purpose Path to Growth: descoperă scopul, apoi activează-l întâi în interior
+- [[BRD-0510-scop-sau-pozitionare-brandurile-opereaza-la-altitudini|BRD-0510]] _contrazice_ — Scop sau poziționare: brandurile operează la altitudini diferite
+- [[BRD-0527-cazul-john-deere-esenta-brandului-ramane-orientarea|BRD-0527]] _vezi_ — Cazul John Deere: esența brandului rămâne, orientarea companiei se schimbă
+- [[BRD-0532-brand-blueprint-zeita-inima-dar-si-stil-fiecare-trecut|BRD-0532]] _alternativa_ — Brand blueprint: zeiță, inimă, dar și stil, fiecare trecut printr-un test
+- [[SRC-014-kellogg-on-branding|SRC-014]] — Kellogg on Branding in a Hyper-Connected World
+<!-- backlinks:end -->

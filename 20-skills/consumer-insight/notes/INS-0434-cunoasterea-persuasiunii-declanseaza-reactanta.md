@@ -47,11 +47,23 @@ Studiul Laran et al.: aceleași sloganuri au avut efect invers sau direct, în f
 
 ## Legături
 
-- **fundament** [[INS-0417]] — reducerea rezistenței e scopul strategiilor omega.
-- **vezi** [[INS-0420]] — copiii nu au încă această cunoaștere.
-- **vezi** [[ADV-0408]] — plasarea de produs și publicitatea nativă încearcă să ocolească această rezistență.
-- **vezi** [[INS-0432]] — sursa cu interes evident e mai puțin credibilă.
+- **fundament** [[INS-0417-strategii-alfa-si-omega-ale-persuasiunii|INS-0417]] — reducerea rezistenței e scopul strategiilor omega.
+- **vezi** [[INS-0420-poate-publicitatea-crea-dorinte-si-materialism|INS-0420]] — copiii nu au încă această cunoaștere.
+- **vezi** [[ADV-0408-plasarea-de-produs-si-publicitatea-nativa|ADV-0408]] — plasarea de produs și publicitatea nativă încearcă să ocolească această rezistență.
+- **vezi** [[INS-0432-vedeta-convinge-ca-argument-doar-cand-e-relevanta|INS-0432]] — sursa cu interes evident e mai puțin credibilă.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 1, p. 16; cap. 2, p. 83; cap. 5, p. 233-237
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 1, p. 16; cap. 2, p. 83; cap. 5, p. 233-237
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0408-plasarea-de-produs-si-publicitatea-nativa|ADV-0408]] _fundament_ — Plasarea de produs și publicitatea nativă ocolesc rezistența, dar se întorc împotriva brandului când sunt prea vizibile sau asociate cu ceva negativ
+- [[ADV-0410-targetarea-online-potrivirea-si-intruzivitatea|ADV-0410]] _fundament_ — Targetarea online ajută, dar reclama potrivită și intruzivă în același timp scade intenția de cumpărare
+- [[CPY-0402-mesajul-bilateral-castiga-credibilitate|CPY-0402]] _vezi_ — Mesajul bilateral câștigă credibilitate dacă recunoaște un defect minor, plauzibil și legat de beneficiul principal
+- [[INS-0417-strategii-alfa-si-omega-ale-persuasiunii|INS-0417]] _extinde_ — Poți convinge crescând atracția ofertei (strategii alfa) sau reducând rezistența la ea (strategii omega)
+- [[INS-0432-vedeta-convinge-ca-argument-doar-cand-e-relevanta|INS-0432]] _vezi_ — Vedeta din reclamă e indiciu periferic la implicare mică și devine argument doar când e relevantă pentru produs
+- [[INS-0436-intentiile-de-implementare-daca-atunci|INS-0436]] _vezi_ — Planul „dacă situația X, atunci fac Y" transformă intenția în acțiune (intențiile de implementare)
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

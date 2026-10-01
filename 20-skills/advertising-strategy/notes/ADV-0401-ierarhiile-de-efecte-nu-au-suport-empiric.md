@@ -54,11 +54,24 @@ DAGMAR ca instrument: pentru un brand nou, obiectivul de etapă poate fi „nevo
 
 ## Legături
 
-- **alternativa** [[ADV-0402]] — grilele FCB și Rossiter-Percy adaugă implicarea și tipul de motivație.
-- **contrazice** [[INS-0412]] — memoria pentru reclamă nu prezice atitudinea.
-- **alternativa** [[INS-0401]] — modelul în patru etape leagă procesarea de implicare.
-- **vezi** [[ADV]] — hub-ul de strategie de publicitate.
+- **alternativa** [[ADV-0402-grilele-fcb-si-rossiter-percy|ADV-0402]] — grilele FCB și Rossiter-Percy adaugă implicarea și tipul de motivație.
+- **contrazice** [[INS-0412-recall-ul-e-o-masura-slaba-a-eficientei|INS-0412]] — memoria pentru reclamă nu prezice atitudinea.
+- **alternativa** [[INS-0401-procesarea-reclamei-are-patru-etape|INS-0401]] — modelul în patru etape leagă procesarea de implicare.
+- **vezi** [[20-skills/advertising-strategy/SKILL|ADV]] — hub-ul de strategie de publicitate.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 1, p. 35-40, 43-44
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 1, p. 35-40, 43-44
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0402-grilele-fcb-si-rossiter-percy|ADV-0402]] _extinde_ — Grilele FCB și Rossiter-Percy combină implicarea cu tipul de motivație, dar tratează greșit implicarea ca atribut al produsului
+- [[ADV-0403-modele-de-raspuns-al-vanzarilor-concav-si-s|ADV-0403]] _vezi_ — Răspunsul vânzărilor la buget urmează o curbă concavă sau în S, cu prag de intrare și punct de uzură
+- [[INS-0401-procesarea-reclamei-are-patru-etape|INS-0401]] _alternativa_ — Procesarea unei reclame trece prin patru etape, de la scanarea preatentivă la raționamentul elaborativ
+- [[INS-0412-recall-ul-e-o-masura-slaba-a-eficientei|INS-0412]] _contrazice_ — Recall-ul și recunoașterea sunt măsuri slabe ale eficienței unei reclame
+- [[INS-0413-accesibilitatea-decide-setul-de-consideratie|INS-0413]] _contrazice_ — Accesibilitatea în memorie decide ce branduri intră în setul de considerație, nu neapărat ce se cumpără
+- [[INS-0415-criza-replicarii-cum-citim-studiile|INS-0415]] _vezi_ — Criza replicării obligă la prudență, dar teoriile se judecă pe programe de cercetare, nu pe studii izolate
+- [[INS-0429-a-placea-nu-inseamna-a-vrea|INS-0429]] _contrazice_ — A-ți plăcea un produs nu înseamnă a-l vrea — de la atitudine la scop e nevoie de atingibilitate, discrepanță și un declanșator
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

@@ -46,11 +46,21 @@ Fir roșu al capitolului: un producător de software de video cu AI pentru IMM-u
 
 ## Legături
 
-- **vezi** [[DIG-1002]] — planul strategic la nivel de organizație, în care se înscrie campania.
-- **vezi** [[BRF-1001]] — brief-ul deschide pasul 1.
-- **vezi** [[DIG-1026]] — grupurile de campanie, piesa centrală a pasului 1.
-- **vezi** [[DIG-1032]] — KPI-urile pe etape din pasul 3.
+- **vezi** [[DIG-1002-planul-strategic-digital-trei-etape-opt-sectiuni|DIG-1002]] — planul strategic la nivel de organizație, în care se înscrie campania.
+- **vezi** [[BRF-1001-briefingul-campaniei-digitale-patru-blocuri|BRF-1001]] — brief-ul deschide pasul 1.
+- **vezi** [[DIG-1026-grup-de-campanie-pe-persona-subcampanii-pe-etape|DIG-1026]] — grupurile de campanie, piesa centrală a pasului 1.
+- **vezi** [[DIG-1032-kpi-pe-etape-aware-appeal-ask|DIG-1032]] — KPI-urile pe etape din pasul 3.
 
 ## Surse
 
-- [[SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 2.1–2.4 (p. 38–40, 67–68, 75–79)
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 2.1–2.4 (p. 38–40, 67–68, 75–79)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRF-1001-briefingul-campaniei-digitale-patru-blocuri|BRF-1001]] _vezi_ — Brief-ul pentru o campanie digitală are patru blocuri — situația de pornire, problema și obiectivele, ținta (cu persona și journey), bugetul și calendarul
+- [[DIG-1002-planul-strategic-digital-trei-etape-opt-sectiuni|DIG-1002]] _vezi_ — Planul strategic de marketing digital se face în trei etape și se scrie în opt secțiuni, cu una dedicată legalității și confidențialității
+- [[DIG-1026-grup-de-campanie-pe-persona-subcampanii-pe-etape|DIG-1026]] _extinde_ — Fiecare buyer persona primește propriul grup de campanie, împărțit în subcampanii pentru Aware, Appeal și Ask, fiecare cu obiective și KPI separate
+- [[DIG-1033-atribuirea-devine-incerta-etapele-de-inceput-dezavantajate|DIG-1033]] _vezi_ — Atribuirea vânzării pe touchpoint-uri devine tot mai incertă după cookie-uri — modelele first-touch și last-touch simplifică, iar etapele de început ies dezavantajate
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] — Digital Advertising in the Post-cookie Era: Strategic Campaign Planning Across the Customer Journey
+<!-- backlinks:end -->

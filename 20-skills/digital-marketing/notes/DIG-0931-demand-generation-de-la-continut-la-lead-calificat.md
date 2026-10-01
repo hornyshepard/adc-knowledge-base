@@ -43,10 +43,19 @@ Kaiser Permanente Colorado a captat lead-uri prin landing page-uri alimentate de
 
 ## Legături
 
-- **fundament** [[DIG-0902]] — demand generation acoperă tranziția de la achiziție la conversie.
-- **aplicare** [[DIG-0920]] — landing page-urile optimizate sunt motorul nutririi.
-- **vezi** [[STO-0901]] — content marketingul este primul pas al procesului.
+- **fundament** [[DIG-0902-patru-strategii-generice-achizitie-conversie-retentie-valoare|DIG-0902]] — demand generation acoperă tranziția de la achiziție la conversie.
+- **aplicare** [[DIG-0920-reclama-e-doar-atat-de-buna-cat-landing-page-ul-ei|DIG-0920]] — landing page-urile optimizate sunt motorul nutririi.
+- **vezi** [[STO-0901-content-marketingul-este-always-on-campania-doar-il-puncteaza|STO-0901]] — content marketingul este primul pas al procesului.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 13, p. 355-369, 372-374, 383-385
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 13, p. 355-369, 372-374, 383-385
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0902-patru-strategii-generice-achizitie-conversie-retentie-valoare|DIG-0902]] _aplicare_ — Orice program digital servește una dintre patru strategii generice — achiziție, conversie, retenție, creșterea valorii
+- [[DIG-0934-modelele-de-atribuire-decid-ce-canal-primeste-meritul|DIG-0934]] _vezi_ — Modelele de atribuire decid ce canal primește meritul conversiei — și schimbă astfel bugetul
+- [[STO-0901-content-marketingul-este-always-on-campania-doar-il-puncteaza|STO-0901]] _vezi_ — Content marketingul este „always on”, iar campania doar îl punctează
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+<!-- backlinks:end -->

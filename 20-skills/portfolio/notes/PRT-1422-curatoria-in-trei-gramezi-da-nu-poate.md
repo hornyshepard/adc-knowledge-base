@@ -52,10 +52,18 @@ Dintr-o campanie cu 12 execuții, un art director păstrează key visual-ul, o a
 
 ## Legături
 
-- **fundament** [[PRT-1405]] — aplică principiul calității înaintea cantității.
-- **extinde** [[PRT-1421]] — după selecție urmează ordinea și ritmul.
-- **vezi** [[PRT-1409]] — rolul exact în proiectele de echipă trebuie scris și în studiul de caz.
+- **fundament** [[PRT-1405-doua-trei-proiecte-excelente-bat-cinci-mediocre|PRT-1405]] — aplică principiul calității înaintea cantității.
+- **extinde** [[PRT-1421-ritmul-portofoliului-patru-metode-de-ordonare|PRT-1421]] — după selecție urmează ordinea și ritmul.
+- **vezi** [[PRT-1409-studiul-de-caz-brief-ce-am-facut-rezultate|PRT-1409]] — rolul exact în proiectele de echipă trebuie scris și în studiul de caz.
 
 ## Surse
 
-- [[SRC-046]] Zuzana Kubišová, *The Architect's Pocket Guide to Portfolio Design*, Pasul 2, pp. 24–37
+- [[SRC-046-architects-pocket-guide-to-portfolio-design|SRC-046]] Zuzana Kubišová, *The Architect's Pocket Guide to Portfolio Design*, Pasul 2, pp. 24–37
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PRT-1405-doua-trei-proiecte-excelente-bat-cinci-mediocre|PRT-1405]] _extinde_ — Două-trei proiecte excelente bat cinci proiecte înconjurate de mediocritate
+- [[PRT-1421-ritmul-portofoliului-patru-metode-de-ordonare|PRT-1421]] _fundament_ — Ordinea proiectelor creează ritmul portofoliului — patru metode, de la cronologic la relevanță
+- [[SRC-046-architects-pocket-guide-to-portfolio-design|SRC-046]] — The Architect's Pocket Guide to Portfolio Design
+<!-- backlinks:end -->

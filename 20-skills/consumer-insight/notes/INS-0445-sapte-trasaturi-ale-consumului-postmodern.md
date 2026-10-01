@@ -52,10 +52,19 @@ Powerscourt Townhouse Centre din Dublin (studiul de caz al capitolului): o clăd
 
 ## Legături
 
-- **extinde** [[BRD-0401]] — brandurile iconice exploatează aceste coduri culturale prin mituri identitare.
-- **vezi** [[EXP-0401]] — mediile de retail tematice și experiențele liminale.
-- **alternativa** [[INS-0430]] — modelul cognitiv al procesării mesajului, opus paradigmei interpretative.
+- **extinde** [[BRD-0401-brandurile-iconice-rezolva-tensiuni-culturale|BRD-0401]] — brandurile iconice exploatează aceste coduri culturale prin mituri identitare.
+- **vezi** [[EXP-0401-experienta-de-retail-ca-rit-de-trecere|EXP-0401]] — mediile de retail tematice și experiențele liminale.
+- **alternativa** [[INS-0430-persuasiunea-pe-ruta-centrala-sau-periferica|INS-0430]] — modelul cognitiv al procesării mesajului, opus paradigmei interpretative.
 
 ## Surse
 
-- [[SRC-013]] Parsons, Maclaran & Chatzidakis, *Contemporary Issues in Marketing and Consumer Behaviour*, cap. 2, p. 14-31
+- [[SRC-013-contemporary-issues-in-marketing-and-consumer-behaviour|SRC-013]] Parsons, Maclaran & Chatzidakis, *Contemporary Issues in Marketing and Consumer Behaviour*, cap. 2, p. 14-31
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0401-brandurile-iconice-rezolva-tensiuni-culturale|BRD-0401]] _fundament_ — Brandurile devin iconice când oferă un mit identitar care rezolvă o tensiune culturală a momentului (Holt)
+- [[EXP-0401-experienta-de-retail-ca-rit-de-trecere|EXP-0401]] _fundament_ — Experiențele de retail memorabile funcționează ca ritualuri de trecere, iar locurile obișnuite devin „al treilea loc" prin senzația de acasă
+- [[MKT-0401-co-crearea-imputernicire-sau-munca-neplatita|MKT-0401]] _vezi_ — Co-crearea valorii — împuternicirea consumatorului sau muncă neplătită pentru brand?
+- [[SRC-013-contemporary-issues-in-marketing-and-consumer-behaviour|SRC-013]] — Contemporary Issues in Marketing and Consumer Behaviour (2nd edition)
+<!-- backlinks:end -->

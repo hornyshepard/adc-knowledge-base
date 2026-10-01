@@ -50,11 +50,20 @@ Canadian Club era de 16–17 ani în declin. Brief-ul de pitch spunea „e cool 
 
 ## Legături
 
-- **extinde** [[INS-0701]] — definiția și testele insight-ului.
-- **aplicare** [[BRF-0714]] — insight-ul Stark se adâncește prin discuții cu clienții.
-- **vezi** [[IDE-0708]] — la Canadian Club bariera întoarsă pe dos devine argumentul.
+- **extinde** [[INS-0701-insight-ul-este-un-adevar-uman-semnificativ|INS-0701]] — definiția și testele insight-ului.
+- **aplicare** [[BRF-0714-cazul-stark-cloud-solutions-de-la-brief-bun-la-excelent|BRF-0714]] — insight-ul Stark se adâncește prin discuții cu clienții.
+- **vezi** [[IDE-0708-inversarea-problemei-dezavantajul-devine-argumentul|IDE-0708]] — la Canadian Club bariera întoarsă pe dos devine argumentul.
 
 ## Surse
 
-- [[SRC-022]] Kevin McTigue, Derek D. Rucker, *The Creative Brief Blueprint*, cap. 4 „Insights"
-- [[SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 2 („The Holy Grail: An Insight") și cap. 6
+- [[SRC-022-the-creative-brief-blueprint|SRC-022]] Kevin McTigue, Derek D. Rucker, *The Creative Brief Blueprint*, cap. 4 „Insights"
+- [[SRC-025-shareworthy|SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 2 („The Holy Grail: An Insight") și cap. 6
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[IDE-0708-inversarea-problemei-dezavantajul-devine-argumentul|IDE-0708]] _exemplu_ — Inversarea problemei — dezavantajul devine argumentul
+- [[INS-0701-insight-ul-este-un-adevar-uman-semnificativ|INS-0701]] _extinde_ — Insight-ul este un adevăr uman semnificativ — trebuie să treacă testul sensului, al omului și al adevărului
+- [[SRC-022-the-creative-brief-blueprint|SRC-022]] — The Creative Brief Blueprint
+- [[SRC-025-shareworthy|SRC-025]] — Shareworthy: Advertising That Creates Powerful Connections Through Storytelling
+<!-- backlinks:end -->

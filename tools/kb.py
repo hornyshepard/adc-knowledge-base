@@ -483,7 +483,7 @@ def tokenize(text):
     return [w for w in re.findall(r"[a-z][a-z0-9-]{2,}", t) if w not in STOP]
 
 
-def cmd_suggest(skill=None, top=5, min_sim=0.18):
+def cmd_suggest(skill=None, top=6, min_sim=0.10):
     notes = [n for n in load() if n.type == "zettel"]
     docs = {}
     for n in notes:
@@ -711,7 +711,7 @@ def main(argv):
     elif cmd == "build":
         cmd_build(rename="--rename" in args)
     elif cmd == "suggest":
-        cmd_suggest(skill=opt("--skill"), top=opt("--top", 5, int), min_sim=opt("--min", 0.18, float))
+        cmd_suggest(skill=opt("--skill"), top=opt("--top", 6, int), min_sim=opt("--min", 0.10, float))
     elif cmd == "merge" and len(args) == 2:
         cmd_merge(args[0], args[1])
     elif cmd == "redirect" and len(args) == 1:

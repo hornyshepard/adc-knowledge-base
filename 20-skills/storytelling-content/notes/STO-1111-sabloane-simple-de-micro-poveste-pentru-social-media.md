@@ -46,10 +46,18 @@ Aplicația Streem (realitate augmentată pentru meseriași) își explică model
 
 ## Legături
 
-- **vezi** [[STO-1104]] — răsturnarea și CTA-ul din șabloane sunt story beats.
-- **vezi** [[STO-1105]] — un șablon fix repetat devine format serial.
-- **aplicare** [[SOC-1105]] — live-ul folosește schema intro–execuție–outro.
+- **vezi** [[STO-1104-story-beats-tin-ritmul-si-imping-atentia-spre-ce-urmeaza|STO-1104]] — răsturnarea și CTA-ul din șabloane sunt story beats.
+- **vezi** [[STO-1105-formatul-serial-este-arma-secreta-a-micro-storytelling-ului|STO-1105]] — un șablon fix repetat devine format serial.
+- **aplicare** [[SOC-1105-livestream-ul-se-planifica-in-trei-faze-intro-executie-outro|SOC-1105]] — live-ul folosește schema intro–execuție–outro.
 
 ## Surse
 
-- [[SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 1.3.2, p. 42–43; cap. 3.3, p. 103; cap. 4.6, p. 235; cap. 5.3.1, p. 246; cap. 5.4.1.1, p. 251
+- [[SRC-034-social-media-storytelling|SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 1.3.2, p. 42–43; cap. 3.3, p. 103; cap. 4.6, p. 235; cap. 5.3.1, p. 246; cap. 5.4.1.1, p. 251
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[SOC-1105-livestream-ul-se-planifica-in-trei-faze-intro-executie-outro|SOC-1105]] _fundament_ — Livestream-ul se planifică în trei faze: intro, execuție, outro
+- [[STO-1104-story-beats-tin-ritmul-si-imping-atentia-spre-ce-urmeaza|STO-1104]] _vezi_ — Story beats țin ritmul și împing atenția spre ce urmează
+- [[SRC-034-social-media-storytelling|SRC-034]] — Social Media Storytelling
+<!-- backlinks:end -->

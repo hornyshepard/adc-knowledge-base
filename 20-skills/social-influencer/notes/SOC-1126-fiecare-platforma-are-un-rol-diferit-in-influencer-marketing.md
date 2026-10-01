@@ -54,11 +54,19 @@ Autorul dă un contraexemplu simplu: pentru vacanțele Saga, destinate seniorilo
 
 ## Legături
 
-- **vezi** [[SOC-1101]] — stories și toks au logici diferite în interiorul platformelor.
-- **vezi** [[SOC-1124]] — LinkedIn și X sunt platformele principale pentru influența B2B.
-- **vezi** [[STO-1107]] — strategia all-in-one distribuie povestea pe platforme cu roluri diferite.
+- **vezi** [[SOC-1101-stories-si-toks-doua-genuri-native-de-smartphone-cu-logici|SOC-1101]] — stories și toks au logici diferite în interiorul platformelor.
+- **vezi** [[SOC-1124-in-b2b-influenta-vine-din-angajati-si-thought-leaders|SOC-1124]] — LinkedIn și X sunt platformele principale pentru influența B2B.
+- **vezi** [[STO-1107-strategia-all-in-one-produci-o-data-distribui-fragmentat-in|STO-1107]] — strategia all-in-one distribuie povestea pe platforme cu roluri diferite.
 
 ## Surse
 
-- [[SRC-035]] Glenister, *Influencer Marketing Strategy*, cap. 1, p. 35; cap. 2, p. 72–104; cap. 3, p. 133, 139
-- [[SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 5.3.2 (A. Sbai), p. 248
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] Glenister, *Influencer Marketing Strategy*, cap. 1, p. 35; cap. 2, p. 72–104; cap. 3, p. 133, 139
+- [[SRC-034-social-media-storytelling|SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 5.3.2 (A. Sbai), p. 248
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[STO-1107-strategia-all-in-one-produci-o-data-distribui-fragmentat-in|STO-1107]] _vezi_ — Strategia all-in-one: produci o dată, distribui fragmentat în timp
+- [[SRC-034-social-media-storytelling|SRC-034]] — Social Media Storytelling
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] — Influencer Marketing Strategy: How influencers can help grow your business
+<!-- backlinks:end -->

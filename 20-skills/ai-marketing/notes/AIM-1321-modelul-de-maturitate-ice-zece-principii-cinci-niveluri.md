@@ -57,10 +57,18 @@ O2 a sărit de la nivelul 2 la 4 implementând un motor de decizie fără să fi
 
 ## Legături
 
-- **exemplu** [[AIM-1322]] — cazul O2 Vision, de la nivelul 2 la 4.
-- **extinde** [[AIM-1324]] — cum funcționează motorul de decizie de la nivelul 4.
-- **vezi** [[AIM-1301]] — personalizarea, văzută aici ca proces organizațional.
+- **exemplu** [[AIM-1322-o2-vision-motorul-de-decizie-si-oboseala-audientei|AIM-1322]] — cazul O2 Vision, de la nivelul 2 la 4.
+- **extinde** [[AIM-1324-ofera-ce-accepta-clientul-nu-ce-aduce-marja-maxima|AIM-1324]] — cum funcționează motorul de decizie de la nivelul 4.
+- **vezi** [[AIM-1301-personalizarea-cu-ai-are-patru-registre|AIM-1301]] — personalizarea, văzută aici ca proces organizațional.
 
 ## Surse
 
-- [[SRC-040]] Aly Richards & Scott McLean, *Intelligent Customer Engagement*, secț. 2, cap. 3
+- [[SRC-040-intelligent-customer-engagement|SRC-040]] Aly Richards & Scott McLean, *Intelligent Customer Engagement*, secț. 2, cap. 3
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-1322-o2-vision-motorul-de-decizie-si-oboseala-audientei|AIM-1322]] _exemplu_ — O2 Vision — motorul de decizie a dus conversia de la sub 2% la peste 70%, apoi a venit oboseala audienței
+- [[AIM-1324-ofera-ce-accepta-clientul-nu-ce-aduce-marja-maxima|AIM-1324]] _fundament_ — Oferă ce e mai probabil să accepte clientul, nu ce aduce marja cea mai mare — un „da" aduce alt „da"
+- [[SRC-040-intelligent-customer-engagement|SRC-040]] — Intelligent Customer Engagement: The Future of Content Marketing
+<!-- backlinks:end -->

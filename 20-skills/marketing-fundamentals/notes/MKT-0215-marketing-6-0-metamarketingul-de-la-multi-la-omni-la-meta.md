@@ -53,12 +53,23 @@ Coca-Cola Creations: Starlight, un gust „al spațiului cosmic", deschide prin 
 
 ## Legături
 
-- **fundament** [[MKT-0201]] — 6.0 e ultima treaptă a hărții 1.0→6.0.
-- **extinde** [[DIG-0201]] — metamarketingul e prezentat ca etapa de după omnichannel-ul din 4.0.
-- **fundament** [[MKT-0212]] — reia next tech din 5.0 și o reorganizează în jurul imersiunii.
-- **aplicare** [[EXP-0202]] — experiența imersivă și hibridă e obiectivul metamarketingului.
-- **vezi** [[SOC-0202]] — metaversul e unul dintre cele două medii ale Marketingului 6.0.
+- **fundament** [[MKT-0201-evolutia-marketingului-de-la-1-0-la-6-0|MKT-0201]] — 6.0 e ultima treaptă a hărții 1.0→6.0.
+- **extinde** [[DIG-0201-omnichannel-harta-touchpoint-scenarii-critice-silozuri|DIG-0201]] — metamarketingul e prezentat ca etapa de după omnichannel-ul din 4.0.
+- **fundament** [[MKT-0212-marketing-5-0-tehnologie-pentru-umanitate-cinci-componente|MKT-0212]] — reia next tech din 5.0 și o reorganizează în jurul imersiunii.
+- **aplicare** [[EXP-0202-experienta-imersiva-cinci-elemente-si-patru-scenarii-om-digital|EXP-0202]] — experiența imersivă și hibridă e obiectivul metamarketingului.
+- **vezi** [[SOC-0202-marketingul-in-metavers-motivatii-si-patru-moduri-de-participare|SOC-0202]] — metaversul e unul dintre cele două medii ale Marketingului 6.0.
 
 ## Surse
 
-- [[SRC-006]] Kotler, Kartajaya, Setiawan, *Marketing 6.0*, cap. 1 „Welcoming the Era of Marketing 6.0: From Multi to Omni to Meta" (Fig. 1.1-1.3); cap. 5 (Fig. 5.3)
+- [[SRC-006-marketing-6-0-philip-kotler|SRC-006]] Kotler, Kartajaya, Setiawan, *Marketing 6.0*, cap. 1 „Welcoming the Era of Marketing 6.0: From Multi to Omni to Meta" (Fig. 1.1-1.3); cap. 5 (Fig. 5.3)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[EXP-0202-experienta-imersiva-cinci-elemente-si-patru-scenarii-om-digital|EXP-0202]] _fundament_ — Experiența viitorului e imersivă și hibridă — cinci elemente ale imersiunii și patru scenarii pentru cât din om poate înlocui digitalul
+- [[INS-0204-cinci-generatii-si-patru-etape-de-viata|INS-0204]] _vezi_ — Cinci generații trăiesc simultan — Boomers, X, Y, Z și Alpha — și parcurg patru etape de viață tot mai rapid
+- [[MKT-0201-evolutia-marketingului-de-la-1-0-la-6-0|MKT-0201]] _vezi_ — Evoluția marketingului de la 1.0 la 6.0 — de la produs la client, la om, la digital, la tehnologie pentru umanitate și la imersiune
+- [[SOC-0201-cinci-micro-trenduri-video-scurt-comunitati-comert-interactiv-ai-wearables|SOC-0201]] _fundament_ — Cinci micro-trenduri împing spre experiențe imersive — video scurt, social media pe comunități, comerț interactiv, AI lingvistic și wearables
+- [[SOC-0202-marketingul-in-metavers-motivatii-si-patru-moduri-de-participare|SOC-0202]] _fundament_ — Marketingul în metavers pornește de la motivațiile utilizatorilor și are patru forme — colecții de brand, publicitate experiențială, comerț O2O și loialitate gamificată
+- [[SRC-006-marketing-6-0-philip-kotler|SRC-006]] — Marketing 6.0: The Future Is Immersive
+<!-- backlinks:end -->

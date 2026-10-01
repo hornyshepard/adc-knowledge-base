@@ -43,12 +43,20 @@ Cazul Buffer, așa cum e relatat în SRC-033: mai puține postări, mai bine luc
 
 ## Legături
 
-- **contrazice** [[SOC-1004]] — scara din SRC-033 se sprijină pe un calendar fix, pe care această notă îl pune sub semnul întrebării.
-- **vezi** [[DIG-1031]] — deciziile se iau din metrici legate de obiective.
-- **vezi** [[SOC-1007]] — monitorizarea și optimizarea sunt pasul 5 al procesului de social ads.
+- **contrazice** [[SOC-1004-scara-facebook-de-la-organic-la-remarketing|SOC-1004]] — scara din SRC-033 se sprijină pe un calendar fix, pe care această notă îl pune sub semnul întrebării.
+- **vezi** [[DIG-1031-de-la-metrici-brute-la-kpi-scorul-de-engagement|DIG-1031]] — deciziile se iau din metrici legate de obiective.
+- **vezi** [[SOC-1007-platforma-sociala-potrivita-patru-intrebari|SOC-1007]] — monitorizarea și optimizarea sunt pasul 5 al procesului de social ads.
 
 ## Surse
 
-- [[SRC-033]] Bharat Bhuval Nishad, *Facebook Marketing & Facebook Ads Beginner To Pro*, secț. „Creating A Facebook Content Marketing Calendar And Scheduling Posts", „The Perfect Facebook Marketing Plan", „Success Stories"
-- [[SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 3.3 (p. 108–109) și 3.4.3.2 (p. 123)
-- [[SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 3 (p. 82)
+- [[SRC-033-facebook-marketing|SRC-033]] Bharat Bhuval Nishad, *Facebook Marketing & Facebook Ads Beginner To Pro*, secț. „Creating A Facebook Content Marketing Calendar And Scheduling Posts", „The Perfect Facebook Marketing Plan", „Success Stories"
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 3.3 (p. 108–109) și 3.4.3.2 (p. 123)
+- [[SRC-031-digital-marketing-manual|SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 3 (p. 82)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-1031-de-la-metrici-brute-la-kpi-scorul-de-engagement|DIG-1031]] _vezi_ — Un KPI nu e orice metrică — metricile brute devin indicatori-cheie când sunt legate de un obiectiv, iar un KPI poate combina mai multe metrici ponderate
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] — Digital Advertising in the Post-cookie Era: Strategic Campaign Planning Across the Customer Journey
+- [[SRC-033-facebook-marketing|SRC-033]] — Facebook Marketing & Facebook Ads Beginner To Pro
+<!-- backlinks:end -->

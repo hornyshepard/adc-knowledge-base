@@ -51,11 +51,19 @@ Un CV „în stil Amazon” (Philippe Dubost, 2013) a strâns peste un milion de
 
 ## Legături
 
-- **contrazice** [[PRT-1418]] — Fenn respinge unele dintre elementele infografice recomandate de Morgan.
-- **vezi** [[PRT-1406]] — aceeași presiune a primelor secunde de lectură.
-- **fundament** [[PRT-1415]] — graficele arată realizările din inventar.
-- **vezi** [[PRT-1426]] — CV-ul funcțional al lui Kubišová, alternativa sobră la CV-ul infografic.
+- **contrazice** [[PRT-1418-dezbatere-grafice-de-competente-si-concursuri-de-design|PRT-1418]] — Fenn respinge unele dintre elementele infografice recomandate de Morgan.
+- **vezi** [[PRT-1406-portofoliul-proiectat-pentru-30-de-secunde|PRT-1406]] — aceeași presiune a primelor secunde de lectură.
+- **fundament** [[PRT-1415-inventarul-activelor-si-propunerea-de-valoare|PRT-1415]] — graficele arată realizările din inventar.
+- **vezi** [[PRT-1426-cv-declaratia-de-design-si-scrisoarea-de-intentie|PRT-1426]] — CV-ul funcțional al lui Kubišová, alternativa sobră la CV-ul infografic.
 
 ## Surse
 
-- [[SRC-047]] Hannah Morgan, *The Infographic Resume*, cap. 4, 5 și 7
+- [[SRC-047-the-infographic-resume|SRC-047]] Hannah Morgan, *The Infographic Resume*, cap. 4, 5 și 7
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PRT-1418-dezbatere-grafice-de-competente-si-concursuri-de-design|PRT-1418]] _vezi_ — Graficele de competențe și concursurile de design — Morgan le recomandă, Fenn și Kubišová le resping
+- [[PRT-1426-cv-declaratia-de-design-si-scrisoarea-de-intentie|PRT-1426]] _vezi_ — CV-ul, declarația de design și scrisoarea de intenție completează portofoliul — funcționale, scurte și adaptate fiecărei aplicații
+- [[SRC-047-the-infographic-resume|SRC-047]] — The Infographic Resume: How to Create a Visual Portfolio That Showcases Your Skills and Lands the Job
+<!-- backlinks:end -->

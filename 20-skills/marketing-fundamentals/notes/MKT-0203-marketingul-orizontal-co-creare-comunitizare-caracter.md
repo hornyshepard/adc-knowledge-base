@@ -49,10 +49,25 @@ Programul P&G Connect + Develop, care a înlocuit cercetarea-dezvoltarea intern�
 
 ## Legături
 
-- **fundament** [[MKT-0202]] — marketingul colaborativ e primul pilon al Marketingului 3.0.
-- **vezi** [[BRD-0201]] — „construirea caracterului" e detaliată prin modelul 3i.
-- **extinde** [[MKT-0208]] — Marketing 4.0 analizează mai departe mutarea puterii spre grupurile sociale.
+- **fundament** [[MKT-0202-marketing-3-0-trateaza-clientul-ca-om-intreg-minte-inima-spirit|MKT-0202]] — marketingul colaborativ e primul pilon al Marketingului 3.0.
+- **vezi** [[BRD-0201-modelul-3i-identitate-integritate-imagine-de-brand|BRD-0201]] — „construirea caracterului" e detaliată prin modelul 3i.
+- **extinde** [[MKT-0208-puterea-trece-la-clientii-conectati-orizontal-inclusiv-social|MKT-0208]] — Marketing 4.0 analizează mai departe mutarea puterii spre grupurile sociale.
 
 ## Surse
 
-- [[SRC-003]] Kotler, Kartajaya, Setiawan, *Marketing 3.0*, cap. 1, p. 23-30; cap. 2 „The Future of Marketing: Horizontal Not Vertical", p. 43-52 (Tabelul 2.1, Fig. 2.1)
+- [[SRC-003-marketing-3-0-philip-kotler|SRC-003]] Kotler, Kartajaya, Setiawan, *Marketing 3.0*, cap. 1, p. 23-30; cap. 2 „The Future of Marketing: Horizontal Not Vertical", p. 43-52 (Tabelul 2.1, Fig. 2.1)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0201-modelul-3i-identitate-integritate-imagine-de-brand|BRD-0201]] _vezi_ — Modelul 3i — brandul e credibil doar când identitatea, integritatea și imaginea sunt aliniate
+- [[BRD-0203-misiunea-buna-business-as-unusual-poveste-consumatori-imputerniciti|BRD-0203]] _vezi_ — O misiune bună de brand are trei ingrediente — business as unusual, o poveste care mișcă și consumatori împuterniciți
+- [[MKT-0201-evolutia-marketingului-de-la-1-0-la-6-0|MKT-0201]] _vezi_ — Evoluția marketingului de la 1.0 la 6.0 — de la produs la client, la om, la digital, la tehnologie pentru umanitate și la imersiune
+- [[MKT-0202-marketing-3-0-trateaza-clientul-ca-om-intreg-minte-inima-spirit|MKT-0202]] _vezi_ — Marketing 3.0 tratează clientul ca om întreg — minte, inimă și spirit
+- [[MKT-0208-puterea-trece-la-clientii-conectati-orizontal-inclusiv-social|MKT-0208]] _extinde_ — Puterea a trecut la clienții conectați — de la vertical, exclusiv și individual la orizontal, inclusiv și social
+- [[MKT-0209-marketing-4-0-redefineste-stp-pozitionarea-4p-si-serviciul|MKT-0209]] _extinde_ — Marketing 4.0 redefinește conceptele clasice — comunități în loc de segmente, caracter în loc de poziționare, 4C în loc de 4P
+- [[MKT-0214-marketingul-agil-echipe-descentralizate-mvp-experimentare-rapida|MKT-0214]] _vezi_ — Marketingul agil execută rapid și la scară — analitică în timp real, echipe descentralizate, platformă flexibilă, MVP și experimentare rapidă
+- [[MKT-0216-seria-kotler-x-0-isi-revizuieste-propriile-idei|MKT-0216]] _contrazice_ — Seria Kotler X.0 își revizuiește propriile idei — segmentarea, rolul purpose-ului și raportul online–offline se schimbă de la o carte la alta
+- [[SOC-0201-cinci-micro-trenduri-video-scurt-comunitati-comert-interactiv-ai-wearables|SOC-0201]] _vezi_ — Cinci micro-trenduri împing spre experiențe imersive — video scurt, social media pe comunități, comerț interactiv, AI lingvistic și wearables
+- [[SRC-003-marketing-3-0-philip-kotler|SRC-003]] — Marketing 3.0: From Products to Customers to the Human Spirit
+<!-- backlinks:end -->

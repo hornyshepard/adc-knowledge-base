@@ -48,10 +48,17 @@ Slab: „Campanie socială — afiș, spot, postări.” Bun: titlu „Ora de li
 
 ## Legături
 
-- **extinde** [[PRT-1409]] — detaliază cum se scrie, vizual, un studiu de caz pe pagină.
-- **vezi** [[PRT-1406]] — legendele și titlurile alcătuiesc fast track-ul cititorului grăbit.
-- **vezi** [[PRT-1408]] — titlurile specifice sunt înrudite cu titlurile-realizare ale lui Fenn.
+- **extinde** [[PRT-1409-studiul-de-caz-brief-ce-am-facut-rezultate|PRT-1409]] — detaliază cum se scrie, vizual, un studiu de caz pe pagină.
+- **vezi** [[PRT-1406-portofoliul-proiectat-pentru-30-de-secunde|PRT-1406]] — legendele și titlurile alcătuiesc fast track-ul cititorului grăbit.
+- **vezi** [[PRT-1408-introducerea-si-titlurile-vand-relevanta|PRT-1408]] — titlurile specifice sunt înrudite cu titlurile-realizare ale lui Fenn.
 
 ## Surse
 
-- [[SRC-046]] Zuzana Kubišová, *The Architect's Pocket Guide to Portfolio Design*, Pasul 8, pp. 210–229
+- [[SRC-046-architects-pocket-guide-to-portfolio-design|SRC-046]] Zuzana Kubišová, *The Architect's Pocket Guide to Portfolio Design*, Pasul 8, pp. 210–229
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PRT-1409-studiul-de-caz-brief-ce-am-facut-rezultate|PRT-1409]] _vezi_ — Studiul de caz se scrie în patru părți — Brief, Ce am făcut, Rezultate, Instrumente — plus highlights
+- [[SRC-046-architects-pocket-guide-to-portfolio-design|SRC-046]] — The Architect's Pocket Guide to Portfolio Design
+<!-- backlinks:end -->

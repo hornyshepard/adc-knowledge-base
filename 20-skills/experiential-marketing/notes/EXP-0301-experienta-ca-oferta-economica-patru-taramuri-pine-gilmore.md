@@ -48,10 +48,18 @@ La Pike Place Fish Market din Seattle, vânzătorii aruncă peștii unul altuia 
 
 ## Legături
 
-- **extinde** [[MKT-0314]] — detaliază componenta „Experiences" din EP².
-- **vezi** [[MKT-0317]] — „întruchiparea" (*embodiment*) live e una dintre valorile care nu pot fi copiate.
-- **vezi** [[CLI-0301]] — Wuebben vede agenția viitorului ca agenție de experiențe pentru prosumatori.
+- **extinde** [[MKT-0314-ep2-mixul-de-marketing-al-prosumatorului|MKT-0314]] — detaliază componenta „Experiences" din EP².
+- **vezi** [[MKT-0317-cand-copia-e-gratuita-valoarea-se-muta-generativele-lui-kelly|MKT-0317]] — „întruchiparea" (*embodiment*) live e una dintre valorile care nu pot fi copiate.
+- **vezi** [[CLI-0301-agentia-viitorului-sase-forte-care-ii-muta-modelul|CLI-0301]] — Wuebben vede agenția viitorului ca agenție de experiențe pentru prosumatori.
 
 ## Surse
 
-- [[SRC-008]] Jon Wuebben, *Future Marketing: Winning in the Prosumer Age*, cap. 6, 8, 14, 16
+- [[SRC-008-future-marketing|SRC-008]] Jon Wuebben, *Future Marketing: Winning in the Prosumer Age*, cap. 6, 8, 14, 16
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[MKT-0314-ep2-mixul-de-marketing-al-prosumatorului|MKT-0314]] _vezi_ — EP²: Wuebben propune înlocuirea celor 4P cu Engagement, Experiences, Personalization, Passion
+- [[MKT-0317-cand-copia-e-gratuita-valoarea-se-muta-generativele-lui-kelly|MKT-0317]] _extinde_ — Când copia e gratuită, valoarea se mută în ce nu poate fi copiat: generativele lui Kevin Kelly
+- [[SRC-008-future-marketing|SRC-008]] — Future Marketing: Winning in the Prosumer Age
+<!-- backlinks:end -->

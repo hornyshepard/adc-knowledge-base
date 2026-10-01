@@ -47,12 +47,24 @@ Raportul Zedesco din SRC-029 sugerează exact o astfel de logică: dacă oamenii
 
 ## Legături
 
-- **extinde** [[DIG-0923]] — retargetingul e cea mai folosită formă de targetare comportamentală.
-- **fundament** [[DIG-0905]] — segmentarea pe etape pornește de la journey.
-- **vezi** [[DIG-0929]] — retargetingul agresiv e exemplul tipic de supra-personalizare.
-- **vezi** [[DIG-0934]] — meritul retargetingului depinde de modelul de atribuire.
+- **extinde** [[DIG-0923-targetarea-contextuala-vs-comportamentala|DIG-0923]] — retargetingul e cea mai folosită formă de targetare comportamentală.
+- **fundament** [[DIG-0905-customer-journey-ul-digital-nu-e-palnie-ci-bucla-de-loialitate|DIG-0905]] — segmentarea pe etape pornește de la journey.
+- **vezi** [[DIG-0929-personalizarea-relevanta-respect-control-reactanta|DIG-0929]] — retargetingul agresiv e exemplul tipic de supra-personalizare.
+- **vezi** [[DIG-0934-modelele-de-atribuire-decid-ce-canal-primeste-meritul|DIG-0934]] — meritul retargetingului depinde de modelul de atribuire.
 
 ## Surse
 
-- [[SRC-030]] K. Connors, *Advanced Digital Marketing Strategies*, cap. 3
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 4, p. 106-107; cap. 10, p. 273, 278
+- [[SRC-030-digital-marketing-strategies|SRC-030]] K. Connors, *Advanced Digital Marketing Strategies*, cap. 3
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 4, p. 106-107; cap. 10, p. 273, 278
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0905-customer-journey-ul-digital-nu-e-palnie-ci-bucla-de-loialitate|DIG-0905]] _vezi_ — Customer journey-ul digital nu e o pâlnie liniară, ci un traseu cu bucle care se închide într-o buclă de loialitate
+- [[DIG-0910-cookie-urile-third-party-dispar-datele-first-party-devin-baza|DIG-0910]] _vezi_ — Cookie-urile third-party dispar, iar datele first-party devin baza targetării
+- [[DIG-0922-publicitatea-programatica-cumpara-impresii-prin-licitatie-rtb|DIG-0922]] _vezi_ — Publicitatea programatică cumpără afișări automat, prin licitație în timp real, în milisecundele în care se încarcă pagina
+- [[DIG-0923-targetarea-contextuala-vs-comportamentala|DIG-0923]] _extinde_ — Targetarea contextuală urmărește pagina, cea comportamentală urmărește omul
+- [[DIG-0934-modelele-de-atribuire-decid-ce-canal-primeste-meritul|DIG-0934]] _vezi_ — Modelele de atribuire decid ce canal primește meritul conversiei — și schimbă astfel bugetul
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+- [[SRC-030-digital-marketing-strategies|SRC-030]] — Advanced Digital Marketing Strategies: Mastering SEO, Social Media, Content Marketing, and AI for Maximum Online Growth
+<!-- backlinks:end -->

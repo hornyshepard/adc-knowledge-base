@@ -29,24 +29,24 @@ level: 1
 |---|---|---|
 | Introducere, motive | Beneficiile marketingului digital | — (generic) |
 | Trendurile 1–12 | Metrici, martech, storytelling, mesagerie, stories, influenceri, video, podcasturi, analiza sentimentului, Meta | — (generic) |
-| 13, 16, 25, 50 | Căutare vocală, vizuală, intenția de căutare, poziția zero | [[DIG-0302]], [[DIG-0304]] |
-| 15, 62, 63 | Green marketing, CSR, consum responsabil | [[MKT-0320]], [[MKT-0323]] |
-| 17–20 | Live shopping, personalizare (EasyJet, Cadbury, Starbucks), publicitate nativă, IoT | [[AIM-0301]], [[ADV-0301]] |
-| 21 | Diversitate și incluziune | [[ADV-0302]] |
-| 22–24, 26–37 | Conversational marketing, chatboți, geofencing (76 + Waze), segmentarea conținutului (Bloom & Wild), e-mail, membership, push, social commerce | [[BRD-0301]] |
-| 38–46 | AI, programmatic, „quantum computing", date, PWA, omnicanal, blockchain, conținut interactiv, licitare automată | [[DIG-0303]] |
-| 47–49, 55 | Micro-momente, cookie-uri first-party, înlocuirea datelor third-party, încredere | [[DIG-0304]], [[DIG-0305]] |
+| 13, 16, 25, 50 | Căutare vocală, vizuală, intenția de căutare, poziția zero | [[DIG-0302-cautarea-vocala-optimizare-pentru-intrebari-conversationale|DIG-0302]], [[DIG-0304-micro-momentele-patru-intentii|DIG-0304]] |
+| 15, 62, 63 | Green marketing, CSR, consum responsabil | [[MKT-0320-marketing-sustenabil-verde-eco-eficienta-csr-cause-nu-sunt-sinonime|MKT-0320]], [[MKT-0323-greenwashing-afirmatia-verde-trebuie-dovedita|MKT-0323]] |
+| 17–20 | Live shopping, personalizare (EasyJet, Cadbury, Starbucks), publicitate nativă, IoT | [[AIM-0301-paradoxul-personalizarii-relevanta-versus-intimitate|AIM-0301]], [[ADV-0301-continut-in-loc-de-reclame-teza-si-limitele-ei|ADV-0301]] |
+| 21 | Diversitate și incluziune | [[ADV-0302-reclama-incluziva-ton-limbaj-reprezentare|ADV-0302]] |
+| 22–24, 26–37 | Conversational marketing, chatboți, geofencing (76 + Waze), segmentarea conținutului (Bloom & Wild), e-mail, membership, push, social commerce | [[BRD-0301-bloom-and-wild-renuntarea-la-campaniile-sensibile|BRD-0301]] |
+| 38–46 | AI, programmatic, „quantum computing", date, PWA, omnicanal, blockchain, conținut interactiv, licitare automată | [[DIG-0303-omnicanal-inseamna-canale-care-se-intaresc-reciproc|DIG-0303]] |
+| 47–49, 55 | Micro-momente, cookie-uri first-party, înlocuirea datelor third-party, încredere | [[DIG-0304-micro-momentele-patru-intentii|DIG-0304]], [[DIG-0305-datele-first-party-se-cer-nu-se-iau-cinci-practici|DIG-0305]] |
 | 51–61 | Metavers, NFT, analiză predictivă, competențe digitale, securitate, m-commerce, creatori, live streaming, Twitch, Amazon Ads | — (generic) |
 | Final | Provocări ale marketerilor, sinteză | — |
 
 ## Idei-cheie → note permanente
 
-- [[DIG-0304]] — micro-momentele Google (vreau să știu / să merg / să fac / să cumpăr) și intenția de căutare.
-- [[DIG-0305]] — cinci practici pentru colectarea datelor first-party cu consimțământ.
-- [[BRD-0301]] — Bloom & Wild: renunțarea la campanii pe ocazii sensibile ca marketing atent.
-- [[ADV-0302]] — reclama incluzivă verificată pe trei axe: ton, limbaj, reprezentare.
-- [[DIG-0302]], [[DIG-0303]], [[AIM-0301]], [[ADV-0301]] — contribuții la notele despre voce, omnicanal, personalizare, publicitatea nativă și conținut.
-- [[MKT-0320]], [[MKT-0323]] — definiția green marketing („reală sau percepută"), CSR și consumul responsabil.
+- [[DIG-0304-micro-momentele-patru-intentii|DIG-0304]] — micro-momentele Google (vreau să știu / să merg / să fac / să cumpăr) și intenția de căutare.
+- [[DIG-0305-datele-first-party-se-cer-nu-se-iau-cinci-practici|DIG-0305]] — cinci practici pentru colectarea datelor first-party cu consimțământ.
+- [[BRD-0301-bloom-and-wild-renuntarea-la-campaniile-sensibile|BRD-0301]] — Bloom & Wild: renunțarea la campanii pe ocazii sensibile ca marketing atent.
+- [[ADV-0302-reclama-incluziva-ton-limbaj-reprezentare|ADV-0302]] — reclama incluzivă verificată pe trei axe: ton, limbaj, reprezentare.
+- [[DIG-0302-cautarea-vocala-optimizare-pentru-intrebari-conversationale|DIG-0302]], [[DIG-0303-omnicanal-inseamna-canale-care-se-intaresc-reciproc|DIG-0303]], [[AIM-0301-paradoxul-personalizarii-relevanta-versus-intimitate|AIM-0301]], [[ADV-0301-continut-in-loc-de-reclame-teza-si-limitele-ei|ADV-0301]] — contribuții la notele despre voce, omnicanal, personalizare, publicitatea nativă și conținut.
+- [[MKT-0320-marketing-sustenabil-verde-eco-eficienta-csr-cause-nu-sunt-sinonime|MKT-0320]], [[MKT-0323-greenwashing-afirmatia-verde-trebuie-dovedita|MKT-0323]] — definiția green marketing („reală sau percepută"), CSR și consumul responsabil.
 
 ## Ce lipsește / ce trebuie citit critic
 
@@ -59,3 +59,19 @@ level: 1
 ## Citat
 
 > „People prefer relevant advertisements, but they may freak out" dacă le arăți cât știi despre ei. (trendul 18)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0301-continut-in-loc-de-reclame-teza-si-limitele-ei|ADV-0301]] — Conținut în locul reclamei? Teza că reclamele nu construiesc relații și limitele ei
+- [[ADV-0302-reclama-incluziva-ton-limbaj-reprezentare|ADV-0302]] — Reclama incluzivă se verifică pe trei axe — ton, limbaj, reprezentare — înainte de publicare
+- [[AIM-0301-paradoxul-personalizarii-relevanta-versus-intimitate|AIM-0301]] — Paradoxul personalizării: cu cât reclama știe mai mult despre tine, cu atât riscă să te sperie
+- [[BRD-0301-bloom-and-wild-renuntarea-la-campaniile-sensibile|BRD-0301]] — Bloom & Wild: să le permiți clienților să refuze campaniile de Ziua Mamei e tot marketing — marketing atent
+- [[DIG-0302-cautarea-vocala-optimizare-pentru-intrebari-conversationale|DIG-0302]] — Căutarea vocală cere conținut scris ca răspuns la întrebări rostite — o prognoză exagerată, dar o practică utilă
+- [[DIG-0303-omnicanal-inseamna-canale-care-se-intaresc-reciproc|DIG-0303]] — Omnicanal nu înseamnă prezență pe multe canale, ci canale care se întăresc reciproc — și se măsoară altfel
+- [[DIG-0304-micro-momentele-patru-intentii|DIG-0304]] — Micro-momentele: patru intenții — vreau să știu, să merg, să fac, să cumpăr — la care brandul răspunde în secunde
+- [[DIG-0305-datele-first-party-se-cer-nu-se-iau-cinci-practici|DIG-0305]] — Datele first-party se cer, nu se iau: cinci practici pentru colectarea lor cu consimțământ
+- [[MKT-0319-cartile-de-trenduri-se-citesc-ca-ipoteze|MKT-0319]] — Cărțile de trenduri se citesc ca ipoteze, nu ca hărți: cum separi semnalul de umplutură
+- [[MKT-0320-marketing-sustenabil-verde-eco-eficienta-csr-cause-nu-sunt-sinonime|MKT-0320]] — Marketingul sustenabil, marketingul verde, eco-eficiența, CSR și cause marketing nu sunt sinonime
+- [[MKT-0323-greenwashing-afirmatia-verde-trebuie-dovedita|MKT-0323]] — Greenwashing: afirmația verde trebuie dovedită, nu doar comunicată — iar manualele entuziaste ocolesc problema
+<!-- backlinks:end -->

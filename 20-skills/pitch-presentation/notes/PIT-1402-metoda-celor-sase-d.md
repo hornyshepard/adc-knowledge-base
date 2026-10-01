@@ -47,11 +47,21 @@ Procesul e o buclă: lecțiile din Debrief intră în Discover-ul următorului p
 
 ## Legături
 
-- **fundament** [[PIT-1401]] — metoda urmărește cele trei ingrediente ale cut-through.
-- **extinde** [[PIT-1403]] — primul pas al Discover este definirea întrebării de examen.
-- **vezi** [[PIT-1413]] — în Distil se fixează superstructura 20:70:10.
-- **vezi** [[PIT-1428]] — Debrief-ul închide bucla.
+- **fundament** [[PIT-1401-cut-through-emotie-simplitate-energie|PIT-1401]] — metoda urmărește cele trei ingrediente ale cut-through.
+- **extinde** [[PIT-1403-intrebarea-de-examen-si-dreptul-de-a-refuza|PIT-1403]] — primul pas al Discover este definirea întrebării de examen.
+- **vezi** [[PIT-1413-formula-blockbuster-20-70-10|PIT-1413]] — în Distil se fixează superstructura 20:70:10.
+- **vezi** [[PIT-1428-debrief-presentation-bank-learning-log|PIT-1428]] — Debrief-ul închide bucla.
 
 ## Surse
 
-- [[SRC-043]] Dominic Colenso, *Cut-Through*, Introducere; cap. 1–6
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] Dominic Colenso, *Cut-Through*, Introducere; cap. 1–6
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PIT-1401-cut-through-emotie-simplitate-energie|PIT-1401]] _vezi_ — Cut-through apare la intersecția dintre emoție, simplitate și energie
+- [[PIT-1403-intrebarea-de-examen-si-dreptul-de-a-refuza|PIT-1403]] _fundament_ — Înainte de orice pitch definește „întrebarea de examen” și decide dacă merită să participi
+- [[PIT-1413-formula-blockbuster-20-70-10|PIT-1413]] _fundament_ — Formula blockbuster — 20% setup, 70% confruntare, 10% rezoluție
+- [[PIT-1428-debrief-presentation-bank-learning-log|PIT-1428]] _fundament_ — Debrief-ul în 24 de ore, presentation bank-ul și learning log-ul transformă fiecare pitch în progres
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] — Cut-Through: The pitch and presentation playbook
+<!-- backlinks:end -->

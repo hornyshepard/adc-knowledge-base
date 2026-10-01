@@ -54,11 +54,21 @@ Kubišová încheie cartea cu aceeași etapă: cere critică de la oameni cu exp
 
 ## Legături
 
-- **vezi** [[PIT-1428]] — Colenso cere același lucru pentru prezentări: feedback cerut specific, dinainte.
-- **vezi** [[PIT-1431]] — corecția pe rând a defectelor e utilă și la editarea portofoliului.
-- **fundament** [[PRT-1401]] — critica se raportează la utilizatorul portofoliului.
+- **vezi** [[PIT-1428-debrief-presentation-bank-learning-log|PIT-1428]] — Colenso cere același lucru pentru prezentări: feedback cerut specific, dinainte.
+- **vezi** [[PIT-1431-repetitia-pe-video-un-defect-pe-runda|PIT-1431]] — corecția pe rând a defectelor e utilă și la editarea portofoliului.
+- **fundament** [[PRT-1401-portofoliul-e-un-produs-utilizatorul-e-recrutorul|PRT-1401]] — critica se raportează la utilizatorul portofoliului.
 
 ## Surse
 
-- [[SRC-048]] Ian Fenn, *UX Portfolio Design*, cap. 10
-- [[SRC-046]] Zuzana Kubišová, *The Architect's Pocket Guide to Portfolio Design*, Pasul 10, pp. 287–289
+- [[SRC-048-ux-portfolio-design|SRC-048]] Ian Fenn, *UX Portfolio Design*, cap. 10
+- [[SRC-046-architects-pocket-guide-to-portfolio-design|SRC-046]] Zuzana Kubišová, *The Architect's Pocket Guide to Portfolio Design*, Pasul 10, pp. 287–289
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PIT-1428-debrief-presentation-bank-learning-log|PIT-1428]] _vezi_ — Debrief-ul în 24 de ore, presentation bank-ul și learning log-ul transformă fiecare pitch în progres
+- [[PRT-1406-portofoliul-proiectat-pentru-30-de-secunde|PRT-1406]] _vezi_ — Portofoliul se proiectează pentru 30 de secunde — un fast track și un slow track
+- [[PRT-1420-reputatia-online-este-cv-ul-in-timp-real|PRT-1420]] _vezi_ — Reputația online este CV-ul în timp real — și se construiește deliberat
+- [[SRC-046-architects-pocket-guide-to-portfolio-design|SRC-046]] — The Architect's Pocket Guide to Portfolio Design
+- [[SRC-048-ux-portfolio-design|SRC-048]] — UX Portfolio Design
+<!-- backlinks:end -->

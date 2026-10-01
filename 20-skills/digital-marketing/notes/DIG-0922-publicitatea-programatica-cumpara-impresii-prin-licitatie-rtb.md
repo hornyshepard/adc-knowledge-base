@@ -44,10 +44,18 @@ Cascada de obiective din cartea despre site-uri include un obiectiv tipic de dep
 
 ## Legături
 
-- **fundament** [[DIG-0921]] — formatele display sunt materia primă a programaticului.
-- **extinde** [[DIG-0923]] — DMP-ul și datele de audiență fac posibilă targetarea comportamentală.
-- **vezi** [[DIG-0924]] — retargetingul folosește aceeași infrastructură de ad serving.
+- **fundament** [[DIG-0921-reclama-display-de-la-banner-static-la-rich-media|DIG-0921]] — formatele display sunt materia primă a programaticului.
+- **extinde** [[DIG-0923-targetarea-contextuala-vs-comportamentala|DIG-0923]] — DMP-ul și datele de audiență fac posibilă targetarea comportamentală.
+- **vezi** [[DIG-0924-retargetingul-trebuie-segmentat-dupa-stadiul-din-journey|DIG-0924]] — retargetingul folosește aceeași infrastructură de ad serving.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 10, p. 272-275
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 10, p. 272-275
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0921-reclama-display-de-la-banner-static-la-rich-media|DIG-0921]] _vezi_ — Reclama display a evoluat de la bannerul static la rich media și video, dar ideea creativă rămâne umană
+- [[DIG-0923-targetarea-contextuala-vs-comportamentala|DIG-0923]] _fundament_ — Targetarea contextuală urmărește pagina, cea comportamentală urmărește omul
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+<!-- backlinks:end -->

@@ -48,10 +48,20 @@ Capitolul de content marketing dă pașii unei persone B2C:
 
 ## Legături
 
-- **aplicare** [[DIG-0911]] — persona este unealta pasului „identifică ținta" din procesul site-ului.
-- **aplicare** [[STO-0903]] — dezvoltarea audienței în content marketing pornește de la persona.
-- **vezi** [[SOC-0901]] — metodologia POST cere tot o înțelegere a oamenilor înaintea tehnologiei.
+- **aplicare** [[DIG-0911-site-ul-se-construieste-in-sapte-pasi-marketingul-conduce|DIG-0911]] — persona este unealta pasului „identifică ținta" din procesul site-ului.
+- **aplicare** [[STO-0903-strategia-de-content-marketing-are-patru-pasi|STO-0903]] — dezvoltarea audienței în content marketing pornește de la persona.
+- **vezi** [[SOC-0901-metodologia-post-oamenii-intai-tehnologia-la-urma|SOC-0901]] — metodologia POST cere tot o înțelegere a oamenilor înaintea tehnologiei.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 6, p. 161-162, 169-171; cap. 12, p. 340-342
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 6, p. 161-162, 169-171; cap. 12, p. 340-342
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0911-site-ul-se-construieste-in-sapte-pasi-marketingul-conduce|DIG-0911]] _aplicare_ — Site-ul se construiește în șapte pași, iar marketingul conduce primii — altfel iese tehnologie fără obiectiv
+- [[DIG-0917-oamenii-cauta-problema-nu-produsul-seo-porneste-de-la-intentie|DIG-0917]] _vezi_ — Oamenii caută problema, nu produsul — de aceea SEO pornește de la intenția de căutare
+- [[SOC-0901-metodologia-post-oamenii-intai-tehnologia-la-urma|SOC-0901]] _vezi_ — Metodologia POST — oamenii întâi, obiectivele, strategia, iar tehnologia la urmă
+- [[STO-0903-strategia-de-content-marketing-are-patru-pasi|STO-0903]] _fundament_ — Strategia de content marketing are patru pași — creezi, dezvolți audiența, distribui, evaluezi
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+<!-- backlinks:end -->

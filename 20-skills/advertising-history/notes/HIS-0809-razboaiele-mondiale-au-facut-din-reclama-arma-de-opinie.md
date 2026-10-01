@@ -41,12 +41,23 @@ Fața întunecată: aceleași tehnici au demonizat inamicul, iar sub Goebbels pu
 
 ## Legături
 
-- **exemplu** [[CPY-0808]] — reclamele de război ale lui Watkins ilustrează sinceritatea ca forță.
-- **vezi** [[HIS-0822]] — tehnicile de opinie au trecut apoi în reclama politică.
-- **aplicare** [[ART-0803]] — Unchiul Sam: o singură imagine care poartă tot mesajul.
-- **vezi** [[CPY-0814]] — reclama instituțională și cea de cauză folosesc aceeași logică a explicației.
+- **exemplu** [[CPY-0808-o-reclama-mare-idee-sinceritate-memorie-lunga|CPY-0808]] — reclamele de război ale lui Watkins ilustrează sinceritatea ca forță.
+- **vezi** [[HIS-0822-reclama-politica-a-invatat-de-la-cea-comerciala|HIS-0822]] — tehnicile de opinie au trecut apoi în reclama politică.
+- **aplicare** [[ART-0803-o-imagine-dominanta-poate-spune-povestea|ART-0803]] — Unchiul Sam: o singură imagine care poartă tot mesajul.
+- **vezi** [[CPY-0814-reclama-institutionala-vinde-incredere-prin-explicatie|CPY-0814]] — reclama instituțională și cea de cauză folosesc aceeași logică a explicației.
 
 ## Surse
 
-- [[SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 9, p. 178–183; cap. 10, p. 220–222
-- [[SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „American Red Cross”, „The Kid in Upper 4”, „The Advertising Council”
+- [[SRC-027-a-history-of-advertising|SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 9, p. 178–183; cap. 10, p. 220–222
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „American Red Cross”, „The Kid in Upper 4”, „The Advertising Council”
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0803-o-imagine-dominanta-poate-spune-povestea|ART-0803]] — O singură imagine dominantă poate spune povestea — dacă textul o susține, nu o repetă
+- [[CPY-0808-o-reclama-mare-idee-sinceritate-memorie-lunga|CPY-0808]] _exemplu_ — O reclamă mare are o idee, sinceritate și o viață lungă în memorie
+- [[CPY-0814-reclama-institutionala-vinde-incredere-prin-explicatie|CPY-0814]] _vezi_ — Reclama instituțională vinde încredere prin explicație răbdătoare, nu prin laudă
+- [[HIS-0822-reclama-politica-a-invatat-de-la-cea-comerciala|HIS-0822]] _extinde_ — Reclama politică a învățat de la cea comercială — de la spoturile lui Eisenhower la „Daisy"
+- [[SRC-027-a-history-of-advertising|SRC-027]] — A History of Advertising: The First 300,000 Years
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] — The 100 Greatest Advertisements 1852–1958: Who Wrote Them and What They Did
+<!-- backlinks:end -->

@@ -42,11 +42,23 @@ Studiul de caz al capitolului 1 compară piața apei: apă îmbuteliată ieftin�
 
 ## Legături
 
-- **fundament** [[MKT-0101]] — valoarea e obiectul definiției marketingului.
-- **aplicare** [[MKT-0116]] — propunerea de valoare traduce raportul beneficii-costuri într-o promisiune față de concurență.
-- **extinde** [[MKT-0120]] — prețul e jumătatea „ce dai" a ecuației valorii.
-- **vezi** [[BRD-0102]] — valoarea percepută este una dintre cele patru componente ale capitalului de brand.
+- **fundament** [[MKT-0101-marketingul-creeaza-capteaza-comunica-si-livreaza-valoare|MKT-0101]] — valoarea e obiectul definiției marketingului.
+- **aplicare** [[MKT-0116-propunerea-de-valoare-cercuri-si-formula|MKT-0116]] — propunerea de valoare traduce raportul beneficii-costuri într-o promisiune față de concurență.
+- **extinde** [[MKT-0120-pretul-sacrificiu-total-fixat-prin-5c|MKT-0120]] — prețul e jumătatea „ce dai" a ecuației valorii.
+- **vezi** [[BRD-0102-capitalul-de-brand-notorietate-valoare-asocieri-loialitate|BRD-0102]] — valoarea percepută este una dintre cele patru componente ale capitalului de brand.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 1, p. 14-17 (Adding Value 1.3, studiul de caz p. 24-25)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 1, p. 14-17 (Adding Value 1.3, studiul de caz p. 24-25)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0102-capitalul-de-brand-notorietate-valoare-asocieri-loialitate|BRD-0102]] _vezi_ — Capitalul de brand se măsoară prin patru componente — notorietate, valoare percepută, asocieri și loialitate
+- [[MKT-0101-marketingul-creeaza-capteaza-comunica-si-livreaza-valoare|MKT-0101]] _extinde_ — Marketingul creează, captează, comunică și livrează valoare (definiția AMA)
+- [[MKT-0103-evolutia-marketingului-productie-vanzari-piata-valoare|MKT-0103]] _extinde_ — Marketingul a evoluat de la orientarea pe producție la vânzări, piață și valoare
+- [[MKT-0105-clientul-valoreaza-cat-relatia-nu-cat-tranzactia-clv|MKT-0105]] _fundament_ — Clientul valorează cât relația, nu cât tranzacția — valoarea pe durata vieții (CLV)
+- [[MKT-0116-propunerea-de-valoare-cercuri-si-formula|MKT-0116]] _fundament_ — Propunerea de valoare stă unde nevoile clientului se întâlnesc cu oferta ta, dar nu și cu a concurenței — și se scrie în patru elemente
+- [[MKT-0120-pretul-sacrificiu-total-fixat-prin-5c|MKT-0120]] _fundament_ — Prețul este sacrificiul total al clientului și se fixează prin cele 5C — obiective, clienți, costuri, concurență, canal
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+<!-- backlinks:end -->

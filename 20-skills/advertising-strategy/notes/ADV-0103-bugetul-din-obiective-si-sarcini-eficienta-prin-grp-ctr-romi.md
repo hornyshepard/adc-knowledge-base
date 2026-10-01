@@ -54,11 +54,21 @@ RXBAR (Kellogg) a crescut notorietatea de la 8% la 15,3% cu campania „No B.S."
 
 ## Legături
 
-- **fundament** [[ADV-0101]] — evaluarea e al treilea element al strategiei IMC.
-- **vezi** [[ADV-0102]] — efectul întârziat explică de ce rezultatele nu apar imediat.
-- **aplicare** [[ADV-0104]] — bugetul și măsurarea sunt pașii 3 și 7 ai campaniei publicitare.
-- **vezi** [[DIG-0103]] — metricile web (rata de conversie, rata de respingere) completează CTR-ul.
+- **fundament** [[ADV-0101-imc-integreaza-canalele-pentru-claritate-consecventa-impact|ADV-0101]] — evaluarea e al treilea element al strategiei IMC.
+- **vezi** [[ADV-0102-aida-gandeste-simte-actioneaza-si-efectul-intarziat|ADV-0102]] — efectul întârziat explică de ce rezultatele nu apar imediat.
+- **aplicare** [[ADV-0104-campania-publicitara-in-sapte-pasi-de-la-tinta-la-masurare|ADV-0104]] — bugetul și măsurarea sunt pașii 3 și 7 ai campaniei publicitare.
+- **vezi** [[DIG-0103-asculta-analizeaza-actioneaza-procesul-de-implicare-digitala|DIG-0103]] — metricile web (rata de conversie, rata de respingere) completează CTR-ul.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 18, p. 576-582 (Exhibit 18.5-18.8)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 18, p. 576-582 (Exhibit 18.5-18.8)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0101-imc-integreaza-canalele-pentru-claritate-consecventa-impact|ADV-0101]] _extinde_ — Comunicarea integrată de marketing (IMC) tratează toate canalele ca pe un întreg — pentru claritate, consecvență și impact maxim
+- [[ADV-0102-aida-gandeste-simte-actioneaza-si-efectul-intarziat|ADV-0102]] _aplicare_ — Modelul AIDA descrie trecerea de la a gândi la a simți și a acționa — cu un efect întârziat care complică măsurarea
+- [[ADV-0107-mixul-media-mass-sau-nisa-continuu-flighting-pulsing|ADV-0107]] _vezi_ — Planificarea media alege mixul (mass sau nișă, fiecare medium cu punctele lui tari) și ritmul — continuu, în valuri sau în pulsuri
+- [[DIG-0103-asculta-analizeaza-actioneaza-procesul-de-implicare-digitala|DIG-0103]] _vezi_ — Implicarea digitală urmează trei etape — ascultă, analizează, acționează — iar campania pe social media are cinci pași
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+<!-- backlinks:end -->

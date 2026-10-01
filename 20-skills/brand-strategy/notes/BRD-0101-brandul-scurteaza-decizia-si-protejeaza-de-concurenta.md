@@ -56,11 +56,21 @@ Mastercard a creat o combinație de note care „traduce" logo-ul în sunet. Ea 
 
 ## Legături
 
-- **extinde** [[BRD-0102]] — elementele de brand construiesc notorietatea și asocierile, componente ale capitalului de brand.
-- **vezi** [[MKT-0117]] — numele de brand și ambalajul fac parte din produsul efectiv.
-- **vezi** [[MKT-0115]] — simbolurile puternice pot fi chiar baza poziționării.
+- **extinde** [[BRD-0102-capitalul-de-brand-notorietate-valoare-asocieri-loialitate|BRD-0102]] — elementele de brand construiesc notorietatea și asocierile, componente ale capitalului de brand.
+- **vezi** [[MKT-0117-produsul-are-trei-straturi|MKT-0117]] — numele de brand și ambalajul fac parte din produsul efectiv.
+- **vezi** [[MKT-0115-pozitionarea-patru-baze-verificate-pe-harta-perceptuala|MKT-0115]] — simbolurile puternice pot fi chiar baza poziționării.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 11, p. 362-364 (Exhibit 11.4, Social & Mobile Marketing 11.1), p. 375-377
-- [[SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 4, p. 119-121 (§4.6.1-4.6.2)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 11, p. 362-364 (Exhibit 11.4, Social & Mobile Marketing 11.1), p. 375-377
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 4, p. 119-121 (§4.6.1-4.6.2)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0102-capitalul-de-brand-notorietate-valoare-asocieri-loialitate|BRD-0102]] _fundament_ — Capitalul de brand se măsoară prin patru componente — notorietate, valoare percepută, asocieri și loialitate
+- [[BRD-0103-proprietatea-si-denumirea-brandului|BRD-0103]] _fundament_ — Două decizii de bază în strategia de brand — cine deține marca (producător sau retailer) și cum o numești (de familie sau individuală)
+- [[MKT-0117-produsul-are-trei-straturi|MKT-0117]] _vezi_ — Produsul are trei straturi — valoarea de bază, produsul efectiv și serviciile asociate (produsul augmentat)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] — Principles of Marketing
+<!-- backlinks:end -->

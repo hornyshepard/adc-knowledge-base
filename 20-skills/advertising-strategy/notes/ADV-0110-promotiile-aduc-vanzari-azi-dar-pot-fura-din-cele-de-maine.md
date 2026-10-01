@@ -54,11 +54,20 @@ Old Spice (cap. 19): reclamele cu „Old Spice Guy" au crescut vânzările, dar 
 
 ## Legături
 
-- **fundament** [[ADV-0101]] — promoțiile sunt un canal al IMC.
-- **vezi** [[MKT-0121]] — strategia de preț high/low depinde de promoții.
-- **vezi** [[BRD-0105]] — cazul Old Spice arată cum promoțiile pot anula efectul unei repoziționări reușite.
-- **vezi** [[MKT-0105]] — programele de loialitate leagă promoția de valoarea clientului pe durata vieții.
+- **fundament** [[ADV-0101-imc-integreaza-canalele-pentru-claritate-consecventa-impact|ADV-0101]] — promoțiile sunt un canal al IMC.
+- **vezi** [[MKT-0121-strategii-de-pret-edlp-vs-high-low-si-skimming-vs-penetrare|MKT-0121]] — strategia de preț high/low depinde de promoții.
+- **vezi** [[BRD-0105-repozitionarea-pentru-o-tendinta-reala-nu-o-moda|BRD-0105]] — cazul Old Spice arată cum promoțiile pot anula efectul unei repoziționări reușite.
+- **vezi** [[MKT-0105-clientul-valoreaza-cat-relatia-nu-cat-tranzactia-clv|MKT-0105]] — programele de loialitate leagă promoția de valoarea clientului pe durata vieții.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 18, p. 572; cap. 19, p. 612-615
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 18, p. 572; cap. 19, p. 612-615
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0105-reclama-informeaza-convinge-sau-reaminteste|ADV-0105]] _vezi_ — Orice reclamă informează, convinge sau reamintește — obiectivul se alege după etapa produsului și după focus (produs, instituție, cauză)
+- [[BRD-0105-repozitionarea-pentru-o-tendinta-reala-nu-o-moda|BRD-0105]] _vezi_ — Repoziționarea (rebranding) e scumpă și riscantă — merită pentru o tendință reală, nu pentru o modă (Old Spice, CoverGirl, WW)
+- [[MKT-0121-strategii-de-pret-edlp-vs-high-low-si-skimming-vs-penetrare|MKT-0121]] _vezi_ — Două alegeri clasice de strategie de preț — EDLP sau high/low și, la lansare, skimming sau penetrare
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+<!-- backlinks:end -->

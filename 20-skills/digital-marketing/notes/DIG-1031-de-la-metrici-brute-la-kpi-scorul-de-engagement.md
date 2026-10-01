@@ -45,11 +45,20 @@ Un producător de e-bike-uri construiește un „User Engagement Score". Alege t
 
 ## Legături
 
-- **vezi** [[DIG-1032]] — ce KPI se aleg în fiecare etapă a journey-ului.
-- **vezi** [[DIG-1003]] — fiecare obiectiv digital are nevoie de metrica lui.
-- **vezi** [[SOC-1008]] — deciziile de calendar se iau din datele proprii, nu din tabele generale.
+- **vezi** [[DIG-1032-kpi-pe-etape-aware-appeal-ask|DIG-1032]] — ce KPI se aleg în fiecare etapă a journey-ului.
+- **vezi** [[DIG-1003-obiectivul-digital-se-leaga-de-marketing-valoare-si-metrica|DIG-1003]] — fiecare obiectiv digital are nevoie de metrica lui.
+- **vezi** [[SOC-1008-orele-optime-de-postare-vs-datele-propriului-public|SOC-1008]] — deciziile de calendar se iau din datele proprii, nu din tabele generale.
 
 ## Surse
 
-- [[SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 2.4.1.1 (p. 79–83)
-- [[SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 1 (p. 42–43)
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 2.4.1.1 (p. 79–83)
+- [[SRC-031-digital-marketing-manual|SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 1 (p. 42–43)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-1003-obiectivul-digital-se-leaga-de-marketing-valoare-si-metrica|DIG-1003]] _vezi_ — Un obiectiv digital valid se leagă în lanț de un obiectiv de marketing, de o valoare pentru client și de o metrică
+- [[DIG-1032-kpi-pe-etape-aware-appeal-ask|DIG-1032]] _extinde_ — Fiecare etapă a journey-ului are KPI-urile ei — în Aware reach-ul net și frecvența, în Appeal intrarea în setul evocat, în Ask clicurile și conversiile
+- [[SOC-1008-orele-optime-de-postare-vs-datele-propriului-public|SOC-1008]] _vezi_ — „Orele optime de postare" universale sunt o scurtătură slabă — calendarul se construiește din datele propriului public și din teste
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] — Digital Advertising in the Post-cookie Era: Strategic Campaign Planning Across the Customer Journey
+<!-- backlinks:end -->

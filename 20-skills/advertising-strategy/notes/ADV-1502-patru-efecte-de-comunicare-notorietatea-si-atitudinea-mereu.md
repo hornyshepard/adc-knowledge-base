@@ -48,12 +48,23 @@ La lansarea Nescafé, cafeaua solubilă liofilizată, obiectivele probabile au f
 
 ## Legături
 
-- **extinde** [[ADV-1501]] — intenția de cumpărare e obiectivul care separă promoția de publicitate.
-- **aplicare** [[ADV-1510]] — când devine obiectiv nevoia de categorie.
-- **aplicare** [[ADV-1511]] — notorietatea se alege ca recunoaștere sau reamintire.
-- **aplicare** [[ADV-1512]] — cele cinci obiective posibile de atitudine.
-- **vezi** [[ADV-1503]] — efectele sunt al treilea pas din secvența de răspuns.
+- **extinde** [[ADV-1501-publicitatea-intoarce-spre-brand-promotia-misca-vanzarea|ADV-1501]] — intenția de cumpărare e obiectivul care separă promoția de publicitate.
+- **aplicare** [[ADV-1510-nevoia-de-categorie-se-aminteste-sau-se-vinde|ADV-1510]] — când devine obiectiv nevoia de categorie.
+- **aplicare** [[ADV-1511-notorietatea-prin-recunoastere-sau-reamintire-cere-tactici-opuse|ADV-1511]] — notorietatea se alege ca recunoaștere sau reamintire.
+- **aplicare** [[ADV-1512-cinci-obiective-de-atitudine-creezi-cresti-mentii-modifici-schimbi|ADV-1512]] — cele cinci obiective posibile de atitudine.
+- **vezi** [[ADV-1503-secventa-de-raspuns-la-comunicare-probabilitati-compuse|ADV-1503]] — efectele sunt al treilea pas din secvența de răspuns.
 
 ## Surse
 
-- [[SRC-049]] Larry Percy & Richard Rosenbaum-Elliott, *Strategic Advertising Management*, cap. 1 (audio 04), cap. 5 (audio 11), cap. 9, Table 9.1 (audio 18–19)
+- [[SRC-049-strategic-advertising-management|SRC-049]] Larry Percy & Richard Rosenbaum-Elliott, *Strategic Advertising Management*, cap. 1 (audio 04), cap. 5 (audio 11), cap. 9, Table 9.1 (audio 18–19)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-1501-publicitatea-intoarce-spre-brand-promotia-misca-vanzarea|ADV-1501]] _fundament_ — Publicitatea „întoarce" omul spre brand pe termen lung, promoția „mișcă înainte" vânzarea acum, și nu are nevoie de un stimulent
+- [[ADV-1503-secventa-de-raspuns-la-comunicare-probabilitati-compuse|ADV-1503]] _fundament_ — Secvența de răspuns la comunicare are patru pași cu probabilități compuse, deci un mesaj eșuează dacă un singur pas eșuează
+- [[ADV-1509-modelul-general-de-pozitionare-ce-este-ce-ofera|ADV-1509]] _fundament_ — Modelul general de poziționare pune două întrebări, „ce este?" pentru notorietate și „ce oferă?" pentru atitudine
+- [[ADV-1510-nevoia-de-categorie-se-aminteste-sau-se-vinde|ADV-1510]] _fundament_ — Nevoia de categorie devine obiectiv doar în două cazuri, când trebuie amintită sau când trebuie vândută, iar vânzarea ei cere o campanie întreagă
+- [[ADV-1512-cinci-obiective-de-atitudine-creezi-cresti-mentii-modifici-schimbi|ADV-1512]] _fundament_ — Obiectivul de atitudine are cinci forme (creezi, crești, menții, modifici, schimbi) și se alege doar după ce știi ce crede deja ținta
+- [[SRC-049-strategic-advertising-management|SRC-049]] — Strategic Advertising Management (6th edition)
+<!-- backlinks:end -->

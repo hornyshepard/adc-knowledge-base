@@ -46,10 +46,20 @@ Efectul „priming de bătrânețe" — peste 1.000 de citări până în 2012, 
 
 ## Legături
 
-- **contrazice** [[INS-0414]] — priming-ul comportamental e principala victimă a crizei.
-- **fundament** [[INS-0419]] — experimentul rămâne metoda de bază, dar cu eșantioane adecvate.
-- **vezi** [[ADV-0401]] — și modelele clasice din practică au suport empiric slab.
+- **contrazice** [[INS-0414-priming-ul-coloreaza-judecatile-ulterioare|INS-0414]] — priming-ul comportamental e principala victimă a crizei.
+- **fundament** [[INS-0419-cauzalitatea-se-dovedeste-prin-experiment|INS-0419]] — experimentul rămâne metoda de bază, dar cu eșantioane adecvate.
+- **vezi** [[ADV-0401-ierarhiile-de-efecte-nu-au-suport-empiric|ADV-0401]] — și modelele clasice din practică au suport empiric slab.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 1, p. 45-47; cap. 3, p. 103-104
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 1, p. 45-47; cap. 3, p. 103-104
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[INS-0414-priming-ul-coloreaza-judecatile-ulterioare|INS-0414]] _contrazice_ — Priming-ul — un concept activat incidental colorează judecăți ulterioare, dacă nu îi recunoaștem sursa
+- [[INS-0419-cauzalitatea-se-dovedeste-prin-experiment|INS-0419]] _vezi_ — Efectul unei reclame se dovedește prin experiment, nu prin sondajul „înainte și după"
+- [[INS-0431-unimodelul-indiciile-si-argumentele-sunt-dovezi|INS-0431]] _vezi_ — Unimodelul — indiciile și argumentele nu sunt două rute, ci două tipuri de dovezi judecate după aceeași regulă
+- [[INS-0439-publicitatea-subliminala-functioneaza-doar-in-conditii-inguste|INS-0439]] _vezi_ — Publicitatea subliminală funcționează, dacă funcționează, doar în condiții foarte înguste
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

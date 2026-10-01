@@ -43,11 +43,24 @@ Grupul de Facebook al FMD (Filmemacher Deutschland) are peste 28.000 de cineașt
 
 ## Legături
 
-- **vezi** [[SOC-1103]] — comunitățile conversaționale diferă de rețelele tranzacționale.
-- **aplicare** [[STO-1112]] — UGC-ul este semnul unei comunități active.
-- **exemplu** [[SOC-1111]] — FAQ YOU a construit o comunitate de peste 100.000 de membri pe TikTok.
-- **vezi** [[SOC-1106]] — 1% foarte activ include și trolii.
+- **vezi** [[SOC-1103-conversational-vs-tranzactional-doua-tipuri-de-relatii-pe|SOC-1103]] — comunitățile conversaționale diferă de rețelele tranzacționale.
+- **aplicare** [[STO-1112-ugc-este-continut-castigat-pe-care-brandul-nu-il-poate|STO-1112]] — UGC-ul este semnul unei comunități active.
+- **exemplu** [[SOC-1111-faq-you-comunitate-construita-doar-din-continut-adaptat|SOC-1111]] — FAQ YOU a construit o comunitate de peste 100.000 de membri pe TikTok.
+- **vezi** [[SOC-1106-haters-troli-si-boti-ascunde-raporteaza-nu-hrani-trolul|SOC-1106]] — 1% foarte activ include și trolii.
 
 ## Surse
 
-- [[SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 1.2, p. 24–25; cap. 3.2, p. 98–100; cap. 3.7.1, p. 113; cap. 4.3.1, p. 184–185; cap. 6.3.2, p. 285
+- [[SRC-034-social-media-storytelling|SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 1.2, p. 24–25; cap. 3.2, p. 98–100; cap. 3.7.1, p. 113; cap. 4.3.1, p. 184–185; cap. 6.3.2, p. 285
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[SOC-1103-conversational-vs-tranzactional-doua-tipuri-de-relatii-pe|SOC-1103]] _fundament_ — Conversațional vs. tranzacțional: două tipuri de relații pe platforme
+- [[SOC-1104-patru-genuri-de-profil-social-personal-comunitate-brand|SOC-1104]] _vezi_ — Patru genuri de profil social: personal, comunitate, brand, jurnalist
+- [[SOC-1105-livestream-ul-se-planifica-in-trei-faze-intro-executie-outro|SOC-1105]] _vezi_ — Livestream-ul se planifică în trei faze: intro, execuție, outro
+- [[SOC-1106-haters-troli-si-boti-ascunde-raporteaza-nu-hrani-trolul|SOC-1106]] _fundament_ — Haters, troli și boți: ascunde, raportează, nu hrăni trolul
+- [[SOC-1111-faq-you-comunitate-construita-doar-din-continut-adaptat|SOC-1111]] _exemplu_ — FAQ YOU: comunitate construită doar din conținut adaptat platformei
+- [[STO-1101-pe-social-media-ghidul-inlocuieste-eroul-din-calatoria|STO-1101]] _vezi_ — Pe social media, ghidul înlocuiește eroul din călătoria clasică
+- [[STO-1112-ugc-este-continut-castigat-pe-care-brandul-nu-il-poate|STO-1112]] _fundament_ — UGC este conținut câștigat pe care brandul nu îl poate controla
+- [[SRC-034-social-media-storytelling|SRC-034]] — Social Media Storytelling
+<!-- backlinks:end -->

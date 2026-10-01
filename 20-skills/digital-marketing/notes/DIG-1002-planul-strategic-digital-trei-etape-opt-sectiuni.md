@@ -56,11 +56,22 @@ Tabelul de implementare din carte: o campanie de search de trei luni, cu 10.000 
 
 ## Legături
 
-- **fundament** [[DIG-1003]] — planul se sprijină pe lanțul obiectivelor.
-- **extinde** [[DIG-1001]] — 7A și 4P populează secțiunea 5.
-- **vezi** [[DIG-1004]] — propunerea de valoare e piesa centrală a secțiunii 4.
-- **vezi** [[DIG-1024]] — planificarea la nivel de campanie (SRC-032) completează planul la nivel de organizație.
+- **fundament** [[DIG-1003-obiectivul-digital-se-leaga-de-marketing-valoare-si-metrica|DIG-1003]] — planul se sprijină pe lanțul obiectivelor.
+- **extinde** [[DIG-1001-cele-7a-ale-marketingului-digital-completeaza-cei-4p|DIG-1001]] — 7A și 4P populează secțiunea 5.
+- **vezi** [[DIG-1004-propunerea-de-valoare-digitala-formula-pentru-tinta-brandul|DIG-1004]] — propunerea de valoare e piesa centrală a secțiunii 4.
+- **vezi** [[DIG-1024-campania-online-se-planifica-in-trei-pasi|DIG-1024]] — planificarea la nivel de campanie (SRC-032) completează planul la nivel de organizație.
 
 ## Surse
 
-- [[SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 2 (p. 51–73) și anexa la cap. 2 (p. 425–441)
+- [[SRC-031-digital-marketing-manual|SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 2 (p. 51–73) și anexa la cap. 2 (p. 425–441)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-1001-cele-7a-ale-marketingului-digital-completeaza-cei-4p|DIG-1001]] _aplicare_ — Cele 7A ale marketingului digital (Add, Allure, Advance, Adapt, Associate, Abide, Analyze) completează cei 4P
+- [[DIG-1003-obiectivul-digital-se-leaga-de-marketing-valoare-si-metrica|DIG-1003]] _aplicare_ — Un obiectiv digital valid se leagă în lanț de un obiectiv de marketing, de o valoare pentru client și de o metrică
+- [[DIG-1015-zece-practici-de-confidentialitate-pentru-marketeri|DIG-1015]] _aplicare_ — Zece practici de confidențialitate pentru marketeri, de la consimțământul cu valoare arătată până la minimizarea datelor
+- [[DIG-1024-campania-online-se-planifica-in-trei-pasi|DIG-1024]] _vezi_ — Campania online se planifică în trei pași — decizii fundamentale, subcampanii pe etapele customer journey, monitorizare și optimizare
+- [[MKT-1001-cei-4p-in-digital-patru-seturi-de-decizii|MKT-1001]] _aplicare_ — Cei 4P în digital devin patru seturi de decizii — dovada valorii produsului, modelul de preț, canalul (omnichannel sau dezintermediere) și activele digitale de promovare
+- [[SRC-031-digital-marketing-manual|SRC-031]] — Digital Marketing
+<!-- backlinks:end -->

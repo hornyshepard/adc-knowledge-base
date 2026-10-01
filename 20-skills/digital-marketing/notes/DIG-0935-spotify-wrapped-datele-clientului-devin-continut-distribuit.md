@@ -47,10 +47,19 @@ Mecanica e înrudită cu Share a Coke: și acolo produsul personal (numele pe st
 
 ## Legături
 
-- **vezi** [[DIG-0929]] — exemplu de personalizare care evită reactanța prin transparență și control.
-- **vezi** [[SOC-0902]] — atinge motivațiile Consume, Connect și Create.
-- **vezi** [[ADV-0901]] — aceeași logică de produs personal transformat în conținut social.
+- **vezi** [[DIG-0929-personalizarea-relevanta-respect-control-reactanta|DIG-0929]] — exemplu de personalizare care evită reactanța prin transparență și control.
+- **vezi** [[SOC-0902-cei-5c-ai-motivatiei-pe-social-media|SOC-0902]] — atinge motivațiile Consume, Connect și Create.
+- **vezi** [[ADV-0901-share-a-coke-personalizarea-ambalajului-a-devenit-continut-social|ADV-0901]] — aceeași logică de produs personal transformat în conținut social.
 
 ## Surse
 
-- [[SRC-030]] K. Connors, *Advanced Digital Marketing Strategies*, cap. 8
+- [[SRC-030-digital-marketing-strategies|SRC-030]] K. Connors, *Advanced Digital Marketing Strategies*, cap. 8
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0901-share-a-coke-personalizarea-ambalajului-a-devenit-continut-social|ADV-0901]] _vezi_ — Share a Coke — personalizarea ambalajului a devenit conținut social, susținut de o comunicare integrată
+- [[DIG-0929-personalizarea-relevanta-respect-control-reactanta|DIG-0929]] _vezi_ — Personalizarea funcționează doar cu relevanță, respect și control; venită prea devreme, produce reactanță
+- [[SOC-0902-cei-5c-ai-motivatiei-pe-social-media|SOC-0902]] _vezi_ — Cei 5C — oamenii folosesc social media ca să consume, să se conecteze, să controleze, să concureze și să creeze
+- [[SRC-030-digital-marketing-strategies|SRC-030]] — Advanced Digital Marketing Strategies: Mastering SEO, Social Media, Content Marketing, and AI for Maximum Online Growth
+<!-- backlinks:end -->

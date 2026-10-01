@@ -50,10 +50,19 @@ Site-ul „Renault New Deal" (2008) urmărea flow-ul prin trei tipuri de factori
 
 ## Legături
 
-- **extinde** [[EXP-1207]] — flow-ul e gradul de intensitate de dincolo de simpla imersiune.
-- **vezi** [[EXP-1202]] — flow-ul e tratat de Batat ca driver idiocentric al experienței.
-- **vezi** [[EXP-1220]] — „instrumentul flow" face parte din designul experienței phygital.
+- **extinde** [[EXP-1207-imersiunea-cinci-factori-servicescape|EXP-1207]] — flow-ul e gradul de intensitate de dincolo de simpla imersiune.
+- **vezi** [[EXP-1202-cadrul-cx-drivere-markeri-rezultate|EXP-1202]] — flow-ul e tratat de Batat ca driver idiocentric al experienței.
+- **vezi** [[EXP-1220-experienta-phygital-fizic-plus-digital|EXP-1220]] — „instrumentul flow" face parte din designul experienței phygital.
 
 ## Surse
 
-- [[SRC-036]] Wided Batat, *Experiential Marketing*, cap. 3 (Figura 3.4, Tabelul 3.3, Theory Box 3.4, mini-cazul 3.5 Renault); cap. 11, secț. „The flow tool"
+- [[SRC-036-experiential-marketing|SRC-036]] Wided Batat, *Experiential Marketing*, cap. 3 (Figura 3.4, Tabelul 3.3, Theory Box 3.4, mini-cazul 3.5 Renault); cap. 11, secț. „The flow tool"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[EXP-1202-cadrul-cx-drivere-markeri-rezultate|EXP-1202]] _vezi_ — Experiența clientului e un proces cu drivere, markeri și rezultate (cadrul customer experience marketing)
+- [[EXP-1207-imersiunea-cinci-factori-servicescape|EXP-1207]] _vezi_ — Imersiunea este calea de acces la o experiență plăcută și depinde de cinci factori
+- [[EXP-1220-experienta-phygital-fizic-plus-digital|EXP-1220]] _vezi_ — Experiența phygital îmbină siguranța contactului fizic cu interactivitatea digitalului, fără rupturi între canale
+- [[SRC-036-experiential-marketing|SRC-036]] — Experiential Marketing: Consumer Behavior, Customer Experience and the 7Es
+<!-- backlinks:end -->

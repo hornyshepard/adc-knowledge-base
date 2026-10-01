@@ -45,10 +45,22 @@ Raționamentul lui Hopkins, preluat de Reeves: o caracteristică a produsului, n
 
 ## Legături
 
-- **vezi** [[ADV-0603]] — copy strategy include reason-why-ul ca „support statement".
-- **vezi** [[ADV-0604]] — USP-ul lui Reeves e reason-why-ul redus la o singură propoziție unică.
-- **contrazice** [[INS-0601]] — cercetarea motivațională a atacat frontal logica „vânzării prin argumente".
+- **vezi** [[ADV-0603-copy-strategy-fixeaza-beneficiul-dovada-si-tonul|ADV-0603]] — copy strategy include reason-why-ul ca „support statement".
+- **vezi** [[ADV-0604-usp-are-trei-conditii-propunere-unica-care-vinde|ADV-0604]] — USP-ul lui Reeves e reason-why-ul redus la o singură propoziție unică.
+- **contrazice** [[INS-0601-cercetarea-motivationala-cauta-de-ce-ul-ascuns-al-cumpararii|INS-0601]] — cercetarea motivațională a atacat frontal logica „vânzării prin argumente".
 
 ## Surse
 
-- [[SRC-018]] Jorge David Fernández Gómez, *Strategic Advertising Mechanisms*, cap. 1 §1.2–1.3
+- [[SRC-018-strategic-advertising-mechanisms|SRC-018]] Jorge David Fernández Gómez, *Strategic Advertising Mechanisms*, cap. 1 §1.2–1.3
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0603-copy-strategy-fixeaza-beneficiul-dovada-si-tonul|ADV-0603]] _fundament_ — Copy strategy (P&G) fixează în scris obiectivul, beneficiul cu dovada lui și tonul — nu execuția
+- [[ADV-0604-usp-are-trei-conditii-propunere-unica-care-vinde|ADV-0604]] _fundament_ — USP-ul lui Reeves are trei condiții — o propunere concretă, unică și suficient de puternică încât să mute masele
+- [[ADV-0605-trei-drumuri-spre-un-usp-gasesti-construiesti-revendici|ADV-0605]] _vezi_ — La un USP se ajunge pe trei drumuri — îl găsești în produs, îl construiești în produs sau îl revendici primul
+- [[ADV-0624-de-la-atribut-la-beneficiul-final-si-final-final|ADV-0624]] _vezi_ — De la atribut la beneficiu final și „final-final" — inventar complet, testul „și ce dacă?" și eliminarea beneficiilor de categorie
+- [[CPY-0604-patru-tipuri-de-discurs-publicitar-narativ-descriptiv-explicativ|CPY-0604]] _fundament_ — Discursul publicitar are patru tipuri — narativ, descriptiv, explicativ, argumentativ — și se verifică după ce e scris
+- [[INS-0601-cercetarea-motivationala-cauta-de-ce-ul-ascuns-al-cumpararii|INS-0601]] _contrazice_ — Cercetarea motivațională caută „de ce"-ul ascuns al cumpărării — și a creat atât progres, cât și mituri
+- [[SRC-018-strategic-advertising-mechanisms|SRC-018]] — Strategic Advertising Mechanisms: From Copy Strategy to Iconic Brands
+<!-- backlinks:end -->

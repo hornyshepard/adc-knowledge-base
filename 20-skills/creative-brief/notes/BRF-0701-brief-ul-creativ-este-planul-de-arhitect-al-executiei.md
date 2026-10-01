@@ -43,11 +43,21 @@ Marc Pritchard (P&G) descria publicitatea fără strategie drept o „content cr
 
 ## Legături
 
-- **extinde** [[BRF-0702]] — cele șase componente detaliază conținutul acestui plan.
-- **vezi** [[BRF-0713]] — mitul „creativii nu vor constrângeri" și metafora curții îngrădite.
-- **aplicare** [[BRF-0711]] — brief-ul devine instrumentul feedback-ului la creație.
-- **vezi** [[CLI-0701]] — brief-ul trebuie aprobat de toți cei care vor judeca munca.
+- **extinde** [[BRF-0702-brief-ul-mctigue-rucker-are-sase-componente-pe-o-pagina|BRF-0702]] — cele șase componente detaliază conținutul acestui plan.
+- **vezi** [[BRF-0713-brief-ul-ingradeste-curtea|BRF-0713]] — mitul „creativii nu vor constrângeri" și metafora curții îngrădite.
+- **aplicare** [[BRF-0711-feedback-la-creatie-in-patru-categorii|BRF-0711]] — brief-ul devine instrumentul feedback-ului la creație.
+- **vezi** [[CLI-0701-clientul-bun-primeste-munca-buna|CLI-0701]] — brief-ul trebuie aprobat de toți cei care vor judeca munca.
 
 ## Surse
 
-- [[SRC-022]] Kevin McTigue, Derek D. Rucker, *The Creative Brief Blueprint*, cap. 1 „Why"
+- [[SRC-022-the-creative-brief-blueprint|SRC-022]] Kevin McTigue, Derek D. Rucker, *The Creative Brief Blueprint*, cap. 1 „Why"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRF-0702-brief-ul-mctigue-rucker-are-sase-componente-pe-o-pagina|BRF-0702]] _extinde_ — Brief-ul McTigue–Rucker are șase componente și încape pe o singură pagină
+- [[BRF-0711-feedback-la-creatie-in-patru-categorii|BRF-0711]] _aplicare_ — Feedback-ul la creație se organizează în patru categorii — iubesc, îmi place, întrebări, semnale roșii
+- [[BRF-0713-brief-ul-ingradeste-curtea|BRF-0713]] _extinde_ — Brief-ul „îngrădește curtea" — constrângerea strategică le dă creativilor de unde să pornească
+- [[CLI-0701-clientul-bun-primeste-munca-buna|CLI-0701]] _fundament_ — Clientul bun primește munca bună — aliniere de la început, încredere și risc strategic
+- [[SRC-022-the-creative-brief-blueprint|SRC-022]] — The Creative Brief Blueprint
+<!-- backlinks:end -->

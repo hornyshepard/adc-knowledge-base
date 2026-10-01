@@ -42,10 +42,19 @@ Un brand nou care difuzează un spot de câteva ori pe săptămână poate să n
 
 ## Legături
 
-- **vezi** [[ADV-0401]] — abordarea comportamentală clasică, alternativă la modelele agregate.
-- **vezi** [[INS-0419]] — modelele agregate nu permit concluzii cauzale despre mecanism.
-- **vezi** [[ADV-0405]] — repetiția și spațierea explică parțial forma curbei.
+- **vezi** [[ADV-0401-ierarhiile-de-efecte-nu-au-suport-empiric|ADV-0401]] — abordarea comportamentală clasică, alternativă la modelele agregate.
+- **vezi** [[INS-0419-cauzalitatea-se-dovedeste-prin-experiment|INS-0419]] — modelele agregate nu permit concluzii cauzale despre mecanism.
+- **vezi** [[ADV-0405-repetitia-spatiata-si-pozitia-in-calup|ADV-0405]] — repetiția și spațierea explică parțial forma curbei.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 1, p. 33-35
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 1, p. 33-35
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0405-repetitia-spatiata-si-pozitia-in-calup|ADV-0405]] _vezi_ — Repetiția spațiată bate repetiția masivă, iar primul spot din calup e cel mai bine reținut
+- [[ADV-0407-repetitia-creste-apoi-uzeaza-variatia-amana-uzura|ADV-0407]] _vezi_ — Repetiția crește atitudinea până la un vârf, apoi o uzează — iar variația substanțială amână uzura mai bine decât cea cosmetică
+- [[INS-0419-cauzalitatea-se-dovedeste-prin-experiment|INS-0419]] _vezi_ — Efectul unei reclame se dovedește prin experiment, nu prin sondajul „înainte și după"
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

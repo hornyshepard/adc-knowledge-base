@@ -43,13 +43,26 @@ Exemplul din SRC-032 arată și eșecul: după ce citești despre Roma, ești ur
 
 ## Legături
 
-- **fundament** [[DIG-1017]] — tehnologia de care depindea retargetingul clasic.
-- **vezi** [[DIG-1022]] — urmărirea are nevoie de consimțământ valid.
-- **vezi** [[DIG-1027]] — plafonul de frecvență protejează de suprasaturare.
-- **vezi** [[SOC-1004]] — remarketingul e ultima treaptă a scării de pe Facebook.
+- **fundament** [[DIG-1017-cookie-urile-terte-ce-faceau-si-de-ce-dispar|DIG-1017]] — tehnologia de care depindea retargetingul clasic.
+- **vezi** [[DIG-1022-consimtamantul-valid-activ-retras-la-fel-de-usor|DIG-1022]] — urmărirea are nevoie de consimțământ valid.
+- **vezi** [[DIG-1027-brand-safety-viewability-si-plafonul-de-frecventa|DIG-1027]] — plafonul de frecvență protejează de suprasaturare.
+- **vezi** [[SOC-1004-scara-facebook-de-la-organic-la-remarketing|SOC-1004]] — remarketingul e ultima treaptă a scării de pe Facebook.
 
 ## Surse
 
-- [[SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 1.2.1 (p. 15–16), 1.2.3 (p. 19), 3.2 (p. 102)
-- [[SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 3 (p. 90), cap. 6 (p. 200), cap. 11 (p. 391–392)
-- [[SRC-033]] Bharat Bhuval Nishad, *Facebook Marketing & Facebook Ads Beginner To Pro*, secț. „Creating A Facebook Remarketing Campaign"
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 1.2.1 (p. 15–16), 1.2.3 (p. 19), 3.2 (p. 102)
+- [[SRC-031-digital-marketing-manual|SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 3 (p. 90), cap. 6 (p. 200), cap. 11 (p. 391–392)
+- [[SRC-033-facebook-marketing|SRC-033]] Bharat Bhuval Nishad, *Facebook Marketing & Facebook Ads Beginner To Pro*, secț. „Creating A Facebook Remarketing Campaign"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-1005-palnia-de-conversie-digitala-aida-este-parcursa-neliniar|DIG-1005]] _vezi_ — Pâlnia de conversie digitală (AIDA digital) descrie etapele, dar cumpărătorul real le parcurge neliniar, cu întreruperi și pe mai multe dispozitive
+- [[DIG-1017-cookie-urile-terte-ce-faceau-si-de-ce-dispar|DIG-1017]] _vezi_ — Cookie-urile terțe au făcut posibile retargetingul, lookalike-urile și optimizarea în timp real, iar reglementarea și browserele le scot treptat din joc
+- [[DIG-1030-cazul-bucatariilor-dmp-dsp-si-bannere-dinamice|DIG-1030]] _vezi_ — Cazul bucătăriilor — date imobiliare anonimizate, un DMP, un DSP și bannere dinamice transformă un pliant pentru toată lumea într-o ofertă pentru fiecare gospodărie
+- [[DIG-1033-atribuirea-devine-incerta-etapele-de-inceput-dezavantajate|DIG-1033]] _vezi_ — Atribuirea vânzării pe touchpoint-uri devine tot mai incertă după cookie-uri — modelele first-touch și last-touch simplifică, iar etapele de început ies dezavantajate
+- [[SOC-1004-scara-facebook-de-la-organic-la-remarketing|SOC-1004]] _vezi_ — Pe Facebook, marketingul urcă o scară — prezență organică, engagement, lead-uri, trafic plătit, remarketing —, pentru că reach-ul organic singur nu mai ajunge
+- [[SRC-031-digital-marketing-manual|SRC-031]] — Digital Marketing
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] — Digital Advertising in the Post-cookie Era: Strategic Campaign Planning Across the Customer Journey
+- [[SRC-033-facebook-marketing|SRC-033]] — Facebook Marketing & Facebook Ads Beginner To Pro
+<!-- backlinks:end -->

@@ -43,10 +43,18 @@ Mueller și Rajaram descriu storytelling-ul ca „connecting the dots": legi oam
 
 ## Legături
 
-- **extinde** [[STO-1104]] — straturile simultane comprimă povestea între două story beats.
-- **vezi** [[STO-1110]] — straturile se pot face cu instrumentele platformei, fără producție lustruită.
-- **vezi** [[STO-1108]] — straturile diferite exprimă aceeași metaforă centrală.
+- **extinde** [[STO-1104-story-beats-tin-ritmul-si-imping-atentia-spre-ce-urmeaza|STO-1104]] — straturile simultane comprimă povestea între două story beats.
+- **vezi** [[STO-1110-no-edit-edit-autenticul-neslefuit-bate-filmul-de-imagine|STO-1110]] — straturile se pot face cu instrumentele platformei, fără producție lustruită.
+- **vezi** [[STO-1108-story-dna-o-singura-metafora-centrala-aplicata-pe-toate|STO-1108]] — straturile diferite exprimă aceeași metaforă centrală.
 
 ## Surse
 
-- [[SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 2.3, p. 71–73; cap. 2.5, p. 80–82; cap. 3.8.1–3.8.2, p. 117–121; cap. 4.4, p. 226
+- [[SRC-034-social-media-storytelling|SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 2.3, p. 71–73; cap. 2.5, p. 80–82; cap. 3.8.1–3.8.2, p. 117–121; cap. 4.4, p. 226
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[STO-1108-story-dna-o-singura-metafora-centrala-aplicata-pe-toate|STO-1108]] _vezi_ — Story DNA: o singură metaforă centrală aplicată pe toate straturile
+- [[STO-1110-no-edit-edit-autenticul-neslefuit-bate-filmul-de-imagine|STO-1110]] _vezi_ — No-edit edit: autenticul neșlefuit bate filmul de imagine lustruit
+- [[SRC-034-social-media-storytelling|SRC-034]] — Social Media Storytelling
+<!-- backlinks:end -->

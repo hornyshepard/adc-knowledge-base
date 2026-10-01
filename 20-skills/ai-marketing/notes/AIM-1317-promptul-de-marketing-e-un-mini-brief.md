@@ -51,10 +51,18 @@ Postările generate în carte pentru sticla eco sunt corecte, dar previzibile: e
 
 ## Legături
 
-- **extinde** [[CPY-1301]] — fluxul de supraveghere umană care urmează după prompt.
-- **vezi** [[AIM-1319]] — limita întrebărilor analitice „și de ce?" adresate modelului.
-- **vezi** [[AIM-1320]] — împărțirea muncii om–AI în testare și generare de lead-uri.
+- **extinde** [[CPY-1301-vocea-brandului-in-continutul-generat-cu-ai|CPY-1301]] — fluxul de supraveghere umană care urmează după prompt.
+- **vezi** [[AIM-1319-modelul-de-limbaj-rezuma-dar-nu-dovedeste-cauze|AIM-1319]] — limita întrebărilor analitice „și de ce?" adresate modelului.
+- **vezi** [[AIM-1320-ipoteza-o-formuleaza-omul-ai-ul-o-ruleaza|AIM-1320]] — împărțirea muncii om–AI în testare și generare de lead-uri.
 
 ## Surse
 
-- [[SRC-039]] Eldar Najafov, *ChatGPT for Marketing*, cap. 1, p. 10–14; cap. 2, p. 26–27; cap. 4, p. 80–81, 94
+- [[SRC-039-chatgpt-for-marketing|SRC-039]] Eldar Najafov, *ChatGPT for Marketing*, cap. 1, p. 10–14; cap. 2, p. 26–27; cap. 4, p. 80–81, 94
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-1319-modelul-de-limbaj-rezuma-dar-nu-dovedeste-cauze|AIM-1319]] _vezi_ — Un model de limbaj rezumă bine text, dar nu dovedește cauze — „de ce a crescut conversia?" nu e o întrebare pentru chatbot
+- [[CPY-1301-vocea-brandului-in-continutul-generat-cu-ai|CPY-1301]] _fundament_ — Vocea brandului nu se obține din prompt, ci dintr-un ciclu exemple → ciornă → editare umană → feedback → control final
+- [[SRC-039-chatgpt-for-marketing|SRC-039]] — ChatGPT for Marketing: Learn Practical Applications of ChatGPT for Marketing
+<!-- backlinks:end -->

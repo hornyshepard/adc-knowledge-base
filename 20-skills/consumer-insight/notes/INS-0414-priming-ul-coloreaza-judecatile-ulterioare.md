@@ -45,10 +45,22 @@ Un Mini pare ieftin într-un showroom BMW și scump lângă un VW Polo (p. 105).
 
 ## Legături
 
-- **vezi** [[INS-0407]] — asimilarea și contrastul în categorizare.
-- **fundament** [[INS-0413]] — activarea răspândită în rețeaua asociativă explică priming-ul.
-- **contrazice** [[INS-0415]] — criza replicării a lovit tocmai priming-ul comportamental.
+- **vezi** [[INS-0407-asimilare-si-contrast-decid-soarta-extensiilor|INS-0407]] — asimilarea și contrastul în categorizare.
+- **fundament** [[INS-0413-accesibilitatea-decide-setul-de-consideratie|INS-0413]] — activarea răspândită în rețeaua asociativă explică priming-ul.
+- **contrazice** [[INS-0415-criza-replicarii-cum-citim-studiile|INS-0415]] — criza replicării a lovit tocmai priming-ul comportamental.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 3, p. 102-106; cap. 4, p. 168
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 3, p. 102-106; cap. 4, p. 168
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[INS-0407-asimilare-si-contrast-decid-soarta-extensiilor|INS-0407]] _extinde_ — Asimilarea și contrastul decid dacă un produs nou ridică sau coboară brandul-mamă
+- [[INS-0413-accesibilitatea-decide-setul-de-consideratie|INS-0413]] _extinde_ — Accesibilitatea în memorie decide ce branduri intră în setul de considerație, nu neapărat ce se cumpără
+- [[INS-0415-criza-replicarii-cum-citim-studiile|INS-0415]] _contrazice_ — Criza replicării obligă la prudență, dar teoriile se judecă pe programe de cercetare, nu pe studii izolate
+- [[INS-0425-trei-cai-afective-spre-atitudine|INS-0425]] _vezi_ — Atitudinile se pot forma fără argumente, pe trei căi afective — expunere repetată, condiționare și afect ca informație
+- [[INS-0438-mediul-activeaza-scopuri-si-norme-fara-constiinta|INS-0438]] _fundament_ — Mediul de cumpărare activează scopuri, norme și „mentalități" care ghidează alegerea fără ca omul să-și dea seama
+- [[INS-0439-publicitatea-subliminala-functioneaza-doar-in-conditii-inguste|INS-0439]] _fundament_ — Publicitatea subliminală funcționează, dacă funcționează, doar în condiții foarte înguste
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

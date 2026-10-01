@@ -50,10 +50,19 @@ Airbnb publică „The Local List", ghiduri PDF cu locurile preferate ale localn
 
 ## Legături
 
-- **fundament** [[ADV-0202]] — content marketingul e remediul pentru curiozitatea scăzută (appeal → ask).
-- **extinde** [[STO-0201]] — aplică povestea de brand în format serial, adaptat publicului.
-- **vezi** [[INS-0202]] — netizenii sunt contribuitorii și amplificatorii naturali ai conținutului.
+- **fundament** [[ADV-0202-par-si-bar-masoara-conversia-notorietatii-in-cumparare-si-recomandare|ADV-0202]] — content marketingul e remediul pentru curiozitatea scăzută (appeal → ask).
+- **extinde** [[STO-0201-povestea-de-brand-personaj-intriga-metafora|STO-0201]] — aplică povestea de brand în format serial, adaptat publicului.
+- **vezi** [[INS-0202-tinerii-femeile-netizenii-subculturile-influente|INS-0202]] — netizenii sunt contribuitorii și amplificatorii naturali ai conținutului.
 
 ## Surse
 
-- [[SRC-004]] Kotler, Kartajaya, Setiawan, *Marketing 4.0*, cap. 9 „Content Marketing for Brand Curiosity" (Fig. 9.1)
+- [[SRC-004-marketing-4-0-philip-kotler|SRC-004]] Kotler, Kartajaya, Setiawan, *Marketing 4.0*, cap. 9 „Content Marketing for Brand Curiosity" (Fig. 9.1)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0202-par-si-bar-masoara-conversia-notorietatii-in-cumparare-si-recomandare|ADV-0202]] _vezi_ — PAR și BAR măsoară productivitatea marketingului — cât din notorietate devine cumpărare și recomandare
+- [[AIM-0204-sapte-cazuri-de-utilizare-martech-pe-calea-clientului|AIM-0204]] _vezi_ — Martech are șapte cazuri de utilizare pe calea clientului — de la publicitate și conținut la service CRM
+- [[SOC-0201-cinci-micro-trenduri-video-scurt-comunitati-comert-interactiv-ai-wearables|SOC-0201]] _extinde_ — Cinci micro-trenduri împing spre experiențe imersive — video scurt, social media pe comunități, comerț interactiv, AI lingvistic și wearables
+- [[SRC-004-marketing-4-0-philip-kotler|SRC-004]] — Marketing 4.0: Moving from Traditional to Digital
+<!-- backlinks:end -->

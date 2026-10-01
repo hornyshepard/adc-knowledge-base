@@ -49,12 +49,24 @@ Site-ul Shell, citat de Sachdev, explică pe categorii cookie-urile analitice ș
 
 ## Legături
 
-- **vezi** [[DIG-1015]] — consimțământul e prima dintre cele zece practici de confidențialitate.
-- **vezi** [[DIG-1021]] — consimțământul precede orice strategie de date proprii.
-- **vezi** [[DIG-1009]] — oamenii cu încredere scăzută au nevoie de control și transparență.
-- **vezi** [[DIG-1017]] — reglementarea consimțământului a grăbit declinul cookie-urilor terțe.
+- **vezi** [[DIG-1015-zece-practici-de-confidentialitate-pentru-marketeri|DIG-1015]] — consimțământul e prima dintre cele zece practici de confidențialitate.
+- **vezi** [[DIG-1021-strategia-first-party-incepe-cu-intrebarea-de-vanzari|DIG-1021]] — consimțământul precede orice strategie de date proprii.
+- **vezi** [[DIG-1009-bring-your-own-persona-contesta-persona-clasica|DIG-1009]] — oamenii cu încredere scăzută au nevoie de control și transparență.
+- **vezi** [[DIG-1017-cookie-urile-terte-ce-faceau-si-de-ce-dispar|DIG-1017]] — reglementarea consimțământului a grăbit declinul cookie-urilor terțe.
 
 ## Surse
 
-- [[SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 1.3.5.1 (p. 27, 30)
-- [[SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 11 (p. 388–393)
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 1.3.5.1 (p. 27, 30)
+- [[SRC-031-digital-marketing-manual|SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 11 (p. 388–393)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-1009-bring-your-own-persona-contesta-persona-clasica|DIG-1009]] _vezi_ — „Bring your own persona" (BYOP) contestă persona clasică — oamenii vin cu niveluri diferite de competență digitală și de încredere în date
+- [[DIG-1015-zece-practici-de-confidentialitate-pentru-marketeri|DIG-1015]] _vezi_ — Zece practici de confidențialitate pentru marketeri, de la consimțământul cu valoare arătată până la minimizarea datelor
+- [[DIG-1017-cookie-urile-terte-ce-faceau-si-de-ce-dispar|DIG-1017]] _vezi_ — Cookie-urile terțe au făcut posibile retargetingul, lookalike-urile și optimizarea în timp real, iar reglementarea și browserele le scot treptat din joc
+- [[DIG-1021-strategia-first-party-incepe-cu-intrebarea-de-vanzari|DIG-1021]] _fundament_ — O strategie de date first-party începe cu întrebarea „ce date ne cresc vânzările?", nu cu colectarea, și funcționează doar dacă oferă utilizatorului o valoare reală în schimb
+- [[DIG-1035-retargetingul-eficient-in-era-cookie-expus-dupa|DIG-1035]] _vezi_ — Retargetingul a fost cea mai eficientă tactică a erei cookie și este cea mai expusă după ea — funcționează doar cu urmărire consimțită, pixeli necesari și plafoane de frecvență
+- [[SRC-031-digital-marketing-manual|SRC-031]] — Digital Marketing
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] — Digital Advertising in the Post-cookie Era: Strategic Campaign Planning Across the Customer Journey
+<!-- backlinks:end -->

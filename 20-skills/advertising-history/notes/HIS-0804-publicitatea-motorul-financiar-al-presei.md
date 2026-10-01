@@ -20,7 +20,7 @@ status: seed
 
 Richards descrie primele ziare (Strasbourg 1609, *Weekly Newes* 1622, *Boston News-Letter* 1704) ca publicații în care reclamele erau rare și scrise cu același corp de literă ca știrile. Pasul important e economic: London *General Advertiser* (cca 1745) e conceput de la început să trăiască din reclame. Un istoric citat de autor conchide că presa periodică a înflorit abia după ce s-a dovedit că fundația ei financiară stă în coloanele de anunțuri.
 
-Doi oameni au schimbat practica. John Houghton (cca 1690) a deschis ziarul pentru orice categorie și a introdus numele și adresa advertiserului, făcând vizibil că anunțul e plătit. Benjamin Franklin (1729) a dat reclamelor titluri și spațiu alb (vezi [[ART-0801]]).
+Doi oameni au schimbat practica. John Houghton (cca 1690) a deschis ziarul pentru orice categorie și a introdus numele și adresa advertiserului, făcând vizibil că anunțul e plătit. Benjamin Franklin (1729) a dat reclamelor titluri și spațiu alb (vezi [[ART-0801-layoutul-de-reclama-s-a-inventat-sub-constrangeri|ART-0801]]).
 
 Relația a avut și o față politică. Taxele britanice pe ziare și pe fiecare reclamă (1712–1855) au fost gândite să frâneze presa critică. Au dus la o presă mult mai mică decât cea americană; în 1829, cele 400 de ziare britanice aveau mai puține reclame decât 12 ziare din SUA. Încercarea de a extinde taxele asupra coloniilor a contribuit la Revoluția americană. La polul opus, reclama a făcut posibile ziarul de un penny (*The Sun*, 1833) și revistele de 10 cenți ale lui Munsey (1893), adică presa de masă.
 
@@ -42,10 +42,20 @@ Ciclul s-a închis cu internetul: în 2015, la nivel mondial, abonamentele au de
 
 ## Legături
 
-- **vezi** [[HIS-0805]] — primele agenții au fost brokeri ai spațiului din aceste ziare.
-- **extinde** [[HIS-0820]] — conflictul redacție–reclamă reapare în advertorial și native.
-- **exemplu** [[HIS-0807]] — tot editorii au fost cei care au început să refuze reclamele frauduloase.
+- **vezi** [[HIS-0805-plata-agentiei-ii-decide-loialitatea|HIS-0805]] — primele agenții au fost brokeri ai spațiului din aceste ziare.
+- **extinde** [[HIS-0820-reclama-deghizata-in-continut-e-veche|HIS-0820]] — conflictul redacție–reclamă reapare în advertorial și native.
+- **exemplu** [[HIS-0807-autoreglementarea-a-inceput-la-editori|HIS-0807]] — tot editorii au fost cei care au început să refuze reclamele frauduloase.
 
 ## Surse
 
-- [[SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 4, p. 62–71; cap. 6, p. 108–110; cap. 7, p. 124–127; cap. 9, p. 190–192
+- [[SRC-027-a-history-of-advertising|SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 4, p. 62–71; cap. 6, p. 108–110; cap. 7, p. 124–127; cap. 9, p. 190–192
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0801-layoutul-de-reclama-s-a-inventat-sub-constrangeri|ART-0801]] _vezi_ — Layoutul de reclamă s-a inventat sub constrângeri — spațiul alb al lui Franklin și „epoca repetiției"
+- [[HIS-0805-plata-agentiei-ii-decide-loialitatea|HIS-0805]] _fundament_ — Felul în care e plătită agenția îi decide loialitatea — de la broker de spațiu la partener plătit pe onorariu
+- [[HIS-0807-autoreglementarea-a-inceput-la-editori|HIS-0807]] _vezi_ — Autoreglementarea publicității a început la editori, nu în agenții
+- [[HIS-0820-reclama-deghizata-in-continut-e-veche|HIS-0820]] _extinde_ — Reclama deghizată în conținut e veche de peste un secol — advertorial, plasare, infomercial, native
+- [[SRC-027-a-history-of-advertising|SRC-027]] — A History of Advertising: The First 300,000 Years
+<!-- backlinks:end -->

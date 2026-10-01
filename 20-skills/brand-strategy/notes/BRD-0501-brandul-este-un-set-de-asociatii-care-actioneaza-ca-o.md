@@ -41,11 +41,24 @@ Lululemon vinde colanți cu 98 $, în timp ce la Target există unii asemănăto
 
 ## Legături
 
-- **vezi** [[BRD-0503]] — declarația de poziționare stabilește ce asocieri vrem să construim.
-- **aplicare** [[BRD-0522]] — asocierile se pot măsura direct, cu întrebări deschise.
-- **extinde** [[ART-0501]] — designul de brand creează asocieri în mod inconștient.
-- **vezi** [[BRD-0502]] — construirea asocierilor se lovește de presiunea banilor, consecvenței și aglomerației.
+- **vezi** [[BRD-0503-declaratia-de-pozitionare-are-patru-elemente-tinta-cadru|BRD-0503]] — declarația de poziționare stabilește ce asocieri vrem să construim.
+- **aplicare** [[BRD-0522-asocierile-de-brand-se-masoara-mai-onest-cu-intrebari|BRD-0522]] — asocierile se pot măsura direct, cu întrebări deschise.
+- **extinde** [[ART-0501-designul-de-brand-lucreaza-in-sistemul-1-si-porneste-de-la|ART-0501]] — designul de brand creează asocieri în mod inconștient.
+- **vezi** [[BRD-0502-cele-trei-c-ale-branding-ului-si-bucla-fatala-a-promotiilor|BRD-0502]] — construirea asocierilor se lovește de presiunea banilor, consecvenței și aglomerației.
 
 ## Surse
 
-- [[SRC-014]] Alice M. Tybout & Tim Calkins (ed.), *Kellogg on Branding in a Hyper-Connected World*, Introducere (Tim Calkins), p. xix–xxvii
+- [[SRC-014-kellogg-on-branding|SRC-014]] Alice M. Tybout & Tim Calkins (ed.), *Kellogg on Branding in a Hyper-Connected World*, Introducere (Tim Calkins), p. xix–xxvii
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0501-designul-de-brand-lucreaza-in-sistemul-1-si-porneste-de-la|ART-0501]] _fundament_ — Designul de brand lucrează în Sistemul 1 și pornește de la 3–4 asociații țintă
+- [[BRD-0502-cele-trei-c-ale-branding-ului-si-bucla-fatala-a-promotiilor|BRD-0502]] _fundament_ — Cele trei C ale branding-ului și bucla fatală a promoțiilor
+- [[BRD-0503-declaratia-de-pozitionare-are-patru-elemente-tinta-cadru|BRD-0503]] _fundament_ — Declarația de poziționare are patru elemente: țintă, cadru, diferență, dovadă
+- [[BRD-0517-matricea-motivelor-coerenta-agentie-si-comuniune-spre-sine|BRD-0517]] _fundament_ — Matricea motivelor: coerență, agenție și comuniune, spre sine sau spre ceilalți
+- [[BRD-0521-modelul-notorietate-simpatie-cota-de-piata-indica-strategia|BRD-0521]] _fundament_ — Modelul notorietate–simpatie–cotă de piață indică strategia de brand
+- [[BRD-0522-asocierile-de-brand-se-masoara-mai-onest-cu-intrebari|BRD-0522]] _fundament_ — Asocierile de brand se măsoară mai onest cu întrebări deschise
+- [[BRD-0523-brandul-este-un-activ-nu-o-cheltuiala-iar-puterea-lui-nu-e|BRD-0523]] _fundament_ — Brandul este un activ, nu o cheltuială, iar puterea lui nu e performanța lui
+- [[SRC-014-kellogg-on-branding|SRC-014]] — Kellogg on Branding in a Hyper-Connected World
+<!-- backlinks:end -->

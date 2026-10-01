@@ -50,11 +50,23 @@ O bancă voia ca clienții să depună la ATM. A trimis trei cecuri de 5, 3 și 
 
 ## Legături
 
-- **fundament** [[DIG-0901]] — strategiile vin din aceleași rădăcini de marketing direct ca definiția.
-- **aplicare** [[DIG-0931]] — demand generation este procesul B2B dintre achiziție și conversie.
-- **aplicare** [[DIG-0932]] — modelul IDIC operaționalizează retenția și creșterea valorii.
-- **vezi** [[DIG-0905]] — loyalty loop-ul este forma de journey a retenției.
+- **fundament** [[DIG-0901-marketingul-digital-inseamna-interactiune-engagement-masurare|DIG-0901]] — strategiile vin din aceleași rădăcini de marketing direct ca definiția.
+- **aplicare** [[DIG-0931-demand-generation-de-la-continut-la-lead-calificat|DIG-0931]] — demand generation este procesul B2B dintre achiziție și conversie.
+- **aplicare** [[DIG-0932-modelul-idic-identifica-diferentiaza-interactioneaza-customizeaza|DIG-0932]] — modelul IDIC operaționalizează retenția și creșterea valorii.
+- **vezi** [[DIG-0905-customer-journey-ul-digital-nu-e-palnie-ci-bucla-de-loialitate|DIG-0905]] — loyalty loop-ul este forma de journey a retenției.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 1, p. 19-20, 38-39; cap. 13, p. 355, 367; cap. 14, p. 389-391, 399-400
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 1, p. 19-20, 38-39; cap. 13, p. 355, 367; cap. 14, p. 389-391, 399-400
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0901-marketingul-digital-inseamna-interactiune-engagement-masurare|DIG-0901]] _extinde_ — Marketingul digital înseamnă interacțiune, engagement și măsurare, nu doar canale noi
+- [[DIG-0905-customer-journey-ul-digital-nu-e-palnie-ci-bucla-de-loialitate|DIG-0905]] _extinde_ — Customer journey-ul digital nu e o pâlnie liniară, ci un traseu cu bucle care se închide într-o buclă de loialitate
+- [[DIG-0926-permisiunea-in-email-are-patru-niveluri|DIG-0926]] _vezi_ — Permisiunea în e-mail marketing are patru niveluri, de la opt-out la double opt-in
+- [[DIG-0931-demand-generation-de-la-continut-la-lead-calificat|DIG-0931]] _fundament_ — Demand generation duce prospectul de la conținut la lead calificat în șase pași, iar în B2B decizia e luată de un grup
+- [[DIG-0932-modelul-idic-identifica-diferentiaza-interactioneaza-customizeaza|DIG-0932]] _fundament_ — Modelul IDIC — identifică, diferențiază, interacționează, customizează — pune clientul, nu produsul, în centrul CRM
+- [[MKT-0901-pipe-sau-platforma-valoare-in-lant-sau-co-creata-in-retea|MKT-0901]] _vezi_ — Pipe sau platformă — valoarea se produce în lanț sau se co-creează într-o rețea cu efecte de rețea
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+<!-- backlinks:end -->

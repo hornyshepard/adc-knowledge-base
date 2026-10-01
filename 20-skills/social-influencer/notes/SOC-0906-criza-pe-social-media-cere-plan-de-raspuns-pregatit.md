@@ -41,11 +41,21 @@ Furtunile pornesc din reclame discutabile (ceainicul JCPenney), lansări neferic
 
 ## Legături
 
-- **aplicare** [[SOC-0903]] — reputația e unul dintre cele șase obiective sociale.
-- **vezi** [[EXP-0901]] — un CX slab e sursa cea mai frecventă de furtuni sociale.
-- **vezi** [[STO-0905]] — scuza KFC funcționează ca o poveste cu moment semnificativ și emoție autentică.
+- **aplicare** [[SOC-0903-social-media-serveste-sase-obiective-fiecare-cu-alt-kpi|SOC-0903]] — reputația e unul dintre cele șase obiective sociale.
+- **vezi** [[EXP-0901-customer-experience-suma-interactiunilor-nu-un-eveniment|EXP-0901]] — un CX slab e sursa cea mai frecventă de furtuni sociale.
+- **vezi** [[STO-0905-povestea-de-brand-buna-personaje-emotie-moment-detalii|STO-0905]] — scuza KFC funcționează ca o poveste cu moment semnificativ și emoție autentică.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 9, p. 256-258; cap. 4, p. 107, 112, 117-118
-- [[SRC-030]] K. Connors, *Advanced Digital Marketing Strategies*, cap. 8
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 9, p. 256-258; cap. 4, p. 107, 112, 117-118
+- [[SRC-030-digital-marketing-strategies|SRC-030]] K. Connors, *Advanced Digital Marketing Strategies*, cap. 8
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[EXP-0901-customer-experience-suma-interactiunilor-nu-un-eveniment|EXP-0901]] _vezi_ — Customer experience este suma tuturor interacțiunilor cu brandul, nu un eveniment memorabil
+- [[SOC-0903-social-media-serveste-sase-obiective-fiecare-cu-alt-kpi|SOC-0903]] _aplicare_ — Social media servește șase obiective distincte, iar fiecare cere alt KPI
+- [[STO-0905-povestea-de-brand-buna-personaje-emotie-moment-detalii|STO-0905]] _aplicare_ — O poveste de brand bună are personaje identificabile, emoție autentică, un moment semnificativ și detalii concrete
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+- [[SRC-030-digital-marketing-strategies|SRC-030]] — Advanced Digital Marketing Strategies: Mastering SEO, Social Media, Content Marketing, and AI for Maximum Online Growth
+<!-- backlinks:end -->

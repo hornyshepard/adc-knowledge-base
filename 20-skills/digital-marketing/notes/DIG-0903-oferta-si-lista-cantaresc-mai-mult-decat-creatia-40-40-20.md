@@ -49,11 +49,21 @@ E-mailul mărcii Hu analizat în capitolul de e-mail (fig. 11.14, p. 310) e un e
 
 ## Legături
 
-- **fundament** [[DIG-0901]] — mixul e expresia practică a rădăcinilor de marketing direct.
-- **aplicare** [[DIG-0927]] — e-mailul promoțional bun are o singură ofertă și un termen-limită.
-- **aplicare** [[DIG-0919]] — anunțul PPC eficient include ofertă, CTA și urgență.
-- **vezi** [[DIG-0921]] — în display, autorii recunosc totuși că ideea creativă rămâne umană.
+- **fundament** [[DIG-0901-marketingul-digital-inseamna-interactiune-engagement-masurare|DIG-0901]] — mixul e expresia practică a rădăcinilor de marketing direct.
+- **aplicare** [[DIG-0927-emailul-promotional-bun-o-oferta-un-termen-un-subiect-scurt|DIG-0927]] — e-mailul promoțional bun are o singură ofertă și un termen-limită.
+- **aplicare** [[DIG-0919-campania-de-paid-search-si-paid-social-are-cinci-etape|DIG-0919]] — anunțul PPC eficient include ofertă, CTA și urgență.
+- **vezi** [[DIG-0921-reclama-display-de-la-banner-static-la-rich-media|DIG-0921]] — în display, autorii recunosc totuși că ideea creativă rămâne umană.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 1, p. 20-21; cap. 13, p. 381
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 1, p. 20-21; cap. 13, p. 381
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0901-marketingul-digital-inseamna-interactiune-engagement-masurare|DIG-0901]] _extinde_ — Marketingul digital înseamnă interacțiune, engagement și măsurare, nu doar canale noi
+- [[DIG-0919-campania-de-paid-search-si-paid-social-are-cinci-etape|DIG-0919]] _vezi_ — Campania de paid search și paid social are cinci etape — de la cercetarea cuvintelor-cheie la testare
+- [[DIG-0921-reclama-display-de-la-banner-static-la-rich-media|DIG-0921]] _contrazice_ — Reclama display a evoluat de la bannerul static la rich media și video, dar ideea creativă rămâne umană
+- [[DIG-0927-emailul-promotional-bun-o-oferta-un-termen-un-subiect-scurt|DIG-0927]] _fundament_ — E-mailul promoțional bun are o singură ofertă, un termen-limită și un subiect sub 50 de caractere
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+<!-- backlinks:end -->

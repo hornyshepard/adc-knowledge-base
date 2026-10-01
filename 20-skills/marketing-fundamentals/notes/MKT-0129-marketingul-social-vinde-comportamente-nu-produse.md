@@ -44,12 +44,19 @@ Campania Women's Aid (SRC-001, cap. 19): panoul cu fața unei femei bătute se v
 
 ## Legături
 
-- **fundament** [[MKT-0101]] — definiția marketingului include ideile ca obiect al schimbului.
-- **vezi** [[ADV-0105]] — PSA-urile sunt focusul de serviciu public al obiectivelor publicitare.
-- **vezi** [[INS-0105]] — arhitectura alegerii e un instrument complementar al schimbării de comportament.
-- **vezi** [[MKT-0106]] — cause marketing-ul comercial e diferit de marketingul social propriu-zis.
+- **fundament** [[MKT-0101-marketingul-creeaza-capteaza-comunica-si-livreaza-valoare|MKT-0101]] — definiția marketingului include ideile ca obiect al schimbului.
+- **vezi** [[ADV-0105-reclama-informeaza-convinge-sau-reaminteste|ADV-0105]] — PSA-urile sunt focusul de serviciu public al obiectivelor publicitare.
+- **vezi** [[INS-0105-arhitectura-alegerii-nudge-si-optiunea-implicita|INS-0105]] — arhitectura alegerii e un instrument complementar al schimbării de comportament.
+- **vezi** [[MKT-0106-conscious-marketing-pune-scopul-in-centru-csr-il-adauga|MKT-0106]] — cause marketing-ul comercial e diferit de marketingul social propriu-zis.
 
 ## Surse
 
-- [[SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 7, p. 191-195 (§7.1)
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 1, p. 8; cap. 19, p. 591, 596-597
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 7, p. 191-195 (§7.1)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 1, p. 8; cap. 19, p. 591, 596-597
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0105-reclama-informeaza-convinge-sau-reaminteste|ADV-0105]] _vezi_ — Orice reclamă informează, convinge sau reamintește — obiectivul se alege după etapa produsului și după focus (produs, instituție, cauză)
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] — Principles of Marketing
+<!-- backlinks:end -->

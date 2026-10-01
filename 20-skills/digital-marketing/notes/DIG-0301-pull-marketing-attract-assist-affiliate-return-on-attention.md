@@ -46,10 +46,18 @@ Wuebben dă ecosistemele Salesforce și Android ca exemple de „Affiliate" reu�
 
 ## Legături
 
-- **vezi** [[ADV-0301]] — modelul pull e argumentul central al tezei „conținut în loc de reclame".
-- **vezi** [[MKT-0314]] — „Engagement" din EP² e tot o logică de atragere.
-- **vezi** [[MKT-0317]] — *discoverability* este o formă de „Attract".
+- **vezi** [[ADV-0301-continut-in-loc-de-reclame-teza-si-limitele-ei|ADV-0301]] — modelul pull e argumentul central al tezei „conținut în loc de reclame".
+- **vezi** [[MKT-0314-ep2-mixul-de-marketing-al-prosumatorului|MKT-0314]] — „Engagement" din EP² e tot o logică de atragere.
+- **vezi** [[MKT-0317-cand-copia-e-gratuita-valoarea-se-muta-generativele-lui-kelly|MKT-0317]] — *discoverability* este o formă de „Attract".
 
 ## Surse
 
-- [[SRC-008]] Jon Wuebben, *Future Marketing: Winning in the Prosumer Age*, cap. 10 (după John Hagel et al., *The Power of Pull*)
+- [[SRC-008-future-marketing|SRC-008]] Jon Wuebben, *Future Marketing: Winning in the Prosumer Age*, cap. 10 (după John Hagel et al., *The Power of Pull*)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0301-continut-in-loc-de-reclame-teza-si-limitele-ei|ADV-0301]] _vezi_ — Conținut în locul reclamei? Teza că reclamele nu construiesc relații și limitele ei
+- [[MKT-0315-zece-schimbari-prezise-pentru-2021-de-la-branduri-la-platforme|MKT-0315]] _vezi_ — Zece schimbări prezise pentru 2021: de la branduri la platforme, de la mass-media la meme și mișcări
+- [[SRC-008-future-marketing|SRC-008]] — Future Marketing: Winning in the Prosumer Age
+<!-- backlinks:end -->

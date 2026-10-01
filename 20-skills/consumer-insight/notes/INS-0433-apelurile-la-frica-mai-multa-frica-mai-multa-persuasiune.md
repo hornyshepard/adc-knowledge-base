@@ -48,10 +48,17 @@ Listerine (anii 1920-1930): termenul pseudo-medical „halitoză", sloganuri des
 
 ## Legături
 
-- **fundament** [[INS-0430]] — modelul în etape aplică logica procesării duale la frică.
-- **vezi** [[INS-0402]] — semnalele de urgență pot fi procesate preatentiv.
-- **vezi** [[INS-0417]] — frica și vinovăția sunt și strategii omega (Knowles & Linn).
+- **fundament** [[INS-0430-persuasiunea-pe-ruta-centrala-sau-periferica|INS-0430]] — modelul în etape aplică logica procesării duale la frică.
+- **vezi** [[INS-0402-expunerea-incidentala-influenteaza-fara-atentie|INS-0402]] — semnalele de urgență pot fi procesate preatentiv.
+- **vezi** [[INS-0417-strategii-alfa-si-omega-ale-persuasiunii|INS-0417]] — frica și vinovăția sunt și strategii omega (Knowles & Linn).
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 1, p. 25-26; cap. 2, p. 61; cap. 5, p. 189-190, 213-216
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 1, p. 25-26; cap. 2, p. 61; cap. 5, p. 189-190, 213-216
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[INS-0444-continutul-se-distribuie-cand-activeaza-emotii|INS-0444]] _vezi_ — Conținutul se distribuie când produce emoții cu activare mare — uimire, furie, anxietate —, nu doar emoții pozitive
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

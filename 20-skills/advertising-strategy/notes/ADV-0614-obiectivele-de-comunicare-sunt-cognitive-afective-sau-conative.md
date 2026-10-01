@@ -50,11 +50,22 @@ Lansarea unui produs nou începe de obicei cu cognitivul (puterea media de masă
 
 ## Legături
 
-- **fundament** [[ADV-0613]] — tipul problemei dictează tipul de obiectiv.
-- **vezi** [[ADV-0618]] — post-testele și bilanțul măsoară atingerea acestor obiective.
-- **vezi** [[ADV-0615]] — obiectivele cognitive merg cu strategia pull, cele conative cu push.
+- **fundament** [[ADV-0613-problema-de-comunicare-e-una-singura-notorietate-imagine-sau|ADV-0613]] — tipul problemei dictează tipul de obiectiv.
+- **vezi** [[ADV-0618-post-testul-masoara-urma-reclamei-prin-cinci-scoruri|ADV-0618]] — post-testele și bilanțul măsoară atingerea acestor obiective.
+- **vezi** [[ADV-0615-tinta-principala-nucleul-si-tintele-de-influenta-push-pull|ADV-0615]] — obiectivele cognitive merg cu strategia pull, cele conative cu push.
 
 ## Surse
 
-- [[SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 9 (p. 38–39), outil 47 (p. 153)
-- [[SRC-020]] Jordan Muller, *La bible de la communication*, partea a II-a: „La stratégie et les outils de communication"
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 9 (p. 38–39), outil 47 (p. 153)
+- [[SRC-020-la-bible-de-la-communication|SRC-020]] Jordan Muller, *La bible de la communication*, partea a II-a: „La stratégie et les outils de communication"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0612-planul-strategic-de-comunicare-e-un-lant-logic|ADV-0612]] _vezi_ — Planul strategic de comunicare e un lanț în care fiecare verigă decurge din cea anterioară — de la SWOT la buget
+- [[ADV-0613-problema-de-comunicare-e-una-singura-notorietate-imagine-sau|ADV-0613]] _vezi_ — Problema de comunicare e una singură — de notorietate, de imagine sau de comportament, niciodată toate trei deodată
+- [[ADV-0615-tinta-principala-nucleul-si-tintele-de-influenta-push-pull|ADV-0615]] _vezi_ — Ținta de comunicare are straturi — țintă principală, nucleu și ținte de influență — și se atinge prin push sau pull
+- [[ADV-0618-post-testul-masoara-urma-reclamei-prin-cinci-scoruri|ADV-0618]] _fundament_ — Post-testul măsoară urma lăsată de reclamă prin cinci scoruri, bilanțul măsoară campania întreagă
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] — La boîte à outils de la publicité
+- [[SRC-020-la-bible-de-la-communication|SRC-020]] — La bible de la communication
+<!-- backlinks:end -->

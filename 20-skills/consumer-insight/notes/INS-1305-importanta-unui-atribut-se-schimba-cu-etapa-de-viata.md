@@ -48,10 +48,18 @@ Analiza a urmat unei segmentări în care ținta companiei era o persona numită
 
 ## Legături
 
-- **fundament** [[AIM-1315]] — metoda care a scos la iveală tiparul.
-- **vezi** [[AIM-1302]] — segmentele trebuie redefinite după comportament și etapă.
-- **vezi** [[BRD-1301]] — și încrederea în brand poate fi măsurată prin efectul asupra cumpărării.
+- **fundament** [[AIM-1315-retelele-bayesiene-tot-se-schimba-odata|AIM-1315]] — metoda care a scos la iveală tiparul.
+- **vezi** [[AIM-1302-segmentele-construite-cu-ai-sunt-dinamice|AIM-1302]] — segmentele trebuie redefinite după comportament și etapă.
+- **vezi** [[BRD-1301-brandul-ca-container-de-atribute-valoarea-reziduala|BRD-1301]] — și încrederea în brand poate fi măsurată prin efectul asupra cumpărării.
 
 ## Surse
 
-- [[SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, cap. 7
+- [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, cap. 7
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-1315-retelele-bayesiene-tot-se-schimba-odata|AIM-1315]] _aplicare_ — Rețelele bayesiene pornesc de la ideea că, atunci când schimbi o variabilă, se schimbă toate
+- [[INS-1306-personas-nu-segmente-ozzy-osbourne-si-printul-charles|INS-1306]] _vezi_ — Personas, nu segmente — Ozzy Osbourne și Prințul Charles au același profil demografic
+- [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]] — Artificial Intelligence Marketing and Predicting Consumer Choice: An Overview of Tools and Techniques
+<!-- backlinks:end -->

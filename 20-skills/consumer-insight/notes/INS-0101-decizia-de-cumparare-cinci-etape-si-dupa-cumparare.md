@@ -54,12 +54,27 @@ Lauren cumpără ținuta de la Macy's. Iubitul o laudă, prietenele par reticent
 
 ## Legături
 
-- **extinde** [[INS-0103]] — riscul perceput determină cât de intensă e etapa de căutare.
-- **extinde** [[INS-0104]] — etapa de evaluare funcționează prin seturi de alternative și atribute determinante.
-- **vezi** [[INS-0107]] — nivelul de implicare decide dacă procesul e extins sau scurtat.
-- **vezi** [[MKT-0124]] — satisfacția depinde de decalajul dintre promisiune și experiență.
+- **extinde** [[INS-0103-cinci-tipuri-de-risc-perceput-cresc-cautarea|INS-0103]] — riscul perceput determină cât de intensă e etapa de căutare.
+- **extinde** [[INS-0104-setul-evocat-si-atributul-determinant|INS-0104]] — etapa de evaluare funcționează prin seturi de alternative și atribute determinante.
+- **vezi** [[INS-0107-implicarea-decide-procesarea-centrala-sau-periferica|INS-0107]] — nivelul de implicare decide dacă procesul e extins sau scurtat.
+- **vezi** [[MKT-0124-patru-decalaje-de-serviciu-si-promisiunea-reclamei|MKT-0124]] — satisfacția depinde de decalajul dintre promisiune și experiență.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 6, p. 188-202 (Exhibit 6.1, 6.3)
-- [[SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 2, p. 41, 60-63 (§2.2.2, §2.9)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 6, p. 188-202 (Exhibit 6.1, 6.3)
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 2, p. 41, 60-63 (§2.2.2, §2.9)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[INS-0102-nevoi-functionale-si-psihologice-in-proportii-diferite|INS-0102]] _fundament_ — Orice produs satisface nevoi funcționale și psihologice, în proporții diferite — iar dorința nu se mulțumește cu orice soluție
+- [[INS-0103-cinci-tipuri-de-risc-perceput-cresc-cautarea|INS-0103]] _fundament_ — Cinci tipuri de risc perceput frânează cumpărarea — cu cât e mai mare riscul, cu atât consumatorul caută mai mult
+- [[INS-0104-setul-evocat-si-atributul-determinant|INS-0104]] _fundament_ — Consumatorul alege dintr-un set evocat mic, după atributul determinant — cel important și diferit între branduri
+- [[INS-0106-atitudinea-cognitiva-afectiva-comportamentala|INS-0106]] _vezi_ — Atitudinea are trei componente — ce crezi, ce simți, ce faci — iar comunicarea le poate schimba pe primele două
+- [[INS-0107-implicarea-decide-procesarea-centrala-sau-periferica|INS-0107]] _fundament_ — Implicarea decide dacă mesajul e citit cu atenție sau doar „scanat" după indicii (modelul ELM)
+- [[INS-0108-factori-psihologici-sociali-situationali-si-mix|INS-0108]] _fundament_ — Decizia de cumpărare e modelată de patru familii de factori — psihologici, sociali, situaționali și mixul de marketing
+- [[INS-0109-patru-tipuri-de-cumparare-matricea-assael|INS-0109]] _fundament_ — Patru tipuri de comportament de cumpărare rezultă din implicare × diferențele percepute între branduri (matricea Assael)
+- [[MKT-0124-patru-decalaje-de-serviciu-si-promisiunea-reclamei|MKT-0124]] _vezi_ — Calitatea serviciului se pierde în patru decalaje, iar ultimul — cel de comunicare — îl creează publicitatea care promite prea mult
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] — Principles of Marketing
+<!-- backlinks:end -->

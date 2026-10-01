@@ -55,10 +55,21 @@ Ordinea celor 14 pași reproduce de fapt lanțul planului strategic de comunicar
 
 ## Legături
 
-- **fundament** [[ADV-0612]] — structura reco-ului urmează lanțul planului strategic de comunicare.
-- **vezi** [[BRF-0601]] — reco-ul răspunde la brief-ul clientului.
-- **vezi** [[ADV-0602]] — un parti-pris clar înseamnă o singură strategie, nu o colecție de „strategii".
+- **fundament** [[ADV-0612-planul-strategic-de-comunicare-e-un-lant-logic|ADV-0612]] — structura reco-ului urmează lanțul planului strategic de comunicare.
+- **vezi** [[BRF-0601-din-brief-ul-clientului-in-brief-ul-creativ|BRF-0601]] — reco-ul răspunde la brief-ul clientului.
+- **vezi** [[ADV-0602-nu-orice-decizie-e-strategie-monismul-strategic|ADV-0602]] — un parti-pris clar înseamnă o singură strategie, nu o colecție de „strategii".
 
 ## Surse
 
-- [[SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 3, p. 18–19
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 3, p. 18–19
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0612-planul-strategic-de-comunicare-e-un-lant-logic|ADV-0612]] _vezi_ — Planul strategic de comunicare e un lanț în care fiecare verigă decurge din cea anterioară — de la SWOT la buget
+- [[BRF-0601-din-brief-ul-clientului-in-brief-ul-creativ|BRF-0601]] _vezi_ — Brief-ul clientului pune întrebarea, brief-ul creativ o transformă într-o „problemă de rezolvat" pentru echipa de creație
+- [[CLI-0601-comunicarea-asertiva-intre-agresiv-si-pasiv|CLI-0601]] _vezi_ — Comunicarea asertivă stă între agresiv și pasiv — spui direct ce gândești și ce ai nevoie, respectând dreptul celuilalt de a gândi altfel
+- [[CLI-0602-ideile-se-erodeaza-in-circuitul-de-aprobare|CLI-0602]] _vezi_ — Ideile se erodează în circuitul de aprobare — fiecare nivel care cere „o mică schimbare" scade riscul și, odată cu el, forța reclamei
+- [[PIT-0602-vorbirea-in-public-iesi-din-punctuatia-scrisa|PIT-0602]] _aplicare_ — Ca să vorbești viu în fața unei săli, ieși din „punctuația scrisă" — atacuri ferme, tăceri asumate, enjambament, scansiune, ritm contrastant
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] — La boîte à outils de la publicité
+<!-- backlinks:end -->

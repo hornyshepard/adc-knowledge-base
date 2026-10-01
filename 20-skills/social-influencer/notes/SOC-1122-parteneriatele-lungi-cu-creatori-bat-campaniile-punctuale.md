@@ -42,11 +42,20 @@ Renault Scenic #BehindCarDoors: o campanie de un an cu doi influenceri de parent
 
 ## Legături
 
-- **extinde** [[SOC-1110]] — doar potrivirea reală de valori susține o relație de ani de zile.
-- **aplicare** [[SOC-1123]] — programul de ambasadori instituționalizează relațiile lungi.
-- **exemplu** [[SOC-1111]] — FAQ YOU și DieLochis ilustrează cooperarea de lungă durată.
+- **extinde** [[SOC-1110-valorile-comune-conteaza-inaintea-reach-ului-in-alegerea|SOC-1110]] — doar potrivirea reală de valori susține o relație de ani de zile.
+- **aplicare** [[SOC-1123-programul-de-ambasadori-se-conduce-ca-o-echipa-de-vanzari|SOC-1123]] — programul de ambasadori instituționalizează relațiile lungi.
+- **exemplu** [[SOC-1111-faq-you-comunitate-construita-doar-din-continut-adaptat|SOC-1111]] — FAQ YOU și DieLochis ilustrează cooperarea de lungă durată.
 
 ## Surse
 
-- [[SRC-035]] Glenister, *Influencer Marketing Strategy*, Introducere, p. 22; cap. 1, p. 64; cap. 2, p. 100; cap. 6, p. 195; cap. 10, p. 259–260; cap. 11, p. 293–295
-- [[SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 6.3.1 (M. Wolf), p. 283–284
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] Glenister, *Influencer Marketing Strategy*, Introducere, p. 22; cap. 1, p. 64; cap. 2, p. 100; cap. 6, p. 195; cap. 10, p. 259–260; cap. 11, p. 293–295
+- [[SRC-034-social-media-storytelling|SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 6.3.1 (M. Wolf), p. 283–284
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[SOC-1120-creatorul-este-o-casa-de-productie-intr-un-om-gifting-ul-nu|SOC-1120]] _vezi_ — Creatorul este o casă de producție într-un om: gifting-ul nu ține loc de plată
+- [[SOC-1123-programul-de-ambasadori-se-conduce-ca-o-echipa-de-vanzari|SOC-1123]] _fundament_ — Programul de ambasadori se conduce ca o echipă de vânzări cu manager dedicat
+- [[SRC-034-social-media-storytelling|SRC-034]] — Social Media Storytelling
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] — Influencer Marketing Strategy: How influencers can help grow your business
+<!-- backlinks:end -->

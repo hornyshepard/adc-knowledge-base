@@ -35,7 +35,7 @@ Fotografiile celebre funcționează la fel: compoziția lor e întipărită în 
 ## Aplicare
 
 - Fă un inventar al simbolurilor legate de brief și al sensurilor lor *pentru ținta ta*, nu pentru tine.
-- Preferă o răsucire proaspătă a unui simbol cunoscut în locul simbolului ca atare (vezi [[IDE-0706]]).
+- Preferă o răsucire proaspătă a unui simbol cunoscut în locul simbolului ca atare (vezi [[IDE-0706-cliseul-conventia-si-formatul-familiar-folosite-pe-dos|IDE-0706]]).
 - Pentru campanii internaționale, verifică gesturile, culorile și animalele simbolice pe fiecare piață.
 
 ## Exemplu
@@ -45,14 +45,23 @@ Ogilvy & Mather a făcut din Marilyn Monroe cu fusta nemișcată o reclamă pent
 ## Întrebări
 
 - Ce simboluri sunt „locale" în România și ar fi greșit înțelese în altă parte?
-- Când e folosirea unei icoane apropriere sau lipsă de respect? Vezi [[STO-0709]].
+- Când e folosirea unei icoane apropriere sau lipsă de respect? Vezi [[STO-0709-checklist-de-responsabilitate-dei-storiestelling|STO-0709]].
 
 ## Legături
 
-- **vezi** [[IDE-0706]] — clișeele și simbolurile folosite pe dos.
-- **vezi** [[IDE-0707]] — simbolul ca metaforă stabilizată.
-- **vezi** [[STO-0709]] — verificarea apropierii culturale și a stereotipurilor.
+- **vezi** [[IDE-0706-cliseul-conventia-si-formatul-familiar-folosite-pe-dos|IDE-0706]] — clișeele și simbolurile folosite pe dos.
+- **vezi** [[IDE-0707-metafora-vizuala-si-asemanarea-formala|IDE-0707]] — simbolul ca metaforă stabilizată.
+- **vezi** [[STO-0709-checklist-de-responsabilitate-dei-storiestelling|STO-0709]] — verificarea apropierii culturale și a stereotipurilor.
 
 ## Surse
 
-- [[SRC-024]] John Ingledew, *The A–Z of Visual Ideas*, intrările „Symbols", „Icons", „Flags", „Signs", „Eyes", „Hands", „Photographs"
+- [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] John Ingledew, *The A–Z of Visual Ideas*, intrările „Symbols", „Icons", „Flags", „Signs", „Eyes", „Hands", „Photographs"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[IDE-0706-cliseul-conventia-si-formatul-familiar-folosite-pe-dos|IDE-0706]] _vezi_ — Clișeul, convenția și formatul familiar devin idei când sunt folosite pe dos
+- [[IDE-0707-metafora-vizuala-si-asemanarea-formala|IDE-0707]] _vezi_ — Metafora vizuală și asemănarea formală — un lucru arată ca altul și îi împrumută calitățile
+- [[STO-0709-checklist-de-responsabilitate-dei-storiestelling|STO-0709]] _vezi_ — Checklist-ul de responsabilitate pentru reprezentare — stereotipuri, putere, apropriere, decor și o echipă diversă în fiecare etapă
+- [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] — The A–Z of Visual Ideas: How to Solve Any Creative Brief
+<!-- backlinks:end -->

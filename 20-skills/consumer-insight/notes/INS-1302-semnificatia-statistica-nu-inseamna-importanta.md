@@ -43,9 +43,17 @@ Exemplul cu zodia Leu și televizorul e un bun test de seminar: studenții trebu
 
 ## Legături
 
-- **vezi** [[AIM-1306]] — validarea pe date noi e alternativa robustă la testul de semnificație.
-- **vezi** [[INS-1303]] — eroarea de eșantionare explodează la eșantioane mici.
+- **vezi** [[AIM-1306-validarea-pe-esantion-de-control-separa-tiparele-reale|AIM-1306]] — validarea pe date noi e alternativa robustă la testul de semnificație.
+- **vezi** [[INS-1303-focus-grupul-e-pentru-limbaj-nu-pentru-decizii|INS-1303]] — eroarea de eșantionare explodează la eșantioane mici.
 
 ## Surse
 
-- [[SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, cap. 2
+- [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, cap. 2
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-1306-validarea-pe-esantion-de-control-separa-tiparele-reale|AIM-1306]] _vezi_ — Validarea pe un eșantion de control separă tiparele reale de supra-ajustare
+- [[INS-1303-focus-grupul-e-pentru-limbaj-nu-pentru-decizii|INS-1303]] _vezi_ — Focus grupul e bun pentru limbaj și pentru detectarea dezastrelor, nu pentru decizia finală
+- [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]] — Artificial Intelligence Marketing and Predicting Consumer Choice: An Overview of Tools and Techniques
+<!-- backlinks:end -->

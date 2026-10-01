@@ -48,11 +48,22 @@ Biasul de disponibilitate apare des în agenții: un client cere „o inovație 
 
 ## Legături
 
-- **fundament** [[MKT-0302]] — ruptura dintre formulare și execuție e o fractură în ciclul strategic.
-- **vezi** [[MKT-0307]] — Can–Want–Should este propus explicit ca instrument împotriva biasurilor.
-- **vezi** [[MKT-0309]] — premortem-ul și contextele de decizie sub incertitudine.
-- **vezi** [[MKT-0311]] — confuzia transformare / inovare, biasul de disponibilitate.
+- **fundament** [[MKT-0302-strategia-ca-ciclu-de-viata-regula-40-20-40|MKT-0302]] — ruptura dintre formulare și execuție e o fractură în ciclul strategic.
+- **vezi** [[MKT-0307-can-want-should-zona-de-pericol|MKT-0307]] — Can–Want–Should este propus explicit ca instrument împotriva biasurilor.
+- **vezi** [[MKT-0309-patru-contexte-de-decizie-sub-incertitudine|MKT-0309]] — premortem-ul și contextele de decizie sub incertitudine.
+- **vezi** [[MKT-0311-transformarea-modifica-ce-exista-inovarea-adauga|MKT-0311]] — confuzia transformare / inovare, biasul de disponibilitate.
 
 ## Surse
 
-- [[SRC-007]] H. von Scheel et al., *Strategy in the Age of Disruption*, cap. 2, p. 48–53; cap. 5, p. 189, 191
+- [[SRC-007-strategy-in-the-age-of-disruption|SRC-007]] H. von Scheel et al., *Strategy in the Age of Disruption*, cap. 2, p. 48–53; cap. 5, p. 189, 191
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[IDE-0301-geniul-e-un-sport-de-echipa-trei-mituri-ale-creativitatii|IDE-0301]] _vezi_ — Geniul e un sport de echipă: trei mituri ale creativității care blochează colaborarea
+- [[MKT-0302-strategia-ca-ciclu-de-viata-regula-40-20-40|MKT-0302]] _vezi_ — Strategia e un ciclu de viață — poziționare, alegeri, execuție — cu regula de timp 40-20-40
+- [[MKT-0307-can-want-should-zona-de-pericol|MKT-0307]] _aplicare_ — Can–Want–Should: zona de pericol se află între ce poți și ce vrei, când sari peste ce trebuie
+- [[MKT-0309-patru-contexte-de-decizie-sub-incertitudine|MKT-0309]] _extinde_ — Contextul decide metoda: patru tipuri de cunoscut și necunoscut cer patru moduri de a decide
+- [[MKT-0319-cartile-de-trenduri-se-citesc-ca-ipoteze|MKT-0319]] _vezi_ — Cărțile de trenduri se citesc ca ipoteze, nu ca hărți: cum separi semnalul de umplutură
+- [[SRC-007-strategy-in-the-age-of-disruption|SRC-007]] — Strategy in the Age of Disruption: A Handbook to Anticipate Change and Make Smart Decisions
+<!-- backlinks:end -->

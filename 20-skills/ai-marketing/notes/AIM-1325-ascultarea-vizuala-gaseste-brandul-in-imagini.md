@@ -50,11 +50,20 @@ Un exemplu ipotetic: un brand de bere descoperă, prin recunoaștere de logo, su
 
 ## Legături
 
-- **vezi** [[SOC-1301]] — identificarea și verificarea influencerilor cu AI.
-- **vezi** [[AIM-1319]] — limitele analizei automate de sentiment pe text.
-- **vezi** [[AIM-1305]] — consimțământul și confidențialitatea, valabile și pentru imagini.
+- **vezi** [[SOC-1301-ai-verifica-autenticitatea-audientei-influencerului|SOC-1301]] — identificarea și verificarea influencerilor cu AI.
+- **vezi** [[AIM-1319-modelul-de-limbaj-rezuma-dar-nu-dovedeste-cauze|AIM-1319]] — limitele analizei automate de sentiment pe text.
+- **vezi** [[AIM-1305-etica-datelor-consimtamant-acces-transparenta-minimizare|AIM-1305]] — consimțământul și confidențialitatea, valabile și pentru imagini.
 
 ## Surse
 
-- [[SRC-041]] Elle James, *Digital Alchemy: Transforming Brands with AI*, cap. 3–4
-- [[SRC-042]] Chidiebere Iroegbu, *The Future of Marketing*, cap. 9
+- [[SRC-041-transforming-brands-with-ai|SRC-041]] Elle James, *Digital Alchemy: Transforming Brands with AI*, cap. 3–4
+- [[SRC-042-the-future-of-marketing|SRC-042]] Chidiebere Iroegbu, *The Future of Marketing*, cap. 9
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-1326-poate-ai-ul-crea-identitatea-unui-brand|AIM-1326]] _contrazice_ — Poate AI-ul crea identitatea unui brand? Promisiunea „brand assets generate" vs. brandul ca semnificație și relație
+- [[SOC-1301-ai-verifica-autenticitatea-audientei-influencerului|SOC-1301]] _vezi_ — Cu AI, un influencer se alege după autenticitatea și potrivirea audienței, nu după numărul de urmăritori
+- [[SRC-041-transforming-brands-with-ai|SRC-041]] — Digital Alchemy: Transforming Brands with AI
+- [[SRC-042-the-future-of-marketing|SRC-042]] — The Future of Marketing: Harnessing Artificial Intelligence for Success
+<!-- backlinks:end -->

@@ -45,11 +45,23 @@ P&G a construit copy strategy pentru un brand gândit ca produs (Ivory, Camay). 
 
 ## Legături
 
-- **vezi** [[ADV-0603]] — copy strategy e mecanismul-prototip al paradigmei product branding.
-- **vezi** [[ADV-0608]] — brand image deschide paradigma personality branding.
-- **vezi** [[BRD-0606]] — brandurile iconice reprezintă vârful paradigmei consumer branding.
-- **vezi** [[ADV-0602]] — ierarhia paradigmă–teorie–mecanism e răspunsul autorului la folosirea vagă a cuvântului „strategie".
+- **vezi** [[ADV-0603-copy-strategy-fixeaza-beneficiul-dovada-si-tonul|ADV-0603]] — copy strategy e mecanismul-prototip al paradigmei product branding.
+- **vezi** [[ADV-0608-brand-image-fiecare-reclama-contribuie-la-simbolul-brandului|ADV-0608]] — brand image deschide paradigma personality branding.
+- **vezi** [[BRD-0606-brandurile-iconice-mitul-identitar-raspunde-unei-tensiuni-culturale|BRD-0606]] — brandurile iconice reprezintă vârful paradigmei consumer branding.
+- **vezi** [[ADV-0602-nu-orice-decizie-e-strategie-monismul-strategic|ADV-0602]] — ierarhia paradigmă–teorie–mecanism e răspunsul autorului la folosirea vagă a cuvântului „strategie".
 
 ## Surse
 
-- [[SRC-018]] Jorge David Fernández Gómez, *Strategic Advertising Mechanisms*, Introducere; cap. 1 §1.1; cap. 3; cap. 8 §8.1
+- [[SRC-018-strategic-advertising-mechanisms|SRC-018]] Jorge David Fernández Gómez, *Strategic Advertising Mechanisms*, Introducere; cap. 1 §1.1; cap. 3; cap. 8 §8.1
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0602-nu-orice-decizie-e-strategie-monismul-strategic|ADV-0602]] _fundament_ — Nu orice decizie de comunicare este strategie — critica „monismului strategic publicitar"
+- [[ADV-0603-copy-strategy-fixeaza-beneficiul-dovada-si-tonul|ADV-0603]] _vezi_ — Copy strategy (P&G) fixează în scris obiectivul, beneficiul cu dovada lui și tonul — nu execuția
+- [[ADV-0609-axa-psihologica-joannis-stimulezi-o-motivatie-sau-slabesti-o-frana|ADV-0609]] _vezi_ — Axa psihologică (Joannis) — campania alege fie să stimuleze o motivație, fie să slăbească o frână
+- [[BRD-0601-gardner-levy-brandul-e-un-simbol-complex-de-asocieri|BRD-0601]] _vezi_ — Brandul este un simbol complex de asocieri, nu o etichetă — „The Product and the Brand" (Gardner & Levy, 1955)
+- [[BRD-0604-passionbrands-brandul-conduce-consumatorul-nu-e-condus|BRD-0604]] _contrazice_ — Passionbrands — la nucleu, un brand puternic conduce consumatorul, nu se lasă condus de el
+- [[BRD-0606-brandurile-iconice-mitul-identitar-raspunde-unei-tensiuni-culturale|BRD-0606]] _extinde_ — Brandurile iconice (Holt) devin icoane oferind un mit identitar care răspunde unei tensiuni culturale
+- [[SRC-018-strategic-advertising-mechanisms|SRC-018]] — Strategic Advertising Mechanisms: From Copy Strategy to Iconic Brands
+<!-- backlinks:end -->

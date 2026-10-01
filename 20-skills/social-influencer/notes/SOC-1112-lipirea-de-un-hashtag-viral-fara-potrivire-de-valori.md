@@ -43,10 +43,20 @@ Regula autorilor: folosește doar hashtag-uri și meme care se potrivesc cu valo
 
 ## Legături
 
-- **extinde** [[SOC-1110]] — aceeași regulă a potrivirii de valori ca la alegerea creatorilor.
-- **vezi** [[SOC-1106]] — shitstorm-ul se gestionează calm, fără a hrăni trolii.
-- **vezi** [[SOC-1104]] — profilurile „lichide" există doar ca hashtag-uri.
+- **extinde** [[SOC-1110-valorile-comune-conteaza-inaintea-reach-ului-in-alegerea|SOC-1110]] — aceeași regulă a potrivirii de valori ca la alegerea creatorilor.
+- **vezi** [[SOC-1106-haters-troli-si-boti-ascunde-raporteaza-nu-hrani-trolul|SOC-1106]] — shitstorm-ul se gestionează calm, fără a hrăni trolii.
+- **vezi** [[SOC-1104-patru-genuri-de-profil-social-personal-comunitate-brand|SOC-1104]] — profilurile „lichide" există doar ca hashtag-uri.
 
 ## Surse
 
-- [[SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 1.4.3, p. 50–51; cap. 4.2.1–4.2.2, p. 166–170
+- [[SRC-034-social-media-storytelling|SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 1.4.3, p. 50–51; cap. 4.2.1–4.2.2, p. 166–170
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[SOC-1104-patru-genuri-de-profil-social-personal-comunitate-brand|SOC-1104]] _vezi_ — Patru genuri de profil social: personal, comunitate, brand, jurnalist
+- [[SOC-1106-haters-troli-si-boti-ascunde-raporteaza-nu-hrani-trolul|SOC-1106]] _vezi_ — Haters, troli și boți: ascunde, raportează, nu hrăni trolul
+- [[SOC-1110-valorile-comune-conteaza-inaintea-reach-ului-in-alegerea|SOC-1110]] _vezi_ — Valorile comune contează înaintea reach-ului în alegerea creatorului
+- [[SOC-1129-fyre-festival-si-alte-esecuri-ce-se-intampla-cand-executia|SOC-1129]] _vezi_ — Fyre Festival și alte eșecuri: ce se întâmplă când execuția trădează promisiunea
+- [[SRC-034-social-media-storytelling|SRC-034]] — Social Media Storytelling
+<!-- backlinks:end -->

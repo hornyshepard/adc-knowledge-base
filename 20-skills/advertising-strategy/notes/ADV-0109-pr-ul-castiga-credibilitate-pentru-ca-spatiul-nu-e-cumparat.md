@@ -51,10 +51,19 @@ Red Bull sponsorizează evenimente de sporturi extreme care întruchipează prom
 
 ## Legături
 
-- **fundament** [[ADV-0101]] — PR-ul este unul dintre canalele IMC.
-- **vezi** [[MKT-0106]] — cause marketing-ul e forma comunicată a angajamentelor sociale; fără fapte riscă greenwashing.
-- **vezi** [[SOC-0101]] — influencerii au preluat o parte din rolul de credibilitate al PR-ului.
+- **fundament** [[ADV-0101-imc-integreaza-canalele-pentru-claritate-consecventa-impact|ADV-0101]] — PR-ul este unul dintre canalele IMC.
+- **vezi** [[MKT-0106-conscious-marketing-pune-scopul-in-centru-csr-il-adauga|MKT-0106]] — cause marketing-ul e forma comunicată a angajamentelor sociale; fără fapte riscă greenwashing.
+- **vezi** [[SOC-0101-alegi-influencerul-dupa-4r-relevanta-reach-raspuns-randament|SOC-0101]] — influencerii au preluat o parte din rolul de credibilitate al PR-ului.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 18, p. 572; cap. 19, p. 610-612 (Exhibit 19.6)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 18, p. 572; cap. 19, p. 610-612 (Exhibit 19.6)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0101-imc-integreaza-canalele-pentru-claritate-consecventa-impact|ADV-0101]] _vezi_ — Comunicarea integrată de marketing (IMC) tratează toate canalele ca pe un întreg — pentru claritate, consecvență și impact maxim
+- [[MKT-0106-conscious-marketing-pune-scopul-in-centru-csr-il-adauga|MKT-0106]] _aplicare_ — Conscious marketing pune scopul superior în centrul afacerii, CSR doar îl adaugă pe margine
+- [[SOC-0101-alegi-influencerul-dupa-4r-relevanta-reach-raspuns-randament|SOC-0101]] _vezi_ — Influencerul se alege după 4R — relevanță, reach, răspuns, randament — nu după numărul de urmăritori
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+<!-- backlinks:end -->

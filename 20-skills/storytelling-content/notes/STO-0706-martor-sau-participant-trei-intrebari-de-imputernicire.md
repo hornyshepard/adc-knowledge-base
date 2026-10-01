@@ -46,10 +46,17 @@ Exemple: Cox „Drawn Closer" a transformat piesa de teatru anulată a unei șco
 
 ## Legături
 
-- **extinde** [[STO-0701]] — participarea e una dintre funcțiile poveștii distribuite.
-- **vezi** [[STO-0705]] — super-fanii sunt cei mai severi judecători ai autenticității.
-- **vezi** [[IDE-0711]] — mesajele care invită la participare ies din formatul de reclamă.
+- **extinde** [[STO-0701-o-poveste-e-shareworthy-cand-are-valoare-de-folosinta|STO-0701]] — participarea e una dintre funcțiile poveștii distribuite.
+- **vezi** [[STO-0705-autenticitatea-are-cinci-directii|STO-0705]] — super-fanii sunt cei mai severi judecători ai autenticității.
+- **vezi** [[IDE-0711-mesajul-care-nu-arata-a-reclama-locuri-si-formate-neasteptate|IDE-0711]] — mesajele care invită la participare ies din formatul de reclamă.
 
 ## Surse
 
-- [[SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 2; interviurile din cap. 5 și cap. 6
+- [[SRC-025-shareworthy|SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 2; interviurile din cap. 5 și cap. 6
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[STO-0701-o-poveste-e-shareworthy-cand-are-valoare-de-folosinta|STO-0701]] _extinde_ — O poveste de brand e „shareworthy" când are valoare de folosință pentru public, nu doar pentru brand
+- [[SRC-025-shareworthy|SRC-025]] — Shareworthy: Advertising That Creates Powerful Connections Through Storytelling
+<!-- backlinks:end -->

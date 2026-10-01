@@ -45,10 +45,20 @@ Wells Fargo, după scandalul conturilor false, are o problemă dublă: într-o l
 
 ## Legături
 
-- **extinde** [[BRD-1002]] — detaliază componenta de credibilitate a brandului digital.
-- **vezi** [[SOC-1001]] — reacția la recenziile negative pune la încercare încrederea în public.
-- **vezi** [[DIG-1016]] — promisiunile despre confidențialitate sunt și ele pârghii de încredere, cu risc.
+- **extinde** [[BRD-1002-brandul-digital-identitate-vizibilitate-credibilitate|BRD-1002]] — detaliază componenta de credibilitate a brandului digital.
+- **vezi** [[SOC-1001-recenzia-negativa-raspuns-rapid-empatic-fara-stergere|SOC-1001]] — reacția la recenziile negative pune la încercare încrederea în public.
+- **vezi** [[DIG-1016-promisiunea-de-confidentialitate-este-un-claim-publicitar|DIG-1016]] — promisiunile despre confidențialitate sunt și ele pârghii de încredere, cu risc.
 
 ## Surse
 
-- [[SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 1 (p. 32), cap. 2 (p. 69–70), cap. 10 (p. 345, 350–356)
+- [[SRC-031-digital-marketing-manual|SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 1 (p. 32), cap. 2 (p. 69–70), cap. 10 (p. 345, 350–356)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-1001-cadrul-mace-brandul-digital-durabil|BRD-1001]] _vezi_ — Cadrul MACE (Collis & Collis) — un brand digital durează dacă oferă măiestrie, accesibilitate, cadență și „captivare"
+- [[BRD-1002-brandul-digital-identitate-vizibilitate-credibilitate|BRD-1002]] _vezi_ — Brandul digital are trei componente care lucrează împreună — identitate, vizibilitate și credibilitate
+- [[DIG-1016-promisiunea-de-confidentialitate-este-un-claim-publicitar|DIG-1016]] _vezi_ — Orice promisiune despre confidențialitate este un claim publicitar — poate diferenția brandul, dar se judecă și se sancționează ca orice afirmație
+- [[SOC-1001-recenzia-negativa-raspuns-rapid-empatic-fara-stergere|SOC-1001]] _vezi_ — La o recenzie negativă, brandul răspunde repede, empatic și profesionist, mută rezolvarea în privat și nu șterge critica
+- [[SRC-031-digital-marketing-manual|SRC-031]] — Digital Marketing
+<!-- backlinks:end -->

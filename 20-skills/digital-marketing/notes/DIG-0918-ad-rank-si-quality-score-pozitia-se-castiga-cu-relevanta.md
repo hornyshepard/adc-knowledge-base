@@ -48,10 +48,19 @@ Din 2022, Google cere **responsive search ads**: advertiserul scrie până la 15
 
 ## Legături
 
-- **extinde** [[DIG-0915]] — detaliază fața plătită a SEM.
-- **aplicare** [[DIG-0919]] — Ad Rank-ul se optimizează în cele cinci etape ale campaniei.
-- **aplicare** [[DIG-0920]] — experiența paginii de destinație intră direct în Quality Score.
+- **extinde** [[DIG-0915-sem-are-doua-fete-seo-construieste-ppc-cumpara-vizibilitate|DIG-0915]] — detaliază fața plătită a SEM.
+- **aplicare** [[DIG-0919-campania-de-paid-search-si-paid-social-are-cinci-etape|DIG-0919]] — Ad Rank-ul se optimizează în cele cinci etape ale campaniei.
+- **aplicare** [[DIG-0920-reclama-e-doar-atat-de-buna-cat-landing-page-ul-ei|DIG-0920]] — experiența paginii de destinație intră direct în Quality Score.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 8, p. 219-221, 226
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 8, p. 219-221, 226
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0915-sem-are-doua-fete-seo-construieste-ppc-cumpara-vizibilitate|DIG-0915]] _extinde_ — SEM are două fețe — SEO construiește vizibilitate în timp, PPC o cumpără imediat — și funcționează cel mai bine împreună
+- [[DIG-0919-campania-de-paid-search-si-paid-social-are-cinci-etape|DIG-0919]] _aplicare_ — Campania de paid search și paid social are cinci etape — de la cercetarea cuvintelor-cheie la testare
+- [[DIG-0920-reclama-e-doar-atat-de-buna-cat-landing-page-ul-ei|DIG-0920]] _vezi_ — Reclama e doar atât de bună cât landing page-ul ei — simplitate, continuitate, relevanță
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+<!-- backlinks:end -->

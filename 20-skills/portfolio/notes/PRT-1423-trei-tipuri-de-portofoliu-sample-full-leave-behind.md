@@ -46,10 +46,17 @@ După un interviu la o agenție, un candidat lasă un mic afiș A4 cu ideea camp
 
 ## Legături
 
-- **extinde** [[PRT-1402]] — distincția dintre documentul trimis și cel prezentat devine aici un sistem de trei tipuri.
-- **vezi** [[PRT-1407]] — tipurile se combină cu mediile: tipărit, PDF, site.
-- **vezi** [[PIT-1418]] — leave-behind-ul seamănă cu deck-ul „de lăsat” după un pitch.
+- **extinde** [[PRT-1402-portofoliul-diferit-de-prezentarea-portofoliului|PRT-1402]] — distincția dintre documentul trimis și cel prezentat devine aici un sistem de trei tipuri.
+- **vezi** [[PRT-1407-pdf-personalizabil-intai-apoi-site|PRT-1407]] — tipurile se combină cu mediile: tipărit, PDF, site.
+- **vezi** [[PIT-1418-sase-principii-pentru-slide-uri|PIT-1418]] — leave-behind-ul seamănă cu deck-ul „de lăsat” după un pitch.
 
 ## Surse
 
-- [[SRC-046]] Zuzana Kubišová, *The Architect's Pocket Guide to Portfolio Design*, Pasul 1, pp. 4–15
+- [[SRC-046-architects-pocket-guide-to-portfolio-design|SRC-046]] Zuzana Kubišová, *The Architect's Pocket Guide to Portfolio Design*, Pasul 1, pp. 4–15
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PRT-1407-pdf-personalizabil-intai-apoi-site|PRT-1407]] _vezi_ — Pornește cu un portofoliu PDF personalizabil și adaugă apoi un site; comunitățile de portofoliu sunt riscante
+- [[SRC-046-architects-pocket-guide-to-portfolio-design|SRC-046]] — The Architect's Pocket Guide to Portfolio Design
+<!-- backlinks:end -->

@@ -51,10 +51,18 @@ Netflix (deschiderea capitolului 10) folosește datele de vizionare ca să recom
 
 ## Legături
 
-- **extinde** [[MKT-0126]] — sursele de date și metodele de colectare detaliază pașii 2 și 3.
-- **aplicare** [[MKT-0124]] — închiderea decalajului de cunoaștere cere cercetare despre așteptările clienților.
-- **vezi** [[DIG-0103]] — ascultarea socială este o formă continuă de cercetare.
+- **extinde** [[MKT-0126-date-secundare-primare-calitativ-cantitativ|MKT-0126]] — sursele de date și metodele de colectare detaliază pașii 2 și 3.
+- **aplicare** [[MKT-0124-patru-decalaje-de-serviciu-si-promisiunea-reclamei|MKT-0124]] — închiderea decalajului de cunoaștere cere cercetare despre așteptările clienților.
+- **vezi** [[DIG-0103-asculta-analizeaza-actioneaza-procesul-de-implicare-digitala|DIG-0103]] — ascultarea socială este o formă continuă de cercetare.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 10, p. 312-318 (Exhibit 10.1, 10.2, 10.3)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 10, p. 312-318 (Exhibit 10.1, 10.2, 10.3)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0103-asculta-analizeaza-actioneaza-procesul-de-implicare-digitala|DIG-0103]] _vezi_ — Implicarea digitală urmează trei etape — ascultă, analizează, acționează — iar campania pe social media are cinci pași
+- [[MKT-0126-date-secundare-primare-calitativ-cantitativ|MKT-0126]] _fundament_ — Datele secundare sunt ieftine dar generale, cele primare sunt țintite dar scumpe; cercetarea calitativă deschide, cea cantitativă confirmă
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+<!-- backlinks:end -->

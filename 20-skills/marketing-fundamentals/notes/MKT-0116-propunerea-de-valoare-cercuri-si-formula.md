@@ -56,10 +56,19 @@ Southwest și Emirates (cap. 9) au propuneri de valoare opuse, amândouă valide
 
 ## Legături
 
-- **fundament** [[MKT-0115]] — propunerea de valoare dă conținut poziționării.
-- **fundament** [[MKT-0102]] — beneficiul unic e partea „ce primești" din ecuația valorii.
-- **aplicare** [[ADV-0106]] — USP-ul este propunerea de valoare prescurtată pentru reclamă.
+- **fundament** [[MKT-0115-pozitionarea-patru-baze-verificate-pe-harta-perceptuala|MKT-0115]] — propunerea de valoare dă conținut poziționării.
+- **fundament** [[MKT-0102-valoarea-este-ce-primesti-raportat-la-ce-dai|MKT-0102]] — beneficiul unic e partea „ce primești" din ecuația valorii.
+- **aplicare** [[ADV-0106-mesajul-usp-si-apelul-informational-sau-emotional|ADV-0106]] — USP-ul este propunerea de valoare prescurtată pentru reclamă.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 2, p. 45; cap. 9, p. 297-300 (Exhibit 9.8, 9.9); cap. 19, p. 598
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 2, p. 45; cap. 9, p. 297-300 (Exhibit 9.8, 9.9); cap. 19, p. 598
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0106-mesajul-usp-si-apelul-informational-sau-emotional|ADV-0106]] _fundament_ — Mesajul condensează propunerea de valoare într-un USP unic, relevant și durabil, transmis printr-un apel informațional sau emoțional
+- [[MKT-0102-valoarea-este-ce-primesti-raportat-la-ce-dai|MKT-0102]] _aplicare_ — Valoarea este ce primești raportat la ce dai, nu prețul mic
+- [[MKT-0115-pozitionarea-patru-baze-verificate-pe-harta-perceptuala|MKT-0115]] _extinde_ — Poziționarea se construiește pe valoare, atribute, simboluri sau concurență și se verifică pe harta perceptuală
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+<!-- backlinks:end -->

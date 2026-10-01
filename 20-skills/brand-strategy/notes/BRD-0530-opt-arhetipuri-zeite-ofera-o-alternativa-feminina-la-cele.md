@@ -51,12 +51,20 @@ Liquid Death vinde apă cu energia lui Hades — misterios, întunecat, ironic �
 
 ## Legături
 
-- **alternativa** [[BRD-0528]] — modelul Aaker descrie personalitatea prin dimensiuni, nu prin personaje.
-- **aplicare** [[BRD-0531]] — cum alegi zeița potrivită pentru brand.
-- **extinde** [[BRD-0532]] — zeița e fundația întregului brand blueprint.
-- **vezi** [[BRD-0509]] — Stengel folosește tot arhetipul ca intrare pentru descoperirea scopului.
-- **exemplu** [[BRD-0533]] — Billie, un brand al Persefonei Regina.
+- **alternativa** [[BRD-0528-personalitatea-brandului-are-cinci-dimensiuni-in-modelul|BRD-0528]] — modelul Aaker descrie personalitatea prin dimensiuni, nu prin personaje.
+- **aplicare** [[BRD-0531-arhetipul-potrivit-e-autentic-pentru-firma-si-atractiv|BRD-0531]] — cum alegi zeița potrivită pentru brand.
+- **extinde** [[BRD-0532-brand-blueprint-zeita-inima-dar-si-stil-fiecare-trecut|BRD-0532]] — zeița e fundația întregului brand blueprint.
+- **vezi** [[BRD-0509-purpose-path-to-growth-descopera-scopul-apoi-activeaza-l|BRD-0509]] — Stengel folosește tot arhetipul ca intrare pentru descoperirea scopului.
+- **exemplu** [[BRD-0533-cazul-billie-a-arata-ce-ascunde-categoria-transforma-un|BRD-0533]] — Billie, un brand al Persefonei Regina.
 
 ## Surse
 
-- [[SRC-016]] Jane McCarthy & Kate McAndrew, *Goddess Guide to Branding*, cap. 1 „A Goddess to Guide You", cap. 2 „The Goddess Interviews", cap. 4 „Goddess Experience Reference Sheet"
+- [[SRC-016-the-goddess-guide-to-branding-jane-mccarthy|SRC-016]] Jane McCarthy & Kate McAndrew, *Goddess Guide to Branding*, cap. 1 „A Goddess to Guide You", cap. 2 „The Goddess Interviews", cap. 4 „Goddess Experience Reference Sheet"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0531-arhetipul-potrivit-e-autentic-pentru-firma-si-atractiv|BRD-0531]] _fundament_ — Arhetipul potrivit e autentic pentru firmă și atractiv pentru client
+- [[BRD-0532-brand-blueprint-zeita-inima-dar-si-stil-fiecare-trecut|BRD-0532]] _fundament_ — Brand blueprint: zeiță, inimă, dar și stil, fiecare trecut printr-un test
+- [[SRC-016-the-goddess-guide-to-branding-jane-mccarthy|SRC-016]] — Goddess Guide to Branding
+<!-- backlinks:end -->

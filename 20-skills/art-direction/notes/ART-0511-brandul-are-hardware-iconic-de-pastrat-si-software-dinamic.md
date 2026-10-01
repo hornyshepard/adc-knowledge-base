@@ -47,12 +47,19 @@ La Yonder Cider (interviu din carte), fiecare produs nou poartă același „YON
 
 ## Legături
 
-- **vezi** [[ART-0510]] — evoluția logo-ului protejează hardware-ul vizual.
-- **fundament** [[BRD-0532]] — stilul din brand blueprint conține ambele straturi.
-- **vezi** [[STO-0501]] — persistența poveștii: aceeași temă, variațiuni ca în jazz.
-- **vezi** [[ART-0503]] — Tropicana a schimbat hardware-ul crezând că schimbă software-ul.
+- **vezi** [[ART-0510-redesignul-unui-logo-trebuie-sa-fie-evolutie-nu-revolutie|ART-0510]] — evoluția logo-ului protejează hardware-ul vizual.
+- **fundament** [[BRD-0532-brand-blueprint-zeita-inima-dar-si-stil-fiecare-trecut|BRD-0532]] — stilul din brand blueprint conține ambele straturi.
+- **vezi** [[STO-0501-in-povestea-de-brand-brandul-e-oxigen-peste-tot-dar|STO-0501]] — persistența poveștii: aceeași temă, variațiuni ca în jazz.
+- **vezi** [[ART-0503-cazul-tropicana-redesignul-ambalajului-a-sters-indiciile-de|ART-0503]] — Tropicana a schimbat hardware-ul crezând că schimbă software-ul.
 
 ## Surse
 
-- [[SRC-016]] Jane McCarthy & Kate McAndrew, *Goddess Guide to Branding*, cap. 7 „Finding Your Style" (secțiunea „Iconic + Dynamic"; interviurile cu Sarah Moffat și Ada Mayer); cap. 2 (interviul Yonder Cider)
-- [[SRC-017]] Allan Peters, *Logos That Last*, cap. 6 „Brand Evolution"
+- [[SRC-016-the-goddess-guide-to-branding-jane-mccarthy|SRC-016]] Jane McCarthy & Kate McAndrew, *Goddess Guide to Branding*, cap. 7 „Finding Your Style" (secțiunea „Iconic + Dynamic"; interviurile cu Sarah Moffat și Ada Mayer); cap. 2 (interviul Yonder Cider)
+- [[SRC-017-logos-that-last|SRC-017]] Allan Peters, *Logos That Last*, cap. 6 „Brand Evolution"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0532-brand-blueprint-zeita-inima-dar-si-stil-fiecare-trecut|BRD-0532]] _aplicare_ — Brand blueprint: zeiță, inimă, dar și stil, fiecare trecut printr-un test
+- [[SRC-016-the-goddess-guide-to-branding-jane-mccarthy|SRC-016]] — Goddess Guide to Branding
+<!-- backlinks:end -->

@@ -48,10 +48,18 @@ La FM (Featherstone Media), Peters a pus semnul câștigător pe ultimul slide; 
 
 ## Legături
 
-- **fundament** [[ART-0507]] — prezentarea e o fază a procesului de brand mark.
-- **vezi** [[ART-0509]] — „logo-ul mai mare" se rezolvă prin extinderea ADN-ului vizual.
-- **vezi** [[ART-0505]] — subiectul fiind aprobat dinainte, discuția rămâne despre design.
+- **fundament** [[ART-0507-procesul-de-brand-mark-cincizeci-de-schite-inainte-de-orice|ART-0507]] — prezentarea e o fază a procesului de brand mark.
+- **vezi** [[ART-0509-adn-ul-geometric-al-semnului-se-extinde-in-pattern-uri|ART-0509]] — „logo-ul mai mare" se rezolvă prin extinderea ADN-ului vizual.
+- **vezi** [[ART-0505-lista-de-substantive-de-brand-stabileste-subiectul-logo|ART-0505]] — subiectul fiind aprobat dinainte, discuția rămâne despre design.
 
 ## Surse
 
-- [[SRC-017]] Allan Peters, *Logos That Last*, cap. 2 „Brand Mark Process"; cap. 8 „Case Studies" (Kwikbit, FM); cap. 9 „Passion Projects" („Fearless")
+- [[SRC-017-logos-that-last|SRC-017]] Allan Peters, *Logos That Last*, cap. 2 „Brand Mark Process"; cap. 8 „Case Studies" (Kwikbit, FM); cap. 9 „Passion Projects" („Fearless")
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0507-procesul-de-brand-mark-cincizeci-de-schite-inainte-de-orice|ART-0507]] _aplicare_ — Procesul de brand mark: cincizeci de schițe înainte de orice finisare
+- [[PRT-0501-proiectele-personale-aduc-in-portofoliu-munca-pe-care-vrei|PRT-0501]] _vezi_ — Proiectele personale aduc în portofoliu munca pe care vrei s-o primești
+- [[SRC-017-logos-that-last|SRC-017]] — Logos That Last: How to Create Iconic Visual Branding
+<!-- backlinks:end -->

@@ -49,10 +49,18 @@ Datele de căutare Google au arătat unui brand de bourbon că întrebările fre
 
 ## Legături
 
-- **vezi** [[ADV-0501]] — momentul corespunde declanșatorului din călătoria clientului.
-- **vezi** [[ADV-0504]] — difuzarea virală pornește tot de la media de masă.
-- **fundament** [[ADV-0503]] — media transmite un mesaj care trebuie întâi construit creativ.
+- **vezi** [[ADV-0501-calatoria-clientului-centrata-pe-consumator-sase-etape-trei|ADV-0501]] — momentul corespunde declanșatorului din călătoria clientului.
+- **vezi** [[ADV-0504-mesajele-devin-virale-prin-difuzare-de-masa-nu-din-om-in-om|ADV-0504]] — difuzarea virală pornește tot de la media de masă.
+- **fundament** [[ADV-0503-strategia-creativa-in-trei-pasi-atentie-amplificare|ADV-0503]] — media transmite un mesaj care trebuie întâi construit creativ.
 
 ## Surse
 
-- [[SRC-014]] Brian Sternthal, cap. 10, p. 155–158; Cindy Halvorsen, „Managing Brand Communications in a Digital World", cap. 22, p. 290–292, în *Kellogg on Branding in a Hyper-Connected World*
+- [[SRC-014-kellogg-on-branding|SRC-014]] Brian Sternthal, cap. 10, p. 155–158; Cindy Halvorsen, „Managing Brand Communications in a Digital World", cap. 22, p. 290–292, în *Kellogg on Branding in a Hyper-Connected World*
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0501-calatoria-clientului-centrata-pe-consumator-sase-etape-trei|ADV-0501]] _aplicare_ — Călătoria clientului centrată pe consumator: șase etape, trei întrebări
+- [[ADV-0504-mesajele-devin-virale-prin-difuzare-de-masa-nu-din-om-in-om|ADV-0504]] _extinde_ — Mesajele devin virale prin difuzare de masă, nu din om în om
+- [[SRC-014-kellogg-on-branding|SRC-014]] — Kellogg on Branding in a Hyper-Connected World
+<!-- backlinks:end -->

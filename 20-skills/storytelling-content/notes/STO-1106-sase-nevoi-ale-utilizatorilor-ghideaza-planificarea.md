@@ -53,10 +53,19 @@ FAQ YOU (Youth Against AIDS) combină *educate me* (răspunsuri scurte despre se
 
 ## Legături
 
-- **aplicare** [[STO-1105]] — fiecare format serial se ancorează într-una dintre nevoi.
-- **vezi** [[SOC-1111]] — FAQ YOU acoperă mai multe nevoi pe platforme diferite.
-- **vezi** [[STO-1114]] — purpose înseamnă tocmai satisfacerea uneia dintre aceste nevoi.
+- **aplicare** [[STO-1105-formatul-serial-este-arma-secreta-a-micro-storytelling-ului|STO-1105]] — fiecare format serial se ancorează într-una dintre nevoi.
+- **vezi** [[SOC-1111-faq-you-comunitate-construita-doar-din-continut-adaptat|SOC-1111]] — FAQ YOU acoperă mai multe nevoi pe platforme diferite.
+- **vezi** [[STO-1114-purpose-in-social-storytelling-valoare-perceputa-nu-misiune|STO-1114]] — purpose înseamnă tocmai satisfacerea uneia dintre aceste nevoi.
 
 ## Surse
 
-- [[SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 3.7.1, p. 111–113 (după D. Shishkin, BBC, 2018)
+- [[SRC-034-social-media-storytelling|SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 3.7.1, p. 111–113 (după D. Shishkin, BBC, 2018)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[SOC-1111-faq-you-comunitate-construita-doar-din-continut-adaptat|SOC-1111]] _aplicare_ — FAQ YOU: comunitate construită doar din conținut adaptat platformei
+- [[STO-1105-formatul-serial-este-arma-secreta-a-micro-storytelling-ului|STO-1105]] _fundament_ — Formatul serial este arma secretă a micro-storytelling-ului
+- [[STO-1114-purpose-in-social-storytelling-valoare-perceputa-nu-misiune|STO-1114]] _vezi_ — Purpose în social storytelling: valoare percepută, nu misiune declarată
+- [[SRC-034-social-media-storytelling|SRC-034]] — Social Media Storytelling
+<!-- backlinks:end -->

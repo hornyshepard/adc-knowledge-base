@@ -47,11 +47,22 @@ Toyota a lansat Lexus și Facebook a cumpărat Instagram tocmai ca să nu-și fo
 
 ## Legături
 
-- **aplicare** [[BRD-0522]] — simpatia se măsoară cel mai bine prin asocieri spontane.
-- **vezi** [[BRD-0508]] — repoziționarea și condițiile ei.
-- **vezi** [[BRD-0512]] — extensia, strategia profilului Mare–Mare–Mare.
-- **fundament** [[BRD-0501]] — notorietatea fără asocieri pozitive nu creează valoare.
+- **aplicare** [[BRD-0522-asocierile-de-brand-se-masoara-mai-onest-cu-intrebari|BRD-0522]] — simpatia se măsoară cel mai bine prin asocieri spontane.
+- **vezi** [[BRD-0508-repozitionarea-este-o-solutie-de-ultima-instanta|BRD-0508]] — repoziționarea și condițiile ei.
+- **vezi** [[BRD-0512-o-extensie-de-brand-trebuie-sa-treaca-testul-celor-trei|BRD-0512]] — extensia, strategia profilului Mare–Mare–Mare.
+- **fundament** [[BRD-0501-brandul-este-un-set-de-asociatii-care-actioneaza-ca-o|BRD-0501]] — notorietatea fără asocieri pozitive nu creează valoare.
 
 ## Surse
 
-- [[SRC-014]] Julie Hennessy, „Measuring Brand Relevance and Health", cap. 15 în *Kellogg on Branding in a Hyper-Connected World*, p. 220–221, 225–232
+- [[SRC-014-kellogg-on-branding|SRC-014]] Julie Hennessy, „Measuring Brand Relevance and Health", cap. 15 în *Kellogg on Branding in a Hyper-Connected World*, p. 220–221, 225–232
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0508-repozitionarea-este-o-solutie-de-ultima-instanta|BRD-0508]] _vezi_ — Repoziționarea este o soluție de ultimă instanță, justificată în puține situații
+- [[BRD-0512-o-extensie-de-brand-trebuie-sa-treaca-testul-celor-trei|BRD-0512]] _vezi_ — O extensie de brand trebuie să treacă testul celor trei întrebări
+- [[BRD-0522-asocierile-de-brand-se-masoara-mai-onest-cu-intrebari|BRD-0522]] _aplicare_ — Asocierile de brand se măsoară mai onest cu întrebări deschise
+- [[BRD-0523-brandul-este-un-activ-nu-o-cheltuiala-iar-puterea-lui-nu-e|BRD-0523]] _vezi_ — Brandul este un activ, nu o cheltuială, iar puterea lui nu e performanța lui
+- [[BRD-0526-cazul-mexic-a-contrazice-o-poveste-negativa-te-aduce-doar|BRD-0526]] _vezi_ — Cazul Mexic: a contrazice o poveste negativă te aduce doar la neutru
+- [[SRC-014-kellogg-on-branding|SRC-014]] — Kellogg on Branding in a Hyper-Connected World
+<!-- backlinks:end -->

@@ -45,11 +45,21 @@ Apple pune același nume pe toate produsele noi: produsele demonstrează inovaț
 
 ## Legături
 
-- **fundament** [[BRD-0511]] — extensia e o decizie de arhitectură de brand.
-- **vezi** [[BRD-0514]] — pionierii pierd avantajul când se extind departe de poziția inițială.
-- **vezi** [[BRD-0521]] — strategia de extensie se potrivește brandurilor cu notorietate, simpatie și cotă mari (Lego).
-- **extinde** [[BRD-0513]] — după extensii nereușite urmează adesea curățarea portofoliului.
+- **fundament** [[BRD-0511-arhitectura-de-brand-de-la-branded-house-la-house-of-brands|BRD-0511]] — extensia e o decizie de arhitectură de brand.
+- **vezi** [[BRD-0514-momentul-intrarii-pe-piata-pionier-urmaritor-rapid-sau|BRD-0514]] — pionierii pierd avantajul când se extind departe de poziția inițială.
+- **vezi** [[BRD-0521-modelul-notorietate-simpatie-cota-de-piata-indica-strategia|BRD-0521]] — strategia de extensie se potrivește brandurilor cu notorietate, simpatie și cotă mari (Lego).
+- **extinde** [[BRD-0513-un-portofoliu-puternic-se-construieste-si-prin-eliminarea|BRD-0513]] — după extensii nereușite urmează adesea curățarea portofoliului.
 
 ## Surse
 
-- [[SRC-014]] Tim Calkins, cap. 3, p. 41–42, 47–49; Bobby J. Calder, cap. 7, p. 104–106; Gregory S. Carpenter & Kent Nakamoto, cap. 4, p. 60–61, în *Kellogg on Branding in a Hyper-Connected World*
+- [[SRC-014-kellogg-on-branding|SRC-014]] Tim Calkins, cap. 3, p. 41–42, 47–49; Bobby J. Calder, cap. 7, p. 104–106; Gregory S. Carpenter & Kent Nakamoto, cap. 4, p. 60–61, în *Kellogg on Branding in a Hyper-Connected World*
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0511-arhitectura-de-brand-de-la-branded-house-la-house-of-brands|BRD-0511]] _extinde_ — Arhitectura de brand: de la branded house la house of brands
+- [[BRD-0513-un-portofoliu-puternic-se-construieste-si-prin-eliminarea|BRD-0513]] _vezi_ — Un portofoliu puternic se construiește și prin eliminarea brandurilor slabe
+- [[BRD-0514-momentul-intrarii-pe-piata-pionier-urmaritor-rapid-sau|BRD-0514]] _vezi_ — Momentul intrării pe piață: pionier, urmăritor rapid sau intrat târziu
+- [[BRD-0521-modelul-notorietate-simpatie-cota-de-piata-indica-strategia|BRD-0521]] _vezi_ — Modelul notorietate–simpatie–cotă de piață indică strategia de brand
+- [[SRC-014-kellogg-on-branding|SRC-014]] — Kellogg on Branding in a Hyper-Connected World
+<!-- backlinks:end -->

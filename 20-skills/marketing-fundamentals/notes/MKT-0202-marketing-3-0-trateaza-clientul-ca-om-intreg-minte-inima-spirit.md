@@ -49,12 +49,26 @@ Cartea ilustrează cele trei niveluri: Volvo a ocupat mintea prin „siguranță
 
 ## Legături
 
-- **fundament** [[MKT-0201]] — harta evoluției 1.0→6.0 plasează Marketing 3.0 în succesiunea completă.
-- **extinde** [[BRD-0201]] — modelul 3i traduce triada minte–inimă–spirit în management de brand.
-- **aplicare** [[BRD-0202]] — matricea VBM arată cum se aplică triada asupra misiunii, viziunii și valorilor.
-- **vezi** [[MKT-0203]] — trecerea de la marketing vertical la orizontal e consecința aceleiași schimbări.
-- **vezi** [[BRD-0205]] — marketingul cultural, al doilea pilon, explicat prin brandurile culturale.
+- **fundament** [[MKT-0201-evolutia-marketingului-de-la-1-0-la-6-0|MKT-0201]] — harta evoluției 1.0→6.0 plasează Marketing 3.0 în succesiunea completă.
+- **extinde** [[BRD-0201-modelul-3i-identitate-integritate-imagine-de-brand|BRD-0201]] — modelul 3i traduce triada minte–inimă–spirit în management de brand.
+- **aplicare** [[BRD-0202-matricea-vbm-misiune-viziune-valori-minte-inima-spirit|BRD-0202]] — matricea VBM arată cum se aplică triada asupra misiunii, viziunii și valorilor.
+- **vezi** [[MKT-0203-marketingul-orizontal-co-creare-comunitizare-caracter|MKT-0203]] — trecerea de la marketing vertical la orizontal e consecința aceleiași schimbări.
+- **vezi** [[BRD-0205-brandurile-culturale-rezolva-paradoxurile-si-anxietatile-colective|BRD-0205]] — marketingul cultural, al doilea pilon, explicat prin brandurile culturale.
 
 ## Surse
 
-- [[SRC-003]] Kotler, Kartajaya, Setiawan, *Marketing 3.0*, cap. 1 „Welcome to Marketing 3.0", p. 21-40 (Tabelul 1.1, Tabelul 1.2); cap. 2, p. 47-48
+- [[SRC-003-marketing-3-0-philip-kotler|SRC-003]] Kotler, Kartajaya, Setiawan, *Marketing 3.0*, cap. 1 „Welcome to Marketing 3.0", p. 21-40 (Tabelul 1.1, Tabelul 1.2); cap. 2, p. 47-48
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0201-modelul-3i-identitate-integritate-imagine-de-brand|BRD-0201]] _fundament_ — Modelul 3i — brandul e credibil doar când identitatea, integritatea și imaginea sunt aliniate
+- [[BRD-0202-matricea-vbm-misiune-viziune-valori-minte-inima-spirit|BRD-0202]] _fundament_ — Matricea bazată pe valori (VBM) leagă misiunea, viziunea și valorile de mintea, inima și spiritul stakeholderilor
+- [[BRD-0205-brandurile-culturale-rezolva-paradoxurile-si-anxietatile-colective|BRD-0205]] _fundament_ — Brandurile culturale câștigă rezolvând paradoxurile și anxietățile colective ale societății
+- [[MKT-0201-evolutia-marketingului-de-la-1-0-la-6-0|MKT-0201]] _fundament_ — Evoluția marketingului de la 1.0 la 6.0 — de la produs la client, la om, la digital, la tehnologie pentru umanitate și la imersiune
+- [[MKT-0203-marketingul-orizontal-co-creare-comunitizare-caracter|MKT-0203]] _fundament_ — Viitorul marketingului e orizontal — co-creare, comunitizare și caracter în locul 4P, STP și brand building
+- [[MKT-0205-marketingul-verde-trei-actori-patru-segmente|MKT-0205]] _vezi_ — Marketingul verde are trei actori (Inovator, Investitor, Propagator) și patru segmente care cer poziționări diferite
+- [[MKT-0206-intreprinderea-sociala-la-baza-piramidei-marketing-mix-reproiectat|MKT-0206]] _fundament_ — Întreprinderea socială de la baza piramidei cere un marketing mix reproiectat
+- [[MKT-0207-cele-10-credo-uri-ale-marketingului-3-0|MKT-0207]] _fundament_ — Cele 10 credo-uri ale Marketingului 3.0 integrează valorile în practica zilnică de marketing
+- [[SRC-003-marketing-3-0-philip-kotler|SRC-003]] — Marketing 3.0: From Products to Customers to the Human Spirit
+<!-- backlinks:end -->

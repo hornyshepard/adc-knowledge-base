@@ -47,11 +47,21 @@ Pe Twitter, o greșeală într-un tweet publicat se corectează transparent prin
 
 ## Legături
 
-- **fundament** [[SOC-1102]] — regula 90-9-1 explică de unde vine zgomotul negativ.
-- **vezi** [[SOC-1112]] — multe shitstorm-uri pornesc de la alăturarea la hashtag-uri nepotrivite.
-- **vezi** [[SOC-1105]] — moderarea live include blocarea haterilor.
-- **vezi** [[SOC-1129]] — când problema e reală, nu un troll, intră în joc protocolul de criză.
+- **fundament** [[SOC-1102-comunitatea-nu-este-audienta-membrii-ei-interactioneaza|SOC-1102]] — regula 90-9-1 explică de unde vine zgomotul negativ.
+- **vezi** [[SOC-1112-lipirea-de-un-hashtag-viral-fara-potrivire-de-valori|SOC-1112]] — multe shitstorm-uri pornesc de la alăturarea la hashtag-uri nepotrivite.
+- **vezi** [[SOC-1105-livestream-ul-se-planifica-in-trei-faze-intro-executie-outro|SOC-1105]] — moderarea live include blocarea haterilor.
+- **vezi** [[SOC-1129-fyre-festival-si-alte-esecuri-ce-se-intampla-cand-executia|SOC-1129]] — când problema e reală, nu un troll, intră în joc protocolul de criză.
 
 ## Surse
 
-- [[SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 4.3.7 (pro tip D. Mrkaja), p. 223–225; cap. 4.3.3, p. 189
+- [[SRC-034-social-media-storytelling|SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 4.3.7 (pro tip D. Mrkaja), p. 223–225; cap. 4.3.3, p. 189
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[SOC-1102-comunitatea-nu-este-audienta-membrii-ei-interactioneaza|SOC-1102]] _vezi_ — Comunitatea nu este audiență: membrii ei interacționează între ei
+- [[SOC-1105-livestream-ul-se-planifica-in-trei-faze-intro-executie-outro|SOC-1105]] _vezi_ — Livestream-ul se planifică în trei faze: intro, execuție, outro
+- [[SOC-1112-lipirea-de-un-hashtag-viral-fara-potrivire-de-valori|SOC-1112]] _vezi_ — Lipirea de un hashtag viral fără potrivire de valori produce shitstorm
+- [[SOC-1129-fyre-festival-si-alte-esecuri-ce-se-intampla-cand-executia|SOC-1129]] _vezi_ — Fyre Festival și alte eșecuri: ce se întâmplă când execuția trădează promisiunea
+- [[SRC-034-social-media-storytelling|SRC-034]] — Social Media Storytelling
+<!-- backlinks:end -->

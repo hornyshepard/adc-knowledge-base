@@ -47,12 +47,23 @@ BuzzFeed a devenit expert în conținut distribuibil: o analiză citată de auto
 
 ## Legături
 
-- **extinde** [[STO-0901]] — matricea e unealta de alegere a conținutului într-o activitate always-on.
-- **vezi** [[DIG-0905]] — axa orizontală corespunde etapelor journey-ului.
-- **vezi** [[SOC-0902]] — conținutul care distrează și conectează alimentează motivațiile sociale.
-- **vezi** [[STO-0904]] — piramida arată din ce se produc piesele fiecărui cadran.
+- **extinde** [[STO-0901-content-marketingul-este-always-on-campania-doar-il-puncteaza|STO-0901]] — matricea e unealta de alegere a conținutului într-o activitate always-on.
+- **vezi** [[DIG-0905-customer-journey-ul-digital-nu-e-palnie-ci-bucla-de-loialitate|DIG-0905]] — axa orizontală corespunde etapelor journey-ului.
+- **vezi** [[SOC-0902-cei-5c-ai-motivatiei-pe-social-media|SOC-0902]] — conținutul care distrează și conectează alimentează motivațiile sociale.
+- **vezi** [[STO-0904-piramida-continutului-cercetarea-de-baza-alimenteaza-derivatele|STO-0904]] — piramida arată din ce se produc piesele fiecărui cadran.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 12, p. 332-333, 340
-- [[SRC-030]] K. Connors, *Advanced Digital Marketing Strategies*, cap. 10
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 12, p. 332-333, 340
+- [[SRC-030-digital-marketing-strategies|SRC-030]] K. Connors, *Advanced Digital Marketing Strategies*, cap. 10
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0917-oamenii-cauta-problema-nu-produsul-seo-porneste-de-la-intentie|DIG-0917]] _vezi_ — Oamenii caută problema, nu produsul — de aceea SEO pornește de la intenția de căutare
+- [[SOC-0902-cei-5c-ai-motivatiei-pe-social-media|SOC-0902]] _vezi_ — Cei 5C — oamenii folosesc social media ca să consume, să se conecteze, să controleze, să concureze și să creeze
+- [[STO-0901-content-marketingul-este-always-on-campania-doar-il-puncteaza|STO-0901]] _vezi_ — Content marketingul este „always on”, iar campania doar îl punctează
+- [[STO-0904-piramida-continutului-cercetarea-de-baza-alimenteaza-derivatele|STO-0904]] _vezi_ — Piramida conținutului — o cercetare de bază alimentează zeci de piese derivate și promoționale
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+- [[SRC-030-digital-marketing-strategies|SRC-030]] — Advanced Digital Marketing Strategies: Mastering SEO, Social Media, Content Marketing, and AI for Maximum Online Growth
+<!-- backlinks:end -->

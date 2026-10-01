@@ -51,12 +51,23 @@ Pentru Boston & Maine, agenția a trimis un om să aștepte ore întregi în gar
 
 ## Legături
 
-- **vezi** [[IDE-0802]] — ideile găsite contrazic mitul geniului solitar.
-- **aplicare** [[CPY-0811]] — multe dintre aceste fraze au devenit sloganuri de decenii.
-- **exemplu** [[HIS-0827]] — sloganul Camel a apărut după lansare, pe stradă.
-- **vezi** [[CPY-0812]] — vocea clientului ca sursă de autenticitate.
+- **vezi** [[IDE-0802-ideea-solitudine-sau-sedinta|IDE-0802]] — ideile găsite contrazic mitul geniului solitar.
+- **aplicare** [[CPY-0811-sloganul-bun-repetabil-diferentiator-durabil|CPY-0811]] — multe dintre aceste fraze au devenit sloganuri de decenii.
+- **exemplu** [[HIS-0827-lansarile-clasice-test-teaser-diversiune|HIS-0827]] — sloganul Camel a apărut după lansare, pe stradă.
+- **vezi** [[CPY-0812-vocea-personala-a-proprietarului|CPY-0812]] — vocea clientului ca sursă de autenticitate.
 
 ## Surse
 
-- [[SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Camel Cigarettes”, „Packard”, „Bear Creek Orchards”, „C & O — A Hog Can Cross the Country”, „Boston & Maine”, „Ford — All the Earmarks of a Great Ad”, „Plymouth — Look at All Three”, „Victor — His Master’s Voice”
-- [[SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 16, p. 369–370
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Camel Cigarettes”, „Packard”, „Bear Creek Orchards”, „C & O — A Hog Can Cross the Country”, „Boston & Maine”, „Ford — All the Earmarks of a Great Ad”, „Plymouth — Look at All Three”, „Victor — His Master’s Voice”
+- [[SRC-027-a-history-of-advertising|SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 16, p. 369–370
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0811-sloganul-bun-repetabil-diferentiator-durabil|CPY-0811]] _extinde_ — Sloganul bun e repetabil, diferențiator și rezistă decenii — iar jingle-ul îl face să se cânte
+- [[CPY-0814-reclama-institutionala-vinde-incredere-prin-explicatie|CPY-0814]] _exemplu_ — Reclama instituțională vinde încredere prin explicație răbdătoare, nu prin laudă
+- [[CPY-0816-challengerul-castiga-schimband-jocul|CPY-0816]] _vezi_ — Challengerul câștigă schimbând jocul — comparație sportivă, autoironie și refuzul superlativelor
+- [[HIS-0827-lansarile-clasice-test-teaser-diversiune|HIS-0827]] — Lansările clasice — produsul testat fără reclamă, teaserul și diversiunea (Camel, Ford Model A, Lux)
+- [[IDE-0802-ideea-solitudine-sau-sedinta|IDE-0802]] _vezi_ — Ideea se naște în solitudine, în pereche sau în ședință? Clasicii nu sunt de acord
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] — The 100 Greatest Advertisements 1852–1958: Who Wrote Them and What They Did
+<!-- backlinks:end -->

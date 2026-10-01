@@ -46,11 +46,18 @@ Ogilvy însuși a avut o fază „pre-brand image" în care, adept al lui Hopkin
 
 ## Legături
 
-- **fundament** [[ADV-0604]] — poziția raționalistă a lui Reeves.
-- **fundament** [[ADV-0608]] — poziția lui Ogilvy.
-- **vezi** [[INS-0601]] — cercetarea motivațională a fost ținta reală a atacurilor lui Reeves.
-- **vezi** [[HIS-0601]] — ESP, UBP și MSP ilustrează „invenția recurentă".
+- **fundament** [[ADV-0604-usp-are-trei-conditii-propunere-unica-care-vinde|ADV-0604]] — poziția raționalistă a lui Reeves.
+- **fundament** [[ADV-0608-brand-image-fiecare-reclama-contribuie-la-simbolul-brandului|ADV-0608]] — poziția lui Ogilvy.
+- **vezi** [[INS-0601-cercetarea-motivationala-cauta-de-ce-ul-ascuns-al-cumpararii|INS-0601]] — cercetarea motivațională a fost ținta reală a atacurilor lui Reeves.
+- **vezi** [[HIS-0601-inventia-recurenta-mecanismele-strategice-se-reambaleaza|HIS-0601]] — ESP, UBP și MSP ilustrează „invenția recurentă".
 
 ## Surse
 
-- [[SRC-018]] Jorge David Fernández Gómez, *Strategic Advertising Mechanisms*, cap. 2 §2.4 și notele 12, 15–17; cap. 3
+- [[SRC-018-strategic-advertising-mechanisms|SRC-018]] Jorge David Fernández Gómez, *Strategic Advertising Mechanisms*, cap. 2 §2.4 și notele 12, 15–17; cap. 3
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0608-brand-image-fiecare-reclama-contribuie-la-simbolul-brandului|ADV-0608]] _vezi_ — Brand image (Ogilvy) — fiecare reclamă e o contribuție la simbolul complex care este imaginea brandului
+- [[SRC-018-strategic-advertising-mechanisms|SRC-018]] — Strategic Advertising Mechanisms: From Copy Strategy to Iconic Brands
+<!-- backlinks:end -->

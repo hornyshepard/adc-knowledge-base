@@ -45,10 +45,18 @@ iPhone (cap. 2, p. 71): primul în categoria „smartphone de designer", cel mai
 
 ## Legături
 
-- **vezi** [[INS-0407]] — tot categorizarea decide soarta extensiilor de brand.
-- **fundament** [[INS-0401]] — categorizarea are loc în etapa atenției focale.
-- **vezi** [[INS-0413]] — accesibilitatea în memorie decide ce branduri intră în setul de considerație.
+- **vezi** [[INS-0407-asimilare-si-contrast-decid-soarta-extensiilor|INS-0407]] — tot categorizarea decide soarta extensiilor de brand.
+- **fundament** [[INS-0401-procesarea-reclamei-are-patru-etape|INS-0401]] — categorizarea are loc în etapa atenției focale.
+- **vezi** [[INS-0413-accesibilitatea-decide-setul-de-consideratie|INS-0413]] — accesibilitatea în memorie decide ce branduri intră în setul de considerație.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 2, p. 70-71
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 2, p. 70-71
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[INS-0407-asimilare-si-contrast-decid-soarta-extensiilor|INS-0407]] _fundament_ — Asimilarea și contrastul decid dacă un produs nou ridică sau coboară brandul-mamă
+- [[INS-0413-accesibilitatea-decide-setul-de-consideratie|INS-0413]] _vezi_ — Accesibilitatea în memorie decide ce branduri intră în setul de considerație, nu neapărat ce se cumpără
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

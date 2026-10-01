@@ -24,9 +24,9 @@ Richards îl descrie pe Burnett (agenție deschisă la Chicago în 1935) ca pe u
 Watkins (care lucra la Burnett în 1959) oferă două studii de caz scrise chiar de oamenii agenției:
 
 - **Pillsbury (1950).** Piața mixurilor pentru prăjituri se baza pe comoditate. Burnett a schimbat strategia spre **calitate**: câștigă cel care demonstrează cel mai bine calitatea. Fotograful a urmărit să surprindă „drama inerentă” a unei prăjituri „în forma ei cea mai pură”, fără înfrumusețări și fără interes împrumutat. Burnett a cerut ca poza să fie pusă pe pagină cât de mare se putea, iar textul a rămas la fel de conversațional ca imaginea.
-- Marlboro (1955), detaliat în [[ART-0804]]: drama nu e în filtru sau în cutie, ci în personalitatea masculină a fumătorului.
+- Marlboro (1955), detaliat în [[ART-0804-marlboro-repozitionarea-unui-brand-printr-o-imagine|ART-0804]]: drama nu e în filtru sau în cutie, ci în personalitatea masculină a fumătorului.
 
-Richards adaugă și un avantaj al personajului inventat: nu îmbătrânește, nu moare și nu ajunge în tribunal, spre deosebire de celebrități (vezi [[HIS-0821]]).
+Richards adaugă și un avantaj al personajului inventat: nu îmbătrânește, nu moare și nu ajunge în tribunal, spre deosebire de celebrități (vezi [[HIS-0821-personajele-inventate-nu-gresesc-celebritatile-da|HIS-0821]]).
 
 ## Aplicare
 
@@ -45,12 +45,24 @@ Pillsbury „Who… Me?” (1950): o prăjitură uriașă pe aproape toată pagi
 
 ## Legături
 
-- **exemplu** [[ART-0804]] — Marlboro, cel mai cunoscut personaj al agenției.
-- **aplicare** [[ART-0803]] — imaginea dominantă a prăjiturii Pillsbury.
-- **vezi** [[HIS-0810]] — Burnett în genealogia stilurilor (soft sell cu umor).
-- **alternativa** [[CPY-0810]] — Watkins: nu există produse prozaice, doar ochi care nu le-au văzut drama.
+- **exemplu** [[ART-0804-marlboro-repozitionarea-unui-brand-printr-o-imagine|ART-0804]] — Marlboro, cel mai cunoscut personaj al agenției.
+- **aplicare** [[ART-0803-o-imagine-dominanta-poate-spune-povestea|ART-0803]] — imaginea dominantă a prăjiturii Pillsbury.
+- **vezi** [[HIS-0810-genealogia-stilurilor-de-copy|HIS-0810]] — Burnett în genealogia stilurilor (soft sell cu umor).
+- **alternativa** [[CPY-0810-nu-exista-produse-prozaice|CPY-0810]] — Watkins: nu există produse prozaice, doar ochi care nu le-au văzut drama.
 
 ## Surse
 
-- [[SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 10, p. 200, 207–208; cap. 13, p. 293
-- [[SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Pillsbury — Those BIG Pillsbury Cakes!” și „Marlboro — You Get a Lot to Like”
+- [[SRC-027-a-history-of-advertising|SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 10, p. 200, 207–208; cap. 13, p. 293
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Pillsbury — Those BIG Pillsbury Cakes!” și „Marlboro — You Get a Lot to Like”
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0802-arta-plastica-in-reclama-afisul-si-bubbles|ART-0802]] _contrazice_ — Arta plastică a intrat în reclamă prin afiș și prin „Bubbles" — începutul reclamei de imagine
+- [[ART-0803-o-imagine-dominanta-poate-spune-povestea|ART-0803]] _aplicare_ — O singură imagine dominantă poate spune povestea — dacă textul o susține, nu o repetă
+- [[ART-0804-marlboro-repozitionarea-unui-brand-printr-o-imagine|ART-0804]] _exemplu_ — Marlboro — repoziționarea unui brand feminin printr-o singură imagine masculină
+- [[CPY-0810-nu-exista-produse-prozaice|CPY-0810]] _alternativa_ — Nu există produse prozaice — doar copywriteri care n-au găsit încă omul din produs
+- [[HIS-0821-personajele-inventate-nu-gresesc-celebritatile-da|HIS-0821]] _exemplu_ — Personajele inventate nu greșesc niciodată; celebritățile da
+- [[SRC-027-a-history-of-advertising|SRC-027]] — A History of Advertising: The First 300,000 Years
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] — The 100 Greatest Advertisements 1852–1958: Who Wrote Them and What They Did
+<!-- backlinks:end -->

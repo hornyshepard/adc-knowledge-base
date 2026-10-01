@@ -49,10 +49,19 @@ Ilustrare: o bancă digitală. Plățile și securitatea sunt 80%: trebuie la st
 
 ## Legături
 
-- **extinde** [[MKT-0305]] — curba de adopție arată momentul în care driverul devine forță.
-- **fundament** [[MKT-0310]] — cele 5% sunt sursa diferențierii.
-- **vezi** [[MKT-0311]] — fiecare zonă cere transformare sau inovare.
+- **extinde** [[MKT-0305-o-tendinta-e-intai-driver-apoi-forta|MKT-0305]] — curba de adopție arată momentul în care driverul devine forță.
+- **fundament** [[MKT-0310-diferentierea-inseamna-altfel-nu-mai-bine|MKT-0310]] — cele 5% sunt sursa diferențierii.
+- **vezi** [[MKT-0311-transformarea-modifica-ce-exista-inovarea-adauga|MKT-0311]] — fiecare zonă cere transformare sau inovare.
 
 ## Surse
 
-- [[SRC-007]] H. von Scheel et al., *Strategy in the Age of Disruption*, cap. 5, p. 211–215; cap. 7, p. 268
+- [[SRC-007-strategy-in-the-age-of-disruption|SRC-007]] H. von Scheel et al., *Strategy in the Age of Disruption*, cap. 5, p. 211–215; cap. 7, p. 268
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[MKT-0305-o-tendinta-e-intai-driver-apoi-forta|MKT-0305]] _vezi_ — O tendință apare întâi ca driver (oportunitate de inovare) și devine apoi forță (presiune de adaptare)
+- [[MKT-0310-diferentierea-inseamna-altfel-nu-mai-bine|MKT-0310]] _vezi_ — Diferențierea înseamnă să fii altfel, nu mai bun — iar avantajele de ordin superior, ca reputația brandului, durează mai mult
+- [[MKT-0311-transformarea-modifica-ce-exista-inovarea-adauga|MKT-0311]] _vezi_ — Transformarea modifică ce există, inovarea adaugă ceva nou: diagnostichezi lanțul problemei sau al obiectivului înainte să alegi
+- [[SRC-007-strategy-in-the-age-of-disruption|SRC-007]] — Strategy in the Age of Disruption: A Handbook to Anticipate Change and Make Smart Decisions
+<!-- backlinks:end -->

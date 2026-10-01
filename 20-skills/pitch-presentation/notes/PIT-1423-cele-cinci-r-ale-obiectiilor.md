@@ -46,10 +46,18 @@ Stratul de suprafață: „Bugetul e prea mare.” Detaliu: „Nu putem justific
 
 ## Legături
 
-- **extinde** [[PIT-1422]] — continuă pregătirea pentru Q&A în situații de opoziție.
-- **vezi** [[PIT-1407]] — redirecționarea revine la Know–Feel–Do–Now.
-- **vezi** [[PIT-1427]] — implicarea pe nume poate scoate la iveală obiecțiile nespuse.
+- **extinde** [[PIT-1422-qa-in-cinci-pasi-si-formula-p-p|PIT-1422]] — continuă pregătirea pentru Q&A în situații de opoziție.
+- **vezi** [[PIT-1407-know-feel-do-why-now|PIT-1407]] — redirecționarea revine la Know–Feel–Do–Now.
+- **vezi** [[PIT-1427-implicarea-audientei-fara-tumbleweed|PIT-1427]] — implicarea pe nume poate scoate la iveală obiecțiile nespuse.
 
 ## Surse
 
-- [[SRC-043]] Dominic Colenso, *Cut-Through*, cap. 5 („Handle any objections”)
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] Dominic Colenso, *Cut-Through*, cap. 5 („Handle any objections”)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PIT-1422-qa-in-cinci-pasi-si-formula-p-p|PIT-1422]] _alternativa_ — Q&A se pregătește în cinci pași, iar răspunsul se dă cu formula P + + – P
+- [[PIT-1429-define-differentiate-destroy-concurenta|PIT-1429]] _aplicare_ — Orice prezentare are concurență — Define, Differentiate, Destroy
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] — Cut-Through: The pitch and presentation playbook
+<!-- backlinks:end -->

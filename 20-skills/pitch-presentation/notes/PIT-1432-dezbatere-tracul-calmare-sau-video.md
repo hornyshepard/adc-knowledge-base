@@ -44,11 +44,18 @@ Un student care tremură la primul pitch de proiect poate să-și vadă pe video
 
 ## Legături
 
-- **contrazice** [[PIT-1424]] — Nishad respinge tehnicile de calmare ca soluție principală.
-- **contrazice** [[PIT-1406]] — vizualizarea, folosită de Colenso, e respinsă de Nishad ca remediu pentru trac.
-- **fundament** [[PIT-1431]] — soluția lui Nishad este bucla de repetiție pe video.
+- **contrazice** [[PIT-1424-nervii-sunt-energie-respiratie|PIT-1424]] — Nishad respinge tehnicile de calmare ca soluție principală.
+- **contrazice** [[PIT-1406-see-it-feel-it-say-it-obiectivul-pitch-ului|PIT-1406]] — vizualizarea, folosită de Colenso, e respinsă de Nishad ca remediu pentru trac.
+- **fundament** [[PIT-1431-repetitia-pe-video-un-defect-pe-runda|PIT-1431]] — soluția lui Nishad este bucla de repetiție pe video.
 
 ## Surse
 
-- [[SRC-043]] Dominic Colenso, *Cut-Through*, cap. 1 și 5
-- [[SRC-044]] Bharat Bhuval Nishad, *The Art of Presentation*, „Dealing With Anxiety…”, „1st Rehearsal”
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] Dominic Colenso, *Cut-Through*, cap. 1 și 5
+- [[SRC-044-art-of-presentation-and-public-speaking|SRC-044]] Bharat Bhuval Nishad, *The Art of Presentation*, „Dealing With Anxiety…”, „1st Rehearsal”
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PIT-1431-repetitia-pe-video-un-defect-pe-runda|PIT-1431]] _vezi_ — Repetiția pe video funcționează când corectezi un singur defect pe rundă, până îți place ce vezi
+- [[SRC-044-art-of-presentation-and-public-speaking|SRC-044]] — The Art of Presentation And Confident Public Speaking
+<!-- backlinks:end -->

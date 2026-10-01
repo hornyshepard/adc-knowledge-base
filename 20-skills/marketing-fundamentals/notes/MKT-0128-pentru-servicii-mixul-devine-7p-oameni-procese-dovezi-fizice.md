@@ -48,11 +48,18 @@ Pentru o agenție, site-ul cu testimoniale și studii de caz e dovada fizică a 
 
 ## Legături
 
-- **extinde** [[MKT-0104]] — cele 7P extind mixul clasic de 4P.
-- **fundament** [[MKT-0123]] — trăsăturile serviciilor (IHIP) explică de ce e nevoie de cele trei P în plus.
-- **aplicare** [[MKT-0124]] — oamenii și procesele sunt locul unde se deschid decalajele de livrare.
+- **extinde** [[MKT-0104-mixul-4p-creeaza-capteaza-livreaza-comunica-valoarea|MKT-0104]] — cele 7P extind mixul clasic de 4P.
+- **fundament** [[MKT-0123-serviciile-intangibile-inseparabile-eterogene-perisabile|MKT-0123]] — trăsăturile serviciilor (IHIP) explică de ce e nevoie de cele trei P în plus.
+- **aplicare** [[MKT-0124-patru-decalaje-de-serviciu-si-promisiunea-reclamei|MKT-0124]] — oamenii și procesele sunt locul unde se deschid decalajele de livrare.
 
 ## Surse
 
-- [[SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 1, p. 29-33 (§1.6); cap. 7, p. 203-206 (§7.4)
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 13, p. 420-424; cap. 17, p. 543-547
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 1, p. 29-33 (§1.6); cap. 7, p. 203-206 (§7.4)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 13, p. 420-424; cap. 17, p. 543-547
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[MKT-0104-mixul-4p-creeaza-capteaza-livreaza-comunica-valoarea|MKT-0104]] _vezi_ — Mixul de marketing 4P — produsul creează, prețul captează, plasarea livrează, promovarea comunică valoarea
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] — Principles of Marketing
+<!-- backlinks:end -->

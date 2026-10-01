@@ -50,11 +50,19 @@ Cu buget aproape zero pentru o companie regională de gaz, agenția lui Milavsky
 
 ## Legături
 
-- **fundament** [[ADV-0603]] — orice idee se judecă întâi după strategie.
-- **vezi** [[INS-0604]] — atenția și percepția selectivă explică primii pași ai lanțului McGuire.
-- **vezi** [[CLI-0602]] — după evaluare, ideea trebuie apărată în circuitul de aprobare.
-- **vezi** [[CPY-0608]] — tehnicile de memorare detaliază criteriul „memorabil".
+- **fundament** [[ADV-0603-copy-strategy-fixeaza-beneficiul-dovada-si-tonul|ADV-0603]] — orice idee se judecă întâi după strategie.
+- **vezi** [[INS-0604-perceptia-e-selectiva-reclama-are-nevoie-de-procedee-de-atentie|INS-0604]] — atenția și percepția selectivă explică primii pași ai lanțului McGuire.
+- **vezi** [[CLI-0602-ideile-se-erodeaza-in-circuitul-de-aprobare|CLI-0602]] — după evaluare, ideea trebuie apărată în circuitul de aprobare.
+- **vezi** [[CPY-0608-mesajul-memorabil-repetitie-rima-chunking-sincronizare|CPY-0608]] — tehnicile de memorare detaliază criteriul „memorabil".
 
 ## Surse
 
-- [[SRC-021]] Barry Milavsky, *Overcome AD-versity*, cap. 5 (p. 71–80), cap. 7 (p. 119–124)
+- [[SRC-021-overcome-ad-versity|SRC-021]] Barry Milavsky, *Overcome AD-versity*, cap. 5 (p. 71–80), cap. 7 (p. 119–124)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CLI-0602-ideile-se-erodeaza-in-circuitul-de-aprobare|CLI-0602]] _vezi_ — Ideile se erodează în circuitul de aprobare — fiecare nivel care cere „o mică schimbare" scade riscul și, odată cu el, forța reclamei
+- [[CPY-0608-mesajul-memorabil-repetitie-rima-chunking-sincronizare|CPY-0608]] _extinde_ — Un mesaj devine memorabil prin repetiție, rimă, ritm, „chunking", răsucirea unei expresii cunoscute și sincronizare audio-video
+- [[SRC-021-overcome-ad-versity|SRC-021]] — Overcome AD-versity: How to Put Persuasion Power in Advertising
+<!-- backlinks:end -->

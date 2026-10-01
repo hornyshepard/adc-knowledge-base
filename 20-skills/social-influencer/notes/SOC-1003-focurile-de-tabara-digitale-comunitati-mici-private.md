@@ -45,11 +45,21 @@ Harley-Davidson, citat de Sachdev în alt capitol, arată forma matură: comunit
 
 ## Legături
 
-- **vezi** [[SOC-1004]] — grupul e o treaptă a scării de marketing pe Facebook.
-- **vezi** [[SOC-1002]] — tensiunea dintre comunitatea „nebranduită" și obligația de transparență.
-- **vezi** [[BRD-1001]] — comunitatea e un mecanism de „captivare" în cadrul MACE.
+- **vezi** [[SOC-1004-scara-facebook-de-la-organic-la-remarketing|SOC-1004]] — grupul e o treaptă a scării de marketing pe Facebook.
+- **vezi** [[SOC-1002-relatia-materiala-cu-influencerul-se-dezvaluie-clar|SOC-1002]] — tensiunea dintre comunitatea „nebranduită" și obligația de transparență.
+- **vezi** [[BRD-1001-cadrul-mace-brandul-digital-durabil|BRD-1001]] — comunitatea e un mecanism de „captivare" în cadrul MACE.
 
 ## Surse
 
-- [[SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 1 (p. 30) și cap. 12 (p. 410)
-- [[SRC-033]] Bharat Bhuval Nishad, *Facebook Marketing & Facebook Ads Beginner To Pro*, secț. „Creating A Targeted Facebook Group"
+- [[SRC-031-digital-marketing-manual|SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 1 (p. 30) și cap. 12 (p. 410)
+- [[SRC-033-facebook-marketing|SRC-033]] Bharat Bhuval Nishad, *Facebook Marketing & Facebook Ads Beginner To Pro*, secț. „Creating A Targeted Facebook Group"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-1001-cadrul-mace-brandul-digital-durabil|BRD-1001]] _vezi_ — Cadrul MACE (Collis & Collis) — un brand digital durează dacă oferă măiestrie, accesibilitate, cadență și „captivare"
+- [[SOC-1004-scara-facebook-de-la-organic-la-remarketing|SOC-1004]] _vezi_ — Pe Facebook, marketingul urcă o scară — prezență organică, engagement, lead-uri, trafic plătit, remarketing —, pentru că reach-ul organic singur nu mai ajunge
+- [[SOC-1005-concursurile-sociale-efort-versus-implicare|SOC-1005]] _vezi_ — Concursurile de pe social se aleg după efortul cerut — participarea ușoară aduce mulți oameni, participarea grea aduce mai puțini, dar mai legați de brand
+- [[SRC-031-digital-marketing-manual|SRC-031]] — Digital Marketing
+- [[SRC-033-facebook-marketing|SRC-033]] — Facebook Marketing & Facebook Ads Beginner To Pro
+<!-- backlinks:end -->

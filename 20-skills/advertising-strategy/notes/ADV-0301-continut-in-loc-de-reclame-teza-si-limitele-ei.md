@@ -47,11 +47,20 @@ Wuebben citează Red Bull Media House ca primul brand care și-a creat oficial o
 
 ## Legături
 
-- **vezi** [[DIG-0301]] — modelul „pull" (Attract–Assist–Affiliate) pe care se sprijină teza.
-- **extinde** [[MKT-0315]] — trecerea „de la mesaje la experiențe multisenzoriale".
-- **vezi** [[CLI-0301]] — brandurile care produc conținut singure schimbă rolul agenției.
+- **vezi** [[DIG-0301-pull-marketing-attract-assist-affiliate-return-on-attention|DIG-0301]] — modelul „pull" (Attract–Assist–Affiliate) pe care se sprijină teza.
+- **extinde** [[MKT-0315-zece-schimbari-prezise-pentru-2021-de-la-branduri-la-platforme|MKT-0315]] — trecerea „de la mesaje la experiențe multisenzoriale".
+- **vezi** [[CLI-0301-agentia-viitorului-sase-forte-care-ii-muta-modelul|CLI-0301]] — brandurile care produc conținut singure schimbă rolul agenției.
 
 ## Surse
 
-- [[SRC-008]] Jon Wuebben, *Future Marketing*, cap. 4, 10, 12
-- [[SRC-010]] Patrick Ejeke, *Marketing Trends*, trendurile 19 și 30
+- [[SRC-008-future-marketing|SRC-008]] Jon Wuebben, *Future Marketing*, cap. 4, 10, 12
+- [[SRC-010-marketing-trends-ejeke|SRC-010]] Patrick Ejeke, *Marketing Trends*, trendurile 19 și 30
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0301-pull-marketing-attract-assist-affiliate-return-on-attention|DIG-0301]] _vezi_ — Pull marketing: Attract, Assist, Affiliate — și măsurarea prin „return on attention”
+- [[MKT-0315-zece-schimbari-prezise-pentru-2021-de-la-branduri-la-platforme|MKT-0315]] _vezi_ — Zece schimbări prezise pentru 2021: de la branduri la platforme, de la mass-media la meme și mișcări
+- [[SRC-008-future-marketing|SRC-008]] — Future Marketing: Winning in the Prosumer Age
+- [[SRC-010-marketing-trends-ejeke|SRC-010]] — Marketing Trends: 63 Digital Marketing Trends in the Age of Automation, Integrated Marketing, Omnichannel Marketing, Metaverse, Big Data, NFTs, AI, AR & VR
+<!-- backlinks:end -->

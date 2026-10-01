@@ -33,7 +33,7 @@ Mecanismul („Brainjack") are două efecte. Descoperirea produce un șoc de rev
 
 ## Aplicare
 
-- Pornește de la insight: adesea „stratul ascuns" este exact adevărul pe care ținta îl evită (vezi [[INS-0701]]).
+- Pornește de la insight: adesea „stratul ascuns" este exact adevărul pe care ținta îl evită (vezi [[INS-0701-insight-ul-este-un-adevar-uman-semnificativ|INS-0701]]).
 - Alege dispozitivul după tipul de adevăr: interior → radiografie; consecință → umbră; ipocrizie → imagine ruptă; identificare → siluetă.
 - Dozează efortul de decodare după public: un cod prea greu pentru publicul larg devine liniște.
 
@@ -44,11 +44,19 @@ Mecanismul („Brainjack") are două efecte. Descoperirea produce un șoc de rev
 
 ## Legături
 
-- **vezi** [[INS-0701]] — stratul ascuns este adesea insight-ul.
-- **vezi** [[CPY-0701]] — rebusul și indiciile criptice sunt varianta verbală.
-- **vezi** [[ART-0703]] — și mozaicul își dezvăluie sensul de aproape.
-- **fundament** [[IDE-0701]] — revelația e o formă de brainjack.
+- **vezi** [[INS-0701-insight-ul-este-un-adevar-uman-semnificativ|INS-0701]] — stratul ascuns este adesea insight-ul.
+- **vezi** [[CPY-0701-jocul-de-cuvinte-vizual-calambur-expresie-rebus|CPY-0701]] — rebusul și indiciile criptice sunt varianta verbală.
+- **vezi** [[ART-0703-schimbarea-de-scara-si-imaginea-din-elemente-mici|ART-0703]] — și mozaicul își dezvăluie sensul de aproape.
+- **fundament** [[IDE-0701-brainjack-ideea-captureaza-mintea-nu-doar-ochiul|IDE-0701]] — revelația e o formă de brainjack.
 
 ## Surse
 
-- [[SRC-024]] John Ingledew, *The A–Z of Visual Ideas*, intrările „Hidden messages", „Torn images", „X-rays", „Shadows", „Silhouettes", „Illusion", „Mirror, mirror"
+- [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] John Ingledew, *The A–Z of Visual Ideas*, intrările „Hidden messages", „Torn images", „X-rays", „Shadows", „Silhouettes", „Illusion", „Mirror, mirror"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0703-schimbarea-de-scara-si-imaginea-din-elemente-mici|ART-0703]] _vezi_ — Schimbarea de scară și imaginea construită din multe elemente mici răstoarnă ordinea așteptată a lumii
+- [[CPY-0701-jocul-de-cuvinte-vizual-calambur-expresie-rebus|CPY-0701]] _vezi_ — Jocul de cuvinte vizual — calamburul, expresia vizualizată, rebusul și întrebarea
+- [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] — The A–Z of Visual Ideas: How to Solve Any Creative Brief
+<!-- backlinks:end -->

@@ -43,10 +43,17 @@ Doig-Thorne povestește că a descoperit, printr-un cont de Instagram în care c
 
 ## Legături
 
-- **vezi** [[SOC-1119]] — compensarea e prima variabilă a negocierii.
-- **contrazice** [[SOC-1111]] — FAQ YOU a crescut fără bani și fără colaborări plătite, ceea ce arată că pentru ONG-uri motivația poate fi alta.
-- **vezi** [[SOC-1122]] — relațiile lungi se construiesc pe compensare corectă.
+- **vezi** [[SOC-1119-negocierea-cu-un-creator-are-variabile-multiple-iar|SOC-1119]] — compensarea e prima variabilă a negocierii.
+- **contrazice** [[SOC-1111-faq-you-comunitate-construita-doar-din-continut-adaptat|SOC-1111]] — FAQ YOU a crescut fără bani și fără colaborări plătite, ceea ce arată că pentru ONG-uri motivația poate fi alta.
+- **vezi** [[SOC-1122-parteneriatele-lungi-cu-creatori-bat-campaniile-punctuale|SOC-1122]] — relațiile lungi se construiesc pe compensare corectă.
 
 ## Surse
 
-- [[SRC-035]] Glenister, *Influencer Marketing Strategy*, cap. 3, p. 118, 124; cap. 5, p. 168–169, 173, 185; cap. 6, p. 194; cap. 11 (interviu A. Doig-Thorne), p. 314–318
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] Glenister, *Influencer Marketing Strategy*, cap. 3, p. 118, 124; cap. 5, p. 168–169, 173, 185; cap. 6, p. 194; cap. 11 (interviu A. Doig-Thorne), p. 314–318
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[SOC-1119-negocierea-cu-un-creator-are-variabile-multiple-iar|SOC-1119]] _vezi_ — Negocierea cu un creator are variabile multiple, iar contractul fixează drepturile
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] — Influencer Marketing Strategy: How influencers can help grow your business
+<!-- backlinks:end -->

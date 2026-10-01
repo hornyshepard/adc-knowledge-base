@@ -48,11 +48,18 @@ Craig Dubitsky a convins cumpărători de retail și investitori pentru pasta de
 
 ## Legături
 
-- **extinde** [[BRD-0524]] — criteriile pentru pasul 2, numele.
-- **aplicare** [[ART-0501]] — pasul 4 se face pornind de la asocierile-țintă.
-- **vezi** [[BRD-0503]] — cârligul devine punctul de diferență al poziționării.
-- **vezi** [[BRD-0509]] — scopul ca punct de pornire.
+- **extinde** [[BRD-0524-un-nume-bun-de-brand-e-relevant-emotionant-usor-de-rostit|BRD-0524]] — criteriile pentru pasul 2, numele.
+- **aplicare** [[ART-0501-designul-de-brand-lucreaza-in-sistemul-1-si-porneste-de-la|ART-0501]] — pasul 4 se face pornind de la asocierile-țintă.
+- **vezi** [[BRD-0503-declaratia-de-pozitionare-are-patru-elemente-tinta-cadru|BRD-0503]] — cârligul devine punctul de diferență al poziționării.
+- **vezi** [[BRD-0509-purpose-path-to-growth-descopera-scopul-apoi-activeaza-l|BRD-0509]] — scopul ca punct de pornire.
 
 ## Surse
 
-- [[SRC-014]] Paul Earle, „Brand New: Creating a Brand from Scratch", cap. 24 în *Kellogg on Branding in a Hyper-Connected World*, p. 301–309
+- [[SRC-014-kellogg-on-branding|SRC-014]] Paul Earle, „Brand New: Creating a Brand from Scratch", cap. 24 în *Kellogg on Branding in a Hyper-Connected World*, p. 301–309
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0524-un-nume-bun-de-brand-e-relevant-emotionant-usor-de-rostit|BRD-0524]] _extinde_ — Un nume bun de brand e relevant, emoționant, ușor de rostit și de promovat
+- [[SRC-014-kellogg-on-branding|SRC-014]] — Kellogg on Branding in a Hyper-Connected World
+<!-- backlinks:end -->

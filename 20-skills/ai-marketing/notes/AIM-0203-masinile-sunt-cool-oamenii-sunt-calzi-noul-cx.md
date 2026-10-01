@@ -45,11 +45,25 @@ Centrul de social listening M Live de la Marriott observă, de exemplu, un cuplu
 
 ## Legături
 
-- **fundament** [[AIM-0202]] — tehnologiile next tech definesc ce poate face mașina.
-- **aplicare** [[AIM-0206]] — marketingul augmentat aplică diviziunea muncii în vânzări și service.
-- **vezi** [[INS-0203]] — metodele imersive de insight rămân domeniul omului.
-- **extinde** [[MKT-0210]] — călătoria 5A e harta pe care se decide unde lucrează mașina și unde omul.
+- **fundament** [[AIM-0202-next-tech-tehnologiile-care-imita-omul|AIM-0202]] — tehnologiile next tech definesc ce poate face mașina.
+- **aplicare** [[AIM-0206-marketingul-augmentat-inteligenta-amplificata-interfete-pe-niveluri|AIM-0206]] — marketingul augmentat aplică diviziunea muncii în vânzări și service.
+- **vezi** [[INS-0203-antropologia-digitala-social-listening-netnografie-cercetare-empatica|INS-0203]] — metodele imersive de insight rămân domeniul omului.
+- **extinde** [[MKT-0210-calea-clientului-5a-aware-appeal-ask-act-advocate|MKT-0210]] — călătoria 5A e harta pe care se decide unde lucrează mașina și unde omul.
 
 ## Surse
 
-- [[SRC-005]] Kotler, Kartajaya, Setiawan, *Marketing 5.0*, cap. 7 „The New CX: Machines Are Cool, but Humans Are Warm" (Fig. 7.2, 7.3); cap. 1 (Fig. 1.2)
+- [[SRC-005-marketing-5-0-philip-kotler|SRC-005]] Kotler, Kartajaya, Setiawan, *Marketing 5.0*, cap. 7 „The New CX: Machines Are Cool, but Humans Are Warm" (Fig. 7.2, 7.3); cap. 1 (Fig. 1.2)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-0201-decalajul-digital-real-e-intre-sustinatorii-si-criticii-digitalizarii|AIM-0201]] _extinde_ — Decalajul digital real e între susținătorii și criticii digitalizării — tehnologia câștigă încredere când e personală, socială și experiențială
+- [[AIM-0202-next-tech-tehnologiile-care-imita-omul|AIM-0202]] _extinde_ — Next tech sunt tehnologiile care imită capacitățile umane — AI, NLP, senzori, robotică, realitate mixtă, IoT și blockchain
+- [[AIM-0204-sapte-cazuri-de-utilizare-martech-pe-calea-clientului|AIM-0204]] _vezi_ — Martech are șapte cazuri de utilizare pe calea clientului — de la publicitate și conținut la service CRM
+- [[AIM-0205-marketingul-predictiv-clienti-produse-branduri|AIM-0205]] _vezi_ — Marketingul predictiv anticipează piața în trei zone — clienți, produse și branduri — cu regresie, filtrare colaborativă și rețele neuronale
+- [[AIM-0206-marketingul-augmentat-inteligenta-amplificata-interfete-pe-niveluri|AIM-0206]] _fundament_ — Marketingul augmentat amplifică oamenii în loc să-i înlocuiască — interfețe pe niveluri și instrumente digitale pentru prima linie
+- [[EXP-0202-experienta-imersiva-cinci-elemente-si-patru-scenarii-om-digital|EXP-0202]] _vezi_ — Experiența viitorului e imersivă și hibridă — cinci elemente ale imersiunii și patru scenarii pentru cât din om poate înlocui digitalul
+- [[MKT-0212-marketing-5-0-tehnologie-pentru-umanitate-cinci-componente|MKT-0212]] _vezi_ — Marketing 5.0 folosește tehnologii care imită omul pe toată călătoria clientului, prin două discipline și trei aplicații
+- [[SOC-0201-cinci-micro-trenduri-video-scurt-comunitati-comert-interactiv-ai-wearables|SOC-0201]] _vezi_ — Cinci micro-trenduri împing spre experiențe imersive — video scurt, social media pe comunități, comerț interactiv, AI lingvistic și wearables
+- [[SRC-005-marketing-5-0-philip-kotler|SRC-005]] — Marketing 5.0: Technology for Humanity
+<!-- backlinks:end -->

@@ -41,10 +41,19 @@ Tough Mudder e cazul-școală al ambelor faze: întâi difuzare din interiorul u
 
 ## Legături
 
-- **vezi** [[BRD-0519]] — comunitățile de brand sunt excepția în care social media difuzează singură.
-- **extinde** [[ADV-0505]] — difuzarea depinde de strategia media, nu doar de creație.
-- **vezi** [[STO-0502]] — transmedia se bazează pe un nucleu de fani care răspândesc povestea.
+- **vezi** [[BRD-0519-comunitatea-de-brand-ideala-este-distincta-exclusiva-si-de|BRD-0519]] — comunitățile de brand sunt excepția în care social media difuzează singură.
+- **extinde** [[ADV-0505-cei-4m-ai-strategiei-media-potrivire-monopolizare-moment|ADV-0505]] — difuzarea depinde de strategia media, nu doar de creație.
+- **vezi** [[STO-0502-povestirea-transmedia-imparte-o-lume-narativa-intre-canale|STO-0502]] — transmedia se bazează pe un nucleu de fani care răspândesc povestea.
 
 ## Surse
 
-- [[SRC-014]] Brian Sternthal, „Building Strong Brands through Advertising Strategy in the Online Age", cap. 10 în *Kellogg on Branding in a Hyper-Connected World*, p. 148–150
+- [[SRC-014-kellogg-on-branding|SRC-014]] Brian Sternthal, „Building Strong Brands through Advertising Strategy in the Online Age", cap. 10 în *Kellogg on Branding in a Hyper-Connected World*, p. 148–150
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0505-cei-4m-ai-strategiei-media-potrivire-monopolizare-moment|ADV-0505]] _vezi_ — Cei 4M ai strategiei media: potrivire, monopolizare, moment, mentalitate
+- [[BRD-0519-comunitatea-de-brand-ideala-este-distincta-exclusiva-si-de|BRD-0519]] _vezi_ — Comunitatea de brand ideală este distinctă, exclusivă și de mărime medie
+- [[STO-0502-povestirea-transmedia-imparte-o-lume-narativa-intre-canale|STO-0502]] _vezi_ — Povestirea transmedia împarte o lume narativă între canale cu roluri diferite
+- [[SRC-014-kellogg-on-branding|SRC-014]] — Kellogg on Branding in a Hyper-Connected World
+<!-- backlinks:end -->

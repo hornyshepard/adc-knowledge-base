@@ -45,10 +45,19 @@ Reeves avertiza, în același presupus capitol, că „poziționarea" poate deve
 
 ## Legături
 
-- **fundament** [[ADV-0604]] — USP-ul lui Reeves.
-- **fundament** [[ADV-0610]] — principiile poziționării.
-- **vezi** [[HIS-0601]] — poziționarea ca alt exemplu de invenție recurentă.
+- **fundament** [[ADV-0604-usp-are-trei-conditii-propunere-unica-care-vinde|ADV-0604]] — USP-ul lui Reeves.
+- **fundament** [[ADV-0610-pozitionarea-sprijinita-pe-noua-principii-cognitive|ADV-0610]] — principiile poziționării.
+- **vezi** [[HIS-0601-inventia-recurenta-mecanismele-strategice-se-reambaleaza|HIS-0601]] — poziționarea ca alt exemplu de invenție recurentă.
 
 ## Surse
 
-- [[SRC-018]] Jorge David Fernández Gómez, *Strategic Advertising Mechanisms*, cap. 7 §7.4–7.5 și nota 18
+- [[SRC-018-strategic-advertising-mechanisms|SRC-018]] Jorge David Fernández Gómez, *Strategic Advertising Mechanisms*, cap. 7 §7.4–7.5 și nota 18
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0610-pozitionarea-sprijinita-pe-noua-principii-cognitive|ADV-0610]] _vezi_ — Poziționarea (Trout & Ries) se sprijină pe nouă principii — de la saturația informațională la permanență
+- [[BRD-0605-contextualizare-si-conceptualizare-a-picta-axele-pozitionarii|BRD-0605]] _vezi_ — Poziționarea în doi pași — contextualizare (alegi brandul de referință) și conceptualizare (îl spui simplu)
+- [[HIS-0601-inventia-recurenta-mecanismele-strategice-se-reambaleaza|HIS-0601]] _vezi_ — „Invenția recurentă" — publicitatea își reinventează periodic mecanismele strategice sub nume noi
+- [[SRC-018-strategic-advertising-mechanisms|SRC-018]] — Strategic Advertising Mechanisms: From Copy Strategy to Iconic Brands
+<!-- backlinks:end -->

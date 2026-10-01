@@ -48,10 +48,17 @@ Un strateg junior care postează lunar o scurtă analiză a unei campanii locale
 
 ## Legături
 
-- **fundament** [[PRT-1414]] — reputația online e fața publică a brandului personal.
-- **vezi** [[PRT-1419]] — distribuția activă a portofoliului se face prin aceleași rețele.
-- **vezi** [[PRT-1413]] — tonul profesionist și interdicția înjurăturilor, cerute și de Fenn.
+- **fundament** [[PRT-1414-cariera-ca-afacere-brand-personal-pe-platforma-proprie|PRT-1414]] — reputația online e fața publică a brandului personal.
+- **vezi** [[PRT-1419-portofoliul-nu-se-gaseste-singur-targetare-si-doi-pasi|PRT-1419]] — distribuția activă a portofoliului se face prin aceleași rețele.
+- **vezi** [[PRT-1413-cere-critica-nu-feedback|PRT-1413]] — tonul profesionist și interdicția înjurăturilor, cerute și de Fenn.
 
 ## Surse
 
-- [[SRC-047]] Hannah Morgan, *The Infographic Resume*, cap. 8, 9, 11 și Concluzia
+- [[SRC-047-the-infographic-resume|SRC-047]] Hannah Morgan, *The Infographic Resume*, cap. 8, 9, 11 și Concluzia
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PRT-1414-cariera-ca-afacere-brand-personal-pe-platforma-proprie|PRT-1414]] _vezi_ — Candidatul își tratează cariera ca pe o afacere — un brand personal găzduit pe o platformă pe care o deține
+- [[SRC-047-the-infographic-resume|SRC-047]] — The Infographic Resume: How to Create a Visual Portfolio That Showcases Your Skills and Lands the Job
+<!-- backlinks:end -->

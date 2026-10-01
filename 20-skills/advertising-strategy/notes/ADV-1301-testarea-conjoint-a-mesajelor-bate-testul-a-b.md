@@ -45,10 +45,19 @@ O scrisoare de asigurări prin poștă (rată de răspuns sub 1%) avea șase ele
 
 ## Legături
 
-- **fundament** [[AIM-1310]] — conjoint-ul și designul experimental.
-- **vezi** [[INS-1304]] — de ce nu întrebi direct „ce titlu preferi?".
-- **vezi** [[EXP-1301]] — aceeași logică aplicată pachetelor de servicii.
+- **fundament** [[AIM-1310-metodele-de-trade-off-cand-folosesti-fiecare|AIM-1310]] — conjoint-ul și designul experimental.
+- **vezi** [[INS-1304-ratingurile-de-importanta-spun-ca-totul-conteaza|INS-1304]] — de ce nu întrebi direct „ce titlu preferi?".
+- **vezi** [[EXP-1301-conjoint-ul-de-servicii-arata-supra-si-sub-livrarea|EXP-1301]] — aceeași logică aplicată pachetelor de servicii.
 
 ## Surse
 
-- [[SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, cap. 5
+- [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, cap. 5
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-1310-metodele-de-trade-off-cand-folosesti-fiecare|AIM-1310]] _aplicare_ — Metodele de trade-off — alegere discretă, conjoint, MaxDiff, Q-Sort — răspund la întrebări diferite
+- [[AIM-1320-ipoteza-o-formuleaza-omul-ai-ul-o-ruleaza|AIM-1320]] _alternativa_ — Ipoteza o formulează omul, AI-ul o rulează, omul o interpretează — împărțirea muncii în testare și lead-uri
+- [[EXP-1301-conjoint-ul-de-servicii-arata-supra-si-sub-livrarea|EXP-1301]] _vezi_ — Optimizarea conjoint a serviciilor arată unde supra-livrezi și unde sub-livrezi
+- [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]] — Artificial Intelligence Marketing and Predicting Consumer Choice: An Overview of Tools and Techniques
+<!-- backlinks:end -->

@@ -48,11 +48,26 @@ Struhl dă exemplul unei vitrine frigorifice pentru vin, cu funcții propuse de 
 
 ## Legături
 
-- **fundament** [[INS-1304]] — eșecul ratingurilor directe e motivul existenței acestor metode.
-- **extinde** [[AIM-1311]] — alegerea discretă și simulatorul de piață în acțiune.
-- **aplicare** [[ADV-1301]] — conjoint-ul aplicat mesajelor publicitare.
-- **vezi** [[AIM-1312]] — regulile practice pentru un studiu de alegere bine construit.
+- **fundament** [[INS-1304-ratingurile-de-importanta-spun-ca-totul-conteaza|INS-1304]] — eșecul ratingurilor directe e motivul existenței acestor metode.
+- **extinde** [[AIM-1311-simularea-de-piata-arata-pretul-unui-razboi-al-preturilor|AIM-1311]] — alegerea discretă și simulatorul de piață în acțiune.
+- **aplicare** [[ADV-1301-testarea-conjoint-a-mesajelor-bate-testul-a-b|ADV-1301]] — conjoint-ul aplicat mesajelor publicitare.
+- **vezi** [[AIM-1312-checklist-pentru-un-studiu-de-alegere-bine-construit|AIM-1312]] — regulile practice pentru un studiu de alegere bine construit.
 
 ## Surse
 
-- [[SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, cap. 3, 4 și 8
+- [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, cap. 3, 4 și 8
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-1301-testarea-conjoint-a-mesajelor-bate-testul-a-b|ADV-1301]] _fundament_ — Elementele unei reclame se pot testa ca un experiment — conjoint-ul de mesaj bate testul A/B
+- [[AIM-1307-patru-familii-de-metode-de-predictie-a-alegerii|AIM-1307]] _extinde_ — Metodele de predicție a alegerilor formează patru familii, fiecare cu o imagine implicită despre om
+- [[AIM-1309-cota-de-preferinta-nu-e-cota-de-piata|AIM-1309]] _fundament_ — Cota de preferință nu e cotă de piață — prognoza trebuie ajustată pentru notorietate, înțelegere și distribuție
+- [[AIM-1311-simularea-de-piata-arata-pretul-unui-razboi-al-preturilor|AIM-1311]] _fundament_ — Simularea de piață arată când o reducere de preț crește cota, dar scade veniturile
+- [[AIM-1312-checklist-pentru-un-studiu-de-alegere-bine-construit|AIM-1312]] _fundament_ — Un studiu de alegere bun se construiește înainte de chestionar — checklist în zece puncte
+- [[AIM-1316-ce-metoda-pentru-ce-intrebare-de-marketing|AIM-1316]] _aplicare_ — Alegi metoda de analiză după întrebarea de marketing, nu după moda tehnologică
+- [[BRD-1301-brandul-ca-container-de-atribute-valoarea-reziduala|BRD-1301]] _fundament_ — În modelele de alegere, brandul e un „container" de atribute, iar valoarea lui se vede în ce rămâne după atribute
+- [[EXP-1301-conjoint-ul-de-servicii-arata-supra-si-sub-livrarea|EXP-1301]] _vezi_ — Optimizarea conjoint a serviciilor arată unde supra-livrezi și unde sub-livrezi
+- [[INS-1304-ratingurile-de-importanta-spun-ca-totul-conteaza|INS-1304]] _extinde_ — Întrebați direct ce contează, oamenii spun „totul" — ratingurile de importanță nu prezic comportamentul
+- [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]] — Artificial Intelligence Marketing and Predicting Consumer Choice: An Overview of Tools and Techniques
+<!-- backlinks:end -->

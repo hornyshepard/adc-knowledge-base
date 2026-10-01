@@ -46,10 +46,21 @@ Un studiu de caz SOLVE: Situație — brand regional cu vânzări în scădere; 
 
 ## Legături
 
-- **fundament** [[PIT-1412]] — cazurile și poveștile sunt un tip de „stardust”.
-- **vezi** [[PIT-1415]] — subploturile trăiesc în interiorul mijlocului 1.2.3.
-- **vezi** [[PIT-1401]] — povestea aduce emoția din formula cut-through.
+- **fundament** [[PIT-1412-stardust-dovezile-care-fac-mesajul-memorabil|PIT-1412]] — cazurile și poveștile sunt un tip de „stardust”.
+- **vezi** [[PIT-1415-mijlocul-1-2-3-pop-ppf-si-zece-formule|PIT-1415]] — subploturile trăiesc în interiorul mijlocului 1.2.3.
+- **vezi** [[PIT-1401-cut-through-emotie-simplitate-energie|PIT-1401]] — povestea aduce emoția din formula cut-through.
 
 ## Surse
 
-- [[SRC-043]] Dominic Colenso, *Cut-Through*, cap. 3 („Become a master storyteller”)
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] Dominic Colenso, *Cut-Through*, cap. 3 („Become a master storyteller”)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PIT-1412-stardust-dovezile-care-fac-mesajul-memorabil|PIT-1412]] _extinde_ — „Stardust” — cinci tipuri de dovezi care fac un mesaj memorabil
+- [[PIT-1415-mijlocul-1-2-3-pop-ppf-si-zece-formule|PIT-1415]] _extinde_ — Mijlocul prezentării se organizează în trei părți — POP, PPF și alte zece formule
+- [[PIT-1428-debrief-presentation-bank-learning-log|PIT-1428]] _vezi_ — Debrief-ul în 24 de ore, presentation bank-ul și learning log-ul transformă fiecare pitch în progres
+- [[PRT-1409-studiul-de-caz-brief-ce-am-facut-rezultate|PRT-1409]] _alternativa_ — Studiul de caz se scrie în patru părți — Brief, Ce am făcut, Rezultate, Instrumente — plus highlights
+- [[PRT-1416-povestea-de-sine-explicare-si-pitch-pixar|PRT-1416]] _vezi_ — Răspunsul la „Spune-mi despre tine” se construiește cu principiile explicării și cu structura pitch-ului Pixar
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] — Cut-Through: The pitch and presentation playbook
+<!-- backlinks:end -->

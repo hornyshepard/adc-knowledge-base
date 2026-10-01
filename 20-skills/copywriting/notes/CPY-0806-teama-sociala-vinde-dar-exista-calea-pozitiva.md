@@ -46,11 +46,23 @@ Gordon Seagrove, care a scris singur reclamele Listerine timp de 22 de ani, glum
 
 ## Legături
 
-- **vezi** [[CPY-0805]] — multe dintre aceste reclame vin din școala mail-order.
-- **contrazice** [[CPY-0813]] — umorul și căldura ca alternative la frică.
-- **vezi** [[HIS-0817]] — influența reală e vizibilă, nu subliminală.
-- **vezi** [[HIS-0821]] — Mr. Friendly, personaj de brand.
+- **vezi** [[CPY-0805-scoala-mail-order-cuponul-ca-experiment|CPY-0805]] — multe dintre aceste reclame vin din școala mail-order.
+- **contrazice** [[CPY-0813-umorul-de-la-interzis-la-recompensa|CPY-0813]] — umorul și căldura ca alternative la frică.
+- **vezi** [[HIS-0817-publicitatea-subliminala-un-mit-care-rezista|HIS-0817]] — influența reală e vizibilă, nu subliminală.
+- **vezi** [[HIS-0821-personajele-inventate-nu-gresesc-celebritatile-da|HIS-0821]] — Mr. Friendly, personaj de brand.
 
 ## Surse
 
-- [[SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Listerine”, „Odorono — Within the Curve of a Woman’s Arm”, „The Book of Etiquette”, „U.S. School of Music”, „American Mutual — Mr. Friendly”, „Marlboro”
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Listerine”, „Odorono — Within the Curve of a Woman’s Arm”, „The Book of Etiquette”, „U.S. School of Music”, „American Mutual — Mr. Friendly”, „Marlboro”
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0804-marlboro-repozitionarea-unui-brand-printr-o-imagine|ART-0804]] _vezi_ — Marlboro — repoziționarea unui brand feminin printr-o singură imagine masculină
+- [[CPY-0805-scoala-mail-order-cuponul-ca-experiment|CPY-0805]] _vezi_ — Școala mail-order — cuponul a transformat copywritingul într-un experiment măsurabil
+- [[CPY-0813-umorul-de-la-interzis-la-recompensa|CPY-0813]] _alternativa_ — Umorul în reclamă — de la „cleverness" interzis la recompensa care cumpără atenția
+- [[HIS-0817-publicitatea-subliminala-un-mit-care-rezista|HIS-0817]] _vezi_ — Publicitatea subliminală este un mit care rezistă dovezilor
+- [[HIS-0821-personajele-inventate-nu-gresesc-celebritatile-da|HIS-0821]] _vezi_ — Personajele inventate nu greșesc niciodată; celebritățile da
+- [[HIS-0823-diversitatea-a-intrat-tarziu-in-agentii-si-in-reclame|HIS-0823]] _vezi_ — Diversitatea a intrat târziu în publicitate — și în agenții, și în imaginea din reclame
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] — The 100 Greatest Advertisements 1852–1958: Who Wrote Them and What They Did
+<!-- backlinks:end -->

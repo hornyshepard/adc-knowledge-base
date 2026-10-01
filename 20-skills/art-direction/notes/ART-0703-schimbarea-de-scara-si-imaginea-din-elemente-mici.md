@@ -37,10 +37,18 @@ Mecanismul („Brainjack"): uimirea crește cu numărul pieselor, iar puterea vi
 
 ## Legături
 
-- **vezi** [[IDE-0705]] — juxtapunerea a două scări diferite.
-- **vezi** [[ART-0704]] — și mozaicul își „dezvăluie" sensul în timp, de aproape.
-- **vezi** [[IDE-0707]] — piesa și întregul pot forma o metaforă.
+- **vezi** [[IDE-0705-juxtapunerea-doua-imagini-alaturate|IDE-0705]] — juxtapunerea a două scări diferite.
+- **vezi** [[ART-0704-dezvaluirea-umbra-radiografia-imaginea-rupta-silueta|ART-0704]] — și mozaicul își „dezvăluie" sensul în timp, de aproape.
+- **vezi** [[IDE-0707-metafora-vizuala-si-asemanarea-formala|IDE-0707]] — piesa și întregul pot forma o metaforă.
 
 ## Surse
 
-- [[SRC-024]] John Ingledew, *The A–Z of Visual Ideas*, intrările „Rescaling" și „Building a bigger picture"
+- [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] John Ingledew, *The A–Z of Visual Ideas*, intrările „Rescaling" și „Building a bigger picture"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0704-dezvaluirea-umbra-radiografia-imaginea-rupta-silueta|ART-0704]] _vezi_ — Dezvăluirea — umbra, radiografia, imaginea ruptă, silueta și mesajul ascuns îl lasă pe privitor să descopere singur
+- [[IDE-0705-juxtapunerea-doua-imagini-alaturate|IDE-0705]] _vezi_ — Juxtapunerea — două imagini puse alături îl obligă pe privitor să construiască singur legătura
+- [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] — The A–Z of Visual Ideas: How to Solve Any Creative Brief
+<!-- backlinks:end -->

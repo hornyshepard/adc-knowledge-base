@@ -40,12 +40,25 @@ Samsung „iTest" (DDB Nouă Zeelandă) a combinat test-drive-ul de la mașini c
 
 ## Legături
 
-- **fundament** [[IDE-0701]] — saltul între cadre produce momentul „aha".
-- **extinde** [[IDE-0707]] — metafora vizuală și fuziunea sunt combinații vizibile.
-- **vezi** [[IDE-0705]] — juxtapunerea lasă combinația în seama privitorului.
-- **vezi** [[IDE-0712]] — banca de inspirație e materia primă a combinațiilor.
+- **fundament** [[IDE-0701-brainjack-ideea-captureaza-mintea-nu-doar-ochiul|IDE-0701]] — saltul între cadre produce momentul „aha".
+- **extinde** [[IDE-0707-metafora-vizuala-si-asemanarea-formala|IDE-0707]] — metafora vizuală și fuziunea sunt combinații vizibile.
+- **vezi** [[IDE-0705-juxtapunerea-doua-imagini-alaturate|IDE-0705]] — juxtapunerea lasă combinația în seama privitorului.
+- **vezi** [[IDE-0712-banca-de-inspiratie-creativul-colectioneaza-permanent|IDE-0712]] — banca de inspirație e materia primă a combinațiilor.
 
 ## Surse
 
-- [[SRC-024]] John Ingledew, *The A–Z of Visual Ideas*, Introducere, „Ideas about ideas"
-- [[SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 6 „The Ideation Process" și „Combinatorial Thinking"
+- [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] John Ingledew, *The A–Z of Visual Ideas*, Introducere, „Ideas about ideas"
+- [[SRC-025-shareworthy|SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 6 „The Ideation Process" și „Combinatorial Thinking"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[IDE-0701-brainjack-ideea-captureaza-mintea-nu-doar-ochiul|IDE-0701]] _vezi_ — „Brainjack" — ideea bună capturează mintea privitorului, nu doar ochiul
+- [[IDE-0703-cand-ideea-nu-vine-incubatie-distragere-declansatori|IDE-0703]] _vezi_ — Când ideea nu vine — incubație, distragere creativă și declanșatori aleatori
+- [[IDE-0705-juxtapunerea-doua-imagini-alaturate|IDE-0705]] _vezi_ — Juxtapunerea — două imagini puse alături îl obligă pe privitor să construiască singur legătura
+- [[IDE-0707-metafora-vizuala-si-asemanarea-formala|IDE-0707]] _extinde_ — Metafora vizuală și asemănarea formală — un lucru arată ca altul și îi împrumută calitățile
+- [[IDE-0712-banca-de-inspiratie-creativul-colectioneaza-permanent|IDE-0712]] _fundament_ — Banca de inspirație — creativul colecționează permanent, ca să nu pornească niciodată de la zero
+- [[IDE-0717-trusa-scamper-sase-palarii-matrice-de-decizie|IDE-0717]] — Trusa de generare și selecție — SCAMPER, cele șase pălării și matricea de decizie ponderată
+- [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] — The A–Z of Visual Ideas: How to Solve Any Creative Brief
+- [[SRC-025-shareworthy|SRC-025]] — Shareworthy: Advertising That Creates Powerful Connections Through Storytelling
+<!-- backlinks:end -->

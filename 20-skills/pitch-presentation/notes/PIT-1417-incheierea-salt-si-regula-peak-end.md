@@ -51,10 +51,19 @@ Un pitch care începe cu fotografia unui raft în care produsul clientului nu se
 
 ## Legături
 
-- **fundament** [[PIT-1413]] — S.A.L.T. umple actul de rezoluție (10%).
-- **fundament** [[PIT-1410]] — „Ask” este cererea definită în Distil.
-- **vezi** [[PIT-1422]] — după fiecare întrebare din Q&A revii la mesaj, tot din cauza peak-end.
+- **fundament** [[PIT-1413-formula-blockbuster-20-70-10|PIT-1413]] — S.A.L.T. umple actul de rezoluție (10%).
+- **fundament** [[PIT-1410-urmatorul-pas-logic-nu-da-ul-final|PIT-1410]] — „Ask” este cererea definită în Distil.
+- **vezi** [[PIT-1422-qa-in-cinci-pasi-si-formula-p-p|PIT-1422]] — după fiecare întrebare din Q&A revii la mesaj, tot din cauza peak-end.
 
 ## Surse
 
-- [[SRC-043]] Dominic Colenso, *Cut-Through*, cap. 3 („Excellent endings”)
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] Dominic Colenso, *Cut-Through*, cap. 3 („Excellent endings”)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PIT-1408-headline-si-trei-mesaje-cheie|PIT-1408]] _aplicare_ — Un pitch se organizează ca un arbore — un headline, trei mesaje cheie și dovezile dedesubt
+- [[PIT-1410-urmatorul-pas-logic-nu-da-ul-final|PIT-1410]] _aplicare_ — Cererea dintr-un pitch este „următorul pas logic”, nu „da”-ul final
+- [[PIT-1413-formula-blockbuster-20-70-10|PIT-1413]] _extinde_ — Formula blockbuster — 20% setup, 70% confruntare, 10% rezoluție
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] — Cut-Through: The pitch and presentation playbook
+<!-- backlinks:end -->

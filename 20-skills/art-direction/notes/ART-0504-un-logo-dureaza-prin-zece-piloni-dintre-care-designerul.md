@@ -55,12 +55,24 @@ Scoica lui Raymond Loewy pentru Shell era destul de simplă cât să funcționez
 
 ## Legături
 
-- **extinde** [[ART-0502]] — simbolul brandului e unul dintre cele 12 indicii de design.
-- **aplicare** [[ART-0507]] — procesul de brand mark pune în practică pilonii.
-- **vezi** [[ART-0510]] — logo-urile care durează se evoluează, nu se înlocuiesc.
-- **fundament** [[ART-0501]] — semnul trebuie să declanșeze asocierile vizate.
+- **extinde** [[ART-0502-sablonul-de-design-de-brand-douasprezece-tipuri-de-indicii|ART-0502]] — simbolul brandului e unul dintre cele 12 indicii de design.
+- **aplicare** [[ART-0507-procesul-de-brand-mark-cincizeci-de-schite-inainte-de-orice|ART-0507]] — procesul de brand mark pune în practică pilonii.
+- **vezi** [[ART-0510-redesignul-unui-logo-trebuie-sa-fie-evolutie-nu-revolutie|ART-0510]] — logo-urile care durează se evoluează, nu se înlocuiesc.
+- **fundament** [[ART-0501-designul-de-brand-lucreaza-in-sistemul-1-si-porneste-de-la|ART-0501]] — semnul trebuie să declanșeze asocierile vizate.
 
 ## Surse
 
-- [[SRC-017]] Allan Peters, *Logos That Last: How to Create Iconic Visual Branding*, cap. 1 „What Makes a Logo Last?"
-- [[SRC-015]] Carl J. Damgaard, *The Unbeatable Brand Blueprint*, cap. 5, secțiunea „Key Elements of a Memorable Logo"
+- [[SRC-017-logos-that-last|SRC-017]] Allan Peters, *Logos That Last: How to Create Iconic Visual Branding*, cap. 1 „What Makes a Logo Last?"
+- [[SRC-015-the-brand-blueprint|SRC-015]] Carl J. Damgaard, *The Unbeatable Brand Blueprint*, cap. 5, secțiunea „Key Elements of a Memorable Logo"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0506-cinci-tehnici-de-a-combina-doua-substantive-intr-un-semn|ART-0506]] _vezi_ — Cinci tehnici de a combina două substantive într-un semn original
+- [[ART-0508-un-sistem-de-identitate-modular-are-semn-logo-orizontal|ART-0508]] _vezi_ — Un sistem de identitate modular are semn, logo orizontal, vertical și badge
+- [[ART-0509-adn-ul-geometric-al-semnului-se-extinde-in-pattern-uri|ART-0509]] _vezi_ — ADN-ul geometric al semnului se extinde în pattern-uri, iconuri și litere
+- [[ART-0510-redesignul-unui-logo-trebuie-sa-fie-evolutie-nu-revolutie|ART-0510]] _fundament_ — Redesignul unui logo trebuie să fie evoluție, nu revoluție
+- [[IDE-0501-inspiratia-vizuala-originala-se-cauta-in-afara-bulei-de-pe|IDE-0501]] _vezi_ — Inspirația vizuală originală se caută în afara bulei de pe Pinterest și Dribbble
+- [[PRT-0501-proiectele-personale-aduc-in-portofoliu-munca-pe-care-vrei|PRT-0501]] _vezi_ — Proiectele personale aduc în portofoliu munca pe care vrei s-o primești
+- [[SRC-017-logos-that-last|SRC-017]] — Logos That Last: How to Create Iconic Visual Branding
+<!-- backlinks:end -->

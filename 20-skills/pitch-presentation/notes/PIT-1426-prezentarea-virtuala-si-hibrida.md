@@ -47,10 +47,19 @@ Un pitch online de 30 de minute alternează: 3 minute față în cadru (S.T.A.R.
 
 ## Legături
 
-- **fundament** [[PIT-1425]] — energia se ridică la 8,5 din cauza camerei.
-- **vezi** [[PIT-1418]] — principiile de slide-uri, inclusiv testul telefonului mobil.
-- **vezi** [[PIT-1427]] — implicarea pe nume e și mai importantă online.
+- **fundament** [[PIT-1425-energia-nivel-8-si-incalzirea|PIT-1425]] — energia se ridică la 8,5 din cauza camerei.
+- **vezi** [[PIT-1418-sase-principii-pentru-slide-uri|PIT-1418]] — principiile de slide-uri, inclusiv testul telefonului mobil.
+- **vezi** [[PIT-1427-implicarea-audientei-fara-tumbleweed|PIT-1427]] — implicarea pe nume e și mai importantă online.
 
 ## Surse
 
-- [[SRC-043]] Dominic Colenso, *Cut-Through*, cap. 4 și 5
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] Dominic Colenso, *Cut-Through*, cap. 4 și 5
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PIT-1418-sase-principii-pentru-slide-uri|PIT-1418]] _vezi_ — Slide-urile sunt decor, nu script — șase principii de design al deck-ului
+- [[PIT-1425-energia-nivel-8-si-incalzirea|PIT-1425]] _aplicare_ — Vorbitorul conduce energia sălii la „nivelul 8” și își încălzește corpul și vocea ca un instrument
+- [[PIT-1427-implicarea-audientei-fara-tumbleweed|PIT-1427]] _vezi_ — Implicarea audienței se construiește prin întrebări retorice, cadre de interacțiune și nume
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] — Cut-Through: The pitch and presentation playbook
+<!-- backlinks:end -->

@@ -35,22 +35,32 @@ Braun și Landa adaugă două nuanțe. Eoin McLaughlin (Channel 4): în comunica
 ## Aplicare
 
 - Construiește gluma din adevăruri trăite (Ingledew: o glumă din experiența reală sună sincer).
-- Verifică ce rămâne după râs: e beneficiul legat de brand sau doar gluma? (vezi *linkage* în [[BRF-0712]])
+- Verifică ce rămâne după râs: e beneficiul legat de brand sau doar gluma? (vezi *linkage* în [[BRF-0712-adplan-sase-intrebari-pentru-o-executie-on-brief|BRF-0712]])
 - Pentru satiră, alege ținta cu grijă: satira lovește în sus, spre cei puternici, nu în jos.
 
 ## Întrebări
 
-- Când devine umorul despre un grup un stereotip? Trece gluma ta testul din [[STO-0709]]?
+- Când devine umorul despre un grup un stereotip? Trece gluma ta testul din [[STO-0709-checklist-de-responsabilitate-dei-storiestelling|STO-0709]]?
 - Ce tip de umor rezistă la o campanie internațională?
 
 ## Legături
 
-- **fundament** [[IDE-0701]] — râsul e forma fizică a brainjack-ului.
-- **vezi** [[IDE-0706]] — parodia și ironia lucrează cu convenții cunoscute.
-- **vezi** [[STO-0710]] — Channel 4: umorul ca antidot la „inspiration porn".
-- **contrazice** [[IDE-0710]] — umorul cucerește prin complicitate, șocul prin disconfort.
+- **fundament** [[IDE-0701-brainjack-ideea-captureaza-mintea-nu-doar-ochiul|IDE-0701]] — râsul e forma fizică a brainjack-ului.
+- **vezi** [[IDE-0706-cliseul-conventia-si-formatul-familiar-folosite-pe-dos|IDE-0706]] — parodia și ironia lucrează cu convenții cunoscute.
+- **vezi** [[STO-0710-cazul-channel-4-superhumans-super-human|STO-0710]] — Channel 4: umorul ca antidot la „inspiration porn".
+- **contrazice** [[IDE-0710-dezbatere-socul-arma-de-atentie-sau-risc|IDE-0710]] — umorul cucerește prin complicitate, șocul prin disconfort.
 
 ## Surse
 
-- [[SRC-024]] John Ingledew, *The A–Z of Visual Ideas*, intrările „Humour", „Laughter", „Irony", „Satire", „Caricature", „So bad it's good"
-- [[SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 7
+- [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] John Ingledew, *The A–Z of Visual Ideas*, intrările „Humour", „Laughter", „Irony", „Satire", „Caricature", „So bad it's good"
+- [[SRC-025-shareworthy|SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 7
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[IDE-0706-cliseul-conventia-si-formatul-familiar-folosite-pe-dos|IDE-0706]] _vezi_ — Clișeul, convenția și formatul familiar devin idei când sunt folosite pe dos
+- [[IDE-0710-dezbatere-socul-arma-de-atentie-sau-risc|IDE-0710]] _vezi_ — Dezbatere — șocul este cea mai puternică armă de atenție sau cel mai mare risc de reacție negativă?
+- [[STO-0709-checklist-de-responsabilitate-dei-storiestelling|STO-0709]] — Checklist-ul de responsabilitate pentru reprezentare — stereotipuri, putere, apropriere, decor și o echipă diversă în fiecare etapă
+- [[STO-0710-cazul-channel-4-superhumans-super-human|STO-0710]] _vezi_ — Cazul Channel 4 „Superhumans" → „Super. Human" — când propria idee de succes creează un stereotip nou
+- [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] — The A–Z of Visual Ideas: How to Solve Any Creative Brief
+<!-- backlinks:end -->

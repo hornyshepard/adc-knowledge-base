@@ -49,10 +49,18 @@ Pentru software-ul de video cu AI din carte, faza Ask folosește o Video Action 
 
 ## Legături
 
-- **vezi** [[DIG-1012]] — fiecare format vine cu modelul lui de plată.
-- **vezi** [[SOC-1007]] — YouTube în comparație cu celelalte platforme sociale.
-- **vezi** [[DIG-1026]] — formatele se aleg pe etapa din journey a subcampaniei.
+- **vezi** [[DIG-1012-modelul-de-plata-media-urmeaza-obiectivul-si-etapa|DIG-1012]] — fiecare format vine cu modelul lui de plată.
+- **vezi** [[SOC-1007-platforma-sociala-potrivita-patru-intrebari|SOC-1007]] — YouTube în comparație cu celelalte platforme sociale.
+- **vezi** [[DIG-1026-grup-de-campanie-pe-persona-subcampanii-pe-etape|DIG-1026]] — formatele se aleg pe etapa din journey a subcampaniei.
 
 ## Surse
 
-- [[SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 2.2.4 (p. 66) și 3.4.3 (p. 119–124)
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 2.2.4 (p. 66) și 3.4.3 (p. 119–124)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-1012-modelul-de-plata-media-urmeaza-obiectivul-si-etapa|DIG-1012]] _vezi_ — Modelul de plată media se alege după obiectiv și etapa din customer journey — CPM pentru notorietate, CPV/CPE pentru atracție, CPC/CPL pentru informare, CPA pentru cumpărare
+- [[SOC-1007-platforma-sociala-potrivita-patru-intrebari|SOC-1007]] _vezi_ — Platforma socială potrivită trece testul a patru întrebări — persona e acolo, obiectivul se poate atinge, mesajul se potrivește, publicul e receptiv acolo
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] — Digital Advertising in the Post-cookie Era: Strategic Campaign Planning Across the Customer Journey
+<!-- backlinks:end -->

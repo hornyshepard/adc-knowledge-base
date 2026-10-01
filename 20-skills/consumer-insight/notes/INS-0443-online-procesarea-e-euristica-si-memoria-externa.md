@@ -46,12 +46,20 @@ Studiul Sparrow et al. (2011): „știm mai puține fapte, dar știm mai bine un
 
 ## Legături
 
-- **contrazice** [[INS-0413]] — setul de considerație bazat pe memorie pierde din importanță.
-- **extinde** [[INS-0408]] — efectul de adevăr în mediul online.
-- **vezi** [[INS-0440]] — dovada socială, principiul cel mai robust online.
-- **vezi** [[INS-0442]] — încrederea, filtrul de dinaintea euristicilor.
-- **vezi** [[INS-0444]] — conversațiile dintre consumatori, a treia sursă de persuasiune online.
+- **contrazice** [[INS-0413-accesibilitatea-decide-setul-de-consideratie|INS-0413]] — setul de considerație bazat pe memorie pierde din importanță.
+- **extinde** [[INS-0408-efectul-de-adevar-intai-credem-apoi-corectam|INS-0408]] — efectul de adevăr în mediul online.
+- **vezi** [[INS-0440-sapte-principii-de-influenta-fara-schimbarea-atitudinii|INS-0440]] — dovada socială, principiul cel mai robust online.
+- **vezi** [[INS-0442-increderea-online-depinde-de-focusul-reglator|INS-0442]] — încrederea, filtrul de dinaintea euristicilor.
+- **vezi** [[INS-0444-continutul-se-distribuie-cand-activeaza-emotii|INS-0444]] — conversațiile dintre consumatori, a treia sursă de persuasiune online.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 8, p. 362-376
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 8, p. 362-376
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[INS-0442-increderea-online-depinde-de-focusul-reglator|INS-0442]] _vezi_ — Online, designul profesional construiește încrederea celor care caută câștiguri, iar semnalele de siguranță doar a celor care evită pierderi
+- [[INS-0444-continutul-se-distribuie-cand-activeaza-emotii|INS-0444]] _vezi_ — Conținutul se distribuie când produce emoții cu activare mare — uimire, furie, anxietate —, nu doar emoții pozitive
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

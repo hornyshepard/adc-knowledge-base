@@ -46,10 +46,20 @@ Bagel Works, care are printre valori sănătatea și siguranța, cumpără făin
 
 ## Legături
 
-- **fundament** [[BRD-0202]] — valorile sunt coloana „how" a matricei VBM, adresată angajaților.
-- **vezi** [[BRD-0201]] — angajații livrează integritatea de brand în fiecare interacțiune.
-- **vezi** [[MKT-0207]] — credo-urile 3.0 cer același tip de aliniere între declarație și practică.
+- **fundament** [[BRD-0202-matricea-vbm-misiune-viziune-valori-minte-inima-spirit|BRD-0202]] — valorile sunt coloana „how" a matricei VBM, adresată angajaților.
+- **vezi** [[BRD-0201-modelul-3i-identitate-integritate-imagine-de-brand|BRD-0201]] — angajații livrează integritatea de brand în fiecare interacțiune.
+- **vezi** [[MKT-0207-cele-10-credo-uri-ale-marketingului-3-0|MKT-0207]] — credo-urile 3.0 cer același tip de aliniere între declarație și practică.
 
 ## Surse
 
-- [[SRC-003]] Kotler, Kartajaya, Setiawan, *Marketing 3.0*, cap. 4 „Marketing the Values to the Employees", p. 87-103 (Tabelul 4.1, Fig. 4.1)
+- [[SRC-003-marketing-3-0-philip-kotler|SRC-003]] Kotler, Kartajaya, Setiawan, *Marketing 3.0*, cap. 4 „Marketing the Values to the Employees", p. 87-103 (Tabelul 4.1, Fig. 4.1)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0202-matricea-vbm-misiune-viziune-valori-minte-inima-spirit|BRD-0202]] _extinde_ — Matricea bazată pe valori (VBM) leagă misiunea, viziunea și valorile de mintea, inima și spiritul stakeholderilor
+- [[EXP-0203-al-treilea-loc-reinventat-realitati-extinse-in-spatiul-fizic|EXP-0203]] _vezi_ — Al treilea loc trebuie reinventat ca realitate extinsă — spațiul fizic augmentat digital, construit din dovezi fizice, proces și oameni
+- [[MKT-0207-cele-10-credo-uri-ale-marketingului-3-0|MKT-0207]] _vezi_ — Cele 10 credo-uri ale Marketingului 3.0 integrează valorile în practica zilnică de marketing
+- [[STO-0201-povestea-de-brand-personaj-intriga-metafora|STO-0201]] _vezi_ — Povestea de brand care mișcă oamenii are personaj, intrigă și metaforă
+- [[SRC-003-marketing-3-0-philip-kotler|SRC-003]] — Marketing 3.0: From Products to Customers to the Human Spirit
+<!-- backlinks:end -->

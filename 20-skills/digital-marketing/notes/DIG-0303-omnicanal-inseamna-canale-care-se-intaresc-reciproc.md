@@ -47,12 +47,22 @@ Ilustrare: un retailer de modă la care cumperi online și ridici din magazin (*
 
 ## Legături
 
-- **vezi** [[DIG-0305]] — datele first-party colectate la fiecare punct de contact fac posibil omnicanalul.
-- **vezi** [[DIG-0302]] — vocea e încă un canal de integrat.
-- **vezi** [[AIM-0301]] — vederea unică a clientului ridică problema limitelor personalizării.
+- **vezi** [[DIG-0305-datele-first-party-se-cer-nu-se-iau-cinci-practici|DIG-0305]] — datele first-party colectate la fiecare punct de contact fac posibil omnicanalul.
+- **vezi** [[DIG-0302-cautarea-vocala-optimizare-pentru-intrebari-conversationale|DIG-0302]] — vocea e încă un canal de integrat.
+- **vezi** [[AIM-0301-paradoxul-personalizarii-relevanta-versus-intimitate|AIM-0301]] — vederea unică a clientului ridică problema limitelor personalizării.
 
 ## Surse
 
-- [[SRC-009]] The DX Review, *Future-Proof Marketing*, cap. 7
-- [[SRC-010]] Patrick Ejeke, *Marketing Trends*, trendul 43
-- [[SRC-008]] Jon Wuebben, *Future Marketing*, cap. 1–2
+- [[SRC-009-future-proof-marketing-2024-and-beyond|SRC-009]] The DX Review, *Future-Proof Marketing*, cap. 7
+- [[SRC-010-marketing-trends-ejeke|SRC-010]] Patrick Ejeke, *Marketing Trends*, trendul 43
+- [[SRC-008-future-marketing|SRC-008]] Jon Wuebben, *Future Marketing*, cap. 1–2
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0302-cautarea-vocala-optimizare-pentru-intrebari-conversationale|DIG-0302]] _vezi_ — Căutarea vocală cere conținut scris ca răspuns la întrebări rostite — o prognoză exagerată, dar o practică utilă
+- [[DIG-0304-micro-momentele-patru-intentii|DIG-0304]] _vezi_ — Micro-momentele: patru intenții — vreau să știu, să merg, să fac, să cumpăr — la care brandul răspunde în secunde
+- [[DIG-0305-datele-first-party-se-cer-nu-se-iau-cinci-practici|DIG-0305]] _aplicare_ — Datele first-party se cer, nu se iau: cinci practici pentru colectarea lor cu consimțământ
+- [[SRC-009-future-proof-marketing-2024-and-beyond|SRC-009]] — Future-Proof Marketing: Strategies for Success in 2024 and Beyond
+- [[SRC-010-marketing-trends-ejeke|SRC-010]] — Marketing Trends: 63 Digital Marketing Trends in the Age of Automation, Integrated Marketing, Omnichannel Marketing, Metaverse, Big Data, NFTs, AI, AR & VR
+<!-- backlinks:end -->

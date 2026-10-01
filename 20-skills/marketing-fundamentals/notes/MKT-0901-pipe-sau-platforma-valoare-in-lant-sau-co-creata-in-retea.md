@@ -49,10 +49,17 @@ Ideea se leagă de **Service-Dominant Logic** (Vargo și Lusch, cap. 2): toate b
 
 ## Legături
 
-- **vezi** [[DIG-0904]] — platformele sunt una dintre formele vizibile ale disrupției digitale.
-- **vezi** [[DIG-0925]] — pe platforme, earned media produse de utilizatori devin parte din produs.
-- **vezi** [[DIG-0902]] — la platforme, achiziția trebuie făcută pe două părți ale pieței.
+- **vezi** [[DIG-0904-disruptia-vs-transformarea-digitala-strategia-inaintea-tehnologiei|DIG-0904]] — platformele sunt una dintre formele vizibile ale disrupției digitale.
+- **vezi** [[DIG-0925-media-owned-earned-paid-control-credibilitate-acoperire|DIG-0925]] — pe platforme, earned media produse de utilizatori devin parte din produs.
+- **vezi** [[DIG-0902-patru-strategii-generice-achizitie-conversie-retentie-valoare|DIG-0902]] — la platforme, achiziția trebuie făcută pe două părți ale pieței.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 3, p. 73-77, 80-84, 87-89; cap. 2, p. 57-58
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 3, p. 73-77, 80-84, 87-89; cap. 2, p. 57-58
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0904-disruptia-vs-transformarea-digitala-strategia-inaintea-tehnologiei|DIG-0904]] _vezi_ — Disrupția digitală schimbă propunerea de valoare; transformarea digitală e un răspuns de strategie, nu de tehnologie
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+<!-- backlinks:end -->

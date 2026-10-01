@@ -44,10 +44,20 @@ Prima prezentare a autorului (9 ani, despre Franța) era plictisitoare — slide
 
 ## Legături
 
-- **vezi** [[PIT-1402]] — cele șase D sunt metoda prin care autorul cultivă cele trei ingrediente.
-- **vezi** [[PIT-1409]] — emoția se planifică explicit prin intenția emoțională.
-- **vezi** [[PIT-1425]] — energia vorbitorului se calibrează la „nivelul 8”.
+- **vezi** [[PIT-1402-metoda-celor-sase-d|PIT-1402]] — cele șase D sunt metoda prin care autorul cultivă cele trei ingrediente.
+- **vezi** [[PIT-1409-intentia-emotionala-prin-verbe-active|PIT-1409]] — emoția se planifică explicit prin intenția emoțională.
+- **vezi** [[PIT-1425-energia-nivel-8-si-incalzirea|PIT-1425]] — energia vorbitorului se calibrează la „nivelul 8”.
 
 ## Surse
 
-- [[SRC-043]] Dominic Colenso, *Cut-Through*, Introducere
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] Dominic Colenso, *Cut-Through*, Introducere
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PIT-1402-metoda-celor-sase-d|PIT-1402]] _fundament_ — Un pitch se construiește în șase pași — Discover, Distil, Design, Drill, Deliver, Debrief
+- [[PIT-1409-intentia-emotionala-prin-verbe-active|PIT-1409]] _vezi_ — Călătoria emoțională a audienței se planifică prin verbe active
+- [[PIT-1416-povesti-sell-si-solve-clientul-e-eroul|PIT-1416]] _vezi_ — Poveștile dintr-un pitch se structurează cu SELL sau SOLVE, iar eroul este clientul
+- [[PIT-1425-energia-nivel-8-si-incalzirea|PIT-1425]] _vezi_ — Vorbitorul conduce energia sălii la „nivelul 8” și își încălzește corpul și vocea ca un instrument
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] — Cut-Through: The pitch and presentation playbook
+<!-- backlinks:end -->

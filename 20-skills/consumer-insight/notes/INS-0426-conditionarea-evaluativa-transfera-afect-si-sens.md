@@ -43,10 +43,24 @@ Nespresso – George Clooney (exemplul autorilor): asociere exclusivă, de lung�
 
 ## Legături
 
-- **extinde** [[INS-0425]] — condiționarea evaluativă e una dintre cele trei căi afective.
-- **vezi** [[INS-0413]] — asocierea creează noduri și legături noi în rețeaua brandului.
-- **vezi** [[INS-0421]] — condiționarea poate schimba atitudinea implicită fără cea explicită.
+- **extinde** [[INS-0425-trei-cai-afective-spre-atitudine|INS-0425]] — condiționarea evaluativă e una dintre cele trei căi afective.
+- **vezi** [[INS-0413-accesibilitatea-decide-setul-de-consideratie|INS-0413]] — asocierea creează noduri și legături noi în rețeaua brandului.
+- **vezi** [[INS-0421-atitudinile-implicite-prezic-alegerea-sub-presiune|INS-0421]] — condiționarea poate schimba atitudinea implicită fără cea explicită.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 4, p. 162-168
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 4, p. 162-168
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0406-placerea-fata-de-reclama-se-transfera-asupra-brandului|ADV-0406]] _vezi_ — Plăcerea față de reclamă se transferă asupra brandului pe două căi (ipoteza dublei medieri)
+- [[ADV-0408-plasarea-de-produs-si-publicitatea-nativa|ADV-0408]] _vezi_ — Plasarea de produs și publicitatea nativă ocolesc rezistența, dar se întorc împotriva brandului când sunt prea vizibile sau asociate cu ceva negativ
+- [[ADV-0409-sponsorizarea-congruenta-avantajeaza-liderul|ADV-0409]] _fundament_ — Sponsorizarea congruentă e ținută minte mai bine, dar poate fi atribuită greșit liderului categoriei
+- [[BRD-0401-brandurile-iconice-rezolva-tensiuni-culturale|BRD-0401]] _vezi_ — Brandurile devin iconice când oferă un mit identitar care rezolvă o tensiune culturală a momentului (Holt)
+- [[CPY-0404-umorul-atrage-atentia-dar-fura-brandul|CPY-0404]] _fundament_ — Umorul atrage atenția și simpatia, dar fură memoria brandului — funcționează mai ales pentru produse ieftine cumpărate fără gândire
+- [[INS-0421-atitudinile-implicite-prezic-alegerea-sub-presiune|INS-0421]] _aplicare_ — Atitudinile implicite prezic alegerea când omul e grăbit sau obosit, cele explicite când are timp să se controleze
+- [[INS-0425-trei-cai-afective-spre-atitudine|INS-0425]] _extinde_ — Atitudinile se pot forma fără argumente, pe trei căi afective — expunere repetată, condiționare și afect ca informație
+- [[INS-0432-vedeta-convinge-ca-argument-doar-cand-e-relevanta|INS-0432]] _vezi_ — Vedeta din reclamă e indiciu periferic la implicare mică și devine argument doar când e relevantă pentru produs
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

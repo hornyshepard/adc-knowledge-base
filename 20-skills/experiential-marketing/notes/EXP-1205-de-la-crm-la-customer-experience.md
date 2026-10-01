@@ -46,10 +46,20 @@ Batat citează Gartner: 89% dintre firme se așteptau să concureze în principa
 
 ## Legături
 
-- **fundament** [[INS-1201]] — perspectiva hedonică a lui Holbrook & Hirschman e punctul de plecare al CX.
-- **vezi** [[MKT-1201]] — trecerea de la logica bunului la logica clientului, în paralel cu trecerea de la CRM la CX.
-- **vezi** [[EXP-1206]] — experiența privită ca parcurs în etape.
+- **fundament** [[INS-1201-consumul-hedonic-fantezii-sentimente-distractie|INS-1201]] — perspectiva hedonică a lui Holbrook & Hirschman e punctul de plecare al CX.
+- **vezi** [[MKT-1201-logica-dominata-de-client-cdl|MKT-1201]] — trecerea de la logica bunului la logica clientului, în paralel cu trecerea de la CRM la CX.
+- **vezi** [[EXP-1206-experienta-in-patru-etape-pre-consum-amintire|EXP-1206]] — experiența privită ca parcurs în etape.
 
 ## Surse
 
-- [[SRC-036]] Wided Batat, *Experiential Marketing*, cap. 2 (secț. „The concept of experience", „What is customer experience?", „Theoretical underpinnings"; Theory Box 2.2)
+- [[SRC-036-experiential-marketing|SRC-036]] Wided Batat, *Experiential Marketing*, cap. 2 (secț. „The concept of experience", „What is customer experience?", „Theoretical underpinnings"; Theory Box 2.2)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[EXP-1202-cadrul-cx-drivere-markeri-rezultate|EXP-1202]] _fundament_ — Experiența clientului e un proces cu drivere, markeri și rezultate (cadrul customer experience marketing)
+- [[EXP-1206-experienta-in-patru-etape-pre-consum-amintire|EXP-1206]] _extinde_ — Experiența se desfășoară în patru etape — pre-consum, cumpărare, nucleu, amintire — și fiecare se proiectează separat
+- [[INS-1201-consumul-hedonic-fantezii-sentimente-distractie|INS-1201]] _vezi_ — Perspectiva experiențială — consumul înseamnă și fantezii, sentimente și distracție, nu doar procesare de informații
+- [[MKT-1201-logica-dominata-de-client-cdl|MKT-1201]] _vezi_ — Logica dominată de client (CDL) pune clientul la începutul lanțului valoric, nu la capătul lui
+- [[SRC-036-experiential-marketing|SRC-036]] — Experiential Marketing: Consumer Behavior, Customer Experience and the 7Es
+<!-- backlinks:end -->

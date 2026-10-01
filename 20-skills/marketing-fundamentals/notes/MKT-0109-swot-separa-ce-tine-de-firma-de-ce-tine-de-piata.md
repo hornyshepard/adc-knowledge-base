@@ -49,10 +49,18 @@ Ambalajul din plastic este pentru PepsiCo o slăbiciune internă care se întâl
 
 ## Legături
 
-- **fundament** [[MKT-0108]] — SWOT este instrumentul pasului 2 din planul de marketing.
-- **extinde** [[MKT-0110]] — CDSTEP alimentează partea externă (oportunități și amenințări).
-- **aplicare** [[MKT-0112]] — primul pas al STP cere ca strategia de segmentare să fie coerentă cu SWOT-ul.
+- **fundament** [[MKT-0108-planul-de-marketing-cinci-pasi-in-trei-faze|MKT-0108]] — SWOT este instrumentul pasului 2 din planul de marketing.
+- **extinde** [[MKT-0110-mediul-de-marketing-imediat-si-macromediul-cdstep|MKT-0110]] — CDSTEP alimentează partea externă (oportunități și amenințări).
+- **aplicare** [[MKT-0112-stp-in-cinci-pasi|MKT-0112]] — primul pas al STP cere ca strategia de segmentare să fie coerentă cu SWOT-ul.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 2, p. 38-40, 55 (Exhibit 2.3)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 2, p. 38-40, 55 (Exhibit 2.3)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[MKT-0108-planul-de-marketing-cinci-pasi-in-trei-faze|MKT-0108]] _extinde_ — Planul de marketing are cinci pași grupați în trei faze — planificare, implementare, control
+- [[MKT-0110-mediul-de-marketing-imediat-si-macromediul-cdstep|MKT-0110]] _extinde_ — Mediul de marketing are două cercuri — mediul imediat și macromediul CDSTEP (varianta Grewal-Levy a PESTEL)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+<!-- backlinks:end -->

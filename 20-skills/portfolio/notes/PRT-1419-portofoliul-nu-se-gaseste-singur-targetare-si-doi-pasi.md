@@ -46,10 +46,18 @@ Un student care trimite portofoliul prin formularul agenției și, în paralel, 
 
 ## Legături
 
-- **vezi** [[CLI-1402]] — lista de companii-țintă e un Dream 100 aplicat carierei.
-- **vezi** [[CLI-1403]] — susținătorul intern funcționează ca o introducere în trei.
-- **aplicare** [[PRT-1404]] — candidatura adaptată pornește din analiza anunțului.
+- **vezi** [[CLI-1402-dream-100-lista-clientilor-tinta|CLI-1402]] — lista de companii-țintă e un Dream 100 aplicat carierei.
+- **vezi** [[CLI-1403-introducerea-in-trei-deschide-usi|CLI-1403]] — susținătorul intern funcționează ca o introducere în trei.
+- **aplicare** [[PRT-1404-analiza-anuntului-de-angajare-ghideaza-curatoria|PRT-1404]] — candidatura adaptată pornește din analiza anunțului.
 
 ## Surse
 
-- [[SRC-047]] Hannah Morgan, *The Infographic Resume*, cap. 10–12
+- [[SRC-047-the-infographic-resume|SRC-047]] Hannah Morgan, *The Infographic Resume*, cap. 10–12
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PRT-1420-reputatia-online-este-cv-ul-in-timp-real|PRT-1420]] _vezi_ — Reputația online este CV-ul în timp real — și se construiește deliberat
+- [[PRT-1426-cv-declaratia-de-design-si-scrisoarea-de-intentie|PRT-1426]] _vezi_ — CV-ul, declarația de design și scrisoarea de intenție completează portofoliul — funcționale, scurte și adaptate fiecărei aplicații
+- [[SRC-047-the-infographic-resume|SRC-047]] — The Infographic Resume: How to Create a Visual Portfolio That Showcases Your Skills and Lands the Job
+<!-- backlinks:end -->

@@ -52,10 +52,20 @@ LaCroix (Adding Value 6.1) a intrat în setul evocat al Millennials prin micro-i
 
 ## Legături
 
-- **fundament** [[INS-0101]] — evaluarea alternativelor este etapa a treia a deciziei.
-- **aplicare** [[ADV-0102]] — notorietatea spontană din modelul AIDA ajută brandul să intre în setul evocat.
-- **vezi** [[MKT-0115]] — poziționarea pe atribute importante e varianta strategică a atributului determinant.
+- **fundament** [[INS-0101-decizia-de-cumparare-cinci-etape-si-dupa-cumparare|INS-0101]] — evaluarea alternativelor este etapa a treia a deciziei.
+- **aplicare** [[ADV-0102-aida-gandeste-simte-actioneaza-si-efectul-intarziat|ADV-0102]] — notorietatea spontană din modelul AIDA ajută brandul să intre în setul evocat.
+- **vezi** [[MKT-0115-pozitionarea-patru-baze-verificate-pe-harta-perceptuala|MKT-0115]] — poziționarea pe atribute importante e varianta strategică a atributului determinant.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 6, p. 195-197 (Exhibit 6.2, Adding Value 6.1)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 6, p. 195-197 (Exhibit 6.2, Adding Value 6.1)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0102-aida-gandeste-simte-actioneaza-si-efectul-intarziat|ADV-0102]] _vezi_ — Modelul AIDA descrie trecerea de la a gândi la a simți și a acționa — cu un efect întârziat care complică măsurarea
+- [[INS-0101-decizia-de-cumparare-cinci-etape-si-dupa-cumparare|INS-0101]] _extinde_ — Decizia de cumpărare are cinci etape și nu se încheie la casă — satisfacția, disonanța și loialitatea vin după
+- [[INS-0105-arhitectura-alegerii-nudge-si-optiunea-implicita|INS-0105]] _fundament_ — Arhitectura alegerii influențează decizia fără s-o interzică — prin „ghionturi" (nudges) și opțiuni implicite
+- [[MKT-0115-pozitionarea-patru-baze-verificate-pe-harta-perceptuala|MKT-0115]] _vezi_ — Poziționarea se construiește pe valoare, atribute, simboluri sau concurență și se verifică pe harta perceptuală
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+<!-- backlinks:end -->

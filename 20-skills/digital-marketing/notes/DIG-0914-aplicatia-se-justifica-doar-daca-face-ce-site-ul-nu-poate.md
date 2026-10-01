@@ -42,10 +42,17 @@ Aplicația **Starbucks** e exemplul pozitiv: clienții vin de mai multe ori pe s
 
 ## Legături
 
-- **extinde** [[DIG-0911]] — alegerea mobilă face parte din nevoile de dezvoltare ale site-ului.
-- **vezi** [[DIG-0907]] — metricile aplicației urmăresc instalare, engagement, retenție, CLV.
-- **vezi** [[EXP-0901]] — aplicația bună reduce frecarea dintr-o experiență repetată.
+- **extinde** [[DIG-0911-site-ul-se-construieste-in-sapte-pasi-marketingul-conduce|DIG-0911]] — alegerea mobilă face parte din nevoile de dezvoltare ale site-ului.
+- **vezi** [[DIG-0907-metricile-se-aleg-din-obiective-smart-si-etapa-journey-ului|DIG-0907]] — metricile aplicației urmăresc instalare, engagement, retenție, CLV.
+- **vezi** [[EXP-0901-customer-experience-suma-interactiunilor-nu-un-eveniment|EXP-0901]] — aplicația bună reduce frecarea dintr-o experiență repetată.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 6, p. 183-187; cap. 5, p. 147-148
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 6, p. 183-187; cap. 5, p. 147-148
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0911-site-ul-se-construieste-in-sapte-pasi-marketingul-conduce|DIG-0911]] _aplicare_ — Site-ul se construiește în șapte pași, iar marketingul conduce primii — altfel iese tehnologie fără obiectiv
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+<!-- backlinks:end -->

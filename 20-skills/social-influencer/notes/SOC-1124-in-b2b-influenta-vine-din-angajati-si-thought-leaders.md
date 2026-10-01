@@ -43,10 +43,19 @@ SAP și-a mutat în pandemie conferința anuală online, cu doar zece zile pentr
 
 ## Legături
 
-- **extinde** [[SOC-1115]] — în B2B, relevanța și referința contează mai mult decât reach-ul.
-- **vezi** [[SOC-1123]] — angajații pot face parte dintr-un program de ambasadori.
-- **vezi** [[SOC-1104]] — profilul „profersonal" al unui expert e baza influenței B2B.
+- **extinde** [[SOC-1115-cei-patru-r-ai-influentei-relevanta-rezonanta-referinta|SOC-1115]] — în B2B, relevanța și referința contează mai mult decât reach-ul.
+- **vezi** [[SOC-1123-programul-de-ambasadori-se-conduce-ca-o-echipa-de-vanzari|SOC-1123]] — angajații pot face parte dintr-un program de ambasadori.
+- **vezi** [[SOC-1104-patru-genuri-de-profil-social-personal-comunitate-brand|SOC-1104]] — profilul „profersonal" al unui expert e baza influenței B2B.
 
 ## Surse
 
-- [[SRC-035]] Glenister, *Influencer Marketing Strategy*, Introducere, p. 24–26; cap. 2, p. 80–82, 86–88; cap. 4, p. 146; cap. 11, p. 279
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] Glenister, *Influencer Marketing Strategy*, Introducere, p. 24–26; cap. 2, p. 80–82, 86–88; cap. 4, p. 146; cap. 11, p. 279
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[SOC-1104-patru-genuri-de-profil-social-personal-comunitate-brand|SOC-1104]] _vezi_ — Patru genuri de profil social: personal, comunitate, brand, jurnalist
+- [[SOC-1123-programul-de-ambasadori-se-conduce-ca-o-echipa-de-vanzari|SOC-1123]] _vezi_ — Programul de ambasadori se conduce ca o echipă de vânzări cu manager dedicat
+- [[SOC-1126-fiecare-platforma-are-un-rol-diferit-in-influencer-marketing|SOC-1126]] _vezi_ — Fiecare platformă are un rol diferit în influencer marketing
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] — Influencer Marketing Strategy: How influencers can help grow your business
+<!-- backlinks:end -->

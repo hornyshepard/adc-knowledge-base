@@ -54,14 +54,29 @@ Adolescenții care revând haine pe Poshmark (Adding Value 1.2) aplică intuitiv
 
 ## Legături
 
-- **fundament** [[MKT-0101]] — cele 4P sunt operaționalizarea definiției marketingului.
-- **extinde** [[MKT-0107]] — mixul este a doua componentă a strategiei de marketing, după piața țintă.
-- **extinde** [[ADV-0101]] — al patrulea P, promovarea, este detaliat ca IMC.
-- **vezi** [[MKT-0120]] — prețul, singurul P care aduce venit, are propria logică (5C).
-- **extinde** [[MKT-0122]] — al treilea P, plasarea, e detaliat prin canale și intensitatea distribuției.
-- **vezi** [[MKT-0128]] — pentru servicii, mixul se extinde la 7P (oameni, procese, dovezi fizice).
+- **fundament** [[MKT-0101-marketingul-creeaza-capteaza-comunica-si-livreaza-valoare|MKT-0101]] — cele 4P sunt operaționalizarea definiției marketingului.
+- **extinde** [[MKT-0107-strategia-tinta-mix-si-avantaj-competitiv-durabil|MKT-0107]] — mixul este a doua componentă a strategiei de marketing, după piața țintă.
+- **extinde** [[ADV-0101-imc-integreaza-canalele-pentru-claritate-consecventa-impact|ADV-0101]] — al patrulea P, promovarea, este detaliat ca IMC.
+- **vezi** [[MKT-0120-pretul-sacrificiu-total-fixat-prin-5c|MKT-0120]] — prețul, singurul P care aduce venit, are propria logică (5C).
+- **extinde** [[MKT-0122-distributia-canale-si-intensitate|MKT-0122]] — al treilea P, plasarea, e detaliat prin canale și intensitatea distribuției.
+- **vezi** [[MKT-0128-pentru-servicii-mixul-devine-7p-oameni-procese-dovezi-fizice|MKT-0128]] — pentru servicii, mixul se extinde la 7P (oameni, procese, dovezi fizice).
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 1, p. 7-9 (Exhibit 1.3); cap. 2, p. 43-45
-- [[SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 1, p. 29-33 (§1.6)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 1, p. 7-9 (Exhibit 1.3); cap. 2, p. 43-45
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 1, p. 29-33 (§1.6)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0101-imc-integreaza-canalele-pentru-claritate-consecventa-impact|ADV-0101]] _fundament_ — Comunicarea integrată de marketing (IMC) tratează toate canalele ca pe un întreg — pentru claritate, consecvență și impact maxim
+- [[MKT-0101-marketingul-creeaza-capteaza-comunica-si-livreaza-valoare|MKT-0101]] _extinde_ — Marketingul creează, captează, comunică și livrează valoare (definiția AMA)
+- [[MKT-0107-strategia-tinta-mix-si-avantaj-competitiv-durabil|MKT-0107]] _fundament_ — Strategia de marketing = piață țintă + mix + un avantaj competitiv durabil, construit ca un zid
+- [[MKT-0117-produsul-are-trei-straturi|MKT-0117]] _fundament_ — Produsul are trei straturi — valoarea de bază, produsul efectiv și serviciile asociate (produsul augmentat)
+- [[MKT-0120-pretul-sacrificiu-total-fixat-prin-5c|MKT-0120]] _vezi_ — Prețul este sacrificiul total al clientului și se fixează prin cele 5C — obiective, clienți, costuri, concurență, canal
+- [[MKT-0122-distributia-canale-si-intensitate|MKT-0122]] _fundament_ — Distribuția alege între canal direct și indirect și între trei niveluri de intensitate — intensivă, selectivă, exclusivă
+- [[MKT-0123-serviciile-intangibile-inseparabile-eterogene-perisabile|MKT-0123]] _vezi_ — Serviciile se deosebesc de bunuri prin patru trăsături — intangibile, inseparabile, eterogene, perisabile
+- [[MKT-0128-pentru-servicii-mixul-devine-7p-oameni-procese-dovezi-fizice|MKT-0128]] _extinde_ — Pentru servicii, mixul devine 7P — se adaugă oamenii, procesele și dovezile fizice
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] — Principles of Marketing
+<!-- backlinks:end -->

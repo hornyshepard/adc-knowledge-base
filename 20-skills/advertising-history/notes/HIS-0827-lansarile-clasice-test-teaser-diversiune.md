@@ -32,7 +32,7 @@ status: seed
 
 ## Exemplu
 
-Sloganul „I’d Walk a Mile for a Camel” a venit din replica unui trecător către un pictor de panouri care i-a dat o țigară (vezi [[CPY-0809]]).
+Sloganul „I’d Walk a Mile for a Camel” a venit din replica unui trecător către un pictor de panouri care i-a dat o țigară (vezi [[CPY-0809-titlurile-bune-sunt-gasite-nu-inventate|CPY-0809]]).
 
 ## Întrebări
 
@@ -41,11 +41,21 @@ Sloganul „I’d Walk a Mile for a Camel” a venit din replica unui trecător 
 
 ## Legături
 
-- **vezi** [[HIS-0826]] — cealaltă lecție strategică clasică: inventarea ocaziilor.
-- **vezi** [[HIS-0824]] — Camel ca etapă în istoria publicității de tutun.
-- **contrazice** [[CPY-0816]] — Plymouth a lansat „pe spatele” lui Ford, nu prin suspans propriu.
-- **vezi** [[ADV]] — planificarea lansării în strategia de publicitate.
+- **vezi** [[HIS-0826-marile-campanii-au-inventat-ocazii-de-consum|HIS-0826]] — cealaltă lecție strategică clasică: inventarea ocaziilor.
+- **vezi** [[HIS-0824-tutunul-frontul-limitelor-publicitatii|HIS-0824]] — Camel ca etapă în istoria publicității de tutun.
+- **contrazice** [[CPY-0816-challengerul-castiga-schimband-jocul|CPY-0816]] — Plymouth a lansat „pe spatele” lui Ford, nu prin suspans propriu.
+- **vezi** [[20-skills/advertising-strategy/SKILL|ADV]] — planificarea lansării în strategia de publicitate.
 
 ## Surse
 
-- [[SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Camel Cigarettes — First Big Time Cigarette Campaign”, „Ford — How the Tin Lizzie Became a Lady”, „Lux Toilet Soap”
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Camel Cigarettes — First Big Time Cigarette Campaign”, „Ford — How the Tin Lizzie Became a Lady”, „Lux Toilet Soap”
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0809-titlurile-bune-sunt-gasite-nu-inventate|CPY-0809]] _exemplu_ — Cele mai bune titluri sunt adesea găsite, nu inventate — ascultă clientul și strada
+- [[CPY-0816-challengerul-castiga-schimband-jocul|CPY-0816]] _contrazice_ — Challengerul câștigă schimbând jocul — comparație sportivă, autoironie și refuzul superlativelor
+- [[HIS-0824-tutunul-frontul-limitelor-publicitatii|HIS-0824]] — Tutunul a fost frontul pe care publicitatea și-a testat puterea și limitele
+- [[HIS-0826-marile-campanii-au-inventat-ocazii-de-consum|HIS-0826]] _vezi_ — Marile campanii au inventat ocazii de consum — Coca-Cola, pauza de cafea, inelul cu diamant
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] — The 100 Greatest Advertisements 1852–1958: Who Wrote Them and What They Did
+<!-- backlinks:end -->

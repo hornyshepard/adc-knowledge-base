@@ -50,11 +50,23 @@ West Edmonton Mall (Canada), inspirat de bazarurile persane, atrage circa 22 de 
 
 ## Legături
 
-- **fundament** [[EXP-1202]] — imersiunea e unul dintre driverii idiocentrici ai cadrului.
-- **vezi** [[INS-1202]] — flow-ul este gradul maxim de intensitate al imersiunii.
-- **vezi** [[EXP-1209]] — tematizarea e principalul instrument de construire a cadrului imersiv.
-- **vezi** [[EXP-1208]] — dezbaterea dacă imersiunea cere un cadru extraordinar.
+- **fundament** [[EXP-1202-cadrul-cx-drivere-markeri-rezultate|EXP-1202]] — imersiunea e unul dintre driverii idiocentrici ai cadrului.
+- **vezi** [[INS-1202-flow-provocarea-potrivita-cu-competenta|INS-1202]] — flow-ul este gradul maxim de intensitate al imersiunii.
+- **vezi** [[EXP-1209-tematizarea-unifica-decorul-experientei|EXP-1209]] — tematizarea e principalul instrument de construire a cadrului imersiv.
+- **vezi** [[EXP-1208-experiente-ordinare-vs-extraordinare|EXP-1208]] — dezbaterea dacă imersiunea cere un cadru extraordinar.
 
 ## Surse
 
-- [[SRC-036]] Wided Batat, *Experiential Marketing*, cap. 3 (Theory Box 3.2, Figura 3.3, Tabelul 3.2, mini-cazul 3.3); cap. 11 (Tabelul 11.2)
+- [[SRC-036-experiential-marketing|SRC-036]] Wided Batat, *Experiential Marketing*, cap. 3 (Theory Box 3.2, Figura 3.3, Tabelul 3.2, mini-cazul 3.3); cap. 11 (Tabelul 11.2)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[EXP-1202-cadrul-cx-drivere-markeri-rezultate|EXP-1202]] _vezi_ — Experiența clientului e un proces cu drivere, markeri și rezultate (cadrul customer experience marketing)
+- [[EXP-1208-experiente-ordinare-vs-extraordinare|EXP-1208]] _vezi_ — Experiența memorabilă nu cere neapărat extraordinarul — dezbaterea ordinar vs. extraordinar
+- [[EXP-1209-tematizarea-unifica-decorul-experientei|EXP-1209]] _aplicare_ — Tematizarea unifică decorul și transformă o ofertă obișnuită într-o experiență
+- [[EXP-1210-marketingul-senzorial-cinci-semnaturi|EXP-1210]] _vezi_ — Marketingul senzorial construiește cinci semnături de brand — olfactivă, auditivă, tactilă, vizuală, gustativă
+- [[EXP-1223-caz-coca-cola-happiness-factory-expo-shanghai|EXP-1223]] _exemplu_ — Caz — pavilionul Coca-Cola de la Expo Shanghai 2010 transformă universul „Happiness Factory" într-un parcurs multisenzorial
+- [[INS-1202-flow-provocarea-potrivita-cu-competenta|INS-1202]] _extinde_ — Flow-ul — absorbția totală apare când provocarea e mare și potrivită cu competența omului
+- [[SRC-036-experiential-marketing|SRC-036]] — Experiential Marketing: Consumer Behavior, Customer Experience and the 7Es
+<!-- backlinks:end -->

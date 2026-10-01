@@ -48,10 +48,19 @@ Politica Lyft de a încuraja bacșișul, percepută inițial ca minus, a devenit
 
 ## Legături
 
-- **fundament** [[BRD-0501]] — dacă brandul e un set de asociații, asocierile sunt de măsurat.
-- **aplicare** [[BRD-0521]] — simpatia din modelul notorietate–simpatie–cotă vine din aceste date.
-- **vezi** [[INS-0501]] — aceeași filozofie: caută cuvintele și frustrările reale ale oamenilor.
+- **fundament** [[BRD-0501-brandul-este-un-set-de-asociatii-care-actioneaza-ca-o|BRD-0501]] — dacă brandul e un set de asociații, asocierile sunt de măsurat.
+- **aplicare** [[BRD-0521-modelul-notorietate-simpatie-cota-de-piata-indica-strategia|BRD-0521]] — simpatia din modelul notorietate–simpatie–cotă vine din aceste date.
+- **vezi** [[INS-0501-insight-ul-vine-din-urmarirea-insistenta-a-lui-de-ce-si-a|INS-0501]] — aceeași filozofie: caută cuvintele și frustrările reale ale oamenilor.
 
 ## Surse
 
-- [[SRC-014]] Julie Hennessy, „Measuring Brand Relevance and Health", cap. 15 în *Kellogg on Branding in a Hyper-Connected World*, p. 218–225, 232–233
+- [[SRC-014-kellogg-on-branding|SRC-014]] Julie Hennessy, „Measuring Brand Relevance and Health", cap. 15 în *Kellogg on Branding in a Hyper-Connected World*, p. 218–225, 232–233
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0501-brandul-este-un-set-de-asociatii-care-actioneaza-ca-o|BRD-0501]] _aplicare_ — Brandul este un set de asociații care acționează ca o prismă asupra produsului
+- [[BRD-0521-modelul-notorietate-simpatie-cota-de-piata-indica-strategia|BRD-0521]] _aplicare_ — Modelul notorietate–simpatie–cotă de piață indică strategia de brand
+- [[INS-0501-insight-ul-vine-din-urmarirea-insistenta-a-lui-de-ce-si-a|INS-0501]] _vezi_ — Insight-ul vine din urmărirea insistentă a lui „de ce" și a punctelor de fricțiune
+- [[SRC-014-kellogg-on-branding|SRC-014]] — Kellogg on Branding in a Hyper-Connected World
+<!-- backlinks:end -->

@@ -47,10 +47,20 @@ Buffalo Trace Bourbon a început cu o colaborare mică cu Derek Wolf (@OverTheFi
 
 ## Legături
 
-- **extinde** [[SOC-1110]] — pasul Cast formalizează potrivirea de valori.
-- **aplicare** [[BRF-1101]] — pasul Create se traduce într-un brief deschis interpretării.
-- **vezi** [[SOC-1133]] — misiunea corespunde obiectivelor din cadrul strategic.
+- **extinde** [[SOC-1110-valorile-comune-conteaza-inaintea-reach-ului-in-alegerea|SOC-1110]] — pasul Cast formalizează potrivirea de valori.
+- **aplicare** [[BRF-1101-brief-ul-pentru-influenceri-da-directie-dar-lasa-loc|BRF-1101]] — pasul Create se traduce într-un brief deschis interpretării.
+- **vezi** [[SOC-1133-cadrul-strategic-al-unei-campanii-cu-influenceri-porneste|SOC-1133]] — misiunea corespunde obiectivelor din cadrul strategic.
 
 ## Surse
 
-- [[SRC-035]] Glenister, *Influencer Marketing Strategy*, cap. 1 (contribuția lui D. Robson), p. 44–48; p. 56 (cazul Buffalo Trace)
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] Glenister, *Influencer Marketing Strategy*, cap. 1 (contribuția lui D. Robson), p. 44–48; p. 56 (cazul Buffalo Trace)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRF-1101-brief-ul-pentru-influenceri-da-directie-dar-lasa-loc|BRF-1101]] _aplicare_ — Brief-ul pentru influenceri dă direcție, dar lasă loc interpretării creatorului
+- [[SOC-1110-valorile-comune-conteaza-inaintea-reach-ului-in-alegerea|SOC-1110]] _vezi_ — Valorile comune contează înaintea reach-ului în alegerea creatorului
+- [[SOC-1130-tango-si-robinsons-campanii-creator-led-pe-tiktok-masurate|SOC-1130]] _vezi_ — Tango și Robinsons: campanii creator-led pe TikTok măsurate prin brand lift
+- [[SOC-1133-cadrul-strategic-al-unei-campanii-cu-influenceri-porneste|SOC-1133]] _fundament_ — Cadrul strategic al unei campanii cu influenceri pornește de la cercetare și obiective SMART
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] — Influencer Marketing Strategy: How influencers can help grow your business
+<!-- backlinks:end -->

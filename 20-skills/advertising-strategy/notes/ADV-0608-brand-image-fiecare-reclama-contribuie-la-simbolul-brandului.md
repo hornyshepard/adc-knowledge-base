@@ -46,11 +46,23 @@ Ogilvy spunea că 95% din campaniile vremii erau create ad hoc, fără nicio gri
 
 ## Legături
 
-- **fundament** [[BRD-0601]] — Gardner și Levy sunt sursa recunoscută a ideii.
-- **contrazice** [[ADV-0604]] — brand image s-a construit în opoziție cu USP-ul.
-- **vezi** [[BRD-0602]] — star strategy a lui Séguéla e o evoluție aspirațională a brand image-ului.
-- **vezi** [[ADV-0607]] — disputa Reeves–Ogilvy.
+- **fundament** [[BRD-0601-gardner-levy-brandul-e-un-simbol-complex-de-asocieri|BRD-0601]] — Gardner și Levy sunt sursa recunoscută a ideii.
+- **contrazice** [[ADV-0604-usp-are-trei-conditii-propunere-unica-care-vinde|ADV-0604]] — brand image s-a construit în opoziție cu USP-ul.
+- **vezi** [[BRD-0602-star-strategy-brandul-persoana-are-fizic-caracter-si-stil|BRD-0602]] — star strategy a lui Séguéla e o evoluție aspirațională a brand image-ului.
+- **vezi** [[ADV-0607-usp-contra-brand-image-ratiune-sau-emotie|ADV-0607]] — disputa Reeves–Ogilvy.
 
 ## Surse
 
-- [[SRC-018]] Jorge David Fernández Gómez, *Strategic Advertising Mechanisms*, cap. 3 §3.3–3.4
+- [[SRC-018-strategic-advertising-mechanisms|SRC-018]] Jorge David Fernández Gómez, *Strategic Advertising Mechanisms*, cap. 3 §3.3–3.4
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0601-trei-paradigme-de-brand-management-produs-personalitate|ADV-0601]] _vezi_ — Mecanismele strategice ale publicității se ordonează în trei paradigme — product, personality și consumer branding
+- [[ADV-0604-usp-are-trei-conditii-propunere-unica-care-vinde|ADV-0604]] _contrazice_ — USP-ul lui Reeves are trei condiții — o propunere concretă, unică și suficient de puternică încât să mute masele
+- [[ADV-0607-usp-contra-brand-image-ratiune-sau-emotie|ADV-0607]] _fundament_ — Disputa Reeves–Ogilvy — USP contra brand image, rațiune contra emoție, cercetare contra judecată
+- [[BRD-0601-gardner-levy-brandul-e-un-simbol-complex-de-asocieri|BRD-0601]] _vezi_ — Brandul este un simbol complex de asocieri, nu o etichetă — „The Product and the Brand" (Gardner & Levy, 1955)
+- [[BRD-0602-star-strategy-brandul-persoana-are-fizic-caracter-si-stil|BRD-0602]] _extinde_ — Star strategy (Séguéla) — brandul-persoană are fizic, caracter și stil
+- [[BRD-0603-lovemarks-iubire-plus-respect-mister-senzualitate-intimitate|BRD-0603]] _fundament_ — Lovemarks (Roberts) — iubire peste respect, construită prin mister, senzualitate și intimitate
+- [[SRC-018-strategic-advertising-mechanisms|SRC-018]] — Strategic Advertising Mechanisms: From Copy Strategy to Iconic Brands
+<!-- backlinks:end -->

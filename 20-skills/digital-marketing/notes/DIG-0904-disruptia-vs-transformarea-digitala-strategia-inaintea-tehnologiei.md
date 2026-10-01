@@ -41,10 +41,18 @@ Companiile simt repede disrupția, dar găsesc greu răspunsul: CBS a lansat All
 
 ## Legături
 
-- **vezi** [[DIG-0901]] — definiția dinamică a marketingului digital pornește de la aceeași idee de schimbare continuă.
-- **vezi** [[MKT-0901]] — modelele pipe și platformă sunt una dintre formele vizibile ale disrupției.
-- **vezi** [[EXP-0901]] — experiența clientului e primul dintre cele cinci fundamente ale transformării.
+- **vezi** [[DIG-0901-marketingul-digital-inseamna-interactiune-engagement-masurare|DIG-0901]] — definiția dinamică a marketingului digital pornește de la aceeași idee de schimbare continuă.
+- **vezi** [[MKT-0901-pipe-sau-platforma-valoare-in-lant-sau-co-creata-in-retea|MKT-0901]] — modelele pipe și platformă sunt una dintre formele vizibile ale disrupției.
+- **vezi** [[EXP-0901-customer-experience-suma-interactiunilor-nu-un-eveniment|EXP-0901]] — experiența clientului e primul dintre cele cinci fundamente ale transformării.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 1, p. 28-31, 42-43
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 1, p. 28-31, 42-43
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[EXP-0901-customer-experience-suma-interactiunilor-nu-un-eveniment|EXP-0901]] _vezi_ — Customer experience este suma tuturor interacțiunilor cu brandul, nu un eveniment memorabil
+- [[MKT-0901-pipe-sau-platforma-valoare-in-lant-sau-co-creata-in-retea|MKT-0901]] _vezi_ — Pipe sau platformă — valoarea se produce în lanț sau se co-creează într-o rețea cu efecte de rețea
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+<!-- backlinks:end -->

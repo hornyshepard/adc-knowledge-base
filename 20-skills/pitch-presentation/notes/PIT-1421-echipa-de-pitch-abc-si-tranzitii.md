@@ -46,10 +46,18 @@ O echipă de patru în care fiecare își spune într-o frază experiența relev
 
 ## Legături
 
-- **fundament** [[PIT-1404]] — criteriul „Approach” folosește centrele de energie.
-- **fundament** [[PIT-1420]] — repetițiile de echipă urmează aceleași cinci etape.
-- **vezi** [[PIT-1422]] — tot echipa decide cine răspunde la ce întrebare.
+- **fundament** [[PIT-1404-centrele-de-energie-cap-inima-instinct-picioare|PIT-1404]] — criteriul „Approach” folosește centrele de energie.
+- **fundament** [[PIT-1420-cinci-etape-de-repetitie-si-planul-b|PIT-1420]] — repetițiile de echipă urmează aceleași cinci etape.
+- **vezi** [[PIT-1422-qa-in-cinci-pasi-si-formula-p-p|PIT-1422]] — tot echipa decide cine răspunde la ce întrebare.
 
 ## Surse
 
-- [[SRC-043]] Dominic Colenso, *Cut-Through*, cap. 1 și 4
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] Dominic Colenso, *Cut-Through*, cap. 1 și 4
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PIT-1404-centrele-de-energie-cap-inima-instinct-picioare|PIT-1404]] _aplicare_ — Audiența comunică din patru centre de energie — cap, inimă, instinct și picioare
+- [[PIT-1420-cinci-etape-de-repetitie-si-planul-b|PIT-1420]] _extinde_ — Repetiția trece prin cinci etape, de la „car crash” la repetiția generală
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] — Cut-Through: The pitch and presentation playbook
+<!-- backlinks:end -->

@@ -47,10 +47,19 @@ Un brand de lapte vegetal care scrie „băutură din ovăz, fără lactoză, cu
 
 ## Legături
 
-- **vezi** [[ADV-1506]] — documentul precede cei cinci pași ai planificării strategice.
-- **vezi** [[BRF-1502]] — declarația de poziționare e rezultatul strategiei construite pe acest fundal.
-- **aplicare** [[ADV-1507]] — „sursa de business" se traduce în grupuri de cumpărători.
+- **vezi** [[ADV-1506-procesul-de-planificare-strategica-in-cinci-pasi|ADV-1506]] — documentul precede cei cinci pași ai planificării strategice.
+- **vezi** [[BRF-1502-declaratia-de-pozitionare-tinta-nevoie-beneficiu|BRF-1502]] — declarația de poziționare e rezultatul strategiei construite pe acest fundal.
+- **aplicare** [[ADV-1507-cinci-grupuri-de-cumparatori-incercare-sau-recumparare|ADV-1507]] — „sursa de business" se traduce în grupuri de cumpărători.
 
 ## Surse
 
-- [[SRC-049]] Larry Percy & Richard Rosenbaum-Elliott, *Strategic Advertising Management*, cap. 5, „Review the marketing plan", Table 5.1 (audio 11)
+- [[SRC-049-strategic-advertising-management|SRC-049]] Larry Percy & Richard Rosenbaum-Elliott, *Strategic Advertising Management*, cap. 5, „Review the marketing plan", Table 5.1 (audio 11)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-1506-procesul-de-planificare-strategica-in-cinci-pasi|ADV-1506]] _fundament_ — Planificarea strategică a comunicării are cinci pași, de la alegerea țintei la strategia media, și rămâne necesară și în digital
+- [[BRF-1502-declaratia-de-pozitionare-tinta-nevoie-beneficiu|BRF-1502]] _vezi_ — Declarația de poziționare se scrie într-o frază, „brandul X este brandul pentru [țintă] din [nevoia de categorie] care oferă [beneficiu]"
+- [[BRF-1503-brieful-creativ-pe-o-pagina-sarcina-strategie-executie|BRF-1503]] _fundament_ — Brief-ul creativ încape pe o pagină, în trei blocuri (sarcina, obiectivele și strategia, execuția), și se detaliază doar ținta și susținerea beneficiului
+- [[SRC-049-strategic-advertising-management|SRC-049]] — Strategic Advertising Management (6th edition)
+<!-- backlinks:end -->

@@ -41,10 +41,19 @@ Cazul Literary Digest e exemplul-standard. Echivalentul de azi: un brand care î
 
 ## Legături
 
-- **vezi** [[AIM-1308]] — și datele istorice „mari" au limite de principiu.
-- **vezi** [[INS-1303]] — capătul opus: eșantioanele prea mici.
-- **aplicare** [[AIM-1309]] — cadrul greșit compromite orice proiecție în piață.
+- **vezi** [[AIM-1308-datele-istorice-prezic-repetarea-nu-noutatea|AIM-1308]] — și datele istorice „mari" au limite de principiu.
+- **vezi** [[INS-1303-focus-grupul-e-pentru-limbaj-nu-pentru-decizii|INS-1303]] — capătul opus: eșantioanele prea mici.
+- **aplicare** [[AIM-1309-cota-de-preferinta-nu-e-cota-de-piata|AIM-1309]] — cadrul greșit compromite orice proiecție în piață.
 
 ## Surse
 
-- [[SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, cap. 1 și cap. 2
+- [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, cap. 1 și cap. 2
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-1308-datele-istorice-prezic-repetarea-nu-noutatea|AIM-1308]] _vezi_ — Datele istorice prezic repetarea, nu noutatea — nu răspund la „ce-ar fi dacă" și nu arată percepțiile
+- [[AIM-1309-cota-de-preferinta-nu-e-cota-de-piata|AIM-1309]] _vezi_ — Cota de preferință nu e cotă de piață — prognoza trebuie ajustată pentru notorietate, înțelegere și distribuție
+- [[INS-1303-focus-grupul-e-pentru-limbaj-nu-pentru-decizii|INS-1303]] _vezi_ — Focus grupul e bun pentru limbaj și pentru detectarea dezastrelor, nu pentru decizia finală
+- [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]] — Artificial Intelligence Marketing and Predicting Consumer Choice: An Overview of Tools and Techniques
+<!-- backlinks:end -->

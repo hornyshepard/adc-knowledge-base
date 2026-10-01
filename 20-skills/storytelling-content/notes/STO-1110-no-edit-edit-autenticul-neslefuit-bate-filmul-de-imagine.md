@@ -44,10 +44,18 @@ La TikTok, makingof-urile lui Younes Zarou și ale lui @HerrAnwalt au strâns ad
 
 ## Legături
 
-- **vezi** [[STO-1109]] — straturile multimedia se pot construi direct cu instrumentele platformei.
-- **vezi** [[SOC-1101]] — stories și toks sunt genurile native unde neșlefuitul e regula.
-- **vezi** [[STO-1112]] — UGC-ul e forma cea mai pură de conținut neșlefuit.
+- **vezi** [[STO-1109-fiecare-strat-multimedia-trebuie-sa-adauge-sens-nou-nu-sa|STO-1109]] — straturile multimedia se pot construi direct cu instrumentele platformei.
+- **vezi** [[SOC-1101-stories-si-toks-doua-genuri-native-de-smartphone-cu-logici|SOC-1101]] — stories și toks sunt genurile native unde neșlefuitul e regula.
+- **vezi** [[STO-1112-ugc-este-continut-castigat-pe-care-brandul-nu-il-poate|STO-1112]] — UGC-ul e forma cea mai pură de conținut neșlefuit.
 
 ## Surse
 
-- [[SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 3.3, p. 101–102; cap. 3.4, p. 104; cap. 3.6.1 și 3.7.3, p. 107–108, 116; cap. 7.2.2, p. 292–293
+- [[SRC-034-social-media-storytelling|SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 3.3, p. 101–102; cap. 3.4, p. 104; cap. 3.6.1 și 3.7.3, p. 107–108, 116; cap. 7.2.2, p. 292–293
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[STO-1109-fiecare-strat-multimedia-trebuie-sa-adauge-sens-nou-nu-sa|STO-1109]] _vezi_ — Fiecare strat multimedia trebuie să adauge sens nou, nu să repete
+- [[STO-1112-ugc-este-continut-castigat-pe-care-brandul-nu-il-poate|STO-1112]] _vezi_ — UGC este conținut câștigat pe care brandul nu îl poate controla
+- [[SRC-034-social-media-storytelling|SRC-034]] — Social Media Storytelling
+<!-- backlinks:end -->

@@ -51,12 +51,25 @@ Ries și Ries: dacă sertarul se numește „mașini sigure", locul lui e ocupat
 
 ## Legături
 
-- **fundament** [[ADV-0604]] — USP-ul conține deja multe dintre aceste principii.
-- **vezi** [[BRD-0605]] — contextualizarea și conceptualizarea operaționalizează principiile 5 și 8.
-- **vezi** [[ADV-0611]] — dezbaterea despre originalitatea poziționării.
-- **vezi** [[ADV-0606]] — principiul permanenței continuă perseverența lui Reeves.
-- **vezi** [[BRD-0607]] — harta perceptuală și cele șase criterii transformă principiile în exercițiu practic.
+- **fundament** [[ADV-0604-usp-are-trei-conditii-propunere-unica-care-vinde|ADV-0604]] — USP-ul conține deja multe dintre aceste principii.
+- **vezi** [[BRD-0605-contextualizare-si-conceptualizare-a-picta-axele-pozitionarii|BRD-0605]] — contextualizarea și conceptualizarea operaționalizează principiile 5 și 8.
+- **vezi** [[ADV-0611-pozitionarea-e-mostenitoarea-usp-ului|ADV-0611]] — dezbaterea despre originalitatea poziționării.
+- **vezi** [[ADV-0606-schimbarea-prea-deasa-a-campaniei-distruge-penetrarea|ADV-0606]] — principiul permanenței continuă perseverența lui Reeves.
+- **vezi** [[BRD-0607-harta-de-pozitionare-in-patru-pasi-si-sase-criterii|BRD-0607]] — harta perceptuală și cele șase criterii transformă principiile în exercițiu practic.
 
 ## Surse
 
-- [[SRC-018]] Jorge David Fernández Gómez, *Strategic Advertising Mechanisms*, cap. 7 §7.1–7.3
+- [[SRC-018-strategic-advertising-mechanisms|SRC-018]] Jorge David Fernández Gómez, *Strategic Advertising Mechanisms*, cap. 7 §7.1–7.3
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0605-trei-drumuri-spre-un-usp-gasesti-construiesti-revendici|ADV-0605]] _vezi_ — La un USP se ajunge pe trei drumuri — îl găsești în produs, îl construiești în produs sau îl revendici primul
+- [[ADV-0606-schimbarea-prea-deasa-a-campaniei-distruge-penetrarea|ADV-0606]] _vezi_ — Schimbarea prea deasă a campaniei distruge penetrarea — principiul perseverenței
+- [[ADV-0611-pozitionarea-e-mostenitoarea-usp-ului|ADV-0611]] _fundament_ — Poziționarea e moștenitoarea USP-ului — idee nouă sau „vin vechi în sticle noi"?
+- [[BRD-0605-contextualizare-si-conceptualizare-a-picta-axele-pozitionarii|BRD-0605]] _fundament_ — Poziționarea în doi pași — contextualizare (alegi brandul de referință) și conceptualizare (îl spui simplu)
+- [[BRD-0607-harta-de-pozitionare-in-patru-pasi-si-sase-criterii|BRD-0607]] _fundament_ — Harta de poziționare se face în patru pași, iar poziționarea aleasă trece șase teste — clară, pertinentă, distinctivă, coerentă, atractivă, durabilă
+- [[INS-0604-perceptia-e-selectiva-reclama-are-nevoie-de-procedee-de-atentie|INS-0604]] _vezi_ — Percepția e selectivă, așa că reclama are nevoie de procedee de atenție — emoție, personificare, spectacol, surpriză, umor
+- [[INS-0607-nu-contrazice-credinta-tintei-porneste-de-la-ea|INS-0607]] _vezi_ — Nu contrazice credința țintei — pornește de la ea și fă-o să evolueze; confruntarea declanșează apărarea
+- [[SRC-018-strategic-advertising-mechanisms|SRC-018]] — Strategic Advertising Mechanisms: From Copy Strategy to Iconic Brands
+<!-- backlinks:end -->

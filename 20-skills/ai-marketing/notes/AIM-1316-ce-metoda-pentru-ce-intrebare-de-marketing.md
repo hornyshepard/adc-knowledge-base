@@ -58,11 +58,19 @@ Cazul croazierelor arată combinarea: arborele a găsit *cine* poate cumpăra cr
 
 ## Legături
 
-- **fundament** [[AIM-1307]] — cele patru familii de metode.
-- **aplicare** [[AIM-1313]] — metoda pentru „cine".
-- **aplicare** [[AIM-1310]] — metodele pentru „ce" și „ce-ar fi dacă".
-- **vezi** [[AIM-1306]] — întrebarea 5, cum judeci rezultatul.
+- **fundament** [[AIM-1307-patru-familii-de-metode-de-predictie-a-alegerii|AIM-1307]] — cele patru familii de metode.
+- **aplicare** [[AIM-1313-arborii-de-clasificare-transforma-baza-de-date-in-reguli|AIM-1313]] — metoda pentru „cine".
+- **aplicare** [[AIM-1310-metodele-de-trade-off-cand-folosesti-fiecare|AIM-1310]] — metodele pentru „ce" și „ce-ar fi dacă".
+- **vezi** [[AIM-1306-validarea-pe-esantion-de-control-separa-tiparele-reale|AIM-1306]] — întrebarea 5, cum judeci rezultatul.
 
 ## Surse
 
-- [[SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, cap. 2 și cap. 8
+- [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, cap. 2 și cap. 8
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-1307-patru-familii-de-metode-de-predictie-a-alegerii|AIM-1307]] _aplicare_ — Metodele de predicție a alegerilor formează patru familii, fiecare cu o imagine implicită despre om
+- [[AIM-1312-checklist-pentru-un-studiu-de-alegere-bine-construit|AIM-1312]] _aplicare_ — Un studiu de alegere bun se construiește înainte de chestionar — checklist în zece puncte
+- [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]] — Artificial Intelligence Marketing and Predicting Consumer Choice: An Overview of Tools and Techniques
+<!-- backlinks:end -->

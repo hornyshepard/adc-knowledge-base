@@ -49,12 +49,23 @@ Campania de reactivare din SRC-029 (fig. 5.7) testează mesajul de reactivare A/
 
 ## Legături
 
-- **aplicare** [[DIG-0907]] — obiectivele SMART de conversie și reactivare se ating prin teste.
-- **aplicare** [[DIG-0908]] — fiecare ipoteză de abandon din pâlnie devine un test.
-- **aplicare** [[DIG-0920]] — optimizarea landing page-ului e o succesiune de teste.
-- **vezi** [[DIG-0928]] — subiectul și oferta e-mailului se compară prin metricile de e-mail.
+- **aplicare** [[DIG-0907-metricile-se-aleg-din-obiective-smart-si-etapa-journey-ului|DIG-0907]] — obiectivele SMART de conversie și reactivare se ating prin teste.
+- **aplicare** [[DIG-0908-palnia-de-conversie-arata-unde-pleaca-vizitatorii|DIG-0908]] — fiecare ipoteză de abandon din pâlnie devine un test.
+- **aplicare** [[DIG-0920-reclama-e-doar-atat-de-buna-cat-landing-page-ul-ei|DIG-0920]] — optimizarea landing page-ului e o succesiune de teste.
+- **vezi** [[DIG-0928-in-email-click-to-open-rate-spune-mai-mult-decat-open-rate|DIG-0928]] — subiectul și oferta e-mailului se compară prin metricile de e-mail.
 
 ## Surse
 
-- [[SRC-030]] K. Connors, *Advanced Digital Marketing Strategies*, cap. 1
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 5, p. 140; cap. 8, p. 238
+- [[SRC-030-digital-marketing-strategies|SRC-030]] K. Connors, *Advanced Digital Marketing Strategies*, cap. 1
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 5, p. 140; cap. 8, p. 238
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0907-metricile-se-aleg-din-obiective-smart-si-etapa-journey-ului|DIG-0907]] _aplicare_ — Metricile se aleg pornind de la obiective SMART și de la etapa journey-ului, nu de la ce oferă platforma
+- [[DIG-0908-palnia-de-conversie-arata-unde-pleaca-vizitatorii|DIG-0908]] _aplicare_ — Pâlnia de conversie arată unde pleacă vizitatorii; treaba marketerului e să afle de ce
+- [[DIG-0919-campania-de-paid-search-si-paid-social-are-cinci-etape|DIG-0919]] _aplicare_ — Campania de paid search și paid social are cinci etape — de la cercetarea cuvintelor-cheie la testare
+- [[DIG-0928-in-email-click-to-open-rate-spune-mai-mult-decat-open-rate|DIG-0928]] _aplicare_ — În e-mail, click-to-open rate spune mai mult decât open rate
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+- [[SRC-030-digital-marketing-strategies|SRC-030]] — Advanced Digital Marketing Strategies: Mastering SEO, Social Media, Content Marketing, and AI for Maximum Online Growth
+<!-- backlinks:end -->

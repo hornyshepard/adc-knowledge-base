@@ -47,11 +47,20 @@ O agenție mică invită 40 de directori de marketing la un webinar despre tendi
 
 ## Legături
 
-- **vezi** [[PIT-1410]] — aceeași logică aplicată cererii dintr-o prezentare.
-- **aplicare** [[CLI-1406]] — mesajul de cerere a întâlnirii vinde doar întâlnirea.
-- **vezi** [[CLI-1402]] — în Dream 100, fiecare atingere urmărește doar prima programare.
+- **vezi** [[PIT-1410-urmatorul-pas-logic-nu-da-ul-final|PIT-1410]] — aceeași logică aplicată cererii dintr-o prezentare.
+- **aplicare** [[CLI-1406-cererea-intalnirii-valoare-pentru-timp|CLI-1406]] — mesajul de cerere a întâlnirii vinde doar întâlnirea.
+- **vezi** [[CLI-1402-dream-100-lista-clientilor-tinta|CLI-1402]] — în Dream 100, fiecare atingere urmărește doar prima programare.
 
 ## Surse
 
-- [[SRC-045]] Bharat Bhuval Nishad, *The Complete Guide to B2B Sales Success*, „Stage Selling”
-- [[SRC-043]] Dominic Colenso, *Cut-Through*, cap. 2
+- [[SRC-045-b2b-sales-manual|SRC-045]] Bharat Bhuval Nishad, *The Complete Guide to B2B Sales Success*, „Stage Selling”
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] Dominic Colenso, *Cut-Through*, cap. 2
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CLI-1402-dream-100-lista-clientilor-tinta|CLI-1402]] _fundament_ — Dream 100 — o listă scurtă de clienți-țintă, abordați repetat pe canale diferite
+- [[CLI-1406-cererea-intalnirii-valoare-pentru-timp|CLI-1406]] _fundament_ — Cererea unei întâlniri trebuie să ofere valoare pentru timpul cerut
+- [[PIT-1410-urmatorul-pas-logic-nu-da-ul-final|PIT-1410]] _vezi_ — Cererea dintr-un pitch este „următorul pas logic”, nu „da”-ul final
+- [[SRC-045-b2b-sales-manual|SRC-045]] — The Complete Guide to B2B Sales Success: Effective Strategies for Lead Generation, Sales Processes, and Closing
+<!-- backlinks:end -->

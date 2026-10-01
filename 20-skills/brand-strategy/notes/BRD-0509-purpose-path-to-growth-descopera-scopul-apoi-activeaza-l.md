@@ -48,12 +48,26 @@ Pharmavite (Nature Made) a descoperit că nu e în business-ul vitaminelor, ci a
 
 ## Legături
 
-- **contrazice** [[BRD-0510]] — Lagnado și Mitchell (McDonald's) arată limitele scopului ridicat prea sus.
-- **vezi** [[BRD-0507]] — Tybout tratează scopul ca strategie de susținere a poziției.
-- **aplicare** [[BRD-0515]] — activarea scopului cere aceeași implementare organizațională ca orice platformă de brand.
-- **vezi** [[STO-0501]] — povestea de brand pornește de la scop și de la pasiunile clientului.
-- **vezi** [[BRD-0529]] — misiunea, viziunea și valorile sunt formularea clasică a aceleiași zone a platformei.
+- **contrazice** [[BRD-0510-scop-sau-pozitionare-brandurile-opereaza-la-altitudini|BRD-0510]] — Lagnado și Mitchell (McDonald's) arată limitele scopului ridicat prea sus.
+- **vezi** [[BRD-0507-o-pozitie-se-sustine-prin-instantiere-moderna-schimbarea|BRD-0507]] — Tybout tratează scopul ca strategie de susținere a poziției.
+- **aplicare** [[BRD-0515-implementarea-strategiei-de-brand-cere-sase-elemente-nu|BRD-0515]] — activarea scopului cere aceeași implementare organizațională ca orice platformă de brand.
+- **vezi** [[STO-0501-in-povestea-de-brand-brandul-e-oxigen-peste-tot-dar|STO-0501]] — povestea de brand pornește de la scop și de la pasiunile clientului.
+- **vezi** [[BRD-0529-misiunea-spune-de-ce-exista-brandul-acum-viziunea-unde-vrea|BRD-0529]] — misiunea, viziunea și valorile sunt formularea clasică a aceleiași zone a platformei.
 
 ## Surse
 
-- [[SRC-014]] Jim Stengel, Matt Carcieri & Renée Dunn, „Leveraging the Power of Brand Purpose", cap. 2 în *Kellogg on Branding in a Hyper-Connected World*, p. 20–36
+- [[SRC-014-kellogg-on-branding|SRC-014]] Jim Stengel, Matt Carcieri & Renée Dunn, „Leveraging the Power of Brand Purpose", cap. 2 în *Kellogg on Branding in a Hyper-Connected World*, p. 20–36
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0510-scop-sau-pozitionare-brandurile-opereaza-la-altitudini|BRD-0510]] _contrazice_ — Scop sau poziționare: brandurile operează la altitudini diferite
+- [[BRD-0515-implementarea-strategiei-de-brand-cere-sase-elemente-nu|BRD-0515]] _aplicare_ — Implementarea strategiei de brand cere șase elemente, nu doar o poziționare
+- [[BRD-0525-un-brand-nou-se-construieste-in-patru-pasi-carlig-nume|BRD-0525]] _vezi_ — Un brand nou se construiește în patru pași: cârlig, nume, marcă, design
+- [[BRD-0528-personalitatea-brandului-are-cinci-dimensiuni-in-modelul|BRD-0528]] _vezi_ — Personalitatea brandului are cinci dimensiuni în modelul Aaker
+- [[BRD-0529-misiunea-spune-de-ce-exista-brandul-acum-viziunea-unde-vrea|BRD-0529]] _vezi_ — Misiunea spune de ce există brandul acum, viziunea unde vrea să ajungă
+- [[BRD-0530-opt-arhetipuri-zeite-ofera-o-alternativa-feminina-la-cele|BRD-0530]] _vezi_ — Opt arhetipuri-zeițe oferă o alternativă feminină la cele 12 arhetipuri jungiene
+- [[BRD-0532-brand-blueprint-zeita-inima-dar-si-stil-fiecare-trecut|BRD-0532]] _alternativa_ — Brand blueprint: zeiță, inimă, dar și stil, fiecare trecut printr-un test
+- [[STO-0501-in-povestea-de-brand-brandul-e-oxigen-peste-tot-dar|STO-0501]] _fundament_ — În povestea de brand, brandul e oxigen: peste tot, dar niciodată protagonist
+- [[SRC-014-kellogg-on-branding|SRC-014]] — Kellogg on Branding in a Hyper-Connected World
+<!-- backlinks:end -->

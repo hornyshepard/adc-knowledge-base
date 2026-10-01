@@ -40,11 +40,22 @@ status: seed
 
 ## Legături
 
-- **vezi** [[DIG-1028]] — frauda, a patra setare de calitate.
-- **vezi** [[DIG-1019]] — brand safety în targetarea contextuală.
-- **vezi** [[DIG-1029]] — automatizarea programmatic face aceste setări obligatorii.
-- **vezi** [[ADV-1001]] — frecvența e „presiunea publicitară" din calculul bugetului.
+- **vezi** [[DIG-1028-frauda-publicitara-se-depisteaza-in-timpul-campaniei|DIG-1028]] — frauda, a patra setare de calitate.
+- **vezi** [[DIG-1019-targetarea-contextuala-si-semantica|DIG-1019]] — brand safety în targetarea contextuală.
+- **vezi** [[DIG-1029-publicitatea-programatica-licitatie-in-timp-real|DIG-1029]] — automatizarea programmatic face aceste setări obligatorii.
+- **vezi** [[ADV-1001-bugetul-campaniei-online-reach-presiune-cost|ADV-1001]] — frecvența e „presiunea publicitară" din calculul bugetului.
 
 ## Surse
 
-- [[SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 2.3.4.2 (p. 78–79), 5.1.1.2 (p. 161), 5.2.1 (p. 172), 5.2.3 (p. 174–177)
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 2.3.4.2 (p. 78–79), 5.1.1.2 (p. 161), 5.2.1 (p. 172), 5.2.3 (p. 174–177)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-1001-bugetul-campaniei-online-reach-presiune-cost|ADV-1001]] _vezi_ — Bugetul unei campanii online se estimează din reach, presiune publicitară și cost media, iar metodele euristice dau doar plafonul
+- [[DIG-1019-targetarea-contextuala-si-semantica|DIG-1019]] _vezi_ — Targetarea contextuală pune reclama lângă subiectul deja prezent în mintea cititorului, iar versiunea semantică citește și sentimentul contextului
+- [[DIG-1028-frauda-publicitara-se-depisteaza-in-timpul-campaniei|DIG-1028]] _vezi_ — Frauda publicitară se depistează în timpul campaniei, prin anomalii, nu după, iar plata pe vânzări verificate o face neatractivă
+- [[DIG-1029-publicitatea-programatica-licitatie-in-timp-real|DIG-1029]] _vezi_ — Publicitatea programatică cumpără fiecare impresie automat, prin licitație în timp real — câștigă eficiență, pierde control și are nevoie de date și bugete mari
+- [[DIG-1035-retargetingul-eficient-in-era-cookie-expus-dupa|DIG-1035]] _vezi_ — Retargetingul a fost cea mai eficientă tactică a erei cookie și este cea mai expusă după ea — funcționează doar cu urmărire consimțită, pixeli necesari și plafoane de frecvență
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] — Digital Advertising in the Post-cookie Era: Strategic Campaign Planning Across the Customer Journey
+<!-- backlinks:end -->

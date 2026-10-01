@@ -48,12 +48,21 @@ Partenerii Rogers Peet le cereau tinerilor copywriteri să spună faptele cu un 
 
 ## Legături
 
-- **vezi** [[CPY-0807]] — James Webb Young nu se temea de textul lung, pentru că pornea de la un om anume.
-- **aplicare** [[ART-0803]] — „Pictures from Home”: imaginea face inutil textul.
-- **vezi** [[CPY-0805]] — mail-order-ul a dovedit cu cupoane că textul lung se citește.
-- **exemplu** [[HIS-0825]] — Ford a povestit un test real în text lung.
+- **vezi** [[CPY-0807-metoda-james-webb-young-un-om-anume|CPY-0807]] — James Webb Young nu se temea de textul lung, pentru că pornea de la un om anume.
+- **aplicare** [[ART-0803-o-imagine-dominanta-poate-spune-povestea|ART-0803]] — „Pictures from Home”: imaginea face inutil textul.
+- **vezi** [[CPY-0805-scoala-mail-order-cuponul-ca-experiment|CPY-0805]] — mail-order-ul a dovedit cu cupoane că textul lung se citește.
+- **exemplu** [[HIS-0825-demonstratia-trebuie-sa-fie-reala|HIS-0825]] — Ford a povestit un test real în text lung.
 
 ## Surse
 
-- [[SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Eastman Kodak”, „Tecla Pearls”, „The Woman’s Institute”, „Merrill Lynch — Too Long?”, „Ford — All the Earmarks of a Great Ad”, „Postum — Why Men Crack”, „Young & Rubicam — Impact”, „The Rogers Peet Story”
-- [[SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 10, p. 203
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Eastman Kodak”, „Tecla Pearls”, „The Woman’s Institute”, „Merrill Lynch — Too Long?”, „Ford — All the Earmarks of a Great Ad”, „Postum — Why Men Crack”, „Young & Rubicam — Impact”, „The Rogers Peet Story”
+- [[SRC-027-a-history-of-advertising|SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 10, p. 203
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0803-o-imagine-dominanta-poate-spune-povestea|ART-0803]] _vezi_ — O singură imagine dominantă poate spune povestea — dacă textul o susține, nu o repetă
+- [[CPY-0807-metoda-james-webb-young-un-om-anume|CPY-0807]] _aplicare_ — Metoda lui James Webb Young — un om anume, o propunere clară și punctul în care se întâlnesc
+- [[HIS-0825-demonstratia-trebuie-sa-fie-reala|HIS-0825]] _vezi_ — Demonstrația trebuie să fie reală — Xerox cu cimpanzeul vs. Volvo și camionul-monstru
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] — The 100 Greatest Advertisements 1852–1958: Who Wrote Them and What They Did
+<!-- backlinks:end -->

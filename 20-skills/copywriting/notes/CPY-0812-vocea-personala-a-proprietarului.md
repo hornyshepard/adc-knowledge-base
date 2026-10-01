@@ -45,11 +45,21 @@ Rogers Peet le cerea copywriterilor un ton de discuție prietenească la masa de
 
 ## Legături
 
-- **extinde** [[CPY-0807]] — scrisul pentru un singur om duce firesc la vocea personală.
-- **exemplu** [[CPY-0808]] — sinceritatea, criteriul lui Watkins, se aude cel mai clar în aceste voci.
-- **vezi** [[CPY-0813]] — umorul autoironic ca registru.
-- **vezi** [[CPY-0816]] — micul jucător care se diferențiază prin ton.
+- **extinde** [[CPY-0807-metoda-james-webb-young-un-om-anume|CPY-0807]] — scrisul pentru un singur om duce firesc la vocea personală.
+- **exemplu** [[CPY-0808-o-reclama-mare-idee-sinceritate-memorie-lunga|CPY-0808]] — sinceritatea, criteriul lui Watkins, se aude cel mai clar în aceste voci.
+- **vezi** [[CPY-0813-umorul-de-la-interzis-la-recompensa|CPY-0813]] — umorul autoironic ca registru.
+- **vezi** [[CPY-0816-challengerul-castiga-schimband-jocul|CPY-0816]] — micul jucător care se diferențiază prin ton.
 
 ## Surse
 
-- [[SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Bear Creek Orchards”, „Zareh”, „Bruggner’s — White Elephant Sale”, „Fels Naptha — All Right, Ann Ward”, „Wallachs”, „The Rogers Peet Story”, „Ford — How the Tin Lizzie Became a Lady”
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Bear Creek Orchards”, „Zareh”, „Bruggner’s — White Elephant Sale”, „Fels Naptha — All Right, Ann Ward”, „Wallachs”, „The Rogers Peet Story”, „Ford — How the Tin Lizzie Became a Lady”
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0807-metoda-james-webb-young-un-om-anume|CPY-0807]] _vezi_ — Metoda lui James Webb Young — un om anume, o propunere clară și punctul în care se întâlnesc
+- [[CPY-0808-o-reclama-mare-idee-sinceritate-memorie-lunga|CPY-0808]] _vezi_ — O reclamă mare are o idee, sinceritate și o viață lungă în memorie
+- [[CPY-0809-titlurile-bune-sunt-gasite-nu-inventate|CPY-0809]] _vezi_ — Cele mai bune titluri sunt adesea găsite, nu inventate — ascultă clientul și strada
+- [[CPY-0816-challengerul-castiga-schimband-jocul|CPY-0816]] _vezi_ — Challengerul câștigă schimbând jocul — comparație sportivă, autoironie și refuzul superlativelor
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] — The 100 Greatest Advertisements 1852–1958: Who Wrote Them and What They Did
+<!-- backlinks:end -->

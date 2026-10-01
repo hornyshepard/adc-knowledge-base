@@ -41,10 +41,18 @@ Coricraft, un retailer de mobilă din Africa de Sud, a folosit clienți existen�
 
 ## Legături
 
-- **vezi** [[ADV-1101]] — amplificarea mută conținutul din media distribuită în media plătită.
-- **vezi** [[SOC-1125]] — indicatorii de performanță arată ce piese merită amplificate.
-- **vezi** [[SOC-1119]] — drepturile de utilizare trebuie negociate dinainte.
+- **vezi** [[ADV-1101-modelul-peso-influencer-marketingul-traverseaza-media|ADV-1101]] — amplificarea mută conținutul din media distribuită în media plătită.
+- **vezi** [[SOC-1125-engagement-rate-cpe-si-cpm-aritmetica-de-baza-a-unei|SOC-1125]] — indicatorii de performanță arată ce piese merită amplificate.
+- **vezi** [[SOC-1119-negocierea-cu-un-creator-are-variabile-multiple-iar|SOC-1119]] — drepturile de utilizare trebuie negociate dinainte.
 
 ## Surse
 
-- [[SRC-035]] Glenister, *Influencer Marketing Strategy*, cap. 1, p. 56–57; cap. 5, p. 186–187, 190; cap. 9, p. 245–247; cap. 11, p. 298–299
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] Glenister, *Influencer Marketing Strategy*, cap. 1, p. 56–57; cap. 5, p. 186–187, 190; cap. 9, p. 245–247; cap. 11, p. 298–299
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-1101-modelul-peso-influencer-marketingul-traverseaza-media|ADV-1101]] _vezi_ — Modelul PESO: influencer marketingul traversează media plătită, câștigată, distribuită și proprie
+- [[SOC-1128-cine-detine-influencer-marketingul-pr-media-agentia|SOC-1128]] _vezi_ — Cine deține influencer marketingul: PR, media, agenția specializată sau brandul
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] — Influencer Marketing Strategy: How influencers can help grow your business
+<!-- backlinks:end -->

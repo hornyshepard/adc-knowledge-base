@@ -50,10 +50,20 @@ L'Oréal a urmărit rutinele de frumusețe din timpul zilei, greu de observat cl
 
 ## Legături
 
-- **aplicare** [[EXP-1219]] — etnografia e instrumentul principal al perspectivei emice.
-- **vezi** [[INS-1209]] — tehnicile proiective, a doua familie de metode experiențiale.
-- **vezi** [[EXP-1212]] — tensiunea dintre măsurarea prin scale și înțelegerea prin imersiune.
+- **aplicare** [[EXP-1219-procesul-emic-etic-maparea-socioculturala|EXP-1219]] — etnografia e instrumentul principal al perspectivei emice.
+- **vezi** [[INS-1209-tehnicile-proiective-scot-ce-nu-se-spune-direct|INS-1209]] — tehnicile proiective, a doua familie de metode experiențiale.
+- **vezi** [[EXP-1212-masurarea-experientei-exqual-dincolo-de-satisfactie|EXP-1212]] — tensiunea dintre măsurarea prin scale și înțelegerea prin imersiune.
 
 ## Surse
 
-- [[SRC-036]] Wided Batat, *Experiential Marketing*, cap. 13 (Figurile 13.1–13.2; Theory Boxes 13.2 PERCEIVE, 13.3 netnografie; mini-cazurile 13.4–13.9, în special 13.5 EDF și 13.9 L'Oréal)
+- [[SRC-036-experiential-marketing|SRC-036]] Wided Batat, *Experiential Marketing*, cap. 13 (Figurile 13.1–13.2; Theory Boxes 13.2 PERCEIVE, 13.3 netnografie; mini-cazurile 13.4–13.9, în special 13.5 EDF și 13.9 L'Oréal)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[EXP-1212-masurarea-experientei-exqual-dincolo-de-satisfactie|EXP-1212]] _contrazice_ — Calitatea experienței se măsoară dincolo de satisfacție — EXQUAL extinde logica SERVQUAL
+- [[EXP-1219-procesul-emic-etic-maparea-socioculturala|EXP-1219]] _vezi_ — Procesul emic/etic — experiența se proiectează privind cultura de consum din interior și din exterior
+- [[INS-1208-harta-empatiei-si-modelul-mclaren|INS-1208]] _vezi_ — Capitalul de empatie se formează cu harta empatiei și cu cele șase aspecte ale modelului McLaren
+- [[INS-1209-tehnicile-proiective-scot-ce-nu-se-spune-direct|INS-1209]] _vezi_ — Tehnicile proiective scot la suprafață ce consumatorii nu spun direct, pentru că îi pun să vorbească despre alții
+- [[SRC-036-experiential-marketing|SRC-036]] — Experiential Marketing: Consumer Behavior, Customer Experience and the 7Es
+<!-- backlinks:end -->

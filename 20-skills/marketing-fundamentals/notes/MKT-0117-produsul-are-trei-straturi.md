@@ -55,11 +55,21 @@ JS Watch Company (Adding Value 11.1), un ceasornicar islandez mic, vinde produse
 
 ## Legături
 
-- **fundament** [[MKT-0104]] — produsul este primul P și creează valoarea.
-- **vezi** [[BRD-0101]] — numele de brand și ambalajul fac parte din produsul efectiv.
-- **vezi** [[MKT-0123]] — la servicii, „produsul" e intangibil și cere alte instrumente.
+- **fundament** [[MKT-0104-mixul-4p-creeaza-capteaza-livreaza-comunica-valoarea|MKT-0104]] — produsul este primul P și creează valoarea.
+- **vezi** [[BRD-0101-brandul-scurteaza-decizia-si-protejeaza-de-concurenta|BRD-0101]] — numele de brand și ambalajul fac parte din produsul efectiv.
+- **vezi** [[MKT-0123-serviciile-intangibile-inseparabile-eterogene-perisabile|MKT-0123]] — la servicii, „produsul" e intangibil și cere alte instrumente.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 11, p. 356-359 (Exhibit 11.1)
-- [[SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 4, p. 110-115 (§4.3, §4.4)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 11, p. 356-359 (Exhibit 11.1)
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 4, p. 110-115 (§4.3, §4.4)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0101-brandul-scurteaza-decizia-si-protejeaza-de-concurenta|BRD-0101]] _vezi_ — Brandul ajută clientul să aleagă repede și protejează firma de concurența pe preț — prin elemente ușor de recunoscut
+- [[MKT-0122-distributia-canale-si-intensitate|MKT-0122]] _vezi_ — Distribuția alege între canal direct și indirect și între trei niveluri de intensitate — intensivă, selectivă, exclusivă
+- [[MKT-0123-serviciile-intangibile-inseparabile-eterogene-perisabile|MKT-0123]] _vezi_ — Serviciile se deosebesc de bunuri prin patru trăsături — intangibile, inseparabile, eterogene, perisabile
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] — Principles of Marketing
+<!-- backlinks:end -->

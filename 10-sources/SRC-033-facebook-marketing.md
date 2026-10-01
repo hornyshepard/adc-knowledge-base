@@ -27,28 +27,28 @@ level: 1
 
 | Secț. | Tema | Note derivate |
 |---|---|---|
-| 5–8 | Introducere, pagina, postări optimizate, promovarea postărilor | [[SOC-1004]] |
-| 9 | Grupul de Facebook țintit | [[SOC-1003]] |
-| 10 | Calendar editorial și programarea postărilor („orele optime") | [[SOC-1008]] |
-| 11 | Facebook Live | [[SOC-1004]] |
-| 12–13 | Concurs pentru lead-uri (Gleam), formular de abonare (Mailchimp) | [[SOC-1005]], [[SOC-1004]] |
-| 14 | Reclamă de trafic în Ads Manager | [[SOC-1006]] |
-| 15 | Remarketing cu pixel | [[DIG-1035]] |
-| 16 | „Planul perfect" de marketing pe Facebook | [[SOC-1004]] |
-| 17–18 | Afaceri locale, surse de trafic spre pagină | [[SOC-1004]] |
-| 19 | Idei de concursuri | [[SOC-1005]] |
-| 20–21 | Trenduri; reguli „așa da / așa nu" | [[SOC-1001]], [[SOC-1008]] |
-| 22–24 | Unelte, „povești de succes", întrebări frecvente | [[SOC-1004]], [[SOC-1008]] |
+| 5–8 | Introducere, pagina, postări optimizate, promovarea postărilor | [[SOC-1004-scara-facebook-de-la-organic-la-remarketing|SOC-1004]] |
+| 9 | Grupul de Facebook țintit | [[SOC-1003-focurile-de-tabara-digitale-comunitati-mici-private|SOC-1003]] |
+| 10 | Calendar editorial și programarea postărilor („orele optime") | [[SOC-1008-orele-optime-de-postare-vs-datele-propriului-public|SOC-1008]] |
+| 11 | Facebook Live | [[SOC-1004-scara-facebook-de-la-organic-la-remarketing|SOC-1004]] |
+| 12–13 | Concurs pentru lead-uri (Gleam), formular de abonare (Mailchimp) | [[SOC-1005-concursurile-sociale-efort-versus-implicare|SOC-1005]], [[SOC-1004-scara-facebook-de-la-organic-la-remarketing|SOC-1004]] |
+| 14 | Reclamă de trafic în Ads Manager | [[SOC-1006-ad-managerele-sociale-au-aceeasi-anatomie|SOC-1006]] |
+| 15 | Remarketing cu pixel | [[DIG-1035-retargetingul-eficient-in-era-cookie-expus-dupa|DIG-1035]] |
+| 16 | „Planul perfect" de marketing pe Facebook | [[SOC-1004-scara-facebook-de-la-organic-la-remarketing|SOC-1004]] |
+| 17–18 | Afaceri locale, surse de trafic spre pagină | [[SOC-1004-scara-facebook-de-la-organic-la-remarketing|SOC-1004]] |
+| 19 | Idei de concursuri | [[SOC-1005-concursurile-sociale-efort-versus-implicare|SOC-1005]] |
+| 20–21 | Trenduri; reguli „așa da / așa nu" | [[SOC-1001-recenzia-negativa-raspuns-rapid-empatic-fara-stergere|SOC-1001]], [[SOC-1008-orele-optime-de-postare-vs-datele-propriului-public|SOC-1008]] |
+| 22–24 | Unelte, „povești de succes", întrebări frecvente | [[SOC-1004-scara-facebook-de-la-organic-la-remarketing|SOC-1004]], [[SOC-1008-orele-optime-de-postare-vs-datele-propriului-public|SOC-1008]] |
 
 ## Idei-cheie → note permanente
 
-- [[SOC-1004]] — scara Facebook: pagină, engagement, lead-uri, trafic plătit, remarketing.
-- [[SOC-1003]] — grupul de Facebook nebranduit, numit după problema clientului (contribuție la nota despre „focurile de tabără digitale").
-- [[SOC-1005]] — tipologia concursurilor după efortul cerut participanților.
-- [[SOC-1006]] — pașii unei reclame de trafic (contribuție la nota despre anatomia ad managerelor).
-- [[DIG-1035]] — remarketingul cu pixel, descris fără nicio discuție despre consimțământ.
-- [[SOC-1008]] — „orele optime de postare", pretinse fără metodă (notă de dezbatere).
-- [[SOC-1001]] — regulile de răspuns la clienții nemulțumiți.
+- [[SOC-1004-scara-facebook-de-la-organic-la-remarketing|SOC-1004]] — scara Facebook: pagină, engagement, lead-uri, trafic plătit, remarketing.
+- [[SOC-1003-focurile-de-tabara-digitale-comunitati-mici-private|SOC-1003]] — grupul de Facebook nebranduit, numit după problema clientului (contribuție la nota despre „focurile de tabără digitale").
+- [[SOC-1005-concursurile-sociale-efort-versus-implicare|SOC-1005]] — tipologia concursurilor după efortul cerut participanților.
+- [[SOC-1006-ad-managerele-sociale-au-aceeasi-anatomie|SOC-1006]] — pașii unei reclame de trafic (contribuție la nota despre anatomia ad managerelor).
+- [[DIG-1035-retargetingul-eficient-in-era-cookie-expus-dupa|DIG-1035]] — remarketingul cu pixel, descris fără nicio discuție despre consimțământ.
+- [[SOC-1008-orele-optime-de-postare-vs-datele-propriului-public|SOC-1008]] — „orele optime de postare", pretinse fără metodă (notă de dezbatere).
+- [[SOC-1001-recenzia-negativa-raspuns-rapid-empatic-fara-stergere|SOC-1001]] — regulile de răspuns la clienții nemulțumiți.
 
 ## Ce lipsește / ce trebuie citit critic
 
@@ -61,3 +61,15 @@ level: 1
 ## Citat
 
 > „Your organic strategies are crucial, but they can only get you so far." (secț. 16, „The Perfect Facebook Marketing Plan")
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-1035-retargetingul-eficient-in-era-cookie-expus-dupa|DIG-1035]] — Retargetingul a fost cea mai eficientă tactică a erei cookie și este cea mai expusă după ea — funcționează doar cu urmărire consimțită, pixeli necesari și plafoane de frecvență
+- [[SOC-1001-recenzia-negativa-raspuns-rapid-empatic-fara-stergere|SOC-1001]] — La o recenzie negativă, brandul răspunde repede, empatic și profesionist, mută rezolvarea în privat și nu șterge critica
+- [[SOC-1003-focurile-de-tabara-digitale-comunitati-mici-private|SOC-1003]] — Conversația se mută în „focuri de tabără digitale", comunități mici și private, iar brandul intră în ele ca gazdă utilă, nu ca vânzător
+- [[SOC-1004-scara-facebook-de-la-organic-la-remarketing|SOC-1004]] — Pe Facebook, marketingul urcă o scară — prezență organică, engagement, lead-uri, trafic plătit, remarketing —, pentru că reach-ul organic singur nu mai ajunge
+- [[SOC-1005-concursurile-sociale-efort-versus-implicare|SOC-1005]] — Concursurile de pe social se aleg după efortul cerut — participarea ușoară aduce mulți oameni, participarea grea aduce mai puțini, dar mai legați de brand
+- [[SOC-1006-ad-managerele-sociale-au-aceeasi-anatomie|SOC-1006]] — Ad managerele platformelor sociale au aceeași anatomie — obiectiv, format, previzualizare, public și persona, durată, buget zilnic, estimare de rezultate, cost
+- [[SOC-1008-orele-optime-de-postare-vs-datele-propriului-public|SOC-1008]] — „Orele optime de postare" universale sunt o scurtătură slabă — calendarul se construiește din datele propriului public și din teste
+<!-- backlinks:end -->

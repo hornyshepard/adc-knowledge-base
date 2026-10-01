@@ -47,11 +47,23 @@ Timberland se poziționa ca „the good outdoor-inspired footwear and apparel co
 
 ## Legături
 
-- **fundament** [[MKT-0202]] — triada minte–inimă–spirit din Marketing 3.0 stă la baza celor trei laturi.
-- **vezi** [[BRD-0202]] — matricea VBM aplică aceeași logică asupra misiunii, viziunii și valorilor.
-- **vezi** [[MKT-0203]] — „character building" e versiunea orizontală a construirii brandului.
-- **extinde** [[BRD-0206]] — Marketing 4.0 duce ideea mai departe, cerând brandului un caracter uman.
+- **fundament** [[MKT-0202-marketing-3-0-trateaza-clientul-ca-om-intreg-minte-inima-spirit|MKT-0202]] — triada minte–inimă–spirit din Marketing 3.0 stă la baza celor trei laturi.
+- **vezi** [[BRD-0202-matricea-vbm-misiune-viziune-valori-minte-inima-spirit|BRD-0202]] — matricea VBM aplică aceeași logică asupra misiunii, viziunii și valorilor.
+- **vezi** [[MKT-0203-marketingul-orizontal-co-creare-comunitizare-caracter|MKT-0203]] — „character building" e versiunea orizontală a construirii brandului.
+- **extinde** [[BRD-0206-brandurile-human-centric-au-sase-atribute-umane|BRD-0206]] — Marketing 4.0 duce ideea mai departe, cerând brandului un caracter uman.
 
 ## Surse
 
-- [[SRC-003]] Kotler, Kartajaya, Setiawan, *Marketing 3.0*, cap. 2 „Shift to Human Spirit: The 3i Model", p. 52-57 (Fig. 2.2-2.4)
+- [[SRC-003-marketing-3-0-philip-kotler|SRC-003]] Kotler, Kartajaya, Setiawan, *Marketing 3.0*, cap. 2 „Shift to Human Spirit: The 3i Model", p. 52-57 (Fig. 2.2-2.4)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0202-matricea-vbm-misiune-viziune-valori-minte-inima-spirit|BRD-0202]] _vezi_ — Matricea bazată pe valori (VBM) leagă misiunea, viziunea și valorile de mintea, inima și spiritul stakeholderilor
+- [[BRD-0204-valorile-devin-brand-doar-ca-valori-comune-traite-de-angajati|BRD-0204]] _vezi_ — Valorile companiei devin brand doar când sunt valori comune trăite în comportamentul angajaților
+- [[BRD-0206-brandurile-human-centric-au-sase-atribute-umane|BRD-0206]] _extinde_ — Brandurile human-centric au șase atribute umane — fizicalitate, intelectualitate, sociabilitate, emoționalitate, personabilitate, moralitate
+- [[MKT-0202-marketing-3-0-trateaza-clientul-ca-om-intreg-minte-inima-spirit|MKT-0202]] _extinde_ — Marketing 3.0 tratează clientul ca om întreg — minte, inimă și spirit
+- [[MKT-0203-marketingul-orizontal-co-creare-comunitizare-caracter|MKT-0203]] _vezi_ — Viitorul marketingului e orizontal — co-creare, comunitizare și caracter în locul 4P, STP și brand building
+- [[MKT-0205-marketingul-verde-trei-actori-patru-segmente|MKT-0205]] _vezi_ — Marketingul verde are trei actori (Inovator, Investitor, Propagator) și patru segmente care cer poziționări diferite
+- [[SRC-003-marketing-3-0-philip-kotler|SRC-003]] — Marketing 3.0: From Products to Customers to the Human Spirit
+<!-- backlinks:end -->

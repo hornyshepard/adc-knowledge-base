@@ -53,10 +53,19 @@ LaCroix (cap. 6) a ales intenționat micro-influenceri cu câteva mii de urmări
 
 ## Legături
 
-- **fundament** [[DIG-0102]] — influencerii exploatează efectul de rețea din roata implicării.
-- **vezi** [[MKT-0119]] — influencerii joacă rolul adoptatorilor timpurii și al liderilor de opinie.
-- **vezi** [[ADV-0109]] — ca și PR-ul, influencer marketingul se bazează pe credibilitate.
+- **fundament** [[DIG-0102-roata-implicarii-pe-social-media-cinci-efecte|DIG-0102]] — influencerii exploatează efectul de rețea din roata implicării.
+- **vezi** [[MKT-0119-inovatia-se-raspandeste-in-cinci-grupuri-de-adoptatori|MKT-0119]] — influencerii joacă rolul adoptatorilor timpurii și al liderilor de opinie.
+- **vezi** [[ADV-0109-pr-ul-castiga-credibilitate-pentru-ca-spatiul-nu-e-cumparat|ADV-0109]] — ca și PR-ul, influencer marketingul se bazează pe credibilitate.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 3, p. 108-113 (Exhibit 3.7-3.10); cap. 6, p. 196
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 3, p. 108-113 (Exhibit 3.7-3.10); cap. 6, p. 196
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0109-pr-ul-castiga-credibilitate-pentru-ca-spatiul-nu-e-cumparat|ADV-0109]] _vezi_ — Relațiile publice câștigă credibilitate tocmai pentru că spațiul nu e cumpărat — prin media, cauze și sponsorizări
+- [[DIG-0102-roata-implicarii-pe-social-media-cinci-efecte|DIG-0102]] _extinde_ — Roata implicării pe social media are cinci efecte care o pun în mișcare — informație, conexiune, rețea, dinamică, promptitudine
+- [[MKT-0119-inovatia-se-raspandeste-in-cinci-grupuri-de-adoptatori|MKT-0119]] _vezi_ — O inovație se răspândește prin cinci grupuri de adoptatori, iar viteza depinde de cinci caracteristici ale produsului
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+<!-- backlinks:end -->

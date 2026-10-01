@@ -51,10 +51,18 @@ Actrița Elena Uhlig a creat în pandemie talk-show-ul live „Stilles Örtchen"
 
 ## Legături
 
-- **fundament** [[STO-1111]] — schema intro–execuție–outro e unul dintre șabloanele de bază.
-- **vezi** [[SOC-1102]] — live-ul e instrumentul cel mai direct de construire a comunității.
-- **vezi** [[SOC-1106]] — moderarea live include gestionarea haterilor.
+- **fundament** [[STO-1111-sabloane-simple-de-micro-poveste-pentru-social-media|STO-1111]] — schema intro–execuție–outro e unul dintre șabloanele de bază.
+- **vezi** [[SOC-1102-comunitatea-nu-este-audienta-membrii-ei-interactioneaza|SOC-1102]] — live-ul e instrumentul cel mai direct de construire a comunității.
+- **vezi** [[SOC-1106-haters-troli-si-boti-ascunde-raporteaza-nu-hrani-trolul|SOC-1106]] — moderarea live include gestionarea haterilor.
 
 ## Surse
 
-- [[SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 3.6.2, p. 109; cap. 3.8.5, p. 124–125; cap. 4.6, p. 231–236; cap. 7.2.4, p. 294
+- [[SRC-034-social-media-storytelling|SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 3.6.2, p. 109; cap. 3.8.5, p. 124–125; cap. 4.6, p. 231–236; cap. 7.2.4, p. 294
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[SOC-1106-haters-troli-si-boti-ascunde-raporteaza-nu-hrani-trolul|SOC-1106]] _vezi_ — Haters, troli și boți: ascunde, raportează, nu hrăni trolul
+- [[STO-1111-sabloane-simple-de-micro-poveste-pentru-social-media|STO-1111]] _aplicare_ — Șabloane simple de micro-poveste pentru social media
+- [[SRC-034-social-media-storytelling|SRC-034]] — Social Media Storytelling
+<!-- backlinks:end -->

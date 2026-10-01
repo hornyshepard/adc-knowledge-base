@@ -50,11 +50,25 @@ Campania Whopper Detour a Burger King cerea multe acțiuni succesive: descarcă 
 
 ## Legături
 
-- **fundament** [[ADV-1502]] — pasul al treilea este format din cele patru efecte de comunicare.
-- **extinde** [[ADV-1504]] — planificarea parcurge aceeași secvență în sens invers.
-- **exemplu** [[ADV-1522]] — Whopper Detour, o campanie cu mulți pași succesivi.
-- **vezi** [[INS-1508]] — capitolul despre procesare detaliază pasul al doilea.
+- **fundament** [[ADV-1502-patru-efecte-de-comunicare-notorietatea-si-atitudinea-mereu|ADV-1502]] — pasul al treilea este format din cele patru efecte de comunicare.
+- **extinde** [[ADV-1504-planificarea-inverseaza-secventa-de-raspuns|ADV-1504]] — planificarea parcurge aceeași secvență în sens invers.
+- **exemplu** [[ADV-1522-whopper-detour-transforma-restaurantele-concurentului-in-puncte-de-comanda|ADV-1522]] — Whopper Detour, o campanie cu mulți pași succesivi.
+- **vezi** [[INS-1508-patru-raspunsuri-de-procesare-atentie-invatare-acceptare-emotie|INS-1508]] — capitolul despre procesare detaliază pasul al doilea.
 
 ## Surse
 
-- [[SRC-049]] Larry Percy & Richard Rosenbaum-Elliott, *Strategic Advertising Management*, cap. 4, Table 4.1 (audio 09)
+- [[SRC-049-strategic-advertising-management|SRC-049]] Larry Percy & Richard Rosenbaum-Elliott, *Strategic Advertising Management*, cap. 4, Table 4.1 (audio 09)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-1502-patru-efecte-de-comunicare-notorietatea-si-atitudinea-mereu|ADV-1502]] _vezi_ — Orice comunicare poate produce patru efecte, dar notorietatea și atitudinea față de brand sunt mereu obiective
+- [[ADV-1504-planificarea-inverseaza-secventa-de-raspuns|ADV-1504]] _fundament_ — Planificarea parcurge secvența de răspuns în sens invers, iar o greșeală la un pas nu anulează pașii de dinainte
+- [[ADV-1505-tinte-pe-reclama-pentru-expunere-pe-campanie-pentru-efecte|ADV-1505]] _fundament_ — Ținte cifrice pe reclamă pentru expunere și procesare, pe campanie pentru efecte și acțiune
+- [[ADV-1520-harta-perspectivelor-audienta-activa-pasiva-individ-cultura|ADV-1520]] _fundament_ — Teoriile despre cum funcționează publicitatea se ordonează pe două axe, audiență activă sau pasivă și explicație individuală sau culturală
+- [[ADV-1522-whopper-detour-transforma-restaurantele-concurentului-in-puncte-de-comanda|ADV-1522]] _exemplu_ — Whopper Detour a transformat restaurantele McDonald's în puncte de comandă pentru Burger King, ca să obțină descărcarea aplicației
+- [[ADV-1524-bugetul-si-trackingul-urmeaza-secventa-de-raspuns|ADV-1524]] _fundament_ — Bugetul campaniei (metoda sarcinii) și trackingul ei urmează aceeași secvență de răspuns, iar uzura se diagnostichează de la plan spre execuție
+- [[ADV-1526-frecventa-minima-efectiva-mai-bine-gresesti-spre-frecventa|ADV-1526]] _fundament_ — Planul media se judecă după acoperirea la frecvența minimă efectivă, nu după GRP-uri sau frecvența medie, iar în dubiu e mai bine să alegi frecvența
+- [[INS-1508-patru-raspunsuri-de-procesare-atentie-invatare-acceptare-emotie|INS-1508]] _extinde_ — O reclamă e procesată prin patru răspunsuri (atenție, învățare, acceptare, emoție), element cu element, iar atenția reflexă durează sub o secundă
+- [[SRC-049-strategic-advertising-management|SRC-049]] — Strategic Advertising Management (6th edition)
+<!-- backlinks:end -->

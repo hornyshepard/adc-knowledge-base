@@ -49,12 +49,26 @@ Sachdev arată de ce contează: la un CPC de 3,25 $, 20 de clicuri costă 65 $; 
 
 ## Legături
 
-- **aplicare** [[DIG-1026]] — fiecare subcampanie pe etapă își alege modelul de plată.
-- **vezi** [[DIG-1034]] — formatele video YouTube au prețuri și modele diferite pe obiectiv.
-- **vezi** [[DIG-1028]] — plata pe vânzări verificate descurajează frauda.
-- **vezi** [[ADV-1001]] — costul media e unul dintre cei trei parametri ai bugetului.
+- **aplicare** [[DIG-1026-grup-de-campanie-pe-persona-subcampanii-pe-etape|DIG-1026]] — fiecare subcampanie pe etapă își alege modelul de plată.
+- **vezi** [[DIG-1034-formatele-video-youtube-se-aleg-dupa-obiectiv|DIG-1034]] — formatele video YouTube au prețuri și modele diferite pe obiectiv.
+- **vezi** [[DIG-1028-frauda-publicitara-se-depisteaza-in-timpul-campaniei|DIG-1028]] — plata pe vânzări verificate descurajează frauda.
+- **vezi** [[ADV-1001-bugetul-campaniei-online-reach-presiune-cost|ADV-1001]] — costul media e unul dintre cei trei parametri ai bugetului.
 
 ## Surse
 
-- [[SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 2.2.4 (p. 64–66)
-- [[SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 6 (p. 190–193, 201)
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 2.2.4 (p. 64–66)
+- [[SRC-031-digital-marketing-manual|SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 6 (p. 190–193, 201)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-1001-bugetul-campaniei-online-reach-presiune-cost|ADV-1001]] _vezi_ — Bugetul unei campanii online se estimează din reach, presiune publicitară și cost media, iar metodele euristice dau doar plafonul
+- [[DIG-1013-in-licitatia-search-calitatea-conteaza-cat-oferta|DIG-1013]] _vezi_ — În licitația din search nu câștigă cine plătește cel mai mult — ad rank-ul combină oferta cu calitatea anunțului și a paginii
+- [[DIG-1026-grup-de-campanie-pe-persona-subcampanii-pe-etape|DIG-1026]] _vezi_ — Fiecare buyer persona primește propriul grup de campanie, împărțit în subcampanii pentru Aware, Appeal și Ask, fiecare cu obiective și KPI separate
+- [[DIG-1028-frauda-publicitara-se-depisteaza-in-timpul-campaniei|DIG-1028]] _vezi_ — Frauda publicitară se depistează în timpul campaniei, prin anomalii, nu după, iar plata pe vânzări verificate o face neatractivă
+- [[DIG-1032-kpi-pe-etape-aware-appeal-ask|DIG-1032]] _vezi_ — Fiecare etapă a journey-ului are KPI-urile ei — în Aware reach-ul net și frecvența, în Appeal intrarea în setul evocat, în Ask clicurile și conversiile
+- [[DIG-1034-formatele-video-youtube-se-aleg-dupa-obiectiv|DIG-1034]] _vezi_ — Formatele video de pe YouTube se aleg după obiectiv — masthead și bumper de 6 secunde pentru reach, TrueView pentru considerare, Video Action pentru conversie
+- [[SOC-1006-ad-managerele-sociale-au-aceeasi-anatomie|SOC-1006]] _vezi_ — Ad managerele platformelor sociale au aceeași anatomie — obiectiv, format, previzualizare, public și persona, durată, buget zilnic, estimare de rezultate, cost
+- [[SRC-031-digital-marketing-manual|SRC-031]] — Digital Marketing
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] — Digital Advertising in the Post-cookie Era: Strategic Campaign Planning Across the Customer Journey
+<!-- backlinks:end -->

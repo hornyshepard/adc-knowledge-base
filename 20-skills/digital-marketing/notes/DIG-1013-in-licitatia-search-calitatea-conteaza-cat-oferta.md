@@ -48,11 +48,20 @@ Sachdev compară „divorce lawyer los angeles", o căutare cu CPC mare, cu o ex
 
 ## Legături
 
-- **vezi** [[CPY-1001]] — cum se scriu anunțurile care ridică scorul de calitate.
-- **fundament** [[DIG-1011]] — experiența paginii de destinație e o componentă a calității.
-- **vezi** [[DIG-1012]] — CPC-ul e doar unul dintre modelele de plată posibile.
+- **vezi** [[CPY-1001-anuntul-de-cautare-set-de-piese-interschimbabile|CPY-1001]] — cum se scriu anunțurile care ridică scorul de calitate.
+- **fundament** [[DIG-1011-reclama-si-pagina-de-destinatie-spun-acelasi-lucru|DIG-1011]] — experiența paginii de destinație e o componentă a calității.
+- **vezi** [[DIG-1012-modelul-de-plata-media-urmeaza-obiectivul-si-etapa|DIG-1012]] — CPC-ul e doar unul dintre modelele de plată posibile.
 
 ## Surse
 
-- [[SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 6 (p. 189–192)
-- [[SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 4 (p. 137, 140–155)
+- [[SRC-031-digital-marketing-manual|SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 6 (p. 189–192)
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 4 (p. 137, 140–155)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-1001-anuntul-de-cautare-set-de-piese-interschimbabile|CPY-1001]] _vezi_ — Anunțul de căutare se scrie ca un set de piese interschimbabile — titluri, descrieri, extensii — pe care algoritmul le combină, deci fiecare piesă trebuie să funcționeze singură
+- [[DIG-1011-reclama-si-pagina-de-destinatie-spun-acelasi-lucru|DIG-1011]] _vezi_ — Reclama, pagina de destinație și contextul în care apare reclama trebuie să spună același lucru — incongruența rupe conversia și încrederea
+- [[SRC-031-digital-marketing-manual|SRC-031]] — Digital Marketing
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] — Digital Advertising in the Post-cookie Era: Strategic Campaign Planning Across the Customer Journey
+<!-- backlinks:end -->

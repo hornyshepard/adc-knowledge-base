@@ -44,11 +44,20 @@ Cele două cărți dau cifre diferite pentru Ice Bucket Challenge: Glenister vor
 
 ## Legături
 
-- **vezi** [[STO-1112]] — UGC-ul e motorul campaniilor de tip challenge.
-- **contrazice** [[SOC-1108]] — Gottschalk avertizează că vârful viral nu înseamnă succes de campanie.
-- **vezi** [[SOC-1131]] — Brave Bison folosește participarea publicului ca mecanism.
+- **vezi** [[STO-1112-ugc-este-continut-castigat-pe-care-brandul-nu-il-poate|STO-1112]] — UGC-ul e motorul campaniilor de tip challenge.
+- **contrazice** [[SOC-1108-like-urile-nu-sunt-succes-evaluezi-calatoria-nu-etapa|SOC-1108]] — Gottschalk avertizează că vârful viral nu înseamnă succes de campanie.
+- **vezi** [[SOC-1131-brave-bison-mecanica-greseala-dezvaluire-pentru-o-cauza|SOC-1131]] — Brave Bison folosește participarea publicului ca mecanism.
 
 ## Surse
 
-- [[SRC-035]] Glenister, *Influencer Marketing Strategy*, Introducere, p. 23; cap. 1, p. 30; cap. 10, p. 262–266
-- [[SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 1.2.4, p. 37–38; cap. 6.2.2, p. 273–274
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] Glenister, *Influencer Marketing Strategy*, Introducere, p. 23; cap. 1, p. 30; cap. 10, p. 262–266
+- [[SRC-034-social-media-storytelling|SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 1.2.4, p. 37–38; cap. 6.2.2, p. 273–274
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[SOC-1131-brave-bison-mecanica-greseala-dezvaluire-pentru-o-cauza|SOC-1131]] _vezi_ — Brave Bison: mecanica greșeală-dezvăluire pentru o cauză sensibilă
+- [[STO-1112-ugc-este-continut-castigat-pe-care-brandul-nu-il-poate|STO-1112]] _vezi_ — UGC este conținut câștigat pe care brandul nu îl poate controla
+- [[SRC-034-social-media-storytelling|SRC-034]] — Social Media Storytelling
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] — Influencer Marketing Strategy: How influencers can help grow your business
+<!-- backlinks:end -->

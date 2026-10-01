@@ -50,13 +50,27 @@ Cadillac „The Penalty of Leadership” (MacManus, 1915) nu menționează nicio
 
 ## Legături
 
-- **extinde** [[CPY-0802]] — reason-why detaliat prin exemplele lui Watkins.
-- **extinde** [[CPY-0803]] — reclama de imagine ca a doua mare tradiție.
-- **vezi** [[HIS-0812]] — oscilația dintre stiluri reflectă dezbaterea știință vs. artă.
-- **vezi** [[IDE-0801]] — Big Idea ca sinteză a revoluției creative.
-- **vezi** [[CPY-0813]] — istoria umorului în reclamă.
+- **extinde** [[CPY-0802-reason-why-vanzare-tiparita|CPY-0802]] — reason-why detaliat prin exemplele lui Watkins.
+- **extinde** [[CPY-0803-reclama-de-imagine-vinde-un-sentiment|CPY-0803]] — reclama de imagine ca a doua mare tradiție.
+- **vezi** [[HIS-0812-publicitatea-stiinta-sau-arta|HIS-0812]] — oscilația dintre stiluri reflectă dezbaterea știință vs. artă.
+- **vezi** [[IDE-0801-big-idea-strategie-plus-surpriza|IDE-0801]] — Big Idea ca sinteză a revoluției creative.
+- **vezi** [[CPY-0813-umorul-de-la-interzis-la-recompensa|CPY-0813]] — istoria umorului în reclamă.
 
 ## Surse
 
-- [[SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 7, p. 119–121; cap. 10, p. 196–208
-- [[SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Pepsodent — Claude Hopkins’ Film Campaign” și „Cadillac — The Penalty of Leadership”
+- [[SRC-027-a-history-of-advertising|SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 7, p. 119–121; cap. 10, p. 196–208
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Pepsodent — Claude Hopkins’ Film Campaign” și „Cadillac — The Penalty of Leadership”
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0802-reason-why-vanzare-tiparita|CPY-0802]] _fundament_ — Reason-why — reclama ca vânzare tipărită care îi dă cititorului un motiv concret
+- [[CPY-0803-reclama-de-imagine-vinde-un-sentiment|CPY-0803]] _fundament_ — Reclama de imagine vinde un sentiment, nu o fișă tehnică
+- [[CPY-0813-umorul-de-la-interzis-la-recompensa|CPY-0813]] _fundament_ — Umorul în reclamă — de la „cleverness" interzis la recompensa care cumpără atenția
+- [[HIS-0811-revolutia-creativa-copywriter-si-art-director-impreuna|HIS-0811]] _extinde_ — Revoluția creativă din 1959 a pus copywriterul și art directorul în aceeași cameră
+- [[HIS-0814-burnett-drama-inerenta-a-produsului|HIS-0814]] _vezi_ — Leo Burnett — drama inerentă a produsului și personajele care o poartă
+- [[HIS-0815-aida-inventata-de-copywriteri|HIS-0815]] — AIDA a fost inventată de copywriteri, nu de psihologi — genealogia modelelor de efect
+- [[HIS-0822-reclama-politica-a-invatat-de-la-cea-comerciala|HIS-0822]] _vezi_ — Reclama politică a învățat de la cea comercială — de la spoturile lui Eisenhower la „Daisy"
+- [[IDE-0801-big-idea-strategie-plus-surpriza|IDE-0801]] _extinde_ — Big Idea — conceptul care face o reclamă diferită de ale concurenților îmbină strategia cu surpriza
+- [[SRC-027-a-history-of-advertising|SRC-027]] — A History of Advertising: The First 300,000 Years
+<!-- backlinks:end -->

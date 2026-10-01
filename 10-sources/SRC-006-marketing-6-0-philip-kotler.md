@@ -27,27 +27,27 @@ level: 2
 
 | Cap. | Tema | Note derivate |
 |---|---|---|
-| 1 | De la multi la omni la meta; trei straturi | [[MKT-0215]], [[MKT-0201]] |
-| 2 | Nativii phygitali (Z și Alpha), KGOY | [[INS-0204]] (îmbogățită) |
-| 3 | Cinci micro-trenduri | [[SOC-0201]] |
-| 4 | Viitorul CX: cinci elemente ale imersiunii, patru scenarii om–digital | [[EXP-0202]] |
-| 5 | Cinci tehnologii-facilitator | [[MKT-0215]] |
-| 6 | Realități extinse, al treilea loc, design IRL | [[EXP-0203]] |
-| 7 | Metaversul: Web1-Web3, componente, guvernanță | [[SOC-0202]] |
-| 8 | Marketing multisenzorial | [[EXP-0204]] |
-| 9 | Marketing spațial | [[EXP-0203]], [[DIG-0205]] (îmbogățită) |
-| 10 | Marketing în metavers | [[SOC-0202]] |
+| 1 | De la multi la omni la meta; trei straturi | [[MKT-0215-marketing-6-0-metamarketingul-de-la-multi-la-omni-la-meta|MKT-0215]], [[MKT-0201-evolutia-marketingului-de-la-1-0-la-6-0|MKT-0201]] |
+| 2 | Nativii phygitali (Z și Alpha), KGOY | [[INS-0204-cinci-generatii-si-patru-etape-de-viata|INS-0204]] (îmbogățită) |
+| 3 | Cinci micro-trenduri | [[SOC-0201-cinci-micro-trenduri-video-scurt-comunitati-comert-interactiv-ai-wearables|SOC-0201]] |
+| 4 | Viitorul CX: cinci elemente ale imersiunii, patru scenarii om–digital | [[EXP-0202-experienta-imersiva-cinci-elemente-si-patru-scenarii-om-digital|EXP-0202]] |
+| 5 | Cinci tehnologii-facilitator | [[MKT-0215-marketing-6-0-metamarketingul-de-la-multi-la-omni-la-meta|MKT-0215]] |
+| 6 | Realități extinse, al treilea loc, design IRL | [[EXP-0203-al-treilea-loc-reinventat-realitati-extinse-in-spatiul-fizic|EXP-0203]] |
+| 7 | Metaversul: Web1-Web3, componente, guvernanță | [[SOC-0202-marketingul-in-metavers-motivatii-si-patru-moduri-de-participare|SOC-0202]] |
+| 8 | Marketing multisenzorial | [[EXP-0204-marketingul-multisenzorial-antidot-la-oboseala-digitala|EXP-0204]] |
+| 9 | Marketing spațial | [[EXP-0203-al-treilea-loc-reinventat-realitati-extinse-in-spatiul-fizic|EXP-0203]], [[DIG-0205-marketingul-contextual-senzori-declansatori-trei-niveluri|DIG-0205]] (îmbogățită) |
+| 10 | Marketing în metavers | [[SOC-0202-marketingul-in-metavers-motivatii-si-patru-moduri-de-participare|SOC-0202]] |
 
 ## Idei-cheie → note permanente
 
-- [[MKT-0215]] — metamarketingul; multichannel → omnichannel → meta; straturile facilitator, mediu, experiență.
-- [[SOC-0201]] — video scurt și micro-momente, social media pe comunități, comerț social, conversațional și live, AI lingvistic, wearables.
-- [[EXP-0202]] — multisenzorial, interactiv, participativ, fără fricțiuni, narativ; patru scenarii de înlocuire a omului.
-- [[EXP-0203]] — al treilea loc ca realitate extinsă; dovezi fizice, proces, oameni; marketingul spațial.
-- [[EXP-0204]] — cinci simțuri, oboseala digitală, trei pași de design senzorial.
-- [[SOC-0202]] — metaversul, motivațiile și patru forme de participare pentru branduri.
-- [[INS-0204]] — nativii phygitali (completare la generații).
-- [[MKT-0216]] — 6.0 revizuiește entuziasmul digital (întoarcerea la IRL) și portretul generației Z.
+- [[MKT-0215-marketing-6-0-metamarketingul-de-la-multi-la-omni-la-meta|MKT-0215]] — metamarketingul; multichannel → omnichannel → meta; straturile facilitator, mediu, experiență.
+- [[SOC-0201-cinci-micro-trenduri-video-scurt-comunitati-comert-interactiv-ai-wearables|SOC-0201]] — video scurt și micro-momente, social media pe comunități, comerț social, conversațional și live, AI lingvistic, wearables.
+- [[EXP-0202-experienta-imersiva-cinci-elemente-si-patru-scenarii-om-digital|EXP-0202]] — multisenzorial, interactiv, participativ, fără fricțiuni, narativ; patru scenarii de înlocuire a omului.
+- [[EXP-0203-al-treilea-loc-reinventat-realitati-extinse-in-spatiul-fizic|EXP-0203]] — al treilea loc ca realitate extinsă; dovezi fizice, proces, oameni; marketingul spațial.
+- [[EXP-0204-marketingul-multisenzorial-antidot-la-oboseala-digitala|EXP-0204]] — cinci simțuri, oboseala digitală, trei pași de design senzorial.
+- [[SOC-0202-marketingul-in-metavers-motivatii-si-patru-moduri-de-participare|SOC-0202]] — metaversul, motivațiile și patru forme de participare pentru branduri.
+- [[INS-0204-cinci-generatii-si-patru-etape-de-viata|INS-0204]] — nativii phygitali (completare la generații).
+- [[MKT-0216-seria-kotler-x-0-isi-revizuieste-propriile-idei|MKT-0216]] — 6.0 revizuiește entuziasmul digital (întoarcerea la IRL) și portretul generației Z.
 
 ## Ce lipsește / ce trebuie citit critic
 
@@ -56,8 +56,23 @@ level: 2
 - **Cifre populare, nu științifice:** procentele 80/10/1-4% pentru simțuri și multe statistici de piață vin din surse secundare.
 - **Etică tratată superficial:** marketingul către utilizatori de 12-13 ani pe Roblox, recunoașterea facială și citirea emoțiilor (UMOOD, panouri) sunt prezentate entuziast, cu o singură mențiune despre consimțământ.
 - **Puțin „cum":** cartea e un catalog de tendințe și cazuri; pașii propuși (de exemplu, cei trei pași multisenzoriali) sunt generici.
-- **Revizuiri tacite:** cartea nuanțează, fără s-o spună, entuziasmul digital din 4.0 și 5.0 (vezi [[MKT-0216]]).
+- **Revizuiri tacite:** cartea nuanțează, fără s-o spună, entuziasmul digital din 4.0 și 5.0 (vezi [[MKT-0216-seria-kotler-x-0-isi-revizuieste-propriile-idei|MKT-0216]]).
 
 ## Citat
 
 > „Metamarketing… transcends the boundaries between the physical and digital worlds." (cap. 1)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0205-marketingul-contextual-senzori-declansatori-trei-niveluri|DIG-0205]] — Marketingul contextual aduce personalizarea digitală în spațiul fizic — senzori, declanșatori și trei niveluri, informativ, interactiv, imersiv
+- [[EXP-0202-experienta-imersiva-cinci-elemente-si-patru-scenarii-om-digital|EXP-0202]] — Experiența viitorului e imersivă și hibridă — cinci elemente ale imersiunii și patru scenarii pentru cât din om poate înlocui digitalul
+- [[EXP-0203-al-treilea-loc-reinventat-realitati-extinse-in-spatiul-fizic|EXP-0203]] — Al treilea loc trebuie reinventat ca realitate extinsă — spațiul fizic augmentat digital, construit din dovezi fizice, proces și oameni
+- [[EXP-0204-marketingul-multisenzorial-antidot-la-oboseala-digitala|EXP-0204]] — Marketingul multisenzorial e antidotul la oboseala digitală — fiecare simț are un rol diferit, iar stimulii trebuie să spună aceeași poveste
+- [[INS-0204-cinci-generatii-si-patru-etape-de-viata|INS-0204]] — Cinci generații trăiesc simultan — Boomers, X, Y, Z și Alpha — și parcurg patru etape de viață tot mai rapid
+- [[MKT-0201-evolutia-marketingului-de-la-1-0-la-6-0|MKT-0201]] — Evoluția marketingului de la 1.0 la 6.0 — de la produs la client, la om, la digital, la tehnologie pentru umanitate și la imersiune
+- [[MKT-0215-marketing-6-0-metamarketingul-de-la-multi-la-omni-la-meta|MKT-0215]] — Marketing 6.0 e metamarketing — după multichannel și omnichannel, experiența în care clientul nu mai distinge fizicul de digital
+- [[MKT-0216-seria-kotler-x-0-isi-revizuieste-propriile-idei|MKT-0216]] — Seria Kotler X.0 își revizuiește propriile idei — segmentarea, rolul purpose-ului și raportul online–offline se schimbă de la o carte la alta
+- [[SOC-0201-cinci-micro-trenduri-video-scurt-comunitati-comert-interactiv-ai-wearables|SOC-0201]] — Cinci micro-trenduri împing spre experiențe imersive — video scurt, social media pe comunități, comerț interactiv, AI lingvistic și wearables
+- [[SOC-0202-marketingul-in-metavers-motivatii-si-patru-moduri-de-participare|SOC-0202]] — Marketingul în metavers pornește de la motivațiile utilizatorilor și are patru forme — colecții de brand, publicitate experiențială, comerț O2O și loialitate gamificată
+<!-- backlinks:end -->

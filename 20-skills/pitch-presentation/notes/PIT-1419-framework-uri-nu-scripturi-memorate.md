@@ -48,11 +48,21 @@ Un creativ care prezintă un concept nu învață pe de rost textul, ci ține mi
 
 ## Legături
 
-- **vezi** [[PIT-1414]] — S.T.A.R. este deschiderea-schelă pe care o reții, nu o memorezi.
-- **fundament** [[PIT-1409]] — intențiile emoționale înlocuiesc scriptul când îl lași jos.
-- **aplicare** [[PIT-1420]] — reducerea textului se face în etapele de repetiție.
+- **vezi** [[PIT-1414-deschiderea-star|PIT-1414]] — S.T.A.R. este deschiderea-schelă pe care o reții, nu o memorezi.
+- **fundament** [[PIT-1409-intentia-emotionala-prin-verbe-active|PIT-1409]] — intențiile emoționale înlocuiesc scriptul când îl lași jos.
+- **aplicare** [[PIT-1420-cinci-etape-de-repetitie-si-planul-b|PIT-1420]] — reducerea textului se face în etapele de repetiție.
 
 ## Surse
 
-- [[SRC-043]] Dominic Colenso, *Cut-Through*, cap. 3 și 4
-- [[SRC-044]] Bharat Bhuval Nishad, *The Art of Presentation*, „You Will Use a Cheat Sheet…”
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] Dominic Colenso, *Cut-Through*, cap. 3 și 4
+- [[SRC-044-art-of-presentation-and-public-speaking|SRC-044]] Bharat Bhuval Nishad, *The Art of Presentation*, „You Will Use a Cheat Sheet…”
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PIT-1409-intentia-emotionala-prin-verbe-active|PIT-1409]] _aplicare_ — Călătoria emoțională a audienței se planifică prin verbe active
+- [[PIT-1418-sase-principii-pentru-slide-uri|PIT-1418]] _vezi_ — Slide-urile sunt decor, nu script — șase principii de design al deck-ului
+- [[PIT-1420-cinci-etape-de-repetitie-si-planul-b|PIT-1420]] _fundament_ — Repetiția trece prin cinci etape, de la „car crash” la repetiția generală
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] — Cut-Through: The pitch and presentation playbook
+- [[SRC-044-art-of-presentation-and-public-speaking|SRC-044]] — The Art of Presentation And Confident Public Speaking
+<!-- backlinks:end -->

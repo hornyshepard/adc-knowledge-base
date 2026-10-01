@@ -50,11 +50,21 @@ Clubul Mini clasic care refuză proprietarii noului BMW MINI: două culturi de b
 
 ## Legături
 
-- **fundament** [[INS-0445]] — consumul postmodern ca joc cu semne și identități.
-- **extinde** [[SOC-0401]] — comunitățile de brand co-creează mitul.
-- **vezi** [[INS-0426]] — asocierea cu vedete transferă sens asupra brandului.
-- **vezi** [[BRD]] — hub-ul de strategie de brand.
+- **fundament** [[INS-0445-sapte-trasaturi-ale-consumului-postmodern|INS-0445]] — consumul postmodern ca joc cu semne și identități.
+- **extinde** [[SOC-0401-comunitatea-de-brand-trei-marcaje-patru-tipuri-de-membri|SOC-0401]] — comunitățile de brand co-creează mitul.
+- **vezi** [[INS-0426-conditionarea-evaluativa-transfera-afect-si-sens|INS-0426]] — asocierea cu vedete transferă sens asupra brandului.
+- **vezi** [[20-skills/brand-strategy/SKILL|BRD]] — hub-ul de strategie de brand.
 
 ## Surse
 
-- [[SRC-013]] Parsons, Maclaran & Chatzidakis, *Contemporary Issues in Marketing and Consumer Behaviour*, cap. 3, p. 32-47; cap. 8, p. 133
+- [[SRC-013-contemporary-issues-in-marketing-and-consumer-behaviour|SRC-013]] Parsons, Maclaran & Chatzidakis, *Contemporary Issues in Marketing and Consumer Behaviour*, cap. 3, p. 32-47; cap. 8, p. 133
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0402-peisajul-moralizat-cauze-si-greenwashing|BRD-0402]] _fundament_ — Brandurile care adoptă cauze morale câștigă un halo, dar devin ținte pentru acuzația de greenwashing
+- [[INS-0428-produsele-servesc-patru-scopuri|INS-0428]] _extinde_ — Produsele servesc patru scopuri — utilitar, de autoexprimare, de construire a identității și hedonic — iar mesajul trebuie să lovească scopul potrivit
+- [[INS-0445-sapte-trasaturi-ale-consumului-postmodern|INS-0445]] _extinde_ — Consumul postmodern are șapte trăsături — de la hiperrealitate și nostalgie la pastișă și „rebeliunea care se vinde"
+- [[SOC-0401-comunitatea-de-brand-trei-marcaje-patru-tipuri-de-membri|SOC-0401]] _extinde_ — Comunitatea de brand se recunoaște după trei marcaje și are patru tipuri de membri, cu roluri diferite pentru marketeri
+- [[SRC-013-contemporary-issues-in-marketing-and-consumer-behaviour|SRC-013]] — Contemporary Issues in Marketing and Consumer Behaviour (2nd edition)
+<!-- backlinks:end -->

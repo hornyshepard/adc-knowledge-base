@@ -41,11 +41,21 @@ Beneficii pentru firmă: afli cum se simt clienții; îi implici în proiectarea
 
 ## Legături
 
-- **extinde** [[EXP-1201]] — detaliază al șaselea E al mixului.
-- **fundament** [[INS-1203]] — tipologia emoțiilor e vocabularul de care metoda are nevoie.
-- **vezi** [[EXP-1218]] — toolkit-ul de carduri care pune metoda în practică.
-- **vezi** [[EXP-1206]] — etapele parcursului în care se plasează punctele de contact.
+- **extinde** [[EXP-1201-mixul-experiential-7e-inlocuieste-cei-7p|EXP-1201]] — detaliază al șaselea E al mixului.
+- **fundament** [[INS-1203-emotiile-consumatorului-primare-secundare-fluctuante|INS-1203]] — tipologia emoțiilor e vocabularul de care metoda are nevoie.
+- **vezi** [[EXP-1218-cardurile-emotional-touchpoints-atelier-in-sase-pasi|EXP-1218]] — toolkit-ul de carduri care pune metoda în practică.
+- **vezi** [[EXP-1206-experienta-in-patru-etape-pre-consum-amintire|EXP-1206]] — etapele parcursului în care se plasează punctele de contact.
 
 ## Surse
 
-- [[SRC-036]] Wided Batat, *Experiential Marketing*, cap. 9, secț. „From customer touchpoints to emotional touchpoints" (Figura 9.1, mini-cazul 9.1)
+- [[SRC-036-experiential-marketing|SRC-036]] Wided Batat, *Experiential Marketing*, cap. 9, secț. „From customer touchpoints to emotional touchpoints" (Figura 9.1, mini-cazul 9.1)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[EXP-1201-mixul-experiential-7e-inlocuieste-cei-7p|EXP-1201]] _vezi_ — Mixul de marketing experiențial (7E) înlocuiește cei 7P cu decizii centrate pe experiența clientului
+- [[EXP-1206-experienta-in-patru-etape-pre-consum-amintire|EXP-1206]] _vezi_ — Experiența se desfășoară în patru etape — pre-consum, cumpărare, nucleu, amintire — și fiecare se proiectează separat
+- [[EXP-1218-cardurile-emotional-touchpoints-atelier-in-sase-pasi|EXP-1218]] _aplicare_ — Cardurile „emotional touchpoints" — un atelier în șase pași pentru a afla ce simte clientul la fiecare contact
+- [[INS-1203-emotiile-consumatorului-primare-secundare-fluctuante|INS-1203]] _vezi_ — Emoțiile consumatorului sunt primare sau secundare și fluctuează pe tot parcursul experienței
+- [[SRC-036-experiential-marketing|SRC-036]] — Experiential Marketing: Consumer Behavior, Customer Experience and the 7Es
+<!-- backlinks:end -->

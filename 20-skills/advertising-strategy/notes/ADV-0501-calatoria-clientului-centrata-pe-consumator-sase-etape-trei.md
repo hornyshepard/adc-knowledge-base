@@ -48,11 +48,23 @@ Pentru o companie de vacanțe, harta arată că în pre-nevoie oamenii visează 
 
 ## Legături
 
-- **vezi** [[BRD-0518]] — tranzițiile de viață sunt declanșatori puternici.
-- **aplicare** [[ADV-0505]] — „momentul" din strategia media corespunde declanșatorului.
-- **vezi** [[EXP-0501]] — la brandurile DTC, etapele de cumpărare și utilizare sunt chiar brandul.
-- **vezi** [[INS-0501]] — mentalitatea călătoriei clientului în cercetarea calitativă.
+- **vezi** [[BRD-0518-tranzitiile-de-viata-si-amenintarile-identitare-deschid|BRD-0518]] — tranzițiile de viață sunt declanșatori puternici.
+- **aplicare** [[ADV-0505-cei-4m-ai-strategiei-media-potrivire-monopolizare-moment|ADV-0505]] — „momentul" din strategia media corespunde declanșatorului.
+- **vezi** [[EXP-0501-la-brandurile-direct-to-consumer-brandul-este-lantul|EXP-0501]] — la brandurile DTC, etapele de cumpărare și utilizare sunt chiar brandul.
+- **vezi** [[INS-0501-insight-ul-vine-din-urmarirea-insistenta-a-lui-de-ce-si-a|INS-0501]] — mentalitatea călătoriei clientului în cercetarea calitativă.
 
 ## Surse
 
-- [[SRC-014]] Kevin McTigue, „Leveraging Touchpoints in Today's Branding Environment", cap. 8 în *Kellogg on Branding in a Hyper-Connected World*, p. 110–128
+- [[SRC-014-kellogg-on-branding|SRC-014]] Kevin McTigue, „Leveraging Touchpoints in Today's Branding Environment", cap. 8 în *Kellogg on Branding in a Hyper-Connected World*, p. 110–128
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0505-cei-4m-ai-strategiei-media-potrivire-monopolizare-moment|ADV-0505]] _vezi_ — Cei 4M ai strategiei media: potrivire, monopolizare, moment, mentalitate
+- [[BRD-0518-tranzitiile-de-viata-si-amenintarile-identitare-deschid|BRD-0518]] _vezi_ — Tranzițiile de viață și amenințările identitare deschid oamenii spre branduri noi
+- [[BRD-0520-brandul-de-servicii-se-castiga-sau-se-pierde-in-momentul|BRD-0520]] _vezi_ — Brandul de servicii se câștigă sau se pierde în momentul interacțiunii
+- [[BRD-0527-cazul-john-deere-esenta-brandului-ramane-orientarea|BRD-0527]] _vezi_ — Cazul John Deere: esența brandului rămâne, orientarea companiei se schimbă
+- [[EXP-0501-la-brandurile-direct-to-consumer-brandul-este-lantul|EXP-0501]] _vezi_ — La brandurile direct-to-consumer, brandul este lanțul complet al experienței
+- [[INS-0501-insight-ul-vine-din-urmarirea-insistenta-a-lui-de-ce-si-a|INS-0501]] _vezi_ — Insight-ul vine din urmărirea insistentă a lui „de ce" și a punctelor de fricțiune
+- [[SRC-014-kellogg-on-branding|SRC-014]] — Kellogg on Branding in a Hyper-Connected World
+<!-- backlinks:end -->

@@ -47,11 +47,20 @@ Magnolia Bakery (cap. 11) a construit liste proprii prin pop-up cu 10% reducere 
 
 ## Legături
 
-- **fundament** [[DIG-0901]] — definiția Zahay anticipa deja trecerea la date first-party.
-- **extinde** [[DIG-0923]] — targetarea comportamentală prin cookie-uri e exact ce se schimbă.
-- **aplicare** [[DIG-0926]] — permisiunea în e-mail este cea mai solidă sursă de date first-party.
-- **vezi** [[DIG-0924]] — retargetingul depinde de pixeli și cookie-uri.
+- **fundament** [[DIG-0901-marketingul-digital-inseamna-interactiune-engagement-masurare|DIG-0901]] — definiția Zahay anticipa deja trecerea la date first-party.
+- **extinde** [[DIG-0923-targetarea-contextuala-vs-comportamentala|DIG-0923]] — targetarea comportamentală prin cookie-uri e exact ce se schimbă.
+- **aplicare** [[DIG-0926-permisiunea-in-email-are-patru-niveluri|DIG-0926]] — permisiunea în e-mail este cea mai solidă sursă de date first-party.
+- **vezi** [[DIG-0924-retargetingul-trebuie-segmentat-dupa-stadiul-din-journey|DIG-0924]] — retargetingul depinde de pixeli și cookie-uri.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 5, p. 135-137; cap. 8, p. 218-219; cap. 10, p. 278, 282-283
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 5, p. 135-137; cap. 8, p. 218-219; cap. 10, p. 278, 282-283
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0901-marketingul-digital-inseamna-interactiune-engagement-masurare|DIG-0901]] _vezi_ — Marketingul digital înseamnă interacțiune, engagement și măsurare, nu doar canale noi
+- [[DIG-0923-targetarea-contextuala-vs-comportamentala|DIG-0923]] _vezi_ — Targetarea contextuală urmărește pagina, cea comportamentală urmărește omul
+- [[DIG-0926-permisiunea-in-email-are-patru-niveluri|DIG-0926]] _vezi_ — Permisiunea în e-mail marketing are patru niveluri, de la opt-out la double opt-in
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+<!-- backlinks:end -->

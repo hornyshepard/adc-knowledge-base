@@ -45,12 +45,20 @@ Reclama BMW în care logoul Jaguar pare să fugă speriat de BMW (p. 226): umor 
 
 ## Legături
 
-- **vezi** [[INS-0404]] — umorul creează saliență doar cât timp concurența nu îl copiază.
-- **fundament** [[INS-0426]] — condiționarea evaluativă transferă plăcerea asupra brandului.
-- **vezi** [[INS-0421]] — atitudinile implicite decid alegerile grăbite.
-- **alternativa** [[CPY-0405]] — apelul sexual atrage și el atenția, cu rezultate mai slabe.
-- **vezi** [[INS-0444]] — umorul ca emoție cu activare mare favorizează distribuirea.
+- **vezi** [[INS-0404-salienta-vividness-noutate-capteaza-atentia|INS-0404]] — umorul creează saliență doar cât timp concurența nu îl copiază.
+- **fundament** [[INS-0426-conditionarea-evaluativa-transfera-afect-si-sens|INS-0426]] — condiționarea evaluativă transferă plăcerea asupra brandului.
+- **vezi** [[INS-0421-atitudinile-implicite-prezic-alegerea-sub-presiune|INS-0421]] — atitudinile implicite decid alegerile grăbite.
+- **alternativa** [[CPY-0405-sexul-atrage-privirea-dar-nu-vinde|CPY-0405]] — apelul sexual atrage și el atenția, cu rezultate mai slabe.
+- **vezi** [[INS-0444-continutul-se-distribuie-cand-activeaza-emotii|INS-0444]] — umorul ca emoție cu activare mare favorizează distribuirea.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 5, p. 224-230; cap. 2, p. 65
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 5, p. 224-230; cap. 2, p. 65
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0405-sexul-atrage-privirea-dar-nu-vinde|CPY-0405]] _alternativa_ — Sexul atrage privirea, dar nu vinde — scade chiar atitudinea față de brand, și la bărbați, și la femei
+- [[INS-0444-continutul-se-distribuie-cand-activeaza-emotii|INS-0444]] _vezi_ — Conținutul se distribuie când produce emoții cu activare mare — uimire, furie, anxietate —, nu doar emoții pozitive
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

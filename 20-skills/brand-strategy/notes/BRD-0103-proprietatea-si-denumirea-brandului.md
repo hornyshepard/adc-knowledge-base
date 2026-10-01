@@ -49,10 +49,17 @@ Marriott (cap. 11, la extensii) are hoteluri de buget, de mijloc și de lux, dar
 
 ## Legături
 
-- **fundament** [[BRD-0101]] — strategia de brand organizează elementele de brand la nivel de portofoliu.
-- **extinde** [[BRD-0104]] — decizia de a extinde un nume existent depinde de arhitectura aleasă.
-- **vezi** [[MKT-0114]] — brandurile individuale permit targetare diferențiată pe segmente.
+- **fundament** [[BRD-0101-brandul-scurteaza-decizia-si-protejeaza-de-concurenta|BRD-0101]] — strategia de brand organizează elementele de brand la nivel de portofoliu.
+- **extinde** [[BRD-0104-extensia-de-brand-economiseste-dar-poate-dilua|BRD-0104]] — decizia de a extinde un nume existent depinde de arhitectura aleasă.
+- **vezi** [[MKT-0114-cinci-criterii-si-patru-strategii-de-targetare|MKT-0114]] — brandurile individuale permit targetare diferențiată pe segmente.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 11, p. 368-370 (Exhibit 11.6)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 11, p. 368-370 (Exhibit 11.6)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0104-extensia-de-brand-economiseste-dar-poate-dilua|BRD-0104]] _vezi_ — Extensia de brand economisește notorietate, dar poate dilua brandul — patru reguli o țin sub control
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+<!-- backlinks:end -->

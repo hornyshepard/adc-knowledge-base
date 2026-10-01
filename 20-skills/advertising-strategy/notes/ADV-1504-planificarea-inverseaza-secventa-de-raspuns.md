@@ -48,10 +48,19 @@ Pentru Nescafé: acțiunea (încercare la non-utilizatori), efectele (nevoie de 
 
 ## Legături
 
-- **fundament** [[ADV-1503]] — secvența de răspuns pe care planificarea o inversează.
-- **extinde** [[ADV-1506]] — cei cinci pași ai planificării strategice detaliază această logică.
-- **vezi** [[ADV-1505]] — la fiecare pas se fixează ținte sau obiective diferite.
+- **fundament** [[ADV-1503-secventa-de-raspuns-la-comunicare-probabilitati-compuse|ADV-1503]] — secvența de răspuns pe care planificarea o inversează.
+- **extinde** [[ADV-1506-procesul-de-planificare-strategica-in-cinci-pasi|ADV-1506]] — cei cinci pași ai planificării strategice detaliază această logică.
+- **vezi** [[ADV-1505-tinte-pe-reclama-pentru-expunere-pe-campanie-pentru-efecte|ADV-1505]] — la fiecare pas se fixează ținte sau obiective diferite.
 
 ## Surse
 
-- [[SRC-049]] Larry Percy & Richard Rosenbaum-Elliott, *Strategic Advertising Management*, cap. 4, „Planning overview" și „The advantage of sequential planning", Table 4.3–4.4 (audio 10)
+- [[SRC-049-strategic-advertising-management|SRC-049]] Larry Percy & Richard Rosenbaum-Elliott, *Strategic Advertising Management*, cap. 4, „Planning overview" și „The advantage of sequential planning", Table 4.3–4.4 (audio 10)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-1503-secventa-de-raspuns-la-comunicare-probabilitati-compuse|ADV-1503]] _extinde_ — Secvența de răspuns la comunicare are patru pași cu probabilități compuse, deci un mesaj eșuează dacă un singur pas eșuează
+- [[ADV-1505-tinte-pe-reclama-pentru-expunere-pe-campanie-pentru-efecte|ADV-1505]] _vezi_ — Ținte cifrice pe reclamă pentru expunere și procesare, pe campanie pentru efecte și acțiune
+- [[ADV-1506-procesul-de-planificare-strategica-in-cinci-pasi|ADV-1506]] _extinde_ — Planificarea strategică a comunicării are cinci pași, de la alegerea țintei la strategia media, și rămâne necesară și în digital
+- [[SRC-049-strategic-advertising-management|SRC-049]] — Strategic Advertising Management (6th edition)
+<!-- backlinks:end -->

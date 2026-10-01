@@ -43,10 +43,18 @@ Site-ul de mobilă din Manhattan (Schlosser et al., 2006): același conținut, �
 
 ## Legături
 
-- **vezi** [[INS-0432]] — încrederea în sursă, componentă a credibilității.
-- **vezi** [[ADV-0410]] — targetarea online și limitele ei.
-- **vezi** [[INS-0443]] — procesarea online e preponderent euristică.
+- **vezi** [[INS-0432-vedeta-convinge-ca-argument-doar-cand-e-relevanta|INS-0432]] — încrederea în sursă, componentă a credibilității.
+- **vezi** [[ADV-0410-targetarea-online-potrivirea-si-intruzivitatea|ADV-0410]] — targetarea online și limitele ei.
+- **vezi** [[INS-0443-online-procesarea-e-euristica-si-memoria-externa|INS-0443]] — procesarea online e preponderent euristică.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 8, p. 354-359
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 8, p. 354-359
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0410-targetarea-online-potrivirea-si-intruzivitatea|ADV-0410]] _vezi_ — Targetarea online ajută, dar reclama potrivită și intruzivă în același timp scade intenția de cumpărare
+- [[INS-0443-online-procesarea-e-euristica-si-memoria-externa|INS-0443]] _vezi_ — Online, consumatorul procesează euristic și își mută memoria pe Google — lupta se mută din setul de considerație la locul căutării
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

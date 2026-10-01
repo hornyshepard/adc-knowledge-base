@@ -45,10 +45,17 @@ Haina de iarnă (p. 349): targetare „perfectă" pe comportament, efect zero, p
 
 ## Legături
 
-- **fundament** [[INS-0434]] — reactanța explică efectul negativ al combinației.
-- **vezi** [[INS-0409]] — potrivirea cu schema de sine crește atenția, nu automat persuasiunea.
-- **vezi** [[INS-0442]] — încrederea, condiție a persuasiunii online.
+- **fundament** [[INS-0434-cunoasterea-persuasiunii-declanseaza-reactanta|INS-0434]] — reactanța explică efectul negativ al combinației.
+- **vezi** [[INS-0409-mesajul-potrivit-cu-schema-de-sine-e-citit-atent|INS-0409]] — potrivirea cu schema de sine crește atenția, nu automat persuasiunea.
+- **vezi** [[INS-0442-increderea-online-depinde-de-focusul-reglator|INS-0442]] — încrederea, condiție a persuasiunii online.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 8, p. 345-353
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 8, p. 345-353
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[INS-0442-increderea-online-depinde-de-focusul-reglator|INS-0442]] _vezi_ — Online, designul profesional construiește încrederea celor care caută câștiguri, iar semnalele de siguranță doar a celor care evită pierderi
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

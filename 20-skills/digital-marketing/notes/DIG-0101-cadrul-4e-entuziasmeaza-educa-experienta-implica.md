@@ -48,10 +48,19 @@ Pentru site-uri și bloguri, autorii adaugă **cadrul 7C** (Exhibit 3.2): obiect
 
 ## Legături
 
-- **extinde** [[DIG-0102]] — roata implicării pe social media explică mecanismele celui de-al patrulea E.
-- **aplicare** [[DIG-0103]] — procesul ascultă-analizează-acționează pune cadrul în practică.
-- **vezi** [[ADV-0102]] — cele patru E seamănă cu stadiile AIDA, dar adaugă experiența și relația.
+- **extinde** [[DIG-0102-roata-implicarii-pe-social-media-cinci-efecte|DIG-0102]] — roata implicării pe social media explică mecanismele celui de-al patrulea E.
+- **aplicare** [[DIG-0103-asculta-analizeaza-actioneaza-procesul-de-implicare-digitala|DIG-0103]] — procesul ascultă-analizează-acționează pune cadrul în practică.
+- **vezi** [[ADV-0102-aida-gandeste-simte-actioneaza-si-efectul-intarziat|ADV-0102]] — cele patru E seamănă cu stadiile AIDA, dar adaugă experiența și relația.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 3, p. 84-94 (Exhibit 3.1, 3.2)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 3, p. 84-94 (Exhibit 3.1, 3.2)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0102-roata-implicarii-pe-social-media-cinci-efecte|DIG-0102]] _fundament_ — Roata implicării pe social media are cinci efecte care o pun în mișcare — informație, conexiune, rețea, dinamică, promptitudine
+- [[DIG-0103-asculta-analizeaza-actioneaza-procesul-de-implicare-digitala|DIG-0103]] _fundament_ — Implicarea digitală urmează trei etape — ascultă, analizează, acționează — iar campania pe social media are cinci pași
+- [[DIG-0104-pe-mobil-reclama-are-sub-o-secunda-ca-sa-fie-vazuta|DIG-0104]] _vezi_ — Pe mobil, o reclamă are mai puțin de o secundă ca să fie văzută — fețe, contrast și emoție instantanee
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+<!-- backlinks:end -->

@@ -49,10 +49,19 @@ Chordiant, o firmă B2B de tehnologie, a vrut să câștige contul Lloyds TSB (2
 
 ## Legături
 
-- **aplicare** [[STO-1302]] — pilonii și calendarul hrănesc fiecare act.
-- **vezi** [[ADV-1303]] — pragul dintre actul I și II, ilustrat de cazul Volvo.
-- **vezi** [[CPY-1302]] — tehnica jurnalistică pentru textele din aceste etape.
+- **aplicare** [[STO-1302-pilonii-de-continut-trei-teste-patru-functii|STO-1302]] — pilonii și calendarul hrănesc fiecare act.
+- **vezi** [[ADV-1303-big-idea-nu-ajunge-long-idea-volvo-epic-split|ADV-1303]] — pragul dintre actul I și II, ilustrat de cazul Volvo.
+- **vezi** [[CPY-1302-intro-ul-jurnalistic-face-trei-lucruri-intr-o-fraza|CPY-1302]] — tehnica jurnalistică pentru textele din aceste etape.
 
 ## Surse
 
-- [[SRC-040]] Aly Richards & Scott McLean, *Intelligent Customer Engagement*, secț. 2, cap. 2; secț. 3, cap. 6 și 7
+- [[SRC-040-intelligent-customer-engagement|SRC-040]] Aly Richards & Scott McLean, *Intelligent Customer Engagement*, secț. 2, cap. 2; secț. 3, cap. 6 și 7
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-1303-big-idea-nu-ajunge-long-idea-volvo-epic-split|ADV-1303]] _vezi_ — Un Big Idea nu ajunge fără un „Long Idea" — publicul trebuie așteptat la pasul următor (Volvo Trucks, „Epic Split")
+- [[CPY-1302-intro-ul-jurnalistic-face-trei-lucruri-intr-o-fraza|CPY-1302]] _vezi_ — Intro-ul jurnalistic face trei lucruri într-o singură frază, iar textul se scrie ca o piramidă inversată
+- [[STO-1302-pilonii-de-continut-trei-teste-patru-functii|STO-1302]] _aplicare_ — Pilonii de conținut trec trei teste — interes editorial, acționabil, sustenabil — și combină patru funcții
+- [[SRC-040-intelligent-customer-engagement|SRC-040]] — Intelligent Customer Engagement: The Future of Content Marketing
+<!-- backlinks:end -->

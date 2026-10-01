@@ -47,10 +47,21 @@ Videoclipul „100 de moduri în care să nu folosești un prezervativ", lansat 
 
 ## Legături
 
-- **exemplu** [[SOC-1102]] — FAQ YOU e un exemplu de profil de comunitate devenit comunitate activă.
-- **aplicare** [[STO-1106]] — organizația acoperă nevoi diferite pe platforme diferite.
-- **vezi** [[SOC-1110]] — lucrează doar cu creatori care îi împărtășesc valorile.
+- **exemplu** [[SOC-1102-comunitatea-nu-este-audienta-membrii-ei-interactioneaza|SOC-1102]] — FAQ YOU e un exemplu de profil de comunitate devenit comunitate activă.
+- **aplicare** [[STO-1106-sase-nevoi-ale-utilizatorilor-ghideaza-planificarea|STO-1106]] — organizația acoperă nevoi diferite pe platforme diferite.
+- **vezi** [[SOC-1110-valorile-comune-conteaza-inaintea-reach-ului-in-alegerea|SOC-1110]] — lucrează doar cu creatori care îi împărtășesc valorile.
 
 ## Surse
 
-- [[SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 1.4.2, p. 47–48; cap. 2.7 (pro tip M. Wolf), p. 90–93; cap. 6.3.1, p. 283–284
+- [[SRC-034-social-media-storytelling|SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 1.4.2, p. 47–48; cap. 2.7 (pro tip M. Wolf), p. 90–93; cap. 6.3.1, p. 283–284
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[SOC-1102-comunitatea-nu-este-audienta-membrii-ei-interactioneaza|SOC-1102]] _exemplu_ — Comunitatea nu este audiență: membrii ei interacționează între ei
+- [[SOC-1120-creatorul-este-o-casa-de-productie-intr-un-om-gifting-ul-nu|SOC-1120]] _contrazice_ — Creatorul este o casă de producție într-un om: gifting-ul nu ține loc de plată
+- [[SOC-1122-parteneriatele-lungi-cu-creatori-bat-campaniile-punctuale|SOC-1122]] _exemplu_ — Parteneriatele lungi cu creatori bat campaniile punctuale
+- [[STO-1105-formatul-serial-este-arma-secreta-a-micro-storytelling-ului|STO-1105]] _exemplu_ — Formatul serial este arma secretă a micro-storytelling-ului
+- [[STO-1106-sase-nevoi-ale-utilizatorilor-ghideaza-planificarea|STO-1106]] _vezi_ — Șase nevoi ale utilizatorilor ghidează planificarea formatelor sociale
+- [[SRC-034-social-media-storytelling|SRC-034]] — Social Media Storytelling
+<!-- backlinks:end -->

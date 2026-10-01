@@ -48,10 +48,17 @@ Doritos „Crash the Super Bowl": zece ani de reclame făcute de fani, mult buzz
 
 ## Legături
 
-- **contrazice** [[SOC-0401]] — comunitățile de brand ca loc de muncă emoțională neplătită.
-- **vezi** [[INS-0445]] — consumatorul postmodern ca producător de sensuri.
-- **vezi** [[MKT]] — hub-ul de fundamente de marketing.
+- **contrazice** [[SOC-0401-comunitatea-de-brand-trei-marcaje-patru-tipuri-de-membri|SOC-0401]] — comunitățile de brand ca loc de muncă emoțională neplătită.
+- **vezi** [[INS-0445-sapte-trasaturi-ale-consumului-postmodern|INS-0445]] — consumatorul postmodern ca producător de sensuri.
+- **vezi** [[20-skills/marketing-fundamentals/SKILL|MKT]] — hub-ul de fundamente de marketing.
 
 ## Surse
 
-- [[SRC-013]] Parsons, Maclaran & Chatzidakis, *Contemporary Issues in Marketing and Consumer Behaviour*, cap. 1, p. 1-7; cap. 2, p. 22-23; cap. 6, p. 95
+- [[SRC-013-contemporary-issues-in-marketing-and-consumer-behaviour|SRC-013]] Parsons, Maclaran & Chatzidakis, *Contemporary Issues in Marketing and Consumer Behaviour*, cap. 1, p. 1-7; cap. 2, p. 22-23; cap. 6, p. 95
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[SOC-0401-comunitatea-de-brand-trei-marcaje-patru-tipuri-de-membri|SOC-0401]] _contrazice_ — Comunitatea de brand se recunoaște după trei marcaje și are patru tipuri de membri, cu roluri diferite pentru marketeri
+- [[SRC-013-contemporary-issues-in-marketing-and-consumer-behaviour|SRC-013]] — Contemporary Issues in Marketing and Consumer Behaviour (2nd edition)
+<!-- backlinks:end -->

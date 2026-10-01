@@ -54,15 +54,23 @@ Leo Burnett Australia pentru asigurătorul Suncorp: „One House to Save Many", 
 ## Întrebări
 
 - Cu ce diferă „North Star" de „big idea" și de poziționare?
-- Poate o idee să treacă A.L.T.E.R. și totuși să nu vândă? Ce lipsește din grilă (vezi [[BRF-0712]])?
+- Poate o idee să treacă A.L.T.E.R. și totuși să nu vândă? Ce lipsește din grilă (vezi [[BRF-0712-adplan-sase-intrebari-pentru-o-executie-on-brief|BRF-0712]])?
 
 ## Legături
 
-- **fundament** [[INS-0701]] — North Star pornește de la insight.
-- **vezi** [[IDE-0714]] — Suncorp e și un caz de reîncadrare.
-- **vezi** [[STO-0708]] — manifestul ca stea polară a brandului.
-- **alternativa** [[BRF-0712]] — ADPLAN evaluează execuția; A.L.T.E.R. evaluează ideea.
+- **fundament** [[INS-0701-insight-ul-este-un-adevar-uman-semnificativ|INS-0701]] — North Star pornește de la insight.
+- **vezi** [[IDE-0714-reincadrarea-problemei-din-brief|IDE-0714]] — Suncorp e și un caz de reîncadrare.
+- **vezi** [[STO-0708-manifestul-de-brand-declaratie-aspirationala-de-intentie|STO-0708]] — manifestul ca stea polară a brandului.
+- **alternativa** [[BRF-0712-adplan-sase-intrebari-pentru-o-executie-on-brief|BRF-0712]] — ADPLAN evaluează execuția; A.L.T.E.R. evaluează ideea.
 
 ## Surse
 
-- [[SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 6 „The North Star"
+- [[SRC-025-shareworthy|SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 6 „The North Star"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[IDE-0714-reincadrarea-problemei-din-brief|IDE-0714]] _vezi_ — Reîncadrarea problemei din brief deschide soluții dintr-o altă categorie
+- [[STO-0708-manifestul-de-brand-declaratie-aspirationala-de-intentie|STO-0708]] _vezi_ — Manifestul de brand este o declarație aspirațională de intenție, nu misiunea corporativă rescrisă
+- [[SRC-025-shareworthy|SRC-025]] — Shareworthy: Advertising That Creates Powerful Connections Through Storytelling
+<!-- backlinks:end -->

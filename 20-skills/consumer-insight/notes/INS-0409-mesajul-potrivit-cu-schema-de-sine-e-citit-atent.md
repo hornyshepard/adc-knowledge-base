@@ -41,10 +41,20 @@ Fluorident (studiu Wheeler et al.): rama „când te gândești, e singura alege
 
 ## Legături
 
-- **fundament** [[INS-0401]] — schema de sine acționează în etapa de raționament elaborativ.
-- **vezi** [[INS-0410]] — altă formă a raționamentului elaborativ: meta-cogniția.
-- **vezi** [[CPY-0403]] — nevoia de cogniție moderează și alegerea între apel rațional și emoțional.
+- **fundament** [[INS-0401-procesarea-reclamei-are-patru-etape|INS-0401]] — schema de sine acționează în etapa de raționament elaborativ.
+- **vezi** [[INS-0410-cere-zece-motive-si-convingi-mai-putin|INS-0410]] — altă formă a raționamentului elaborativ: meta-cogniția.
+- **vezi** [[CPY-0403-apelul-rational-sau-emotional-depinde-de-om|CPY-0403]] — nevoia de cogniție moderează și alegerea între apel rațional și emoțional.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 2, p. 81-83
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 2, p. 81-83
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0410-targetarea-online-potrivirea-si-intruzivitatea|ADV-0410]] _vezi_ — Targetarea online ajută, dar reclama potrivită și intruzivă în același timp scade intenția de cumpărare
+- [[CPY-0403-apelul-rational-sau-emotional-depinde-de-om|CPY-0403]] _vezi_ — Apelul rațional sau emoțional nu e o filozofie de agenție, ci o potrivire cu produsul și cu persoana
+- [[INS-0410-cere-zece-motive-si-convingi-mai-putin|INS-0410]] _vezi_ — Cere-i clientului zece motive și îl convingi mai puțin decât cu unul (ușurința reamintirii)
+- [[INS-0428-produsele-servesc-patru-scopuri|INS-0428]] _vezi_ — Produsele servesc patru scopuri — utilitar, de autoexprimare, de construire a identității și hedonic — iar mesajul trebuie să lovească scopul potrivit
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

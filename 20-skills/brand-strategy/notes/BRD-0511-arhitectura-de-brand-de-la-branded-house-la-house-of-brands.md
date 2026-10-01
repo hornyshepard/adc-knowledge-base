@@ -52,11 +52,21 @@ Novant Health (cap. 20) ajunsese un house of brands cu circa 400 de nume de spit
 
 ## Legături
 
-- **extinde** [[BRD-0512]] — extensiile testează limitele unui brand primar.
-- **extinde** [[BRD-0513]] — un portofoliu sănătos cere și eliminarea brandurilor redundante.
-- **vezi** [[ART-0502]] — identitatea corporativă și simbolurile corporative sunt indicii de design ale arhitecturii.
-- **vezi** [[BRD-0505]] — brandul-ingredient protejează legal un motiv de a crede.
+- **extinde** [[BRD-0512-o-extensie-de-brand-trebuie-sa-treaca-testul-celor-trei|BRD-0512]] — extensiile testează limitele unui brand primar.
+- **extinde** [[BRD-0513-un-portofoliu-puternic-se-construieste-si-prin-eliminarea|BRD-0513]] — un portofoliu sănătos cere și eliminarea brandurilor redundante.
+- **vezi** [[ART-0502-sablonul-de-design-de-brand-douasprezece-tipuri-de-indicii|ART-0502]] — identitatea corporativă și simbolurile corporative sunt indicii de design ale arhitecturii.
+- **vezi** [[BRD-0505-dovezile-bazate-pe-atribute-se-copiaza-cele-bazate-pe|BRD-0505]] — brandul-ingredient protejează legal un motiv de a crede.
 
 ## Surse
 
-- [[SRC-014]] Tim Calkins, „Creating a Powerful Brand Portfolio", cap. 3, p. 38–40, 45–47; Scott Davis & David Duvall, „Rebranding an Organization: The Novant Health Story", cap. 20, p. 271–278, în *Kellogg on Branding in a Hyper-Connected World*
+- [[SRC-014-kellogg-on-branding|SRC-014]] Tim Calkins, „Creating a Powerful Brand Portfolio", cap. 3, p. 38–40, 45–47; Scott Davis & David Duvall, „Rebranding an Organization: The Novant Health Story", cap. 20, p. 271–278, în *Kellogg on Branding in a Hyper-Connected World*
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0508-un-sistem-de-identitate-modular-are-semn-logo-orizontal|ART-0508]] _vezi_ — Un sistem de identitate modular are semn, logo orizontal, vertical și badge
+- [[BRD-0505-dovezile-bazate-pe-atribute-se-copiaza-cele-bazate-pe|BRD-0505]] _vezi_ — Dovezile bazate pe atribute se copiază, cele bazate pe imagine se pot deține
+- [[BRD-0512-o-extensie-de-brand-trebuie-sa-treaca-testul-celor-trei|BRD-0512]] _fundament_ — O extensie de brand trebuie să treacă testul celor trei întrebări
+- [[BRD-0513-un-portofoliu-puternic-se-construieste-si-prin-eliminarea|BRD-0513]] _fundament_ — Un portofoliu puternic se construiește și prin eliminarea brandurilor slabe
+- [[SRC-014-kellogg-on-branding|SRC-014]] — Kellogg on Branding in a Hyper-Connected World
+<!-- backlinks:end -->

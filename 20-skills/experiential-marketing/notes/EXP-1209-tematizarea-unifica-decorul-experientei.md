@@ -46,10 +46,21 @@ Hard Rock Cafe (fondat în 1971 la Londra de Isaac Tigrett și Peter Morton, 139
 
 ## Legături
 
-- **aplicare** [[EXP-1207]] — tematizarea e instrumentul principal de construire a cadrului imersiv.
-- **vezi** [[INS-1206]] — hiperrealitatea și pastișa sunt trăsături ale consumatorului postmodern.
-- **vezi** [[EXP-1223]] — pavilionul Coca-Cola de la Expo Shanghai, un parcurs tematic complet.
+- **aplicare** [[EXP-1207-imersiunea-cinci-factori-servicescape|EXP-1207]] — tematizarea e instrumentul principal de construire a cadrului imersiv.
+- **vezi** [[INS-1206-consumatorul-postmodern-fragmentat-paradoxal|INS-1206]] — hiperrealitatea și pastișa sunt trăsături ale consumatorului postmodern.
+- **vezi** [[EXP-1223-caz-coca-cola-happiness-factory-expo-shanghai|EXP-1223]] — pavilionul Coca-Cola de la Expo Shanghai, un parcurs tematic complet.
 
 ## Surse
 
-- [[SRC-036]] Wided Batat, *Experiential Marketing*, cap. 3, secț. „Theming" (mini-cazul 3.8 Hard Rock Cafe); cap. 1, mini-cazul 1.9 Las Vegas
+- [[SRC-036-experiential-marketing|SRC-036]] Wided Batat, *Experiential Marketing*, cap. 3, secț. „Theming" (mini-cazul 3.8 Hard Rock Cafe); cap. 1, mini-cazul 1.9 Las Vegas
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[EXP-1202-cadrul-cx-drivere-markeri-rezultate|EXP-1202]] _vezi_ — Experiența clientului e un proces cu drivere, markeri și rezultate (cadrul customer experience marketing)
+- [[EXP-1207-imersiunea-cinci-factori-servicescape|EXP-1207]] _vezi_ — Imersiunea este calea de acces la o experiență plăcută și depinde de cinci factori
+- [[EXP-1208-experiente-ordinare-vs-extraordinare|EXP-1208]] _contrazice_ — Experiența memorabilă nu cere neapărat extraordinarul — dezbaterea ordinar vs. extraordinar
+- [[EXP-1223-caz-coca-cola-happiness-factory-expo-shanghai|EXP-1223]] _exemplu_ — Caz — pavilionul Coca-Cola de la Expo Shanghai 2010 transformă universul „Happiness Factory" într-un parcurs multisenzorial
+- [[INS-1206-consumatorul-postmodern-fragmentat-paradoxal|INS-1206]] _vezi_ — Consumatorul postmodern este fragmentat și paradoxal și cumpără sensuri culturale, nu produse
+- [[SRC-036-experiential-marketing|SRC-036]] — Experiential Marketing: Consumer Behavior, Customer Experience and the 7Es
+<!-- backlinks:end -->

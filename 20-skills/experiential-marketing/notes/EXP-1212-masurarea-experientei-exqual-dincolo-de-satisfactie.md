@@ -49,10 +49,19 @@ Un retailer care măsoară doar NPS și timpul la casă poate rata faptul că o 
 
 ## Legături
 
-- **vezi** [[EXP-1211]] — instrumentul-pereche din capitolul 4 (ETM).
-- **vezi** [[EXP-1204]] — memorabilitatea ca rezultat-cheie care merită măsurat.
-- **contrazice** [[INS-1210]] — Batat însăși argumentează în cap. 13 că experiența se surprinde mai bine prin metode calitative imersive decât prin scale.
+- **vezi** [[EXP-1211-experience-territory-matrix-respect-centricity|EXP-1211]] — instrumentul-pereche din capitolul 4 (ETM).
+- **vezi** [[EXP-1204-rezultatele-experientei-valoare-transformare|EXP-1204]] — memorabilitatea ca rezultat-cheie care merită măsurat.
+- **contrazice** [[INS-1210-etnografia-experientiala-socializare-colaborare|INS-1210]] — Batat însăși argumentează în cap. 13 că experiența se surprinde mai bine prin metode calitative imersive decât prin scale.
 
 ## Surse
 
-- [[SRC-036]] Wided Batat, *Experiential Marketing*, cap. 4, secț. „EXQUAL tool" (Theory Boxes 4.2, 4.3; Tabelul 4.1); cap. 2, secț. „The rise of customer experience in marketing"
+- [[SRC-036-experiential-marketing|SRC-036]] Wided Batat, *Experiential Marketing*, cap. 4, secț. „EXQUAL tool" (Theory Boxes 4.2, 4.3; Tabelul 4.1); cap. 2, secț. „The rise of customer experience in marketing"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[EXP-1204-rezultatele-experientei-valoare-transformare|EXP-1204]] _vezi_ — O experiență reușită produce patru rezultate — valoare, transformare, competență, memorabilitate
+- [[EXP-1211-experience-territory-matrix-respect-centricity|EXP-1211]] _vezi_ — Experience Territory Matrix încrucișează respectul perceput de client cu customer-centricity-ul firmei
+- [[INS-1210-etnografia-experientiala-socializare-colaborare|INS-1210]] _vezi_ — Etnografia experiențială lucrează cu consumatorii, nu asupra lor — socializare, colaborare, auto-confruntare
+- [[SRC-036-experiential-marketing|SRC-036]] — Experiential Marketing: Consumer Behavior, Customer Experience and the 7Es
+<!-- backlinks:end -->

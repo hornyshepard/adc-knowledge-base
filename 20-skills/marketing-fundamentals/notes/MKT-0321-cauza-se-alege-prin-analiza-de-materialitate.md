@@ -46,11 +46,21 @@ Cartea dă trei modele (cap. 4): Ben & Jerry's (justiție climatică, drepturile
 
 ## Legături
 
-- **fundament** [[MKT-0320]] — distincția dintre CSR, cause marketing și marketing verde.
-- **vezi** [[MKT-0322]] — fără măsurare, cauza rămâne declarație.
-- **vezi** [[BRD-0302]] — Patagonia: o cauză legată direct de impactul propriului produs.
-- **alternativa** [[MKT-0318]] — Carrotmob: cauza e propusă de comunitate, nu de companie.
+- **fundament** [[MKT-0320-marketing-sustenabil-verde-eco-eficienta-csr-cause-nu-sunt-sinonime|MKT-0320]] — distincția dintre CSR, cause marketing și marketing verde.
+- **vezi** [[MKT-0322-impactul-sustenabil-se-masoara-pe-patru-familii-de-indicatori|MKT-0322]] — fără măsurare, cauza rămâne declarație.
+- **vezi** [[BRD-0302-patagonia-dont-buy-this-jacket|BRD-0302]] — Patagonia: o cauză legată direct de impactul propriului produs.
+- **alternativa** [[MKT-0318-carrotmob-cumpararea-colectiva-conditionata|MKT-0318]] — Carrotmob: cauza e propusă de comunitate, nu de companie.
 
 ## Surse
 
-- [[SRC-011]] Maria Cesarini Viturino, *Sustainable Marketing*, cap. 2 și 4
+- [[SRC-011-sustainable-marketing-viturino|SRC-011]] Maria Cesarini Viturino, *Sustainable Marketing*, cap. 2 și 4
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0302-patagonia-dont-buy-this-jacket|BRD-0302]] _vezi_ — Patagonia, „Don't Buy This Jacket”: o reclamă de Black Friday care îți cere să nu cumperi
+- [[MKT-0318-carrotmob-cumpararea-colectiva-conditionata|MKT-0318]] _vezi_ — Carrotmob: consumatorii organizați recompensează o firmă doar dacă face o schimbare responsabilă
+- [[MKT-0320-marketing-sustenabil-verde-eco-eficienta-csr-cause-nu-sunt-sinonime|MKT-0320]] _vezi_ — Marketingul sustenabil, marketingul verde, eco-eficiența, CSR și cause marketing nu sunt sinonime
+- [[MKT-0322-impactul-sustenabil-se-masoara-pe-patru-familii-de-indicatori|MKT-0322]] _vezi_ — Impactul sustenabil se măsoară pe patru familii de indicatori, iar credibilitatea vine din auditul extern
+- [[SRC-011-sustainable-marketing-viturino|SRC-011]] — Sustainable Marketing: Responsible Practices for the Future of Marketing
+<!-- backlinks:end -->

@@ -49,10 +49,20 @@ Autorii discută și **pionierii**: primii pe piață pot câștiga o cotă mare
 
 ## Legături
 
-- **fundament** [[MKT-0118]] — grupurile de adoptatori populează etapele ciclului de viață.
-- **vezi** [[SOC-0101]] — influencerii și liderii de opinie accelerează trecerea de la adoptatorii timpurii la majoritate.
-- **vezi** [[INS-0103]] — riscul perceput explică de ce majoritatea așteaptă recenziile.
+- **fundament** [[MKT-0118-ciclul-de-viata-al-produsului-si-capcana-lui|MKT-0118]] — grupurile de adoptatori populează etapele ciclului de viață.
+- **vezi** [[SOC-0101-alegi-influencerul-dupa-4r-relevanta-reach-raspuns-randament|SOC-0101]] — influencerii și liderii de opinie accelerează trecerea de la adoptatorii timpurii la majoritate.
+- **vezi** [[INS-0103-cinci-tipuri-de-risc-perceput-cresc-cautarea|INS-0103]] — riscul perceput explică de ce majoritatea așteaptă recenziile.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 12, p. 392-397 (Exhibit 12.1, 12.2)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 12, p. 392-397 (Exhibit 12.1, 12.2)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[INS-0103-cinci-tipuri-de-risc-perceput-cresc-cautarea|INS-0103]] _vezi_ — Cinci tipuri de risc perceput frânează cumpărarea — cu cât e mai mare riscul, cu atât consumatorul caută mai mult
+- [[MKT-0118-ciclul-de-viata-al-produsului-si-capcana-lui|MKT-0118]] _extinde_ — Ciclul de viață al produsului are patru etape, dar folosit mecanic devine o profeție care se autoîmplinește
+- [[MKT-0121-strategii-de-pret-edlp-vs-high-low-si-skimming-vs-penetrare|MKT-0121]] _fundament_ — Două alegeri clasice de strategie de preț — EDLP sau high/low și, la lansare, skimming sau penetrare
+- [[SOC-0101-alegi-influencerul-dupa-4r-relevanta-reach-raspuns-randament|SOC-0101]] _vezi_ — Influencerul se alege după 4R — relevanță, reach, răspuns, randament — nu după numărul de urmăritori
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+<!-- backlinks:end -->

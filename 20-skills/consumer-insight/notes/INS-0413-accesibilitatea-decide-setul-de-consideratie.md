@@ -47,11 +47,25 @@ Swiss Chalet (Nedungadi, 1990): alegerea a crescut de la 4% la 12% după ce s-a 
 
 ## Legături
 
-- **fundament** [[INS-0411]] — memoria pe termen lung ca sistem de stocare.
-- **extinde** [[INS-0414]] — priming-ul este mecanismul care crește accesibilitatea.
-- **contrazice** [[ADV-0401]] — notorietatea nu duce automat la preferință.
-- **vezi** [[INS-0406]] — pionierul devine prototip și e cel mai accesibil.
+- **fundament** [[INS-0411-memoria-retine-ce-procesam-in-profunzime|INS-0411]] — memoria pe termen lung ca sistem de stocare.
+- **extinde** [[INS-0414-priming-ul-coloreaza-judecatile-ulterioare|INS-0414]] — priming-ul este mecanismul care crește accesibilitatea.
+- **contrazice** [[ADV-0401-ierarhiile-de-efecte-nu-au-suport-empiric|ADV-0401]] — notorietatea nu duce automat la preferință.
+- **vezi** [[INS-0406-pionierul-stabileste-agenda-atributelor|INS-0406]] — pionierul devine prototip și e cel mai accesibil.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 3, p. 106-108, 114-117
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 3, p. 106-108, 114-117
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[INS-0406-pionierul-stabileste-agenda-atributelor|INS-0406]] _vezi_ — Pionierul unei categorii câștigă pentru că stabilește atributele după care sunt judecați toți ceilalți
+- [[INS-0407-asimilare-si-contrast-decid-soarta-extensiilor|INS-0407]] _vezi_ — Asimilarea și contrastul decid dacă un produs nou ridică sau coboară brandul-mamă
+- [[INS-0411-memoria-retine-ce-procesam-in-profunzime|INS-0411]] _vezi_ — Memoria reține ce procesăm în profunzime, nu ce vedem des
+- [[INS-0414-priming-ul-coloreaza-judecatile-ulterioare|INS-0414]] _fundament_ — Priming-ul — un concept activat incidental colorează judecăți ulterioare, dacă nu îi recunoaștem sursa
+- [[INS-0418-mcdonalds-viermi-dezmintirea-intareste-asocierea|INS-0418]] _fundament_ — McDonald's și zvonul cu viermi — dezmințirea întărește asocierea, iar soluția e diluarea ei cu alte asocieri
+- [[INS-0426-conditionarea-evaluativa-transfera-afect-si-sens|INS-0426]] _vezi_ — Asocierea brandului cu o vedetă transferă nu doar plăcere, ci și sens — inclusiv sensuri nedorite
+- [[INS-0429-a-placea-nu-inseamna-a-vrea|INS-0429]] _vezi_ — A-ți plăcea un produs nu înseamnă a-l vrea — de la atitudine la scop e nevoie de atingibilitate, discrepanță și un declanșator
+- [[INS-0443-online-procesarea-e-euristica-si-memoria-externa|INS-0443]] _contrazice_ — Online, consumatorul procesează euristic și își mută memoria pe Google — lupta se mută din setul de considerație la locul căutării
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

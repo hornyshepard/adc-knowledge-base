@@ -48,10 +48,20 @@ Un jingle simplu și repetitiv care „îți intră în cap" funcționează și 
 
 ## Legături
 
-- **fundament** [[INS-0402]] — expunerea incidentală creează familiaritatea din care vine fluența.
-- **vezi** [[INS-0410]] — ușurința reamintirii este o formă de fluență folosită ca indiciu de validitate.
-- **vezi** [[INS-0408]] — repetiția crește familiaritatea și, prin ea, credibilitatea unei afirmații.
+- **fundament** [[INS-0402-expunerea-incidentala-influenteaza-fara-atentie|INS-0402]] — expunerea incidentală creează familiaritatea din care vine fluența.
+- **vezi** [[INS-0410-cere-zece-motive-si-convingi-mai-putin|INS-0410]] — ușurința reamintirii este o formă de fluență folosită ca indiciu de validitate.
+- **vezi** [[INS-0408-efectul-de-adevar-intai-credem-apoi-corectam|INS-0408]] — repetiția crește familiaritatea și, prin ea, credibilitatea unei afirmații.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 2, p. 62-64; cap. 3, p. 115-117
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 2, p. 62-64; cap. 3, p. 115-117
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[INS-0402-expunerea-incidentala-influenteaza-fara-atentie|INS-0402]] _extinde_ — Expunerea incidentală la reclame influențează preferința chiar fără atenție conștientă
+- [[INS-0408-efectul-de-adevar-intai-credem-apoi-corectam|INS-0408]] _vezi_ — Efectul de adevăr — mai întâi credem, abia apoi (poate) corectăm
+- [[INS-0410-cere-zece-motive-si-convingi-mai-putin|INS-0410]] _extinde_ — Cere-i clientului zece motive și îl convingi mai puțin decât cu unul (ușurința reamintirii)
+- [[INS-0425-trei-cai-afective-spre-atitudine|INS-0425]] _extinde_ — Atitudinile se pot forma fără argumente, pe trei căi afective — expunere repetată, condiționare și afect ca informație
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

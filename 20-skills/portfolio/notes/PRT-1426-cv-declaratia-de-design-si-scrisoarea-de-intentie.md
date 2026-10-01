@@ -44,10 +44,19 @@ Despre fotografie, autoarea notează că nu e obligatorie: talentul nu ține de 
 
 ## Legături
 
-- **vezi** [[PRT-1417]] — CV-ul vizual al lui Morgan și CV-ul funcțional al lui Kubišová au filozofii diferite.
-- **vezi** [[PRT-1415]] — conținutul CV-ului și al scrisorii vine din inventarul realizărilor.
-- **vezi** [[PRT-1419]] — scrisoarea personalizată e primul dintre „cei doi pași” ai aplicării.
+- **vezi** [[PRT-1417-cv-ul-vizual-arata-rezultate-si-are-versiune-text|PRT-1417]] — CV-ul vizual al lui Morgan și CV-ul funcțional al lui Kubišová au filozofii diferite.
+- **vezi** [[PRT-1415-inventarul-activelor-si-propunerea-de-valoare|PRT-1415]] — conținutul CV-ului și al scrisorii vine din inventarul realizărilor.
+- **vezi** [[PRT-1419-portofoliul-nu-se-gaseste-singur-targetare-si-doi-pasi|PRT-1419]] — scrisoarea personalizată e primul dintre „cei doi pași” ai aplicării.
 
 ## Surse
 
-- [[SRC-046]] Zuzana Kubišová, *The Architect's Pocket Guide to Portfolio Design*, Pasul 8, pp. 198–228; Pasul 10, pp. 289–293
+- [[SRC-046-architects-pocket-guide-to-portfolio-design|SRC-046]] Zuzana Kubišová, *The Architect's Pocket Guide to Portfolio Design*, Pasul 8, pp. 198–228; Pasul 10, pp. 289–293
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PRT-1410-sandvisul-portofoliului-si-ce-nu-se-include|PRT-1410]] _vezi_ — Portofoliul este un „sandviș” — introducere, studii de caz, completări — și are lucruri care nu se pun deloc
+- [[PRT-1417-cv-ul-vizual-arata-rezultate-si-are-versiune-text|PRT-1417]] _vezi_ — CV-ul vizual funcționează doar dacă arată rezultate, se potrivește cititorului și are mereu o versiune text
+- [[PRT-1418-dezbatere-grafice-de-competente-si-concursuri-de-design|PRT-1418]] _vezi_ — Graficele de competențe și concursurile de design — Morgan le recomandă, Fenn și Kubišová le resping
+- [[SRC-046-architects-pocket-guide-to-portfolio-design|SRC-046]] — The Architect's Pocket Guide to Portfolio Design
+<!-- backlinks:end -->

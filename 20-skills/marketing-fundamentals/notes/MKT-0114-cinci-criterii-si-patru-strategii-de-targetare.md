@@ -57,12 +57,22 @@ Patagonia (Adding Value 9.2) își protejează ținta concentrată, oamenii care
 
 ## Legături
 
-- **fundament** [[MKT-0112]] — evaluarea și alegerea țintei sunt pașii 3 și 4 din STP.
-- **fundament** [[MKT-0113]] — evaluezi segmentele descrise prin metodele de segmentare.
-- **extinde** [[MKT-0115]] — după alegerea țintei urmează poziționarea în fața ei.
-- **vezi** [[MKT-0105]] — profitabilitatea pe durata vieții clientului completează formula segmentului.
+- **fundament** [[MKT-0112-stp-in-cinci-pasi|MKT-0112]] — evaluarea și alegerea țintei sunt pașii 3 și 4 din STP.
+- **fundament** [[MKT-0113-bazele-segmentarii-gasesti-tinta-apoi-o-convingi|MKT-0113]] — evaluezi segmentele descrise prin metodele de segmentare.
+- **extinde** [[MKT-0115-pozitionarea-patru-baze-verificate-pe-harta-perceptuala|MKT-0115]] — după alegerea țintei urmează poziționarea în fața ei.
+- **vezi** [[MKT-0105-clientul-valoreaza-cat-relatia-nu-cat-tranzactia-clv|MKT-0105]] — profitabilitatea pe durata vieții clientului completează formula segmentului.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 9, p. 291-296 (Exhibit 9.5, 9.6, 9.7)
-- [[SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 3, p. 74-76, 88-89, 94-96 (§3.1.1, §3.4.2, §3.6.4)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 9, p. 291-296 (Exhibit 9.5, 9.6, 9.7)
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 3, p. 74-76, 88-89, 94-96 (§3.1.1, §3.4.2, §3.6.4)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0103-proprietatea-si-denumirea-brandului|BRD-0103]] _vezi_ — Două decizii de bază în strategia de brand — cine deține marca (producător sau retailer) și cum o numești (de familie sau individuală)
+- [[MKT-0112-stp-in-cinci-pasi|MKT-0112]] _extinde_ — STP se face în cinci pași — strategie, segmentare, atractivitate, alegerea țintei, poziționare
+- [[MKT-0113-bazele-segmentarii-gasesti-tinta-apoi-o-convingi|MKT-0113]] _extinde_ — Demografia și geografia te ajută să găsești ținta, beneficiile și stilul de viață te ajută s-o convingi
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] — Principles of Marketing
+<!-- backlinks:end -->

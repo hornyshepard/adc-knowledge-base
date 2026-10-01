@@ -48,11 +48,20 @@ Ipoteza „cumperi ce cumpără cei asemănători ție" stă la baza motoarelor 
 
 ## Legături
 
-- **extinde** [[AIM-1308]] — limita datelor istorice, dezvoltată.
-- **extinde** [[AIM-1310]] — familia experimentală, pe larg.
-- **vezi** [[ADV-1302]] — un model teoretic (ierarhia efectelor) testat cu date.
-- **aplicare** [[AIM-1316]] — matricea „ce metodă pentru ce sarcină".
+- **extinde** [[AIM-1308-datele-istorice-prezic-repetarea-nu-noutatea|AIM-1308]] — limita datelor istorice, dezvoltată.
+- **extinde** [[AIM-1310-metodele-de-trade-off-cand-folosesti-fiecare|AIM-1310]] — familia experimentală, pe larg.
+- **vezi** [[ADV-1302-ierarhia-efectelor-testata-cu-date-alta-ordine|ADV-1302]] — un model teoretic (ierarhia efectelor) testat cu date.
+- **aplicare** [[AIM-1316-ce-metoda-pentru-ce-intrebare-de-marketing|AIM-1316]] — matricea „ce metodă pentru ce sarcină".
 
 ## Surse
 
-- [[SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, Prefață, cap. 1, cap. 8
+- [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, Prefață, cap. 1, cap. 8
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-1302-ierarhia-efectelor-testata-cu-date-alta-ordine|ADV-1302]] _vezi_ — Testată cu date, ierarhia efectelor a ieșit într-o altă ordine decât teoria — de la „ce fac ei" la „ce fac eu"
+- [[AIM-1308-datele-istorice-prezic-repetarea-nu-noutatea|AIM-1308]] _fundament_ — Datele istorice prezic repetarea, nu noutatea — nu răspund la „ce-ar fi dacă" și nu arată percepțiile
+- [[AIM-1316-ce-metoda-pentru-ce-intrebare-de-marketing|AIM-1316]] _fundament_ — Alegi metoda de analiză după întrebarea de marketing, nu după moda tehnologică
+- [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]] — Artificial Intelligence Marketing and Predicting Consumer Choice: An Overview of Tools and Techniques
+<!-- backlinks:end -->

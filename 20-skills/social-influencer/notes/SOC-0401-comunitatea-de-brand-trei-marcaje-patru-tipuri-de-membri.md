@@ -54,10 +54,18 @@ Wispa: un baton retras în 2003, readus în 2007 după campania fanilor pe rețe
 
 ## Legături
 
-- **extinde** [[BRD-0401]] — comunitatea co-creează cultura și mitul brandului.
-- **contrazice** [[MKT-0401]] — critica muncii neplătite a consumatorilor în co-creare.
-- **vezi** [[ADV-0408]] — publicitatea nativă și dezvăluirea intenției persuasive.
+- **extinde** [[BRD-0401-brandurile-iconice-rezolva-tensiuni-culturale|BRD-0401]] — comunitatea co-creează cultura și mitul brandului.
+- **contrazice** [[MKT-0401-co-crearea-imputernicire-sau-munca-neplatita|MKT-0401]] — critica muncii neplătite a consumatorilor în co-creare.
+- **vezi** [[ADV-0408-plasarea-de-produs-si-publicitatea-nativa|ADV-0408]] — publicitatea nativă și dezvăluirea intenției persuasive.
 
 ## Surse
 
-- [[SRC-013]] Parsons, Maclaran & Chatzidakis, *Contemporary Issues in Marketing and Consumer Behaviour*, cap. 3, p. 36-39
+- [[SRC-013-contemporary-issues-in-marketing-and-consumer-behaviour|SRC-013]] Parsons, Maclaran & Chatzidakis, *Contemporary Issues in Marketing and Consumer Behaviour*, cap. 3, p. 36-39
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0401-brandurile-iconice-rezolva-tensiuni-culturale|BRD-0401]] _extinde_ — Brandurile devin iconice când oferă un mit identitar care rezolvă o tensiune culturală a momentului (Holt)
+- [[MKT-0401-co-crearea-imputernicire-sau-munca-neplatita|MKT-0401]] _contrazice_ — Co-crearea valorii — împuternicirea consumatorului sau muncă neplătită pentru brand?
+- [[SRC-013-contemporary-issues-in-marketing-and-consumer-behaviour|SRC-013]] — Contemporary Issues in Marketing and Consumer Behaviour (2nd edition)
+<!-- backlinks:end -->

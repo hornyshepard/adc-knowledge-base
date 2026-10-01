@@ -50,11 +50,20 @@ Campania **Heineken Legends**: un banner pătrat fără CTA aparent ducea spre u
 
 ## Legături
 
-- **vezi** [[DIG-0922]] — formatele sunt livrate prin ad servere și programatic.
-- **vezi** [[DIG-0923]] — formatul se alege împreună cu metoda de targetare.
-- **contrazice** [[DIG-0903]] — aici autorii acordă creației mai mult decât „rolul secundar" din mixul direct.
-- **vezi** [[DIG-0930]] — publicitatea nativă e alternativa la bannerul care „arată a reclamă".
+- **vezi** [[DIG-0922-publicitatea-programatica-cumpara-impresii-prin-licitatie-rtb|DIG-0922]] — formatele sunt livrate prin ad servere și programatic.
+- **vezi** [[DIG-0923-targetarea-contextuala-vs-comportamentala|DIG-0923]] — formatul se alege împreună cu metoda de targetare.
+- **contrazice** [[DIG-0903-oferta-si-lista-cantaresc-mai-mult-decat-creatia-40-40-20|DIG-0903]] — aici autorii acordă creației mai mult decât „rolul secundar" din mixul direct.
+- **vezi** [[DIG-0930-publicitatea-nativa-imprumuta-forma-mediului|DIG-0930]] — publicitatea nativă e alternativa la bannerul care „arată a reclamă".
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 10, p. 269-272; cap. 3, p. 83-84
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 10, p. 269-272; cap. 3, p. 83-84
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0903-oferta-si-lista-cantaresc-mai-mult-decat-creatia-40-40-20|DIG-0903]] _vezi_ — În marketingul direct, oferta și lista cântăresc mai mult decât execuția creativă (regula 40/40/20)
+- [[DIG-0922-publicitatea-programatica-cumpara-impresii-prin-licitatie-rtb|DIG-0922]] _fundament_ — Publicitatea programatică cumpără afișări automat, prin licitație în timp real, în milisecundele în care se încarcă pagina
+- [[DIG-0930-publicitatea-nativa-imprumuta-forma-mediului|DIG-0930]] _vezi_ — Publicitatea nativă împrumută forma, tonul și funcția mediului, dar trebuie marcată clar ca reclamă
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+<!-- backlinks:end -->

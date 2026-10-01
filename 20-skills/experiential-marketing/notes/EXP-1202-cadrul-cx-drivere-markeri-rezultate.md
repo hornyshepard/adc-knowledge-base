@@ -47,15 +47,27 @@ American Express (mini-cazul 3.6) ilustrează driverul „engagement" pentru cli
 
 ## Legături
 
-- **fundament** [[EXP-1205]] — definiția experienței clientului pe care se sprijină cadrul.
-- **vezi** [[EXP-1203]] — detaliază cei cinci markeri.
-- **vezi** [[EXP-1204]] — detaliază cele patru rezultate.
-- **vezi** [[EXP-1207]] — imersiunea, driver idiocentric.
-- **vezi** [[INS-1202]] — flow-ul, gradul de intensitate al imersiunii.
-- **vezi** [[INS-1207]] — sensul și consumul simbolic, decodate prin semiotică.
-- **vezi** [[EXP-1209]] — tematizarea, driver alocentric.
-- **vezi** [[EXP-1210]] — marketingul senzorial, driver alocentric.
+- **fundament** [[EXP-1205-de-la-crm-la-customer-experience|EXP-1205]] — definiția experienței clientului pe care se sprijină cadrul.
+- **vezi** [[EXP-1203-cei-cinci-markeri-ai-experientei-clientului|EXP-1203]] — detaliază cei cinci markeri.
+- **vezi** [[EXP-1204-rezultatele-experientei-valoare-transformare|EXP-1204]] — detaliază cele patru rezultate.
+- **vezi** [[EXP-1207-imersiunea-cinci-factori-servicescape|EXP-1207]] — imersiunea, driver idiocentric.
+- **vezi** [[INS-1202-flow-provocarea-potrivita-cu-competenta|INS-1202]] — flow-ul, gradul de intensitate al imersiunii.
+- **vezi** [[INS-1207-semiotica-decodeaza-sensul-cultural-al-consumului|INS-1207]] — sensul și consumul simbolic, decodate prin semiotică.
+- **vezi** [[EXP-1209-tematizarea-unifica-decorul-experientei|EXP-1209]] — tematizarea, driver alocentric.
+- **vezi** [[EXP-1210-marketingul-senzorial-cinci-semnaturi|EXP-1210]] — marketingul senzorial, driver alocentric.
 
 ## Surse
 
-- [[SRC-036]] Wided Batat, *Experiential Marketing*, cap. 3 (Figura 3.1; secțiunile „Drivers", „Markers", „Outcomes")
+- [[SRC-036-experiential-marketing|SRC-036]] Wided Batat, *Experiential Marketing*, cap. 3 (Figura 3.1; secțiunile „Drivers", „Markers", „Outcomes")
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[EXP-1201-mixul-experiential-7e-inlocuieste-cei-7p|EXP-1201]] _fundament_ — Mixul de marketing experiențial (7E) înlocuiește cei 7P cu decizii centrate pe experiența clientului
+- [[EXP-1203-cei-cinci-markeri-ai-experientei-clientului|EXP-1203]] _fundament_ — Experiența clientului are cinci markeri — holistică, cumulativă, subiectivă, asamblaj, contrastantă
+- [[EXP-1204-rezultatele-experientei-valoare-transformare|EXP-1204]] _fundament_ — O experiență reușită produce patru rezultate — valoare, transformare, competență, memorabilitate
+- [[EXP-1207-imersiunea-cinci-factori-servicescape|EXP-1207]] _fundament_ — Imersiunea este calea de acces la o experiență plăcută și depinde de cinci factori
+- [[INS-1202-flow-provocarea-potrivita-cu-competenta|INS-1202]] _vezi_ — Flow-ul — absorbția totală apare când provocarea e mare și potrivită cu competența omului
+- [[INS-1207-semiotica-decodeaza-sensul-cultural-al-consumului|INS-1207]] _vezi_ — Semiotica decodează semnele unei categorii ca să găsească sensul cultural pe care consumatorii nu îl pot spune
+- [[SRC-036-experiential-marketing|SRC-036]] — Experiential Marketing: Consumer Behavior, Customer Experience and the 7Es
+<!-- backlinks:end -->

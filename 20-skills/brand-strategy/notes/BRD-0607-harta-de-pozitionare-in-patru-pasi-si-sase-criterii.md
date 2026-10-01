@@ -58,10 +58,18 @@ Harta nu schimbă deciziile de marketing luate în amonte; arată cum e perceput
 
 ## Legături
 
-- **fundament** [[ADV-0610]] — principiile cognitive ale poziționării (Trout & Ries).
-- **extinde** [[BRD-0605]] — alegerea axelor e o formă de „a picta axele" (Ollé & Riu).
-- **aplicare** [[ADV-0612]] — poziționarea e veriga dintre problemă și obiective.
+- **fundament** [[ADV-0610-pozitionarea-sprijinita-pe-noua-principii-cognitive|ADV-0610]] — principiile cognitive ale poziționării (Trout & Ries).
+- **extinde** [[BRD-0605-contextualizare-si-conceptualizare-a-picta-axele-pozitionarii|BRD-0605]] — alegerea axelor e o formă de „a picta axele" (Ollé & Riu).
+- **aplicare** [[ADV-0612-planul-strategic-de-comunicare-e-un-lant-logic|ADV-0612]] — poziționarea e veriga dintre problemă și obiective.
 
 ## Surse
 
-- [[SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 8, p. 34–37
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 8, p. 34–37
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0610-pozitionarea-sprijinita-pe-noua-principii-cognitive|ADV-0610]] _vezi_ — Poziționarea (Trout & Ries) se sprijină pe nouă principii — de la saturația informațională la permanență
+- [[ADV-0612-planul-strategic-de-comunicare-e-un-lant-logic|ADV-0612]] _vezi_ — Planul strategic de comunicare e un lanț în care fiecare verigă decurge din cea anterioară — de la SWOT la buget
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] — La boîte à outils de la publicité
+<!-- backlinks:end -->

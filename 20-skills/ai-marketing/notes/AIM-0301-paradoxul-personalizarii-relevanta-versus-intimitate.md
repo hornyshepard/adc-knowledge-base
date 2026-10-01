@@ -43,12 +43,24 @@ Campania EasyJet (12,5 milioane de e-mailuri unice) a funcționat pentru că dat
 
 ## Legături
 
-- **extinde** [[MKT-0314]] — limitele componentei „Personalization" din EP².
-- **vezi** [[DIG-0305]] — practicile de consimțământ pentru datele first-party.
-- **vezi** [[BRD-0301]] — Bloom & Wild: personalizare prin renunțare, nu prin insistență.
+- **extinde** [[MKT-0314-ep2-mixul-de-marketing-al-prosumatorului|MKT-0314]] — limitele componentei „Personalization" din EP².
+- **vezi** [[DIG-0305-datele-first-party-se-cer-nu-se-iau-cinci-practici|DIG-0305]] — practicile de consimțământ pentru datele first-party.
+- **vezi** [[BRD-0301-bloom-and-wild-renuntarea-la-campaniile-sensibile|BRD-0301]] — Bloom & Wild: personalizare prin renunțare, nu prin insistență.
 
 ## Surse
 
-- [[SRC-008]] Jon Wuebben, *Future Marketing*, cap. 12–13
-- [[SRC-009]] The DX Review, *Future-Proof Marketing*, cap. 3
-- [[SRC-010]] Patrick Ejeke, *Marketing Trends*, trendurile 18 și 55
+- [[SRC-008-future-marketing|SRC-008]] Jon Wuebben, *Future Marketing*, cap. 12–13
+- [[SRC-009-future-proof-marketing-2024-and-beyond|SRC-009]] The DX Review, *Future-Proof Marketing*, cap. 3
+- [[SRC-010-marketing-trends-ejeke|SRC-010]] Patrick Ejeke, *Marketing Trends*, trendurile 18 și 55
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0301-bloom-and-wild-renuntarea-la-campaniile-sensibile|BRD-0301]] _vezi_ — Bloom & Wild: să le permiți clienților să refuze campaniile de Ziua Mamei e tot marketing — marketing atent
+- [[DIG-0303-omnicanal-inseamna-canale-care-se-intaresc-reciproc|DIG-0303]] _vezi_ — Omnicanal nu înseamnă prezență pe multe canale, ci canale care se întăresc reciproc — și se măsoară altfel
+- [[DIG-0305-datele-first-party-se-cer-nu-se-iau-cinci-practici|DIG-0305]] _vezi_ — Datele first-party se cer, nu se iau: cinci practici pentru colectarea lor cu consimțământ
+- [[MKT-0314-ep2-mixul-de-marketing-al-prosumatorului|MKT-0314]] _vezi_ — EP²: Wuebben propune înlocuirea celor 4P cu Engagement, Experiences, Personalization, Passion
+- [[SRC-008-future-marketing|SRC-008]] — Future Marketing: Winning in the Prosumer Age
+- [[SRC-009-future-proof-marketing-2024-and-beyond|SRC-009]] — Future-Proof Marketing: Strategies for Success in 2024 and Beyond
+- [[SRC-010-marketing-trends-ejeke|SRC-010]] — Marketing Trends: 63 Digital Marketing Trends in the Age of Automation, Integrated Marketing, Omnichannel Marketing, Metaverse, Big Data, NFTs, AI, AR & VR
+<!-- backlinks:end -->

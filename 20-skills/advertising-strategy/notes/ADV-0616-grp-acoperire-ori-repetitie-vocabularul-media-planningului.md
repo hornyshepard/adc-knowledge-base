@@ -52,10 +52,18 @@ O campanie cu 60% acoperire și o repetiție medie de 5 are 300 GRP. Una cu 30% 
 
 ## Legături
 
-- **aplicare** [[ADV-0612]] — media și bugetul sunt verigi ale planului de comunicare.
-- **vezi** [[ADV-0606]] — repetiția e baza „penetrării" lui Reeves.
-- **vezi** [[ADV-0618]] — post-testele măsoară ce rămâne după contacte.
+- **aplicare** [[ADV-0612-planul-strategic-de-comunicare-e-un-lant-logic|ADV-0612]] — media și bugetul sunt verigi ale planului de comunicare.
+- **vezi** [[ADV-0606-schimbarea-prea-deasa-a-campaniei-distruge-penetrarea|ADV-0606]] — repetiția e baza „penetrării" lui Reeves.
+- **vezi** [[ADV-0618-post-testul-masoara-urma-reclamei-prin-cinci-scoruri|ADV-0618]] — post-testele măsoară ce rămâne după contacte.
 
 ## Surse
 
-- [[SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 48 (p. 154–157), outil 12 (p. 46–47)
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 48 (p. 154–157), outil 12 (p. 46–47)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0618-post-testul-masoara-urma-reclamei-prin-cinci-scoruri|ADV-0618]] _vezi_ — Post-testul măsoară urma lăsată de reclamă prin cinci scoruri, bilanțul măsoară campania întreagă
+- [[CPY-0608-mesajul-memorabil-repetitie-rima-chunking-sincronizare|CPY-0608]] _vezi_ — Un mesaj devine memorabil prin repetiție, rimă, ritm, „chunking", răsucirea unei expresii cunoscute și sincronizare audio-video
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] — La boîte à outils de la publicité
+<!-- backlinks:end -->

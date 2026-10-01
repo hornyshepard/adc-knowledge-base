@@ -45,11 +45,21 @@ Studiul olandez Pieters & Bijmolt (1975-1992): primacy slab, dar constant; durat
 
 ## Legături
 
-- **fundament** [[INS-0411]] — efectele de poziție serială din cercetarea memoriei.
-- **vezi** [[ADV-0404]] — repetiția e una dintre armele contra clutter-ului.
-- **vezi** [[ADV-0403]] — uzura limitează beneficiul repetiției.
-- **extinde** [[ADV-0407]] — efectul repetiției asupra atitudinii, uzura și variația execuțiilor.
+- **fundament** [[INS-0411-memoria-retine-ce-procesam-in-profunzime|INS-0411]] — efectele de poziție serială din cercetarea memoriei.
+- **vezi** [[ADV-0404-clutterul-produce-interferenta-competitiva|ADV-0404]] — repetiția e una dintre armele contra clutter-ului.
+- **vezi** [[ADV-0403-modele-de-raspuns-al-vanzarilor-concav-si-s|ADV-0403]] — uzura limitează beneficiul repetiției.
+- **extinde** [[ADV-0407-repetitia-creste-apoi-uzeaza-variatia-amana-uzura|ADV-0407]] — efectul repetiției asupra atitudinii, uzura și variația execuțiilor.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 3, p. 122-125
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 3, p. 122-125
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0403-modele-de-raspuns-al-vanzarilor-concav-si-s|ADV-0403]] _vezi_ — Răspunsul vânzărilor la buget urmează o curbă concavă sau în S, cu prag de intrare și punct de uzură
+- [[ADV-0404-clutterul-produce-interferenta-competitiva|ADV-0404]] _vezi_ — Clutter-ul produce interferență competitivă, iar antidotul e un indiciu de reamintire distinctiv la punctul de cumpărare
+- [[ADV-0407-repetitia-creste-apoi-uzeaza-variatia-amana-uzura|ADV-0407]] _extinde_ — Repetiția crește atitudinea până la un vârf, apoi o uzează — iar variația substanțială amână uzura mai bine decât cea cosmetică
+- [[INS-0411-memoria-retine-ce-procesam-in-profunzime|INS-0411]] _aplicare_ — Memoria reține ce procesăm în profunzime, nu ce vedem des
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

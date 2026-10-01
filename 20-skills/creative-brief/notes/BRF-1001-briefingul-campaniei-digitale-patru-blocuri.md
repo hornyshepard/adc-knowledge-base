@@ -42,11 +42,20 @@ Pentru e-mountain bike-ul din același capitol, brief-ul ar trebui să spună c�
 
 ## Legături
 
-- **vezi** [[DIG-1024]] — brief-ul deschide primul pas al planificării campaniei.
-- **vezi** [[DIG-1006]] — de ce informația despre grupul țintă nu ajunge fără persona.
-- **vezi** [[DIG-1004]] — propunerea de valoare digitală alimentează mesajul central.
-- **vezi** [[ADV-1001]] — cum se estimează bugetul cerut în blocul 4.
+- **vezi** [[DIG-1024-campania-online-se-planifica-in-trei-pasi|DIG-1024]] — brief-ul deschide primul pas al planificării campaniei.
+- **vezi** [[DIG-1006-buyer-persona-nu-este-grupul-tinta|DIG-1006]] — de ce informația despre grupul țintă nu ajunge fără persona.
+- **vezi** [[DIG-1004-propunerea-de-valoare-digitala-formula-pentru-tinta-brandul|DIG-1004]] — propunerea de valoare digitală alimentează mesajul central.
+- **vezi** [[ADV-1001-bugetul-campaniei-online-reach-presiune-cost|ADV-1001]] — cum se estimează bugetul cerut în blocul 4.
 
 ## Surse
 
-- [[SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 2.2.1 (p. 40–41)
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 2.2.1 (p. 40–41)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-1001-bugetul-campaniei-online-reach-presiune-cost|ADV-1001]] _vezi_ — Bugetul unei campanii online se estimează din reach, presiune publicitară și cost media, iar metodele euristice dau doar plafonul
+- [[DIG-1004-propunerea-de-valoare-digitala-formula-pentru-tinta-brandul|DIG-1004]] _vezi_ — Propunerea de valoare digitală se scrie după formula „Pentru [țintă], [brandul] este [ce] care [beneficiu și diferență]"
+- [[DIG-1024-campania-online-se-planifica-in-trei-pasi|DIG-1024]] _vezi_ — Campania online se planifică în trei pași — decizii fundamentale, subcampanii pe etapele customer journey, monitorizare și optimizare
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] — Digital Advertising in the Post-cookie Era: Strategic Campaign Planning Across the Customer Journey
+<!-- backlinks:end -->

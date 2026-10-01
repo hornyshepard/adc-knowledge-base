@@ -48,10 +48,18 @@ O campanie pentru un iaurt are ținta de campanie „preferința pentru brand de
 
 ## Legături
 
-- **fundament** [[ADV-1503]] — tabelul urmează cei patru pași ai secvenței de răspuns.
-- **vezi** [[ADV-1504]] — țintele se fixează în ordinea planificării.
-- **aplicare** [[ADV-1543]] — pretestul măsoară reclama individuală la nivel de procesare.
+- **fundament** [[ADV-1503-secventa-de-raspuns-la-comunicare-probabilitati-compuse|ADV-1503]] — tabelul urmează cei patru pași ai secvenței de răspuns.
+- **vezi** [[ADV-1504-planificarea-inverseaza-secventa-de-raspuns|ADV-1504]] — țintele se fixează în ordinea planificării.
+- **aplicare** [[ADV-1530-pretestul-pe-obiective-niciodata-focus-grup-sau-reamintirea-reclamei|ADV-1530]] — pretestul măsoară reclama individuală la nivel de procesare.
 
 ## Surse
 
-- [[SRC-049]] Larry Percy & Richard Rosenbaum-Elliott, *Strategic Advertising Management*, cap. 4, „Relating objectives and goals", Table 4.2 (audio 09)
+- [[SRC-049-strategic-advertising-management|SRC-049]] Larry Percy & Richard Rosenbaum-Elliott, *Strategic Advertising Management*, cap. 4, „Relating objectives and goals", Table 4.2 (audio 09)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-1504-planificarea-inverseaza-secventa-de-raspuns|ADV-1504]] _vezi_ — Planificarea parcurge secvența de răspuns în sens invers, iar o greșeală la un pas nu anulează pașii de dinainte
+- [[ADV-1530-pretestul-pe-obiective-niciodata-focus-grup-sau-reamintirea-reclamei|ADV-1530]] _fundament_ — Pretestul se construiește pe obiectivele de comunicare, cu întrebări într-o ordine fixă, și nu se face niciodată prin focus grupuri sau prin reamintirea reclamei
+- [[SRC-049-strategic-advertising-management|SRC-049]] — Strategic Advertising Management (6th edition)
+<!-- backlinks:end -->

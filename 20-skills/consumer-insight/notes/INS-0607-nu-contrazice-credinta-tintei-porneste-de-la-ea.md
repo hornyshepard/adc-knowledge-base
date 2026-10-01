@@ -41,10 +41,17 @@ De aici regula: promite ceva care răspunde unei nevoi **din interiorul** credin
 
 ## Legături
 
-- **fundament** [[INS-0605]] — credințele trăiesc în creierul rapid, care se apără reflex.
-- **vezi** [[ADV-0603]] — credința actuală e prima rubrică a strategiei de creație la Milavsky.
-- **vezi** [[ADV-0610]] — și poziționarea cere să lucrezi cu ce există deja în minte, nu să creezi ceva nou.
+- **fundament** [[INS-0605-publicitatea-vorbeste-creierului-rapid-portarul-atentiei|INS-0605]] — credințele trăiesc în creierul rapid, care se apără reflex.
+- **vezi** [[ADV-0603-copy-strategy-fixeaza-beneficiul-dovada-si-tonul|ADV-0603]] — credința actuală e prima rubrică a strategiei de creație la Milavsky.
+- **vezi** [[ADV-0610-pozitionarea-sprijinita-pe-noua-principii-cognitive|ADV-0610]] — și poziționarea cere să lucrezi cu ce există deja în minte, nu să creezi ceva nou.
 
 ## Surse
 
-- [[SRC-021]] Barry Milavsky, *Overcome AD-versity*, cap. 3 (p. 28–31), cap. 11 (p. 156)
+- [[SRC-021-overcome-ad-versity|SRC-021]] Barry Milavsky, *Overcome AD-versity*, cap. 3 (p. 28–31), cap. 11 (p. 156)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0603-copy-strategy-fixeaza-beneficiul-dovada-si-tonul|ADV-0603]] _vezi_ — Copy strategy (P&G) fixează în scris obiectivul, beneficiul cu dovada lui și tonul — nu execuția
+- [[SRC-021-overcome-ad-versity|SRC-021]] — Overcome AD-versity: How to Put Persuasion Power in Advertising
+<!-- backlinks:end -->

@@ -51,10 +51,17 @@ Cartea descrie scenariul: modelul automatizează primul mesaj și follow-up-ul, 
 
 ## Legături
 
-- **vezi** [[AIM-1304]] — același principiu al predării către om, aplicat în suport.
-- **alternativa** [[ADV-1301]] — testarea conjoint, mai eficientă decât A/B pentru multe variante.
-- **vezi** [[AIM-1319]] — de ce interpretarea nu poate fi delegată modelului.
+- **vezi** [[AIM-1304-chatbotul-bun-stie-cand-sa-predea-unui-om|AIM-1304]] — același principiu al predării către om, aplicat în suport.
+- **alternativa** [[ADV-1301-testarea-conjoint-a-mesajelor-bate-testul-a-b|ADV-1301]] — testarea conjoint, mai eficientă decât A/B pentru multe variante.
+- **vezi** [[AIM-1319-modelul-de-limbaj-rezuma-dar-nu-dovedeste-cauze|AIM-1319]] — de ce interpretarea nu poate fi delegată modelului.
 
 ## Surse
 
-- [[SRC-039]] Eldar Najafov, *ChatGPT for Marketing*, cap. 4, p. 82–86
+- [[SRC-039-chatgpt-for-marketing|SRC-039]] Eldar Najafov, *ChatGPT for Marketing*, cap. 4, p. 82–86
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-1317-promptul-de-marketing-e-un-mini-brief|AIM-1317]] _vezi_ — Promptul de marketing e un mini-brief, iar răspunsul modelului e o ciornă, nu un livrabil
+- [[SRC-039-chatgpt-for-marketing|SRC-039]] — ChatGPT for Marketing: Learn Practical Applications of ChatGPT for Marketing
+<!-- backlinks:end -->

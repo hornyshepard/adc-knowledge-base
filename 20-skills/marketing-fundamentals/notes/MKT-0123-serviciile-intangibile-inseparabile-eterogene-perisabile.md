@@ -49,11 +49,21 @@ Casper, cunoscut pentru saltelele vândute în cutii mici, a deschis The Dreamer
 
 ## Legături
 
-- **extinde** [[MKT-0124]] — modelul decalajelor de serviciu arată unde se rupe calitatea.
-- **vezi** [[MKT-0117]] — la servicii, straturile produsului sunt în mare parte intangibile.
-- **vezi** [[MKT-0104]] — mixul clasic e completat pentru servicii cu oameni, procese și dovezi fizice.
+- **extinde** [[MKT-0124-patru-decalaje-de-serviciu-si-promisiunea-reclamei|MKT-0124]] — modelul decalajelor de serviciu arată unde se rupe calitatea.
+- **vezi** [[MKT-0117-produsul-are-trei-straturi|MKT-0117]] — la servicii, straturile produsului sunt în mare parte intangibile.
+- **vezi** [[MKT-0104-mixul-4p-creeaza-capteaza-livreaza-comunica-valoarea|MKT-0104]] — mixul clasic e completat pentru servicii cu oameni, procese și dovezi fizice.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 13, p. 420-425 (Exhibit 13.2)
-- [[SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 7, p. 203-207 (§7.4)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 13, p. 420-425 (Exhibit 13.2)
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 7, p. 203-207 (§7.4)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[MKT-0117-produsul-are-trei-straturi|MKT-0117]] _vezi_ — Produsul are trei straturi — valoarea de bază, produsul efectiv și serviciile asociate (produsul augmentat)
+- [[MKT-0124-patru-decalaje-de-serviciu-si-promisiunea-reclamei|MKT-0124]] _fundament_ — Calitatea serviciului se pierde în patru decalaje, iar ultimul — cel de comunicare — îl creează publicitatea care promite prea mult
+- [[MKT-0128-pentru-servicii-mixul-devine-7p-oameni-procese-dovezi-fizice|MKT-0128]] _fundament_ — Pentru servicii, mixul devine 7P — se adaugă oamenii, procesele și dovezile fizice
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] — Principles of Marketing
+<!-- backlinks:end -->

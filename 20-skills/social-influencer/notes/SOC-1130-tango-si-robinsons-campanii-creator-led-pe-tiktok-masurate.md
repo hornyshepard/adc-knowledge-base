@@ -41,11 +41,18 @@ Cel mai performant clip Robinsons a fost cel cu mai mulți oameni în cadru și 
 
 ## Legături
 
-- **vezi** [[SOC-1117]] — campaniile aplică principiul co-creației cu talentul.
-- **vezi** [[STO-1112]] — filtrul AR a generat UGC la scară.
-- **vezi** [[SOC-1125]] — rezultatele se raportează față de benchmarkuri de platformă.
-- **vezi** [[SOC-1131]] — alt caz de mecanică simplă interpretată de creatori.
+- **vezi** [[SOC-1117-mission-cast-create-misiunea-inaintea-castingului-de|SOC-1117]] — campaniile aplică principiul co-creației cu talentul.
+- **vezi** [[STO-1112-ugc-este-continut-castigat-pe-care-brandul-nu-il-poate|STO-1112]] — filtrul AR a generat UGC la scară.
+- **vezi** [[SOC-1125-engagement-rate-cpe-si-cpm-aritmetica-de-baza-a-unei|SOC-1125]] — rezultatele se raportează față de benchmarkuri de platformă.
+- **vezi** [[SOC-1131-brave-bison-mecanica-greseala-dezvaluire-pentru-o-cauza|SOC-1131]] — alt caz de mecanică simplă interpretată de creatori.
 
 ## Surse
 
-- [[SRC-035]] Glenister, *Influencer Marketing Strategy*, cap. 11 (cazurile Whalar/Cirkle pentru Britvic), p. 286–292
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] Glenister, *Influencer Marketing Strategy*, cap. 11 (cazurile Whalar/Cirkle pentru Britvic), p. 286–292
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[SOC-1131-brave-bison-mecanica-greseala-dezvaluire-pentru-o-cauza|SOC-1131]] _vezi_ — Brave Bison: mecanica greșeală-dezvăluire pentru o cauză sensibilă
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] — Influencer Marketing Strategy: How influencers can help grow your business
+<!-- backlinks:end -->

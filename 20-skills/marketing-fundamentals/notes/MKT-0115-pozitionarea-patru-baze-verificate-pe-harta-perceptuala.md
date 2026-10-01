@@ -55,11 +55,23 @@ Hertz (cap. 2) se poziționează drept prima alegere pentru fiecare segment țin
 
 ## Legături
 
-- **fundament** [[MKT-0112]] — poziționarea este pasul 5 din STP.
-- **extinde** [[MKT-0116]] — propunerea de valoare formulează conținutul poziției.
-- **vezi** [[BRD-0105]] — repoziționarea brandului mută punctul pe hartă.
-- **vezi** [[INS-0104]] — o poziție clară ajută brandul să intre în setul evocat al consumatorului.
+- **fundament** [[MKT-0112-stp-in-cinci-pasi|MKT-0112]] — poziționarea este pasul 5 din STP.
+- **extinde** [[MKT-0116-propunerea-de-valoare-cercuri-si-formula|MKT-0116]] — propunerea de valoare formulează conținutul poziției.
+- **vezi** [[BRD-0105-repozitionarea-pentru-o-tendinta-reala-nu-o-moda|BRD-0105]] — repoziționarea brandului mută punctul pe hartă.
+- **vezi** [[INS-0104-setul-evocat-si-atributul-determinant|INS-0104]] — o poziție clară ajută brandul să intre în setul evocat al consumatorului.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 2, p. 42; cap. 9, p. 297-304 (Exhibit 9.10A-D)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 2, p. 42; cap. 9, p. 297-304 (Exhibit 9.10A-D)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0101-brandul-scurteaza-decizia-si-protejeaza-de-concurenta|BRD-0101]] _vezi_ — Brandul ajută clientul să aleagă repede și protejează firma de concurența pe preț — prin elemente ușor de recunoscut
+- [[BRD-0105-repozitionarea-pentru-o-tendinta-reala-nu-o-moda|BRD-0105]] _fundament_ — Repoziționarea (rebranding) e scumpă și riscantă — merită pentru o tendință reală, nu pentru o modă (Old Spice, CoverGirl, WW)
+- [[INS-0104-setul-evocat-si-atributul-determinant|INS-0104]] _vezi_ — Consumatorul alege dintr-un set evocat mic, după atributul determinant — cel important și diferit între branduri
+- [[MKT-0112-stp-in-cinci-pasi|MKT-0112]] _extinde_ — STP se face în cinci pași — strategie, segmentare, atractivitate, alegerea țintei, poziționare
+- [[MKT-0114-cinci-criterii-si-patru-strategii-de-targetare|MKT-0114]] _extinde_ — Un segment merită urmărit dacă trece cinci criterii; apoi alegi una dintre patru strategii de targetare
+- [[MKT-0116-propunerea-de-valoare-cercuri-si-formula|MKT-0116]] _fundament_ — Propunerea de valoare stă unde nevoile clientului se întâlnesc cu oferta ta, dar nu și cu a concurenței — și se scrie în patru elemente
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+<!-- backlinks:end -->

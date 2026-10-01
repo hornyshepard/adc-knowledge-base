@@ -38,12 +38,23 @@ Diferența dintre cele două cărți: la Ingledew noutatea locului e suficientă
 
 ## Legături
 
-- **fundament** [[IDE-0701]] — mesajul neașteptat prinde mintea înainte de apărări.
-- **vezi** [[STO-0705]] — Heineken: locul neașteptat devine dovadă de autenticitate.
-- **vezi** [[STO-0707]] — formatul util trebuie să fie susținut de fapte, nu de declarații.
-- **vezi** [[IDE-0714]] — Coors „Chillboards" ca reîncadrare a panoului publicitar.
+- **fundament** [[IDE-0701-brainjack-ideea-captureaza-mintea-nu-doar-ochiul|IDE-0701]] — mesajul neașteptat prinde mintea înainte de apărări.
+- **vezi** [[STO-0705-autenticitatea-are-cinci-directii|STO-0705]] — Heineken: locul neașteptat devine dovadă de autenticitate.
+- **vezi** [[STO-0707-purpose-fara-washing-whack-tax|STO-0707]] — formatul util trebuie să fie susținut de fapte, nu de declarații.
+- **vezi** [[IDE-0714-reincadrarea-problemei-din-brief|IDE-0714]] — Coors „Chillboards" ca reîncadrare a panoului publicitar.
 
 ## Surse
 
-- [[SRC-024]] John Ingledew, *The A–Z of Visual Ideas*, intrările „Unexpected venues", „Word of mouth", „Digitality", „Sensations"
-- [[SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 2, cap. 6 și cap. 8
+- [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] John Ingledew, *The A–Z of Visual Ideas*, intrările „Unexpected venues", „Word of mouth", „Digitality", „Sensations"
+- [[SRC-025-shareworthy|SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 2, cap. 6 și cap. 8
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0706-garage-genius-mijloace-minime-impact-maxim|ART-0706]] _vezi_ — „Garage genius" — mijloace minime, impact maxim; lipsa bugetului obligă la idee, iar lucrul făcut de mână comunică intim
+- [[STO-0701-o-poveste-e-shareworthy-cand-are-valoare-de-folosinta|STO-0701]] _vezi_ — O poveste de brand e „shareworthy" când are valoare de folosință pentru public, nu doar pentru brand
+- [[STO-0705-autenticitatea-are-cinci-directii|STO-0705]] _exemplu_ — Autenticitatea are cinci direcții — față de public, de brand, de scop, de zeitgeist și de echipa care produce povestea
+- [[STO-0706-martor-sau-participant-trei-intrebari-de-imputernicire|STO-0706]] _vezi_ — Martor sau participant — trei întrebări pentru a împuternici publicul, de la respect la super-fani
+- [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] — The A–Z of Visual Ideas: How to Solve Any Creative Brief
+- [[SRC-025-shareworthy|SRC-025]] — Shareworthy: Advertising That Creates Powerful Connections Through Storytelling
+<!-- backlinks:end -->

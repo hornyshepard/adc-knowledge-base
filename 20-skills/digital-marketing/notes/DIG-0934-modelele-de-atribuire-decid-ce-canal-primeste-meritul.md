@@ -50,12 +50,21 @@ Linkul fictiv din SRC-029 pentru o postare Instagram despre cercetarea lui Laure
 
 ## Legături
 
-- **fundament** [[DIG-0906]] — KPI-urile pe canal depind de modelul de atribuire.
-- **vezi** [[DIG-0924]] — retargetingul e câștigătorul clasic al atribuirii last-click.
-- **vezi** [[SOC-0905]] — impactul social pe vânzări e greu de atribuit, de aceea cadrul se oprește la advocacy.
-- **vezi** [[DIG-0931]] — în B2B se calculează costul pe lead convertit pe canal.
+- **fundament** [[DIG-0906-un-metric-e-un-numar-un-kpi-arata-progresul-fata-de-obiectiv|DIG-0906]] — KPI-urile pe canal depind de modelul de atribuire.
+- **vezi** [[DIG-0924-retargetingul-trebuie-segmentat-dupa-stadiul-din-journey|DIG-0924]] — retargetingul e câștigătorul clasic al atribuirii last-click.
+- **vezi** [[SOC-0905-valid-metrics-framework-succesul-social-se-termina-in-advocacy|SOC-0905]] — impactul social pe vânzări e greu de atribuit, de aceea cadrul se oprește la advocacy.
+- **vezi** [[DIG-0931-demand-generation-de-la-continut-la-lead-calificat|DIG-0931]] — în B2B se calculează costul pe lead convertit pe canal.
 
 ## Surse
 
-- [[SRC-030]] K. Connors, *Advanced Digital Marketing Strategies*, cap. 4, cap. 5
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 9, p. 262-263; cap. 13, p. 381-382
+- [[SRC-030-digital-marketing-strategies|SRC-030]] K. Connors, *Advanced Digital Marketing Strategies*, cap. 4, cap. 5
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 9, p. 262-263; cap. 13, p. 381-382
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0906-un-metric-e-un-numar-un-kpi-arata-progresul-fata-de-obiectiv|DIG-0906]] _vezi_ — Un metric e doar un număr; un KPI arată cât de aproape ești de obiectiv
+- [[DIG-0924-retargetingul-trebuie-segmentat-dupa-stadiul-din-journey|DIG-0924]] _vezi_ — Retargetingul trebuie segmentat după stadiul din journey și dozat, altfel devine hărțuire
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+- [[SRC-030-digital-marketing-strategies|SRC-030]] — Advanced Digital Marketing Strategies: Mastering SEO, Social Media, Content Marketing, and AI for Maximum Online Growth
+<!-- backlinks:end -->

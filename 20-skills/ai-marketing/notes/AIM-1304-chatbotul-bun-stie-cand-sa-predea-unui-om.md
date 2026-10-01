@@ -48,9 +48,19 @@ Chatbotul Sephora, citat de Noil, recomandă produse, răspunde la întrebări d
 
 ## Legături
 
-- **vezi** [[AIM-1305]] — botul procesează date personale și cade sub aceleași reguli de transparență.
-- **vezi** [[AIM-1301]] — conversația e un canal de personalizare în timp real.
+- **vezi** [[AIM-1305-etica-datelor-consimtamant-acces-transparenta-minimizare|AIM-1305]] — botul procesează date personale și cade sub aceleași reguli de transparență.
+- **vezi** [[AIM-1301-personalizarea-cu-ai-are-patru-registre|AIM-1301]] — conversația e un canal de personalizare în timp real.
 
 ## Surse
 
-- [[SRC-037]] Karen Noil, *AI-Driven Marketing*, cap. 8 (8.1-8.7)
+- [[SRC-037-ai-driven-marketing|SRC-037]] Karen Noil, *AI-Driven Marketing*, cap. 8 (8.1-8.7)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-1305-etica-datelor-consimtamant-acces-transparenta-minimizare|AIM-1305]] _vezi_ — Etica datelor în marketingul cu AI are patru reguli de bază — consimțământ, acces și ștergere, transparență, minimizare
+- [[AIM-1318-declara-cand-folosesti-ai-trusa-de-transparenta|AIM-1318]] _aplicare_ — Declară când folosești AI — o trusă de transparență și un checklist etic în opt puncte
+- [[AIM-1320-ipoteza-o-formuleaza-omul-ai-ul-o-ruleaza|AIM-1320]] _vezi_ — Ipoteza o formulează omul, AI-ul o rulează, omul o interpretează — împărțirea muncii în testare și lead-uri
+- [[AIM-1322-o2-vision-motorul-de-decizie-si-oboseala-audientei|AIM-1322]] _vezi_ — O2 Vision — motorul de decizie a dus conversia de la sub 2% la peste 70%, apoi a venit oboseala audienței
+- [[SRC-037-ai-driven-marketing|SRC-037]] — AI-Driven Marketing: Harnessing Artificial Intelligence to Personalize Customer Experiences
+<!-- backlinks:end -->

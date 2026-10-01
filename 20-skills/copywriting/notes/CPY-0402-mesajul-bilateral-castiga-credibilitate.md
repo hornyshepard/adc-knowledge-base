@@ -47,10 +47,18 @@ Avis: „Suntem doar numărul doi. Așa că ne străduim mai mult." — un dezav
 
 ## Legături
 
-- **aplicare** [[INS-0417]] — mesajul bilateral este o strategie omega.
-- **fundament** [[INS-0427]] — modelul expectanță-valoare explică punctul optim.
-- **vezi** [[INS-0434]] — reduce percepția intenției persuasive și rezistența.
+- **aplicare** [[INS-0417-strategii-alfa-si-omega-ale-persuasiunii|INS-0417]] — mesajul bilateral este o strategie omega.
+- **fundament** [[INS-0427-atitudinea-ca-suma-convingeri-ori-evaluari|INS-0427]] — modelul expectanță-valoare explică punctul optim.
+- **vezi** [[INS-0434-cunoasterea-persuasiunii-declanseaza-reactanta|INS-0434]] — reduce percepția intenției persuasive și rezistența.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 1, p. 23-24; cap. 5, p. 237-239
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 1, p. 23-24; cap. 5, p. 237-239
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[INS-0417-strategii-alfa-si-omega-ale-persuasiunii|INS-0417]] _aplicare_ — Poți convinge crescând atracția ofertei (strategii alfa) sau reducând rezistența la ea (strategii omega)
+- [[INS-0427-atitudinea-ca-suma-convingeri-ori-evaluari|INS-0427]] _aplicare_ — Atitudinea față de brand este suma câtorva convingeri salente înmulțite cu valoarea lor (modelul expectanță-valoare)
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

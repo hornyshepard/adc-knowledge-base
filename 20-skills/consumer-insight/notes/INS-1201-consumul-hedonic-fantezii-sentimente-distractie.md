@@ -45,11 +45,22 @@ Videoclipurile de siguranță în zbor (Air New Zealand, Virgin America, Delta) 
 
 ## Legături
 
-- **vezi** [[INS-1204]] — Holbrook a dezvoltat ulterior o tipologie a valorii în experiență.
-- **vezi** [[INS-1203]] — emoțiile sunt materia primă a consumului hedonic.
-- **vezi** [[EXP-1203]] — markerul „contrastant" aplică ideea hedonic + utilitar.
-- **vezi** [[EXP-1205]] — articolul din 1982 este punctul de plecare al customer experience.
+- **vezi** [[INS-1204-tipologia-valorii-holbrook-opt-valori|INS-1204]] — Holbrook a dezvoltat ulterior o tipologie a valorii în experiență.
+- **vezi** [[INS-1203-emotiile-consumatorului-primare-secundare-fluctuante|INS-1203]] — emoțiile sunt materia primă a consumului hedonic.
+- **vezi** [[EXP-1203-cei-cinci-markeri-ai-experientei-clientului|EXP-1203]] — markerul „contrastant" aplică ideea hedonic + utilitar.
+- **vezi** [[EXP-1205-de-la-crm-la-customer-experience|EXP-1205]] — articolul din 1982 este punctul de plecare al customer experience.
 
 ## Surse
 
-- [[SRC-036]] Wided Batat, *Experiential Marketing*, cap. 2, secț. „Experience from a consumer perspective: Holbrook and Hirschman's contributions"; cap. 3, secț. „Customer experience is contrasting" (mini-cazul 3.17)
+- [[SRC-036-experiential-marketing|SRC-036]] Wided Batat, *Experiential Marketing*, cap. 2, secț. „Experience from a consumer perspective: Holbrook and Hirschman's contributions"; cap. 3, secț. „Customer experience is contrasting" (mini-cazul 3.17)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[EXP-1203-cei-cinci-markeri-ai-experientei-clientului|EXP-1203]] _vezi_ — Experiența clientului are cinci markeri — holistică, cumulativă, subiectivă, asamblaj, contrastantă
+- [[EXP-1205-de-la-crm-la-customer-experience|EXP-1205]] _fundament_ — Customer experience a depășit CRM-ul — marketingul trece de la „a cumpăra" la „a trăi" consumul
+- [[INS-1203-emotiile-consumatorului-primare-secundare-fluctuante|INS-1203]] _vezi_ — Emoțiile consumatorului sunt primare sau secundare și fluctuează pe tot parcursul experienței
+- [[INS-1204-tipologia-valorii-holbrook-opt-valori|INS-1204]] _fundament_ — Tipologia valorii lui Holbrook — opt valori cu care se poate analiza orice experiență, fizică sau digitală
+- [[INS-1206-consumatorul-postmodern-fragmentat-paradoxal|INS-1206]] _vezi_ — Consumatorul postmodern este fragmentat și paradoxal și cumpără sensuri culturale, nu produse
+- [[SRC-036-experiential-marketing|SRC-036]] — Experiential Marketing: Consumer Behavior, Customer Experience and the 7Es
+<!-- backlinks:end -->

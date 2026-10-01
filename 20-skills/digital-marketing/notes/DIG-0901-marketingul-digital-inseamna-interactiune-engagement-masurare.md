@@ -48,10 +48,20 @@ Amazon e exemplul autorilor: cine cumpără o carte pentru golfiști stângaci p
 
 ## Legături
 
-- **extinde** [[DIG-0902]] — cele patru strategii generice decurg din aceleași rădăcini de marketing direct.
-- **extinde** [[DIG-0903]] — mixul marketingului direct (ofertă, listă, media, creație, servicii) e unealta prin care se aplică definiția.
-- **vezi** [[DIG-0910]] — trecerea la date first-party face definiția și mai actuală.
+- **extinde** [[DIG-0902-patru-strategii-generice-achizitie-conversie-retentie-valoare|DIG-0902]] — cele patru strategii generice decurg din aceleași rădăcini de marketing direct.
+- **extinde** [[DIG-0903-oferta-si-lista-cantaresc-mai-mult-decat-creatia-40-40-20|DIG-0903]] — mixul marketingului direct (ofertă, listă, media, creație, servicii) e unealta prin care se aplică definiția.
+- **vezi** [[DIG-0910-cookie-urile-third-party-dispar-datele-first-party-devin-baza|DIG-0910]] — trecerea la date first-party face definiția și mai actuală.
 
 ## Surse
 
-- [[SRC-029]] Zahay, Labrecque, Reavey, Roberts, *Digital Marketing: Foundations and Strategy*, cap. 1, p. 17-19
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay, Labrecque, Reavey, Roberts, *Digital Marketing: Foundations and Strategy*, cap. 1, p. 17-19
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0902-patru-strategii-generice-achizitie-conversie-retentie-valoare|DIG-0902]] _fundament_ — Orice program digital servește una dintre patru strategii generice — achiziție, conversie, retenție, creșterea valorii
+- [[DIG-0903-oferta-si-lista-cantaresc-mai-mult-decat-creatia-40-40-20|DIG-0903]] _fundament_ — În marketingul direct, oferta și lista cântăresc mai mult decât execuția creativă (regula 40/40/20)
+- [[DIG-0904-disruptia-vs-transformarea-digitala-strategia-inaintea-tehnologiei|DIG-0904]] _vezi_ — Disrupția digitală schimbă propunerea de valoare; transformarea digitală e un răspuns de strategie, nu de tehnologie
+- [[DIG-0910-cookie-urile-third-party-dispar-datele-first-party-devin-baza|DIG-0910]] _fundament_ — Cookie-urile third-party dispar, iar datele first-party devin baza targetării
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+<!-- backlinks:end -->

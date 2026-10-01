@@ -27,25 +27,25 @@ level: 1
 
 | Secțiune | Tema | Note derivate |
 |---|---|---|
-| Introduction, Goals | inner game / outer game / action; formula GSA (Goal–Strategy–Action) | [[CLI-1405]] |
-| Overcoming Call Reluctance, Prospecting | „no, no, no… yes”; „câștig sau câștig dublu” | [[CLI-1405]] |
-| The B2B Prospecting System, Play the Prospecting Game, Consistency | 1–5+ contacte pe zi, „prospectează prin orice mijloc”, gamificare | [[CLI-1405]] |
-| The Dream 100 | lista celor mai doriți 100 de clienți, marketing secvențial (după Chet Holmes) | [[CLI-1402]] |
-| Sphere of Influence Selling, 3-Way Introduction | acces prin cineva care cunoaște ținta; e-mailul de introducere | [[CLI-1403]] |
-| Referrals, Best Practices, Person of Influence, Reciprocal Referral Relationship | sisteme de recomandări; cine are deja clientul tău | [[CLI-1404]] |
+| Introduction, Goals | inner game / outer game / action; formula GSA (Goal–Strategy–Action) | [[CLI-1405-prospectarea-joc-de-consistenta|CLI-1405]] |
+| Overcoming Call Reluctance, Prospecting | „no, no, no… yes”; „câștig sau câștig dublu” | [[CLI-1405-prospectarea-joc-de-consistenta|CLI-1405]] |
+| The B2B Prospecting System, Play the Prospecting Game, Consistency | 1–5+ contacte pe zi, „prospectează prin orice mijloc”, gamificare | [[CLI-1405-prospectarea-joc-de-consistenta|CLI-1405]] |
+| The Dream 100 | lista celor mai doriți 100 de clienți, marketing secvențial (după Chet Holmes) | [[CLI-1402-dream-100-lista-clientilor-tinta|CLI-1402]] |
+| Sphere of Influence Selling, 3-Way Introduction | acces prin cineva care cunoaște ținta; e-mailul de introducere | [[CLI-1403-introducerea-in-trei-deschide-usi|CLI-1403]] |
+| Referrals, Best Practices, Person of Influence, Reciprocal Referral Relationship | sisteme de recomandări; cine are deja clientul tău | [[CLI-1404-person-of-influence-cine-are-deja-clientii-tai|CLI-1404]] |
 | Lead Magnet, Webinars, House List, Speaking to the Groups, Leads Stored | lead-uri prin conținut gratuit, baza proprie, CRM | — (acoperit de skill-ul DIG) |
-| B2B Stage Selling, Stage Selling, Further the Sales Call | „vinde pasul următor” | [[CLI-1401]] |
-| All About the Angle, Using a Template, Case Study, Inviting, Teaser Email | mesajul de cerere a întâlnirii: valoare vs. timp; structura în patru propoziții | [[CLI-1406]] |
-| Intention in B2B Sales, Hire Appointment Setter | intenția specifică; delegarea programărilor | [[CLI-1402]] |
+| B2B Stage Selling, Stage Selling, Further the Sales Call | „vinde pasul următor” | [[CLI-1401-stage-selling-vinde-doar-pasul-urmator|CLI-1401]] |
+| All About the Angle, Using a Template, Case Study, Inviting, Teaser Email | mesajul de cerere a întâlnirii: valoare vs. timp; structura în patru propoziții | [[CLI-1406-cererea-intalnirii-valoare-pentru-timp|CLI-1406]] |
+| Intention in B2B Sales, Hire Appointment Setter | intenția specifică; delegarea programărilor | [[CLI-1402-dream-100-lista-clientilor-tinta|CLI-1402]] |
 
 ## Idei-cheie → note permanente
 
-- [[CLI-1401]] — stage selling: fiecare etapă vinde doar etapa următoare.
-- [[CLI-1402]] — Dream 100: o listă scurtă de clienți-țintă, abordați repetat pe canale diferite.
-- [[CLI-1403]] — introducerea în trei deschide uși pe care apelul rece nu le deschide.
-- [[CLI-1404]] — Person of Influence: caută cine are deja clienții tăi în rețea.
-- [[CLI-1405]] — prospectarea e un joc de consistență: activitatea zilnică, nu rezultatul, e unitatea de măsură.
-- [[CLI-1406]] — cererea unei întâlniri trebuie să ofere valoare pentru timpul cerut.
+- [[CLI-1401-stage-selling-vinde-doar-pasul-urmator|CLI-1401]] — stage selling: fiecare etapă vinde doar etapa următoare.
+- [[CLI-1402-dream-100-lista-clientilor-tinta|CLI-1402]] — Dream 100: o listă scurtă de clienți-țintă, abordați repetat pe canale diferite.
+- [[CLI-1403-introducerea-in-trei-deschide-usi|CLI-1403]] — introducerea în trei deschide uși pe care apelul rece nu le deschide.
+- [[CLI-1404-person-of-influence-cine-are-deja-clientii-tai|CLI-1404]] — Person of Influence: caută cine are deja clienții tăi în rețea.
+- [[CLI-1405-prospectarea-joc-de-consistenta|CLI-1405]] — prospectarea e un joc de consistență: activitatea zilnică, nu rezultatul, e unitatea de măsură.
+- [[CLI-1406-cererea-intalnirii-valoare-pentru-timp|CLI-1406]] — cererea unei întâlniri trebuie să ofere valoare pentru timpul cerut.
 
 ## Ce lipsește / ce trebuie citit critic
 
@@ -57,3 +57,14 @@ level: 1
 ## Citat
 
 > „The purpose of setting an appointment is to set an appointment.” (secțiunea „Stage Selling”)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CLI-1401-stage-selling-vinde-doar-pasul-urmator|CLI-1401]] — Stage selling — fiecare etapă a vânzării vinde doar etapa următoare
+- [[CLI-1402-dream-100-lista-clientilor-tinta|CLI-1402]] — Dream 100 — o listă scurtă de clienți-țintă, abordați repetat pe canale diferite
+- [[CLI-1403-introducerea-in-trei-deschide-usi|CLI-1403]] — Introducerea în trei deschide uși pe care apelul rece nu le deschide
+- [[CLI-1404-person-of-influence-cine-are-deja-clientii-tai|CLI-1404]] — Person of Influence — caută cine are deja clienții tăi în rețea
+- [[CLI-1405-prospectarea-joc-de-consistenta|CLI-1405]] — Prospectarea este un joc de consistență în care se numără activitatea, nu răspunsurile
+- [[CLI-1406-cererea-intalnirii-valoare-pentru-timp|CLI-1406]] — Cererea unei întâlniri trebuie să ofere valoare pentru timpul cerut
+<!-- backlinks:end -->

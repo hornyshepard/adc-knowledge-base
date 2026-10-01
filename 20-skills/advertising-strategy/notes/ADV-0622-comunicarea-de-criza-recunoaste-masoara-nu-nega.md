@@ -50,11 +50,18 @@ Cazul paielor McDonald's, citat în carte: inițiativa de imagine a devenit ea �
 
 ## Legături
 
-- **vezi** [[ADV-0617]] — earned media aduc viteză și putere, dar și riscul de bad buzz.
-- **vezi** [[ADV-0621]] — criza testează coerența dintre comunicarea externă, internă și instituțională.
-- **vezi** [[CLI-0601]] — asertivitatea ajută la conversația dificilă cu clientul în plină criză.
+- **vezi** [[ADV-0617-touchpoints-paid-owned-earned|ADV-0617]] — earned media aduc viteză și putere, dar și riscul de bad buzz.
+- **vezi** [[ADV-0621-comunicarea-organizatiei-are-trei-registre-externa-interna|ADV-0621]] — criza testează coerența dintre comunicarea externă, internă și instituțională.
+- **vezi** [[CLI-0601-comunicarea-asertiva-intre-agresiv-si-pasiv|CLI-0601]] — asertivitatea ajută la conversația dificilă cu clientul în plină criză.
 
 ## Surse
 
-- [[SRC-020]] Jordan Muller, *La bible de la communication*, partea a II-a: „La communication de crise", „La communication corporate"
-- [[SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 34, p. 117
+- [[SRC-020-la-bible-de-la-communication|SRC-020]] Jordan Muller, *La bible de la communication*, partea a II-a: „La communication de crise", „La communication corporate"
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 34, p. 117
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0621-comunicarea-organizatiei-are-trei-registre-externa-interna|ADV-0621]] _vezi_ — Comunicarea unei organizații are trei registre — externă, internă, instituțională — cu ținte, obiective și unelte diferite
+- [[SRC-020-la-bible-de-la-communication|SRC-020]] — La bible de la communication
+<!-- backlinks:end -->

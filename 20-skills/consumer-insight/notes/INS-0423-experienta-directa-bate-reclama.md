@@ -45,11 +45,20 @@ Test-drive-ul ca instrument: atitudinea formată la volan prezice cumpărarea ma
 
 ## Legături
 
-- **extinde** [[INS-0422]] — experiența directă este o sursă de atitudini puternice.
-- **vezi** [[INS-0416]] — totuși, reclama poate rescrie amintirea experienței ambigue.
-- **vezi** [[INS-0424]] — fără experiență, consumatorul folosește euristici.
-- **aplicare** [[EXP-0401]] — experiențele de retail construite ca ritualuri.
+- **extinde** [[INS-0422-atitudinile-puternice-rezista-cele-slabe-se-construiesc|INS-0422]] — experiența directă este o sursă de atitudini puternice.
+- **vezi** [[INS-0416-publicitatea-poate-rescrie-amintirea-experientei|INS-0416]] — totuși, reclama poate rescrie amintirea experienței ambigue.
+- **vezi** [[INS-0424-brandul-tara-si-pretul-schimba-gustul|INS-0424]] — fără experiență, consumatorul folosește euristici.
+- **aplicare** [[EXP-0401-experienta-de-retail-ca-rit-de-trecere|EXP-0401]] — experiențele de retail construite ca ritualuri.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 4, p. 154-156
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 4, p. 154-156
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[EXP-0401-experienta-de-retail-ca-rit-de-trecere|EXP-0401]] _vezi_ — Experiențele de retail memorabile funcționează ca ritualuri de trecere, iar locurile obișnuite devin „al treilea loc" prin senzația de acasă
+- [[INS-0422-atitudinile-puternice-rezista-cele-slabe-se-construiesc|INS-0422]] _vezi_ — Atitudinile puternice rezistă și ghidează comportamentul, cele slabe se construiesc din context și din propriul comportament
+- [[INS-0424-brandul-tara-si-pretul-schimba-gustul|INS-0424]] _vezi_ — Brandul, țara de origine și prețul funcționează ca euristici care schimbă chiar experiența de consum
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

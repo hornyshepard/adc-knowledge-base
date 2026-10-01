@@ -54,10 +54,18 @@ Tang a crescut împrumutând expertiza NASA. Când lansările s-au rărit, brand
 
 ## Legături
 
-- **vezi** [[INS-0605]] — credibilitatea e atribuită aproape instantaneu, de creierul rapid.
-- **aplicare** [[CPY-0607]] — formatele de execuție diferă mult ca nivel de credibilitate.
-- **vezi** [[ADV-0625]] — Cosby era credibil pentru Jell-O datorită relației lui cu copiii.
+- **vezi** [[INS-0605-publicitatea-vorbeste-creierului-rapid-portarul-atentiei|INS-0605]] — credibilitatea e atribuită aproape instantaneu, de creierul rapid.
+- **aplicare** [[CPY-0607-formatele-de-executie-slice-of-life-prezentator-testimonial|CPY-0607]] — formatele de execuție diferă mult ca nivel de credibilitate.
+- **vezi** [[ADV-0625-jell-o-cosby-campania-cu-scor-slab-care-a-tinut-20-de-ani|ADV-0625]] — Cosby era credibil pentru Jell-O datorită relației lui cu copiii.
 
 ## Surse
 
-- [[SRC-021]] Barry Milavsky, *Overcome AD-versity*, cap. 4, p. 53–69
+- [[SRC-021-overcome-ad-versity|SRC-021]] Barry Milavsky, *Overcome AD-versity*, cap. 4, p. 53–69
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0625-jell-o-cosby-campania-cu-scor-slab-care-a-tinut-20-de-ani|ADV-0625]] _exemplu_ — Jell-O Pudding cu Bill Cosby — campania cu scor de memorare slab care a crescut vânzările și a ținut peste 20 de ani
+- [[CPY-0607-formatele-de-executie-slice-of-life-prezentator-testimonial|CPY-0607]] _fundament_ — Formatele de execuție au forțe și slăbiciuni previzibile — slice-of-life, prezentator, purtător de cuvânt, testimonial, vignete, muzică, umor
+- [[SRC-021-overcome-ad-versity|SRC-021]] — Overcome AD-versity: How to Put Persuasion Power in Advertising
+<!-- backlinks:end -->

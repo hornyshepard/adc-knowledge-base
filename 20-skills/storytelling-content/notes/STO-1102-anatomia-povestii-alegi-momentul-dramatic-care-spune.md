@@ -42,11 +42,21 @@ Un detaliu bine ales funcționează pentru că publicul e conectat la „rezerva
 
 ## Legături
 
-- **fundament** [[STO-1101]] — metoda răspunde respingerii arcului lung al eroului.
-- **extinde** [[STO-1103]] — cele șapte cotituri oferă candidați de momente dramatice.
-- **aplicare** [[STO-1107]] — momentele alese devin micro-povești distribuite în strategia all-in-one.
-- **vezi** [[STO-1104]] — momentele se leagă între ele prin story beats.
+- **fundament** [[STO-1101-pe-social-media-ghidul-inlocuieste-eroul-din-calatoria|STO-1101]] — metoda răspunde respingerii arcului lung al eroului.
+- **extinde** [[STO-1103-cele-sapte-cotituri-ale-calatoriei-eroului-devin-sapte|STO-1103]] — cele șapte cotituri oferă candidați de momente dramatice.
+- **aplicare** [[STO-1107-strategia-all-in-one-produci-o-data-distribui-fragmentat-in|STO-1107]] — momentele alese devin micro-povești distribuite în strategia all-in-one.
+- **vezi** [[STO-1104-story-beats-tin-ritmul-si-imping-atentia-spre-ce-urmeaza|STO-1104]] — momentele se leagă între ele prin story beats.
 
 ## Surse
 
-- [[SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 2.1.3–2.1.4, p. 62–67; cap. 2.6, p. 87
+- [[SRC-034-social-media-storytelling|SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 2.1.3–2.1.4, p. 62–67; cap. 2.6, p. 87
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[STO-1101-pe-social-media-ghidul-inlocuieste-eroul-din-calatoria|STO-1101]] _extinde_ — Pe social media, ghidul înlocuiește eroul din călătoria clasică
+- [[STO-1103-cele-sapte-cotituri-ale-calatoriei-eroului-devin-sapte|STO-1103]] _fundament_ — Cele șapte cotituri ale călătoriei eroului devin șapte întrebări de brand
+- [[STO-1104-story-beats-tin-ritmul-si-imping-atentia-spre-ce-urmeaza|STO-1104]] _extinde_ — Story beats țin ritmul și împing atenția spre ce urmează
+- [[STO-1107-strategia-all-in-one-produci-o-data-distribui-fragmentat-in|STO-1107]] _fundament_ — Strategia all-in-one: produci o dată, distribui fragmentat în timp
+- [[SRC-034-social-media-storytelling|SRC-034]] — Social Media Storytelling
+<!-- backlinks:end -->

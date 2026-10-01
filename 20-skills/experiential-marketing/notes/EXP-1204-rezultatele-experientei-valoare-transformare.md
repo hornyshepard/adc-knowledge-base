@@ -51,11 +51,20 @@ Abercrombie & Fitch (mini-cazul 2.2) fotografia clienții cu manechinii vii la i
 
 ## Legături
 
-- **fundament** [[EXP-1202]] — rezultatele sunt ultimul nivel al cadrului experienței.
-- **fundament** [[INS-1204]] — valoarea în experiență pornește de la tipologia lui Holbrook.
-- **vezi** [[EXP-1206]] — valoarea în timp urmează etapele experienței.
-- **vezi** [[EXP-1212]] — cum se măsoară calitatea experienței dincolo de satisfacție.
+- **fundament** [[EXP-1202-cadrul-cx-drivere-markeri-rezultate|EXP-1202]] — rezultatele sunt ultimul nivel al cadrului experienței.
+- **fundament** [[INS-1204-tipologia-valorii-holbrook-opt-valori|INS-1204]] — valoarea în experiență pornește de la tipologia lui Holbrook.
+- **vezi** [[EXP-1206-experienta-in-patru-etape-pre-consum-amintire|EXP-1206]] — valoarea în timp urmează etapele experienței.
+- **vezi** [[EXP-1212-masurarea-experientei-exqual-dincolo-de-satisfactie|EXP-1212]] — cum se măsoară calitatea experienței dincolo de satisfacție.
 
 ## Surse
 
-- [[SRC-036]] Wided Batat, *Experiential Marketing*, cap. 3, secț. „Outcomes…"; cap. 2, secț. „The rise of customer experience in marketing"; mini-cazul 2.2
+- [[SRC-036-experiential-marketing|SRC-036]] Wided Batat, *Experiential Marketing*, cap. 3, secț. „Outcomes…"; cap. 2, secț. „The rise of customer experience in marketing"; mini-cazul 2.2
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[EXP-1202-cadrul-cx-drivere-markeri-rezultate|EXP-1202]] _vezi_ — Experiența clientului e un proces cu drivere, markeri și rezultate (cadrul customer experience marketing)
+- [[EXP-1212-masurarea-experientei-exqual-dincolo-de-satisfactie|EXP-1212]] _vezi_ — Calitatea experienței se măsoară dincolo de satisfacție — EXQUAL extinde logica SERVQUAL
+- [[INS-1204-tipologia-valorii-holbrook-opt-valori|INS-1204]] _vezi_ — Tipologia valorii lui Holbrook — opt valori cu care se poate analiza orice experiență, fizică sau digitală
+- [[SRC-036-experiential-marketing|SRC-036]] — Experiential Marketing: Consumer Behavior, Customer Experience and the 7Es
+<!-- backlinks:end -->

@@ -29,29 +29,29 @@ level: 3
 
 | Cap. | Tema | Note derivate |
 |---|---|---|
-| 1 | Cum s-a schimbat marketingul: piața ca practică, logica dominantă a serviciului, co-crearea vs. munca consumatorului, macromarketing | [[MKT-0401]] |
-| 2 | Marketingul postmodern: cele șapte trăsături (Brown), critica postmodernă, consumul experiențial, post-postmodernismul; caz Powerscourt | [[INS-0445]] |
-| 3 | Culturi de brand: angajații, consumatorii, comunitățile de brand, brandurile iconice (Holt), contaminarea brandului; caz Mini | [[BRD-0401]], [[SOC-0401]] |
-| 4 | Gen, feminism și consum: patru valuri, stereotipuri în reclame, maternitate și paternitate; caz femvertising (#LikeAGirl) | [[ADV-0411]], [[INS-0420]] |
-| 5 | Psihanaliza în marketing: Freud, Klein, Lacan, Bernays, Dichter, tehnici proiective; caz vinovăția inconștientă | [[INS-0446]] |
-| 6 | Dezbateri etice: deontologie vs. teleologie, teoria generală Hunt-Vitell, cele 7 perspective Laczniak & Murphy, critici (date, cercetare, publicitate, produse); caz cosmetice | [[CPY-0401]], [[INS-0420]] |
-| 7 | Consumatorii etici și peisajul de branduri moralizat: decalajul atitudine-comportament, branduri etice, Fairtrade, greenwashing, marketing legat de cauze, ecofeminism, compromisuri; caz parcul din Exarcheia | [[INS-0447]], [[BRD-0402]] |
-| 8 | Politizarea consumului: consumerism politic, decreștere, fetișismul mărfii, co-optare, consumatorul neoliberal | [[INS-0447]], [[BRD-0401]] |
-| 9 | Spații și locuri: atașament, place branding, retail spectaculos, al treilea loc, tipologia spațiilor; caz Dans le Noir? | [[EXP-0401]] |
+| 1 | Cum s-a schimbat marketingul: piața ca practică, logica dominantă a serviciului, co-crearea vs. munca consumatorului, macromarketing | [[MKT-0401-co-crearea-imputernicire-sau-munca-neplatita|MKT-0401]] |
+| 2 | Marketingul postmodern: cele șapte trăsături (Brown), critica postmodernă, consumul experiențial, post-postmodernismul; caz Powerscourt | [[INS-0445-sapte-trasaturi-ale-consumului-postmodern|INS-0445]] |
+| 3 | Culturi de brand: angajații, consumatorii, comunitățile de brand, brandurile iconice (Holt), contaminarea brandului; caz Mini | [[BRD-0401-brandurile-iconice-rezolva-tensiuni-culturale|BRD-0401]], [[SOC-0401-comunitatea-de-brand-trei-marcaje-patru-tipuri-de-membri|SOC-0401]] |
+| 4 | Gen, feminism și consum: patru valuri, stereotipuri în reclame, maternitate și paternitate; caz femvertising (#LikeAGirl) | [[ADV-0411-femvertising-vinde-imputernicirea|ADV-0411]], [[INS-0420-poate-publicitatea-crea-dorinte-si-materialism|INS-0420]] |
+| 5 | Psihanaliza în marketing: Freud, Klein, Lacan, Bernays, Dichter, tehnici proiective; caz vinovăția inconștientă | [[INS-0446-psihanaliza-in-marketing-tehnici-proiective|INS-0446]] |
+| 6 | Dezbateri etice: deontologie vs. teleologie, teoria generală Hunt-Vitell, cele 7 perspective Laczniak & Murphy, critici (date, cercetare, publicitate, produse); caz cosmetice | [[CPY-0401-sloganurile-literal-adevarate-pot-induce-in-eroare|CPY-0401]], [[INS-0420-poate-publicitatea-crea-dorinte-si-materialism|INS-0420]] |
+| 7 | Consumatorii etici și peisajul de branduri moralizat: decalajul atitudine-comportament, branduri etice, Fairtrade, greenwashing, marketing legat de cauze, ecofeminism, compromisuri; caz parcul din Exarcheia | [[INS-0447-decalajul-atitudine-comportament-in-consumul-etic|INS-0447]], [[BRD-0402-peisajul-moralizat-cauze-si-greenwashing|BRD-0402]] |
+| 8 | Politizarea consumului: consumerism politic, decreștere, fetișismul mărfii, co-optare, consumatorul neoliberal | [[INS-0447-decalajul-atitudine-comportament-in-consumul-etic|INS-0447]], [[BRD-0401-brandurile-iconice-rezolva-tensiuni-culturale|BRD-0401]] |
+| 9 | Spații și locuri: atașament, place branding, retail spectaculos, al treilea loc, tipologia spațiilor; caz Dans le Noir? | [[EXP-0401-experienta-de-retail-ca-rit-de-trecere|EXP-0401]] |
 | 10 | Piața globalizată: branduri globale, grobalizare (McDonaldizare, „non-locuri"), glocalizare, alternative; caz Westmorland Services | — (vezi „Ce lipsește") |
 
 ## Idei-cheie → note permanente
 
-- [[INS-0445]] — cele șapte trăsături ale consumului postmodern și „valoarea de legătură".
-- [[BRD-0401]] — brandurile iconice rezolvă tensiuni culturale prin mituri identitare; co-optarea și contaminarea.
-- [[SOC-0401]] — trei marcaje ale comunității de brand, patru tipuri de membri, strategiile narative ale bloggerilor.
-- [[MKT-0401]] — dezbaterea co-crearea vs. munca neplătită a consumatorului.
-- [[ADV-0411]] — dezbaterea femvertising: Always #LikeAGirl, Dove, anxietățile materne.
-- [[INS-0446]] — psihanaliza ca sursă de tehnici proiective și concepte de insight (dezbatere).
-- [[INS-0447]] — decalajul atitudine-comportament în consumul etic (convergență cu SRC-012).
-- [[BRD-0402]] — peisajul de branduri moralizat, marketingul legat de cauze, trei forme de greenwashing.
-- [[EXP-0401]] — retailul ca ritual de trecere și „al treilea loc".
-- [[CPY-0401]], [[INS-0420]] — note din SRC-012 îmbogățite cu exemplele etice din cap. 4 și 6.
+- [[INS-0445-sapte-trasaturi-ale-consumului-postmodern|INS-0445]] — cele șapte trăsături ale consumului postmodern și „valoarea de legătură".
+- [[BRD-0401-brandurile-iconice-rezolva-tensiuni-culturale|BRD-0401]] — brandurile iconice rezolvă tensiuni culturale prin mituri identitare; co-optarea și contaminarea.
+- [[SOC-0401-comunitatea-de-brand-trei-marcaje-patru-tipuri-de-membri|SOC-0401]] — trei marcaje ale comunității de brand, patru tipuri de membri, strategiile narative ale bloggerilor.
+- [[MKT-0401-co-crearea-imputernicire-sau-munca-neplatita|MKT-0401]] — dezbaterea co-crearea vs. munca neplătită a consumatorului.
+- [[ADV-0411-femvertising-vinde-imputernicirea|ADV-0411]] — dezbaterea femvertising: Always #LikeAGirl, Dove, anxietățile materne.
+- [[INS-0446-psihanaliza-in-marketing-tehnici-proiective|INS-0446]] — psihanaliza ca sursă de tehnici proiective și concepte de insight (dezbatere).
+- [[INS-0447-decalajul-atitudine-comportament-in-consumul-etic|INS-0447]] — decalajul atitudine-comportament în consumul etic (convergență cu SRC-012).
+- [[BRD-0402-peisajul-moralizat-cauze-si-greenwashing|BRD-0402]] — peisajul de branduri moralizat, marketingul legat de cauze, trei forme de greenwashing.
+- [[EXP-0401-experienta-de-retail-ca-rit-de-trecere|EXP-0401]] — retailul ca ritual de trecere și „al treilea loc".
+- [[CPY-0401-sloganurile-literal-adevarate-pot-induce-in-eroare|CPY-0401]], [[INS-0420-poate-publicitatea-crea-dorinte-si-materialism|INS-0420]] — note din SRC-012 îmbogățite cu exemplele etice din cap. 4 și 6.
 
 ## Ce lipsește / ce trebuie citit critic
 
@@ -64,3 +64,19 @@ level: 3
 ## Citat
 
 > „good ideas to think with" (cap. 5, p. 79) — formula lui Stuart Hall, invocată pentru valoarea conceptelor psihanalitice.
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0411-femvertising-vinde-imputernicirea|ADV-0411]] — Femvertising-ul vinde împuternicirea — câștigă premii și distribuiri, dar rămâne suspect de a revinde aceleași idealuri
+- [[BRD-0401-brandurile-iconice-rezolva-tensiuni-culturale|BRD-0401]] — Brandurile devin iconice când oferă un mit identitar care rezolvă o tensiune culturală a momentului (Holt)
+- [[BRD-0402-peisajul-moralizat-cauze-si-greenwashing|BRD-0402]] — Brandurile care adoptă cauze morale câștigă un halo, dar devin ținte pentru acuzația de greenwashing
+- [[CPY-0401-sloganurile-literal-adevarate-pot-induce-in-eroare|CPY-0401]] — Sloganurile literal adevărate pot induce în eroare prin inferențele pe care le lasă publicului
+- [[EXP-0401-experienta-de-retail-ca-rit-de-trecere|EXP-0401]] — Experiențele de retail memorabile funcționează ca ritualuri de trecere, iar locurile obișnuite devin „al treilea loc" prin senzația de acasă
+- [[INS-0420-poate-publicitatea-crea-dorinte-si-materialism|INS-0420]] — Publicitatea nu creează nevoi, dar poate cultiva dorințe și materialism, mai ales la copii
+- [[INS-0445-sapte-trasaturi-ale-consumului-postmodern|INS-0445]] — Consumul postmodern are șapte trăsături — de la hiperrealitate și nostalgie la pastișă și „rebeliunea care se vinde"
+- [[INS-0446-psihanaliza-in-marketing-tehnici-proiective|INS-0446]] — Psihanaliza nu poate fi dovedită, dar oferă tehnici proiective și concepte utile pentru insight — „permisiunea de a te bucura fără vinovăție"
+- [[INS-0447-decalajul-atitudine-comportament-in-consumul-etic|INS-0447]] — Consumatorii declară valori etice, dar cumpără din obișnuință, comoditate și presiune socială (decalajul atitudine-comportament)
+- [[MKT-0401-co-crearea-imputernicire-sau-munca-neplatita|MKT-0401]] — Co-crearea valorii — împuternicirea consumatorului sau muncă neplătită pentru brand?
+- [[SOC-0401-comunitatea-de-brand-trei-marcaje-patru-tipuri-de-membri|SOC-0401]] — Comunitatea de brand se recunoaște după trei marcaje și are patru tipuri de membri, cu roluri diferite pentru marketeri
+<!-- backlinks:end -->

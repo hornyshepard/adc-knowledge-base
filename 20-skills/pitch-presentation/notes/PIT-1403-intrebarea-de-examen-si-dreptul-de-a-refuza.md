@@ -41,11 +41,22 @@ Pentru un interviu, întrebarea implicită e „De ce ești cel mai potrivit pen
 
 ## Legături
 
-- **fundament** [[PIT-1402]] — este primul gest al etapei Discover.
-- **vezi** [[PIT-1406]] — după întrebare, prezentatorul își fixează propriul obiectiv.
-- **vezi** [[PIT-1429]] — tot în Discover se analizează concurența.
-- **vezi** [[CLI-1402]] — Dream 100 presupune aceeași selecție a oportunităților care merită investiția.
+- **fundament** [[PIT-1402-metoda-celor-sase-d|PIT-1402]] — este primul gest al etapei Discover.
+- **vezi** [[PIT-1406-see-it-feel-it-say-it-obiectivul-pitch-ului|PIT-1406]] — după întrebare, prezentatorul își fixează propriul obiectiv.
+- **vezi** [[PIT-1429-define-differentiate-destroy-concurenta|PIT-1429]] — tot în Discover se analizează concurența.
+- **vezi** [[CLI-1402-dream-100-lista-clientilor-tinta|CLI-1402]] — Dream 100 presupune aceeași selecție a oportunităților care merită investiția.
 
 ## Surse
 
-- [[SRC-043]] Dominic Colenso, *Cut-Through*, cap. 1 și 3
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] Dominic Colenso, *Cut-Through*, cap. 1 și 3
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CLI-1402-dream-100-lista-clientilor-tinta|CLI-1402]] _vezi_ — Dream 100 — o listă scurtă de clienți-țintă, abordați repetat pe canale diferite
+- [[PIT-1402-metoda-celor-sase-d|PIT-1402]] _extinde_ — Un pitch se construiește în șase pași — Discover, Distil, Design, Drill, Deliver, Debrief
+- [[PIT-1405-cercetarea-audientei-fapte-vs-sentimente|PIT-1405]] _vezi_ — Cercetarea audienței separă faptele verificabile de sentimente
+- [[PIT-1406-see-it-feel-it-say-it-obiectivul-pitch-ului|PIT-1406]] _fundament_ — Obiectivul unui pitch se vizualizează, se simte și abia apoi se spune în sub zece cuvinte
+- [[PIT-1429-define-differentiate-destroy-concurenta|PIT-1429]] _vezi_ — Orice prezentare are concurență — Define, Differentiate, Destroy
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] — Cut-Through: The pitch and presentation playbook
+<!-- backlinks:end -->

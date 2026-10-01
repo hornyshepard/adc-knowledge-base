@@ -49,10 +49,19 @@ Nintendo Wii: jocurile video erau asociate cu izolarea, cultura „geek", sedent
 
 ## Legături
 
-- **vezi** [[EXP-1202]] — sensul și semnificația sunt primul driver idiocentric al experienței.
-- **vezi** [[BRD-1201]] — brand culture lucrează cu aceleași sensuri culturale la nivelul mărcii.
-- **vezi** [[EXP-1219]] — perspectiva emică cere decodarea sensurilor din interiorul culturii.
+- **vezi** [[EXP-1202-cadrul-cx-drivere-markeri-rezultate|EXP-1202]] — sensul și semnificația sunt primul driver idiocentric al experienței.
+- **vezi** [[BRD-1201-emphasis-de-la-brand-content-la-brand-culture|BRD-1201]] — brand culture lucrează cu aceleași sensuri culturale la nivelul mărcii.
+- **vezi** [[EXP-1219-procesul-emic-etic-maparea-socioculturala|EXP-1219]] — perspectiva emică cere decodarea sensurilor din interiorul culturii.
 
 ## Surse
 
-- [[SRC-036]] Wided Batat, *Experiential Marketing*, cap. 3, secț. „Consumer's meaning and sense" (Tabelul 3.1, Figura 3.2, Theory Box 3.1, mini-cazurile 3.1 KFC, 3.2 Nintendo Wii)
+- [[SRC-036-experiential-marketing|SRC-036]] Wided Batat, *Experiential Marketing*, cap. 3, secț. „Consumer's meaning and sense" (Tabelul 3.1, Figura 3.2, Theory Box 3.1, mini-cazurile 3.1 KFC, 3.2 Nintendo Wii)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-1202-branding-cultural-holt-mitul-rezolva-contradictii|BRD-1202]] _vezi_ — Brandingul cultural (Holt) — o marcă devine iconică livrând un mit care rezolvă o contradicție culturală
+- [[EXP-1202-cadrul-cx-drivere-markeri-rezultate|EXP-1202]] _vezi_ — Experiența clientului e un proces cu drivere, markeri și rezultate (cadrul customer experience marketing)
+- [[INS-1209-tehnicile-proiective-scot-ce-nu-se-spune-direct|INS-1209]] _vezi_ — Tehnicile proiective scot la suprafață ce consumatorii nu spun direct, pentru că îi pun să vorbească despre alții
+- [[SRC-036-experiential-marketing|SRC-036]] — Experiential Marketing: Consumer Behavior, Customer Experience and the 7Es
+<!-- backlinks:end -->

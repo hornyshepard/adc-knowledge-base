@@ -49,10 +49,22 @@ Reclama Liquormart cu sticle și cuvântul „WOW” (1996) a fost apărată de 
 
 ## Legături
 
-- **alternativa** [[HIS-0807]] — autoreglementarea acoperă ce legea nu poate atinge.
-- **aplicare** [[HIS-0825]] — demonstrația trucată Volvo, un caz clasic de înșelăciune materială.
-- **fundament** [[CPY-0802]] — copy-ul reason-why trăiește din afirmații verificabile.
+- **alternativa** [[HIS-0807-autoreglementarea-a-inceput-la-editori|HIS-0807]] — autoreglementarea acoperă ce legea nu poate atinge.
+- **aplicare** [[HIS-0825-demonstratia-trebuie-sa-fie-reala|HIS-0825]] — demonstrația trucată Volvo, un caz clasic de înșelăciune materială.
+- **fundament** [[CPY-0802-reason-why-vanzare-tiparita|CPY-0802]] — copy-ul reason-why trăiește din afirmații verificabile.
 
 ## Surse
 
-- [[SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 4, p. 62; cap. 12, p. 249–255
+- [[SRC-027-a-history-of-advertising|SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 4, p. 62; cap. 12, p. 249–255
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0801-promisiunea-este-sufletul-reclamei|CPY-0801]] _vezi_ — Promisiunea este sufletul reclamei — de la Samuel Johnson (1759) la titlurile mail-order
+- [[CPY-0802-reason-why-vanzare-tiparita|CPY-0802]] _vezi_ — Reason-why — reclama ca vânzare tipărită care îi dă cititorului un motiv concret
+- [[HIS-0806-medicamentele-minune-au-inventat-si-compromis-reclama|HIS-0806]] _vezi_ — Medicamentele-minune au inventat tehnicile reclamei moderne și i-au distrus reputația pentru un secol
+- [[HIS-0807-autoreglementarea-a-inceput-la-editori|HIS-0807]] _alternativa_ — Autoreglementarea publicității a început la editori, nu în agenții
+- [[HIS-0824-tutunul-frontul-limitelor-publicitatii|HIS-0824]] _vezi_ — Tutunul a fost frontul pe care publicitatea și-a testat puterea și limitele
+- [[HIS-0825-demonstratia-trebuie-sa-fie-reala|HIS-0825]] _aplicare_ — Demonstrația trebuie să fie reală — Xerox cu cimpanzeul vs. Volvo și camionul-monstru
+- [[SRC-027-a-history-of-advertising|SRC-027]] — A History of Advertising: The First 300,000 Years
+<!-- backlinks:end -->

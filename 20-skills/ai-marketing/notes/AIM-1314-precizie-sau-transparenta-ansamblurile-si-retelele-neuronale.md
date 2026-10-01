@@ -47,11 +47,18 @@ Psoriazis și depresie: un arbore simplu, aplicabil cu creionul pe hârtie de or
 
 ## Legături
 
-- **extinde** [[AIM-1313]] — ansamblurile pornesc de la arborii de clasificare.
-- **vezi** [[AIM-1305]] — explicabilitatea ca obligație etică și de reglementare.
-- **vezi** [[AIM-1306]] — supra-ajustarea, problema clasică a rețelelor neuronale.
-- **vezi** [[AIM-1326]] — aceeași întrebare, „unde rămâne omul?", aplicată creației de brand.
+- **extinde** [[AIM-1313-arborii-de-clasificare-transforma-baza-de-date-in-reguli|AIM-1313]] — ansamblurile pornesc de la arborii de clasificare.
+- **vezi** [[AIM-1305-etica-datelor-consimtamant-acces-transparenta-minimizare|AIM-1305]] — explicabilitatea ca obligație etică și de reglementare.
+- **vezi** [[AIM-1306-validarea-pe-esantion-de-control-separa-tiparele-reale|AIM-1306]] — supra-ajustarea, problema clasică a rețelelor neuronale.
+- **vezi** [[AIM-1326-poate-ai-ul-crea-identitatea-unui-brand|AIM-1326]] — aceeași întrebare, „unde rămâne omul?", aplicată creației de brand.
 
 ## Surse
 
-- [[SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, cap. 6 și cap. 8
+- [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, cap. 6 și cap. 8
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-1313-arborii-de-clasificare-transforma-baza-de-date-in-reguli|AIM-1313]] _vezi_ — Arborii de clasificare transformă o bază de date în câteva reguli „dacă–atunci" pentru țintire
+- [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]] — Artificial Intelligence Marketing and Predicting Consumer Choice: An Overview of Tools and Techniques
+<!-- backlinks:end -->

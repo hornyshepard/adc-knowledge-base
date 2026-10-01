@@ -53,11 +53,24 @@ Rezultatul raportat: cu 40% mai multă valoare media decât OOH-ul clasic, iar t
 
 ## Legături
 
-- **vezi** [[STO-0707]] — autenticitatea scopului și „whack tax".
-- **vezi** [[STO-0709]] — autenticitatea producției: echipe diverse, fără stereotipuri.
-- **exemplu** [[IDE-0711]] — „Shutter Ads" e și un caz de media neașteptată.
-- **vezi** [[BRD-0701]] — autenticitatea față de brand cere un brand construct clar.
+- **vezi** [[STO-0707-purpose-fara-washing-whack-tax|STO-0707]] — autenticitatea scopului și „whack tax".
+- **vezi** [[STO-0709-checklist-de-responsabilitate-dei-storiestelling|STO-0709]] — autenticitatea producției: echipe diverse, fără stereotipuri.
+- **exemplu** [[IDE-0711-mesajul-care-nu-arata-a-reclama-locuri-si-formate-neasteptate|IDE-0711]] — „Shutter Ads" e și un caz de media neașteptată.
+- **vezi** [[BRD-0701-brand-construct-arhetip-personalitate-naratiune|BRD-0701]] — autenticitatea față de brand cere un brand construct clar.
 
 ## Surse
 
-- [[SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 2 („Audiences Want the Truth") și cap. 3 („Authenticity")
+- [[SRC-025-shareworthy|SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 2 („Audiences Want the Truth") și cap. 3 („Authenticity")
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0701-brand-construct-arhetip-personalitate-naratiune|BRD-0701]] _vezi_ — Brand construct-ul duce la arhetip, personalitate și narațiune, iar o idee e „on-brand" când se potrivește pe aceleași scale
+- [[IDE-0711-mesajul-care-nu-arata-a-reclama-locuri-si-formate-neasteptate|IDE-0711]] _vezi_ — Singurul spațiu care merită cumpărat e cel din capul publicului — mesaje în locuri și formate care nu arată a reclamă
+- [[IDE-0715-culture-surfing-ideea-se-agata-de-un-moment-cultural|IDE-0715]] _vezi_ — „Culture surfing" — ideea se agață de un moment cultural doar dacă valorile brandului îi dau voie
+- [[STO-0701-o-poveste-e-shareworthy-cand-are-valoare-de-folosinta|STO-0701]] _vezi_ — O poveste de brand e „shareworthy" când are valoare de folosință pentru public, nu doar pentru brand
+- [[STO-0706-martor-sau-participant-trei-intrebari-de-imputernicire|STO-0706]] _vezi_ — Martor sau participant — trei întrebări pentru a împuternici publicul, de la respect la super-fani
+- [[STO-0707-purpose-fara-washing-whack-tax|STO-0707]] _vezi_ — Purpose fără „washing" — brandul plătește „whack tax" când spune mai mult decât face
+- [[STO-0709-checklist-de-responsabilitate-dei-storiestelling|STO-0709]] _extinde_ — Checklist-ul de responsabilitate pentru reprezentare — stereotipuri, putere, apropriere, decor și o echipă diversă în fiecare etapă
+- [[SRC-025-shareworthy|SRC-025]] — Shareworthy: Advertising That Creates Powerful Connections Through Storytelling
+<!-- backlinks:end -->

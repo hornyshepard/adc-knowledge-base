@@ -48,11 +48,20 @@ Ideea poate fi tradusă în activări: un stand de reparații gratuite în loc d
 
 ## Legături
 
-- **exemplu** [[MKT-0320]] — un caz de marketing sustenabil ancorat în produs și operațiuni.
-- **contrazice** [[MKT-0323]] — opusul greenwashingului: promisiunea vine după fapte.
-- **vezi** [[STO-0301]] — reclama deschide o alegere pentru cititor (narațiune).
-- **vezi** [[MKT-0321]] — cauza e legată direct de impactul propriului produs.
+- **exemplu** [[MKT-0320-marketing-sustenabil-verde-eco-eficienta-csr-cause-nu-sunt-sinonime|MKT-0320]] — un caz de marketing sustenabil ancorat în produs și operațiuni.
+- **contrazice** [[MKT-0323-greenwashing-afirmatia-verde-trebuie-dovedita|MKT-0323]] — opusul greenwashingului: promisiunea vine după fapte.
+- **vezi** [[STO-0301-povestea-se-incheie-narativa-te-invita|STO-0301]] — reclama deschide o alegere pentru cititor (narațiune).
+- **vezi** [[MKT-0321-cauza-se-alege-prin-analiza-de-materialitate|MKT-0321]] — cauza e legată direct de impactul propriului produs.
 
 ## Surse
 
-- [[SRC-011]] Maria Cesarini Viturino, *Sustainable Marketing*, cap. 1 și 4
+- [[SRC-011-sustainable-marketing-viturino|SRC-011]] Maria Cesarini Viturino, *Sustainable Marketing*, cap. 1 și 4
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[MKT-0321-cauza-se-alege-prin-analiza-de-materialitate|MKT-0321]] _vezi_ — Cauza nu se alege după trend: analiza de materialitate și alinierea cu misiunea
+- [[MKT-0323-greenwashing-afirmatia-verde-trebuie-dovedita|MKT-0323]] _contrazice_ — Greenwashing: afirmația verde trebuie dovedită, nu doar comunicată — iar manualele entuziaste ocolesc problema
+- [[STO-0301-povestea-se-incheie-narativa-te-invita|STO-0301]] _vezi_ — Povestea se încheie, narațiunea te invită: distincția lui Hagel între story și narrative
+- [[SRC-011-sustainable-marketing-viturino|SRC-011]] — Sustainable Marketing: Responsible Practices for the Future of Marketing
+<!-- backlinks:end -->

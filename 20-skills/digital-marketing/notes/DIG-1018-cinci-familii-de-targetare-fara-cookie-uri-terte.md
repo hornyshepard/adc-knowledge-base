@@ -49,11 +49,21 @@ Un e-shop de biciclete electrice poate folosi contextul (site-uri de ciclism), d
 
 ## Legături
 
-- **fundament** [[DIG-1017]] — de ce dispar cookie-urile terțe.
-- **vezi** [[DIG-1019]] — targetarea contextuală și semantică în detaliu.
-- **vezi** [[DIG-1020]] — targetarea predictivă și declanșatorii de context.
-- **vezi** [[DIG-1021]] — strategia de date first-party.
+- **fundament** [[DIG-1017-cookie-urile-terte-ce-faceau-si-de-ce-dispar|DIG-1017]] — de ce dispar cookie-urile terțe.
+- **vezi** [[DIG-1019-targetarea-contextuala-si-semantica|DIG-1019]] — targetarea contextuală și semantică în detaliu.
+- **vezi** [[DIG-1020-targetarea-predictiva-si-declansatorii-de-context|DIG-1020]] — targetarea predictivă și declanșatorii de context.
+- **vezi** [[DIG-1021-strategia-first-party-incepe-cu-intrebarea-de-vanzari|DIG-1021]] — strategia de date first-party.
 
 ## Surse
 
-- [[SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 1.2.3–1.3.4 (p. 19–26)
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 1.2.3–1.3.4 (p. 19–26)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-1017-cookie-urile-terte-ce-faceau-si-de-ce-dispar|DIG-1017]] _vezi_ — Cookie-urile terțe au făcut posibile retargetingul, lookalike-urile și optimizarea în timp real, iar reglementarea și browserele le scot treptat din joc
+- [[DIG-1019-targetarea-contextuala-si-semantica|DIG-1019]] _extinde_ — Targetarea contextuală pune reclama lângă subiectul deja prezent în mintea cititorului, iar versiunea semantică citește și sentimentul contextului
+- [[DIG-1020-targetarea-predictiva-si-declansatorii-de-context|DIG-1020]] _extinde_ — Targetarea predictivă mută întrebarea de la „cine a fost omul" la „ce va face probabil" și poate folosi declanșatori de context precum vremea, locul și ora
+- [[DIG-1021-strategia-first-party-incepe-cu-intrebarea-de-vanzari|DIG-1021]] _extinde_ — O strategie de date first-party începe cu întrebarea „ce date ne cresc vânzările?", nu cu colectarea, și funcționează doar dacă oferă utilizatorului o valoare reală în schimb
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] — Digital Advertising in the Post-cookie Era: Strategic Campaign Planning Across the Customer Journey
+<!-- backlinks:end -->

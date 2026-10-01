@@ -44,10 +44,18 @@ Dacă un concurent e cunoscut pentru producții mari și scumpe, agenția mică 
 
 ## Legături
 
-- **vezi** [[PIT-1430]] — diferențierea pornește de la unicitatea prezentatorului.
-- **vezi** [[PIT-1403]] — face parte din aceeași etapă Discover.
-- **aplicare** [[PIT-1423]] — argumentele de neutralizare servesc la tratarea obiecțiilor comparative.
+- **vezi** [[PIT-1430-unicitatea-prezentatorului-act-de-generozitate|PIT-1430]] — diferențierea pornește de la unicitatea prezentatorului.
+- **vezi** [[PIT-1403-intrebarea-de-examen-si-dreptul-de-a-refuza|PIT-1403]] — face parte din aceeași etapă Discover.
+- **aplicare** [[PIT-1423-cele-cinci-r-ale-obiectiilor|PIT-1423]] — argumentele de neutralizare servesc la tratarea obiecțiilor comparative.
 
 ## Surse
 
-- [[SRC-043]] Dominic Colenso, *Cut-Through*, cap. 1 („There's always competition”)
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] Dominic Colenso, *Cut-Through*, cap. 1 („There's always competition”)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PIT-1403-intrebarea-de-examen-si-dreptul-de-a-refuza|PIT-1403]] _vezi_ — Înainte de orice pitch definește „întrebarea de examen” și decide dacă merită să participi
+- [[PIT-1430-unicitatea-prezentatorului-act-de-generozitate|PIT-1430]] _vezi_ — A spune de ce ești tu cel potrivit este un act de generozitate față de audiență
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] — Cut-Through: The pitch and presentation playbook
+<!-- backlinks:end -->

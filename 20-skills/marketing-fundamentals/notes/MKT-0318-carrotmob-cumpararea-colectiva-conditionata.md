@@ -43,10 +43,19 @@ Paul Polman, CEO-ul Unilever, a descris asta drept trecerea de la tranzacții ba
 
 ## Legături
 
-- **aplicare** [[MKT-0313]] — prosumatorii negociază colectiv cu brandul.
-- **vezi** [[MKT-0321]] — cum se alege o cauză aliniată cu misiunea companiei.
-- **vezi** [[MKT-0323]] — riscul ca gestul să rămână simbolic (greenwashing).
+- **aplicare** [[MKT-0313-prosumatorul-clientul-care-produce-o-parte-din-valoare|MKT-0313]] — prosumatorii negociază colectiv cu brandul.
+- **vezi** [[MKT-0321-cauza-se-alege-prin-analiza-de-materialitate|MKT-0321]] — cum se alege o cauză aliniată cu misiunea companiei.
+- **vezi** [[MKT-0323-greenwashing-afirmatia-verde-trebuie-dovedita|MKT-0323]] — riscul ca gestul să rămână simbolic (greenwashing).
 
 ## Surse
 
-- [[SRC-008]] Jon Wuebben, *Future Marketing: Winning in the Prosumer Age*, cap. 16
+- [[SRC-008-future-marketing|SRC-008]] Jon Wuebben, *Future Marketing: Winning in the Prosumer Age*, cap. 16
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[MKT-0313-prosumatorul-clientul-care-produce-o-parte-din-valoare|MKT-0313]] _vezi_ — Prosumatorul: clientul care produce o parte din valoare — pe care Kotler îl vedea, încă din 1986, ca segment de piață
+- [[MKT-0321-cauza-se-alege-prin-analiza-de-materialitate|MKT-0321]] _alternativa_ — Cauza nu se alege după trend: analiza de materialitate și alinierea cu misiunea
+- [[MKT-0323-greenwashing-afirmatia-verde-trebuie-dovedita|MKT-0323]] _vezi_ — Greenwashing: afirmația verde trebuie dovedită, nu doar comunicată — iar manualele entuziaste ocolesc problema
+- [[SRC-008-future-marketing|SRC-008]] — Future Marketing: Winning in the Prosumer Age
+<!-- backlinks:end -->

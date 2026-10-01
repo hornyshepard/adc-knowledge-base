@@ -38,10 +38,18 @@ Cartea dă patru exemple: (1) cumpărătorii de e-bike care citesc blogul magazi
 
 ## Legături
 
-- **extinde** [[DIG-1018]] — a treia familie de targetare post-cookie.
-- **contrazice** [[DIG-1015]] — urmărirea cross-canal a unei persoane intră în tensiune cu minimizarea datelor și consimțământul.
-- **vezi** [[DIG-1030]] — cazul bucătăriilor folosește tot predicția, pe date imobiliare.
+- **extinde** [[DIG-1018-cinci-familii-de-targetare-fara-cookie-uri-terte|DIG-1018]] — a treia familie de targetare post-cookie.
+- **contrazice** [[DIG-1015-zece-practici-de-confidentialitate-pentru-marketeri|DIG-1015]] — urmărirea cross-canal a unei persoane intră în tensiune cu minimizarea datelor și consimțământul.
+- **vezi** [[DIG-1030-cazul-bucatariilor-dmp-dsp-si-bannere-dinamice|DIG-1030]] — cazul bucătăriilor folosește tot predicția, pe date imobiliare.
 
 ## Surse
 
-- [[SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 1.3.3 (p. 24–25) și 5.2.2 (p. 172–174)
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 1.3.3 (p. 24–25) și 5.2.2 (p. 172–174)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-1018-cinci-familii-de-targetare-fara-cookie-uri-terte|DIG-1018]] _vezi_ — Fără cookie-uri terțe rămân cinci familii de targetare, iar profilul pe cookie descria oricum un dispozitiv, nu un om
+- [[DIG-1030-cazul-bucatariilor-dmp-dsp-si-bannere-dinamice|DIG-1030]] _exemplu_ — Cazul bucătăriilor — date imobiliare anonimizate, un DMP, un DSP și bannere dinamice transformă un pliant pentru toată lumea într-o ofertă pentru fiecare gospodărie
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] — Digital Advertising in the Post-cookie Era: Strategic Campaign Planning Across the Customer Journey
+<!-- backlinks:end -->

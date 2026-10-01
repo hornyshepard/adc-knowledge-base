@@ -48,10 +48,18 @@ Patagonia, în „Don't Buy This Jacket", nu povestește ce a făcut compania. D
 
 ## Legături
 
-- **extinde** [[MKT-0314]] — componenta „Passion" din EP² se comunică prin narațiune.
-- **vezi** [[BRD-0302]] — Patagonia deschide o alegere pentru cititor în loc să încheie o poveste.
-- **vezi** [[MKT-0315]] — trecerea de la mass-media la „meme și mișcări" se sprijină pe narațiuni comune.
+- **extinde** [[MKT-0314-ep2-mixul-de-marketing-al-prosumatorului|MKT-0314]] — componenta „Passion" din EP² se comunică prin narațiune.
+- **vezi** [[BRD-0302-patagonia-dont-buy-this-jacket|BRD-0302]] — Patagonia deschide o alegere pentru cititor în loc să încheie o poveste.
+- **vezi** [[MKT-0315-zece-schimbari-prezise-pentru-2021-de-la-branduri-la-platforme|MKT-0315]] — trecerea de la mass-media la „meme și mișcări" se sprijină pe narațiuni comune.
 
 ## Surse
 
-- [[SRC-008]] Jon Wuebben, *Future Marketing: Winning in the Prosumer Age*, cap. 2; cap. 10
+- [[SRC-008-future-marketing|SRC-008]] Jon Wuebben, *Future Marketing: Winning in the Prosumer Age*, cap. 2; cap. 10
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0302-patagonia-dont-buy-this-jacket|BRD-0302]] _vezi_ — Patagonia, „Don't Buy This Jacket”: o reclamă de Black Friday care îți cere să nu cumperi
+- [[MKT-0314-ep2-mixul-de-marketing-al-prosumatorului|MKT-0314]] _vezi_ — EP²: Wuebben propune înlocuirea celor 4P cu Engagement, Experiences, Personalization, Passion
+- [[SRC-008-future-marketing|SRC-008]] — Future Marketing: Winning in the Prosumer Age
+<!-- backlinks:end -->

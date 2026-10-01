@@ -50,10 +50,17 @@ Ca să salveze un testimonial radio pe care juriștii nu-l lăsau difuzat cu voc
 
 ## Legături
 
-- **fundament** [[INS-0606]] — formatele diferă mai ales prin credibilitatea pe care o produc.
-- **vezi** [[CPY-0604]] — slice-of-life-ul folosește discursul narativ cu schema problemă–soluție.
-- **vezi** [[ART-0601]] — orice format câștigă dacă include o demonstrație vizuală a promisiunii.
+- **fundament** [[INS-0606-credibilitatea-sursei-expertiza-incredere-motivatie|INS-0606]] — formatele diferă mai ales prin credibilitatea pe care o produc.
+- **vezi** [[CPY-0604-patru-tipuri-de-discurs-publicitar-narativ-descriptiv-explicativ|CPY-0604]] — slice-of-life-ul folosește discursul narativ cu schema problemă–soluție.
+- **vezi** [[ART-0601-strategy-visual-demonstratia-vizuala-a-promisiunii|ART-0601]] — orice format câștigă dacă include o demonstrație vizuală a promisiunii.
 
 ## Surse
 
-- [[SRC-021]] Barry Milavsky, *Overcome AD-versity*, cap. 6 (p. 85–112); cap. 9 (p. 142–143, testimonialul radio)
+- [[SRC-021-overcome-ad-versity|SRC-021]] Barry Milavsky, *Overcome AD-versity*, cap. 6 (p. 85–112); cap. 9 (p. 142–143, testimonialul radio)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[INS-0606-credibilitatea-sursei-expertiza-incredere-motivatie|INS-0606]] _aplicare_ — Credibilitatea unei surse se judecă pe trei criterii, în ordine — expertiză, încredere, motivație — și o acordă receptorul, nu emițătorul
+- [[SRC-021-overcome-ad-versity|SRC-021]] — Overcome AD-versity: How to Put Persuasion Power in Advertising
+<!-- backlinks:end -->

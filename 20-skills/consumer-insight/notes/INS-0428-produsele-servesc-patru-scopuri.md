@@ -48,12 +48,20 @@ Nike (p. 175): un pantof fără brand servește la fel de bine scopul de a alerg
 
 ## Legături
 
-- **vezi** [[INS-0429]] — scopul trebuie și activat ca să ducă la cumpărare.
-- **vezi** [[CPY-0403]] — potrivirea apelului cu trăsăturile persoanei.
-- **vezi** [[ADV-0402]] — grila Rossiter-Percy distinge tot motivații informaționale și transformaționale.
-- **vezi** [[INS-0409]] — mesajele potrivite cu schema de sine sunt procesate mai atent.
-- **extinde** [[BRD-0401]] — brandurile iconice oferă mituri pentru proiectele identitare.
+- **vezi** [[INS-0429-a-placea-nu-inseamna-a-vrea|INS-0429]] — scopul trebuie și activat ca să ducă la cumpărare.
+- **vezi** [[CPY-0403-apelul-rational-sau-emotional-depinde-de-om|CPY-0403]] — potrivirea apelului cu trăsăturile persoanei.
+- **vezi** [[ADV-0402-grilele-fcb-si-rossiter-percy|ADV-0402]] — grila Rossiter-Percy distinge tot motivații informaționale și transformaționale.
+- **vezi** [[INS-0409-mesajul-potrivit-cu-schema-de-sine-e-citit-atent|INS-0409]] — mesajele potrivite cu schema de sine sunt procesate mai atent.
+- **extinde** [[BRD-0401-brandurile-iconice-rezolva-tensiuni-culturale|BRD-0401]] — brandurile iconice oferă mituri pentru proiectele identitare.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 4, p. 174-182
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 4, p. 174-182
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0403-apelul-rational-sau-emotional-depinde-de-om|CPY-0403]] _vezi_ — Apelul rațional sau emoțional nu e o filozofie de agenție, ci o potrivire cu produsul și cu persoana
+- [[INS-0429-a-placea-nu-inseamna-a-vrea|INS-0429]] _fundament_ — A-ți plăcea un produs nu înseamnă a-l vrea — de la atitudine la scop e nevoie de atingibilitate, discrepanță și un declanșator
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

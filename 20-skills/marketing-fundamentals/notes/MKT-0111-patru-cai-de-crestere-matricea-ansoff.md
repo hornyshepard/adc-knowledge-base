@@ -44,10 +44,19 @@ Nike vinde pe Amazon, un canal nou pentru aceiași clienți (penetrare prin dist
 
 ## Legături
 
-- **fundament** [[MKT-0108]] — strategiile de creștere sunt opțiunile evaluate în planul de marketing.
-- **aplicare** [[BRD-0104]] — dezvoltarea produsului și diversificarea înrudită se fac adesea prin extensii de brand.
-- **vezi** [[MKT-0118]] — în maturitate, firmele aleg între piețe noi și produse noi ca să prelungească ciclul de viață.
+- **fundament** [[MKT-0108-planul-de-marketing-cinci-pasi-in-trei-faze|MKT-0108]] — strategiile de creștere sunt opțiunile evaluate în planul de marketing.
+- **aplicare** [[BRD-0104-extensia-de-brand-economiseste-dar-poate-dilua|BRD-0104]] — dezvoltarea produsului și diversificarea înrudită se fac adesea prin extensii de brand.
+- **vezi** [[MKT-0118-ciclul-de-viata-al-produsului-si-capcana-lui|MKT-0118]] — în maturitate, firmele aleg între piețe noi și produse noi ca să prelungească ciclul de viață.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 2, p. 52-55 (Exhibit 2.7)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 2, p. 52-55 (Exhibit 2.7)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0104-extensia-de-brand-economiseste-dar-poate-dilua|BRD-0104]] _aplicare_ — Extensia de brand economisește notorietate, dar poate dilua brandul — patru reguli o țin sub control
+- [[MKT-0108-planul-de-marketing-cinci-pasi-in-trei-faze|MKT-0108]] _vezi_ — Planul de marketing are cinci pași grupați în trei faze — planificare, implementare, control
+- [[MKT-0118-ciclul-de-viata-al-produsului-si-capcana-lui|MKT-0118]] _vezi_ — Ciclul de viață al produsului are patru etape, dar folosit mecanic devine o profeție care se autoîmplinește
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+<!-- backlinks:end -->

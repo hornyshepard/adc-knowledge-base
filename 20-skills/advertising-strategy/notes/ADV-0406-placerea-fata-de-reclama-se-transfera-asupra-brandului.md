@@ -46,10 +46,19 @@ Limita importantă, notată de Fennis și Stroebe: efectele sunt mai puternice p
 
 ## Legături
 
-- **fundament** [[INS-0425]] — condiționarea evaluativă este calea directă.
-- **alternativa** [[INS-0427]] — modelul lui Fishbein, în care contează doar convingerile.
-- **vezi** [[INS-0426]] — imaginea transferă și sens, nu doar afect.
+- **fundament** [[INS-0425-trei-cai-afective-spre-atitudine|INS-0425]] — condiționarea evaluativă este calea directă.
+- **alternativa** [[INS-0427-atitudinea-ca-suma-convingeri-ori-evaluari|INS-0427]] — modelul lui Fishbein, în care contează doar convingerile.
+- **vezi** [[INS-0426-conditionarea-evaluativa-transfera-afect-si-sens|INS-0426]] — imaginea transferă și sens, nu doar afect.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 4, p. 173
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 4, p. 173
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0405-sexul-atrage-privirea-dar-nu-vinde|CPY-0405]] _contrazice_ — Sexul atrage privirea, dar nu vinde — scade chiar atitudinea față de brand, și la bărbați, și la femei
+- [[INS-0425-trei-cai-afective-spre-atitudine|INS-0425]] _vezi_ — Atitudinile se pot forma fără argumente, pe trei căi afective — expunere repetată, condiționare și afect ca informație
+- [[INS-0427-atitudinea-ca-suma-convingeri-ori-evaluari|INS-0427]] _vezi_ — Atitudinea față de brand este suma câtorva convingeri salente înmulțite cu valoarea lor (modelul expectanță-valoare)
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

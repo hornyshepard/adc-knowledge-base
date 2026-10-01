@@ -49,11 +49,21 @@ Batat observă că „adevărata" co-creație, în care clientul contribuie efec
 
 ## Legături
 
-- **extinde** [[EXP-1201]] — detaliază al doilea E al mixului.
-- **fundament** [[MKT-1201]] — co-creația se sprijină pe logica SDL/CDL, în care valoarea apare în folosire.
-- **vezi** [[EXP-1214]] — marketingul colaborativ, al doilea mod de a genera valoare de schimb.
-- **vezi** [[INS-1205]] — consumatorul împuternicit este cel care poate co-crea.
+- **extinde** [[EXP-1201-mixul-experiential-7e-inlocuieste-cei-7p|EXP-1201]] — detaliază al doilea E al mixului.
+- **fundament** [[MKT-1201-logica-dominata-de-client-cdl|MKT-1201]] — co-creația se sprijină pe logica SDL/CDL, în care valoarea apare în folosire.
+- **vezi** [[EXP-1214-marketing-colaborativ-diy-colaborare-co-inovare|EXP-1214]] — marketingul colaborativ, al doilea mod de a genera valoare de schimb.
+- **vezi** [[INS-1205-consumatorul-imputernicit-patru-piloni|INS-1205]] — consumatorul împuternicit este cel care poate co-crea.
 
 ## Surse
 
-- [[SRC-036]] Wided Batat, *Experiential Marketing*, cap. 5 (Theory Box 5.1; mini-cazurile 5.1 Starbucks, 5.2 CNN, 5.3 McDonald's, 5.5 Nike)
+- [[SRC-036-experiential-marketing|SRC-036]] Wided Batat, *Experiential Marketing*, cap. 5 (Theory Box 5.1; mini-cazurile 5.1 Starbucks, 5.2 CNN, 5.3 McDonald's, 5.5 Nike)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[EXP-1201-mixul-experiential-7e-inlocuieste-cei-7p|EXP-1201]] _vezi_ — Mixul de marketing experiențial (7E) înlocuiește cei 7P cu decizii centrate pe experiența clientului
+- [[EXP-1214-marketing-colaborativ-diy-colaborare-co-inovare|EXP-1214]] _extinde_ — Marketingul colaborativ are trei niveluri de implicare — DIY, colaborare, co-inovare
+- [[INS-1205-consumatorul-imputernicit-patru-piloni|INS-1205]] _vezi_ — Consumatorul împuternicit stă pe patru piloni — competență, (re)creare, conștiința drepturilor, rezistență
+- [[MKT-1201-logica-dominata-de-client-cdl|MKT-1201]] _vezi_ — Logica dominată de client (CDL) pune clientul la începutul lanțului valoric, nu la capătul lui
+- [[SRC-036-experiential-marketing|SRC-036]] — Experiential Marketing: Consumer Behavior, Customer Experience and the 7Es
+<!-- backlinks:end -->

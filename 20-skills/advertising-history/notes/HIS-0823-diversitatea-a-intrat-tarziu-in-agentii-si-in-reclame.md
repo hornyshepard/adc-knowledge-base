@@ -42,11 +42,19 @@ Reclama Cheerios cu o familie mixtă (2013) a primit atâtea comentarii rasiste 
 
 ## Legături
 
-- **contrazice** [[HIS-0821]] — multe personaje clasice de brand au fost stereotipuri rasiale.
-- **vezi** [[CPY-0806]] — apelurile la teama socială vizau mai ales femeile.
-- **vezi** [[HIS-0818]] — Benetton a provocat tocmai pe teme de rasă.
+- **contrazice** [[HIS-0821-personajele-inventate-nu-gresesc-celebritatile-da|HIS-0821]] — multe personaje clasice de brand au fost stereotipuri rasiale.
+- **vezi** [[CPY-0806-teama-sociala-vinde-dar-exista-calea-pozitiva|CPY-0806]] — apelurile la teama socială vizau mai ales femeile.
+- **vezi** [[HIS-0818-shockvertising-atentia-prin-scandal|HIS-0818]] — Benetton a provocat tocmai pe teme de rasă.
 
 ## Surse
 
-- [[SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 8, p. 149–152; cap. 16, p. 385–399; cap. 17, p. 412
-- [[SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Odorono”, „The Book of Etiquette”, „Cream of Wheat”
+- [[SRC-027-a-history-of-advertising|SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 8, p. 149–152; cap. 16, p. 385–399; cap. 17, p. 412
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Odorono”, „The Book of Etiquette”, „Cream of Wheat”
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[HIS-0818-shockvertising-atentia-prin-scandal|HIS-0818]] _vezi_ — Shockvertising — atenția câștigată prin scandal are un preț pe care îl plătește brandul
+- [[HIS-0821-personajele-inventate-nu-gresesc-celebritatile-da|HIS-0821]] _contrazice_ — Personajele inventate nu greșesc niciodată; celebritățile da
+- [[SRC-027-a-history-of-advertising|SRC-027]] — A History of Advertising: The First 300,000 Years
+<!-- backlinks:end -->

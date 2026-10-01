@@ -48,10 +48,18 @@ Contrastul din carte. Textul **Square** („Povestea noastră începe cu tine…
 
 ## Legături
 
-- **vezi** [[STO-0901]] — storytelling-ul e „inima" content marketingului, spun autorii.
-- **aplicare** [[SOC-0906]] — scuza KFC funcționează pentru că are moment și emoție autentică.
-- **vezi** [[DIG-0909]] — povestea video trebuie să prindă atenția devreme.
+- **vezi** [[STO-0901-content-marketingul-este-always-on-campania-doar-il-puncteaza|STO-0901]] — storytelling-ul e „inima" content marketingului, spun autorii.
+- **aplicare** [[SOC-0906-criza-pe-social-media-cere-plan-de-raspuns-pregatit|SOC-0906]] — scuza KFC funcționează pentru că are moment și emoție autentică.
+- **vezi** [[DIG-0909-metricile-video-masoara-timpul-brandul-trebuie-sa-apara-devreme|DIG-0909]] — povestea video trebuie să prindă atenția devreme.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 12, p. 347-349
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 12, p. 347-349
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0909-metricile-video-masoara-timpul-brandul-trebuie-sa-apara-devreme|DIG-0909]] _vezi_ — Metricile video măsoară timpul — brandul trebuie să apară înainte ca privitorul să plece
+- [[SOC-0906-criza-pe-social-media-cere-plan-de-raspuns-pregatit|SOC-0906]] _vezi_ — O criză pe social media se gestionează cu un plan de răspuns pregătit dinainte, nu cu improvizație
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+<!-- backlinks:end -->

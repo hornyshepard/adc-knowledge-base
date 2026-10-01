@@ -47,10 +47,18 @@ Mecanica seamănă cu „The Arrivals" (SAS) doar în ideea de a alege un singur
 
 ## Legături
 
-- **vezi** [[SOC-1130]] — alt exemplu de mecanică simplă interpretată de creatori.
-- **vezi** [[STO-1115]] — participarea publicului e un ingredient al campaniilor virale.
-- **vezi** [[SOC-1110]] — creatorii aleși trebuie să fie credibili pentru cauză.
+- **vezi** [[SOC-1130-tango-si-robinsons-campanii-creator-led-pe-tiktok-masurate|SOC-1130]] — alt exemplu de mecanică simplă interpretată de creatori.
+- **vezi** [[STO-1115-ingredientele-unei-campanii-virale-mesaj-simplu-emotie|STO-1115]] — participarea publicului e un ingredient al campaniilor virale.
+- **vezi** [[SOC-1110-valorile-comune-conteaza-inaintea-reach-ului-in-alegerea|SOC-1110]] — creatorii aleși trebuie să fie credibili pentru cauză.
 
 ## Surse
 
-- [[SRC-035]] Glenister, *Influencer Marketing Strategy*, cap. 11 (cazul Brave Bison), p. 284–285
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] Glenister, *Influencer Marketing Strategy*, cap. 11 (cazul Brave Bison), p. 284–285
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[SOC-1130-tango-si-robinsons-campanii-creator-led-pe-tiktok-masurate|SOC-1130]] _vezi_ — Tango și Robinsons: campanii creator-led pe TikTok măsurate prin brand lift
+- [[STO-1115-ingredientele-unei-campanii-virale-mesaj-simplu-emotie|STO-1115]] _vezi_ — Ingredientele unei campanii virale: mesaj simplu, emoție, participare, urgență
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] — Influencer Marketing Strategy: How influencers can help grow your business
+<!-- backlinks:end -->

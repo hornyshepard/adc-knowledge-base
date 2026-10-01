@@ -54,10 +54,18 @@ Campbell's a făcut focus-grupuri cu femei care cumpără supe gata preparate. E
 
 ## Legături
 
-- **fundament** [[MKT-0125]] — sursele și metodele sunt pașii 2 și 3 ai procesului de cercetare.
-- **aplicare** [[MKT-0105]] — CLV se calculează din date secundare interne.
-- **vezi** [[DIG-0103]] — analiza sentimentului din social media e o sursă calitativă la scară.
+- **fundament** [[MKT-0125-cercetarea-de-marketing-in-cinci-pasi|MKT-0125]] — sursele și metodele sunt pașii 2 și 3 ai procesului de cercetare.
+- **aplicare** [[MKT-0105-clientul-valoreaza-cat-relatia-nu-cat-tranzactia-clv|MKT-0105]] — CLV se calculează din date secundare interne.
+- **vezi** [[DIG-0103-asculta-analizeaza-actioneaza-procesul-de-implicare-digitala|DIG-0103]] — analiza sentimentului din social media e o sursă calitativă la scară.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 10, p. 319-333 (Exhibit 10.4, 10.5, 10.7, 10.8, 10.9, 10.10)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 10, p. 319-333 (Exhibit 10.4, 10.5, 10.7, 10.8, 10.9, 10.10)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[MKT-0105-clientul-valoreaza-cat-relatia-nu-cat-tranzactia-clv|MKT-0105]] _vezi_ — Clientul valorează cât relația, nu cât tranzacția — valoarea pe durata vieții (CLV)
+- [[MKT-0125-cercetarea-de-marketing-in-cinci-pasi|MKT-0125]] _extinde_ — Cercetarea de marketing are cinci pași — de la obiectiv la plan de acțiune — și transformă datele în informație
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+<!-- backlinks:end -->

@@ -49,11 +49,22 @@ Consecvența cere un client curajos și o agenție răbdătoare. Watkins își s
 
 ## Legături
 
-- **aplicare** [[CPY-0811]] — sloganul trăiește doar prin repetiție.
-- **exemplu** [[CPY-0805]] — reclamele testate au rulat neschimbate ani întregi.
-- **exemplu** [[HIS-0813]] — Hathaway, campanie protejată de client.
-- **contrazice** [[ART-0804]] — Marlboro arată când trebuie totuși să rupi cu trecutul.
+- **aplicare** [[CPY-0811-sloganul-bun-repetabil-diferentiator-durabil|CPY-0811]] — sloganul trăiește doar prin repetiție.
+- **exemplu** [[CPY-0805-scoala-mail-order-cuponul-ca-experiment|CPY-0805]] — reclamele testate au rulat neschimbate ani întregi.
+- **exemplu** [[HIS-0813-ogilvy-fapte-fara-adjective-si-o-imagine-care-intreaba|HIS-0813]] — Hathaway, campanie protejată de client.
+- **contrazice** [[ART-0804-marlboro-repozitionarea-unui-brand-printr-o-imagine|ART-0804]] — Marlboro arată când trebuie totuși să rupi cu trecutul.
 
 ## Surse
 
-- [[SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Salada Tea”, „B. F. Goodrich Company”, „Sherwin Cody”, „International Correspondence School — Coupon Advertisements”, „Shell Oil Company”, „Smith Brothers Cough Drops”, „Hathaway”, „Four Roses”, „Ivory Soap”, „Woodbury Soap”
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Salada Tea”, „B. F. Goodrich Company”, „Sherwin Cody”, „International Correspondence School — Coupon Advertisements”, „Shell Oil Company”, „Smith Brothers Cough Drops”, „Hathaway”, „Four Roses”, „Ivory Soap”, „Woodbury Soap”
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0804-marlboro-repozitionarea-unui-brand-printr-o-imagine|ART-0804]] _contrazice_ — Marlboro — repoziționarea unui brand feminin printr-o singură imagine masculină
+- [[CPY-0805-scoala-mail-order-cuponul-ca-experiment|CPY-0805]] _vezi_ — Școala mail-order — cuponul a transformat copywritingul într-un experiment măsurabil
+- [[CPY-0811-sloganul-bun-repetabil-diferentiator-durabil|CPY-0811]] _fundament_ — Sloganul bun e repetabil, diferențiator și rezistă decenii — iar jingle-ul îl face să se cânte
+- [[CPY-0815-burma-shave-copy-serial-care-controleaza-ritmul|CPY-0815]] _vezi_ — Burma-Shave — copy serial care controlează ritmul lecturii și transformă drumul în joc
+- [[HIS-0813-ogilvy-fapte-fara-adjective-si-o-imagine-care-intreaba|HIS-0813]] — David Ogilvy — cercetare, fapte fără adjective și o imagine care pune o întrebare
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] — The 100 Greatest Advertisements 1852–1958: Who Wrote Them and What They Did
+<!-- backlinks:end -->

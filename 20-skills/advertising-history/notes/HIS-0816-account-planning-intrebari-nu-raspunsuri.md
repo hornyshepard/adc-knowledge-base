@@ -41,11 +41,19 @@ Gallup i-a povestit lui John O’Toole că cercetarea de piață „a început�
 
 ## Legături
 
-- **extinde** [[HIS-0812]] — planificarea e un compromis între știință și artă.
-- **aplicare** [[CPY-0807]] — Young pornea tot de la o imagine clară a omului căruia îi scrie.
-- **vezi** [[BRF]] — brieful creativ, rezultatul muncii de planificare.
-- **vezi** [[INS]] — insight-ul ca obiect al planificării.
+- **extinde** [[HIS-0812-publicitatea-stiinta-sau-arta|HIS-0812]] — planificarea e un compromis între știință și artă.
+- **aplicare** [[CPY-0807-metoda-james-webb-young-un-om-anume|CPY-0807]] — Young pornea tot de la o imagine clară a omului căruia îi scrie.
+- **vezi** [[20-skills/creative-brief/SKILL|BRF]] — brieful creativ, rezultatul muncii de planificare.
+- **vezi** [[20-skills/consumer-insight/SKILL|INS]] — insight-ul ca obiect al planificării.
 
 ## Surse
 
-- [[SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 11, p. 239–242
+- [[SRC-027-a-history-of-advertising|SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 11, p. 239–242
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0807-metoda-james-webb-young-un-om-anume|CPY-0807]] _vezi_ — Metoda lui James Webb Young — un om anume, o propunere clară și punctul în care se întâlnesc
+- [[HIS-0812-publicitatea-stiinta-sau-arta|HIS-0812]] _extinde_ — Publicitatea este știință sau artă? — dezbaterea care a împărțit secolul XX
+- [[SRC-027-a-history-of-advertising|SRC-027]] — A History of Advertising: The First 300,000 Years
+<!-- backlinks:end -->

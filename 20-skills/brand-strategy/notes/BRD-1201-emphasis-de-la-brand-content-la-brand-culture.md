@@ -50,10 +50,23 @@ Trei mărci de îngrijire, trei culturi diferite (mini-cazul 7.2): Nivea — pro
 
 ## Legături
 
-- **extinde** [[EXP-1201]] — detaliază al patrulea E al mixului experiențial.
-- **vezi** [[BRD-1202]] — brandingul cultural al lui Holt, fundamentul teoretic al capitolului.
-- **vezi** [[STO-1201]] — storytelling-ul, a doua pârghie a componentei Emphasis.
+- **extinde** [[EXP-1201-mixul-experiential-7e-inlocuieste-cei-7p|EXP-1201]] — detaliază al patrulea E al mixului experiențial.
+- **vezi** [[BRD-1202-branding-cultural-holt-mitul-rezolva-contradictii|BRD-1202]] — brandingul cultural al lui Holt, fundamentul teoretic al capitolului.
+- **vezi** [[STO-1201-povestea-de-brand-din-pozitionare-si-hero-journey|STO-1201]] — storytelling-ul, a doua pârghie a componentei Emphasis.
 
 ## Surse
 
-- [[SRC-036]] Wided Batat, *Experiential Marketing*, cap. 7, secț. „Brand culture emphasis", „From brand content to brand culture", „The theory of brand culture" (Tabelul 7.1, mini-cazul 7.2)
+- [[SRC-036-experiential-marketing|SRC-036]] Wided Batat, *Experiential Marketing*, cap. 7, secț. „Brand culture emphasis", „From brand content to brand culture", „The theory of brand culture" (Tabelul 7.1, mini-cazul 7.2)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-1202-branding-cultural-holt-mitul-rezolva-contradictii|BRD-1202]] _extinde_ — Brandingul cultural (Holt) — o marcă devine iconică livrând un mit care rezolvă o contradicție culturală
+- [[BRD-1203-caz-nike-just-do-it-mitul-vointei-individuale|BRD-1203]] _vezi_ — Caz — Nike „Just Do It" a construit mitul eroului solitar care învinge prin voință, pe o tensiune culturală a Americii
+- [[EXP-1201-mixul-experiential-7e-inlocuieste-cei-7p|EXP-1201]] _vezi_ — Mixul de marketing experiențial (7E) înlocuiește cei 7P cu decizii centrate pe experiența clientului
+- [[EXP-1222-storyliving-povestea-traita-nu-doar-spusa|EXP-1222]] _vezi_ — Storyliving — brandurile care își fac povestea trăită de client depășesc brandurile care doar o spun
+- [[INS-1206-consumatorul-postmodern-fragmentat-paradoxal|INS-1206]] _vezi_ — Consumatorul postmodern este fragmentat și paradoxal și cumpără sensuri culturale, nu produse
+- [[INS-1207-semiotica-decodeaza-sensul-cultural-al-consumului|INS-1207]] _vezi_ — Semiotica decodează semnele unei categorii ca să găsească sensul cultural pe care consumatorii nu îl pot spune
+- [[STO-1201-povestea-de-brand-din-pozitionare-si-hero-journey|STO-1201]] _vezi_ — Povestea de brand se construiește din poziționare sau pe arcul eroului — și convinge prin transport narativ
+- [[SRC-036-experiential-marketing|SRC-036]] — Experiential Marketing: Consumer Behavior, Customer Experience and the 7Es
+<!-- backlinks:end -->

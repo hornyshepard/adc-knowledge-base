@@ -36,19 +36,27 @@ Rezultatele declarate: trei Grand Prix la Cannes pentru Film, trei Black Pencil 
 
 - Reevaluează periodic o platformă de succes cu oamenii pe care îi reprezintă, nu doar cu metricile de campanie.
 - Pune în fiecare brief cu scop rubrica „pe cine am ascultat?".
-- Caută tonul care scoate tema din registrul milei (vezi [[IDE-0709]]).
+- Caută tonul care scoate tema din registrul milei (vezi [[IDE-0709-umorul-ironia-si-satira-rastoarna-asteptarea|IDE-0709]]).
 
 ## Întrebări
 
-- Când e corect să schimbi o platformă care încă funcționează în piață (vezi regula McTigue–Rucker din [[BRF-0705]])?
+- Când e corect să schimbi o platformă care încă funcționează în piață (vezi regula McTigue–Rucker din [[BRF-0705-declaratia-de-pozitionare-tinta-cadru-diferenta-motiv|BRF-0705]])?
 - Cine are dreptul să decidă că o reprezentare a devenit stereotip?
 
 ## Legături
 
-- **exemplu** [[STO-0709]] — lista de responsabilitate aplicată în timp.
-- **vezi** [[IDE-0709]] — umorul ca instrument de incluziune.
-- **vezi** [[IDE-0708]] — prima mișcare din 2012 e o inversare a percepției.
+- **exemplu** [[STO-0709-checklist-de-responsabilitate-dei-storiestelling|STO-0709]] — lista de responsabilitate aplicată în timp.
+- **vezi** [[IDE-0709-umorul-ironia-si-satira-rastoarna-asteptarea|IDE-0709]] — umorul ca instrument de incluziune.
+- **vezi** [[IDE-0708-inversarea-problemei-dezavantajul-devine-argumentul|IDE-0708]] — prima mișcare din 2012 e o inversare a percepției.
 
 ## Surse
 
-- [[SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 7, eseul „The Story of Superhumans" de Eoin McLaughlin
+- [[SRC-025-shareworthy|SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 7, eseul „The Story of Superhumans" de Eoin McLaughlin
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[IDE-0709-umorul-ironia-si-satira-rastoarna-asteptarea|IDE-0709]] _vezi_ — Umorul, ironia și satira răstoarnă așteptarea și creează complicitate cu privitorul
+- [[STO-0709-checklist-de-responsabilitate-dei-storiestelling|STO-0709]] _exemplu_ — Checklist-ul de responsabilitate pentru reprezentare — stereotipuri, putere, apropriere, decor și o echipă diversă în fiecare etapă
+- [[SRC-025-shareworthy|SRC-025]] — Shareworthy: Advertising That Creates Powerful Connections Through Storytelling
+<!-- backlinks:end -->

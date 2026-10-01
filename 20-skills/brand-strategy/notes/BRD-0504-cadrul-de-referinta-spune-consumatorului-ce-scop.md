@@ -45,11 +45,21 @@ Uber a ales categoria „ride-sharing", nu „taxi", ca să evite asocierile și
 
 ## Legături
 
-- **fundament** [[BRD-0503]] — cadrul de referință este al doilea element al declarației de poziționare.
-- **vezi** [[BRD-0508]] — pionierii sunt forțați să se repoziționeze când categoria nouă devine cadrul.
-- **vezi** [[BRD-0514]] — pionierul devine prototipul categoriei pe care o definește.
-- **aplicare** [[ART-0502]] — numele categoriei este unul dintre cele 12 indicii de design.
+- **fundament** [[BRD-0503-declaratia-de-pozitionare-are-patru-elemente-tinta-cadru|BRD-0503]] — cadrul de referință este al doilea element al declarației de poziționare.
+- **vezi** [[BRD-0508-repozitionarea-este-o-solutie-de-ultima-instanta|BRD-0508]] — pionierii sunt forțați să se repoziționeze când categoria nouă devine cadrul.
+- **vezi** [[BRD-0514-momentul-intrarii-pe-piata-pionier-urmaritor-rapid-sau|BRD-0514]] — pionierul devine prototipul categoriei pe care o definește.
+- **aplicare** [[ART-0502-sablonul-de-design-de-brand-douasprezece-tipuri-de-indicii|ART-0502]] — numele categoriei este unul dintre cele 12 indicii de design.
 
 ## Surse
 
-- [[SRC-014]] Alice M. Tybout, „Brand Positioning", cap. 1, p. 6–7, 10; Bobby J. Calder, „Brand Design and Design Thinking", cap. 7, p. 102–103, în *Kellogg on Branding in a Hyper-Connected World*
+- [[SRC-014-kellogg-on-branding|SRC-014]] Alice M. Tybout, „Brand Positioning", cap. 1, p. 6–7, 10; Bobby J. Calder, „Brand Design and Design Thinking", cap. 7, p. 102–103, în *Kellogg on Branding in a Hyper-Connected World*
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0502-sablonul-de-design-de-brand-douasprezece-tipuri-de-indicii|ART-0502]] _vezi_ — Șablonul de design de brand: douăsprezece tipuri de indicii senzoriale
+- [[BRD-0503-declaratia-de-pozitionare-are-patru-elemente-tinta-cadru|BRD-0503]] _extinde_ — Declarația de poziționare are patru elemente: țintă, cadru, diferență, dovadă
+- [[BRD-0508-repozitionarea-este-o-solutie-de-ultima-instanta|BRD-0508]] _fundament_ — Repoziționarea este o soluție de ultimă instanță, justificată în puține situații
+- [[BRD-0514-momentul-intrarii-pe-piata-pionier-urmaritor-rapid-sau|BRD-0514]] _vezi_ — Momentul intrării pe piață: pionier, urmăritor rapid sau intrat târziu
+- [[SRC-014-kellogg-on-branding|SRC-014]] — Kellogg on Branding in a Hyper-Connected World
+<!-- backlinks:end -->

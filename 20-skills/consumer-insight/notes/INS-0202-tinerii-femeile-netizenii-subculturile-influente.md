@@ -48,11 +48,22 @@ Justin Bieber a început ca artist popular pe YouTube, urmărit de milioane de t
 
 ## Legături
 
-- **fundament** [[INS-0201]] — paradoxul advocacy-ului explică de ce contează cine recomandă.
-- **aplicare** [[ADV-0201]] — YWN sunt cea mai puternică sursă de influență a „celorlalți" din zona O3.
-- **alternativa** [[INS-0204]] — Marketing 5.0 înlocuiește YWN cu o segmentare pe cinci generații.
+- **fundament** [[INS-0201-paradoxurile-clientului-conectat|INS-0201]] — paradoxul advocacy-ului explică de ce contează cine recomandă.
+- **aplicare** [[ADV-0201-zona-o3-influenta-proprie-a-celorlalti-exterioara|ADV-0201]] — YWN sunt cea mai puternică sursă de influență a „celorlalți" din zona O3.
+- **alternativa** [[INS-0204-cinci-generatii-si-patru-etape-de-viata|INS-0204]] — Marketing 5.0 înlocuiește YWN cu o segmentare pe cinci generații.
 
 ## Surse
 
-- [[SRC-004]] Kotler, Kartajaya, Setiawan, *Marketing 4.0*, cap. 3 „The Influential Digital Subcultures"
-- [[SRC-003]] Kotler, Kartajaya, Setiawan, *Marketing 3.0*, cap. 7, p. 149
+- [[SRC-004-marketing-4-0-philip-kotler|SRC-004]] Kotler, Kartajaya, Setiawan, *Marketing 4.0*, cap. 3 „The Influential Digital Subcultures"
+- [[SRC-003-marketing-3-0-philip-kotler|SRC-003]] Kotler, Kartajaya, Setiawan, *Marketing 3.0*, cap. 7, p. 149
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0201-zona-o3-influenta-proprie-a-celorlalti-exterioara|ADV-0201]] _vezi_ — Zona O3 — influența proprie, a celorlalți și cea exterioară decid unde investești efortul de marketing
+- [[INS-0201-paradoxurile-clientului-conectat|INS-0201]] _extinde_ — Clientul conectat trăiește trei paradoxuri — online vs. offline, informat vs. distras, advocacy negativă vs. pozitivă
+- [[INS-0203-antropologia-digitala-social-listening-netnografie-cercetare-empatica|INS-0203]] _vezi_ — Antropologia digitală descoperă anxietățile ascunse prin social listening, netnografie și cercetare empatică
+- [[INS-0204-cinci-generatii-si-patru-etape-de-viata|INS-0204]] _alternativa_ — Cinci generații trăiesc simultan — Boomers, X, Y, Z și Alpha — și parcurg patru etape de viață tot mai rapid
+- [[STO-0202-content-marketing-in-opt-pasi-continutul-e-noua-reclama|STO-0202]] _vezi_ — Content marketingul are opt pași, iar conținutul e despre obiectivele clientului, nu despre ce vrea brandul să spună
+- [[SRC-004-marketing-4-0-philip-kotler|SRC-004]] — Marketing 4.0: Moving from Traditional to Digital
+<!-- backlinks:end -->

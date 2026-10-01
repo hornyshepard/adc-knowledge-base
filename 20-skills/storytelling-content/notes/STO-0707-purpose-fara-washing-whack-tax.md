@@ -49,11 +49,21 @@ IKEA #BuyBackFriday: în ziua de Black Friday, simbol al consumului iresponsabil
 
 ## Legături
 
-- **vezi** [[STO-0705]] — autenticitatea față de scop e una dintre cele cinci direcții.
-- **vezi** [[BRF-0708]] — *purpose* nu e automat beneficiul care convinge ținta.
-- **vezi** [[IDE-0714]] — Suncorp: scopul ca reîncadrare a categoriei.
-- **vezi** [[STO-0709]] — reprezentarea în campaniile DEI cere aceeași consecvență.
+- **vezi** [[STO-0705-autenticitatea-are-cinci-directii|STO-0705]] — autenticitatea față de scop e una dintre cele cinci direcții.
+- **vezi** [[BRF-0708-dezbatere-beneficiul-emotional-nu-e-automat-superior|BRF-0708]] — *purpose* nu e automat beneficiul care convinge ținta.
+- **vezi** [[IDE-0714-reincadrarea-problemei-din-brief|IDE-0714]] — Suncorp: scopul ca reîncadrare a categoriei.
+- **vezi** [[STO-0709-checklist-de-responsabilitate-dei-storiestelling|STO-0709]] — reprezentarea în campaniile DEI cere aceeași consecvență.
 
 ## Surse
 
-- [[SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 3, 4, 6 și 8
+- [[SRC-025-shareworthy|SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 3, 4, 6 și 8
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRF-0708-dezbatere-beneficiul-emotional-nu-e-automat-superior|BRF-0708]] _vezi_ — Dezbatere — beneficiul emoțional nu e automat superior celui funcțional
+- [[IDE-0711-mesajul-care-nu-arata-a-reclama-locuri-si-formate-neasteptate|IDE-0711]] _vezi_ — Singurul spațiu care merită cumpărat e cel din capul publicului — mesaje în locuri și formate care nu arată a reclamă
+- [[STO-0705-autenticitatea-are-cinci-directii|STO-0705]] _vezi_ — Autenticitatea are cinci direcții — față de public, de brand, de scop, de zeitgeist și de echipa care produce povestea
+- [[STO-0708-manifestul-de-brand-declaratie-aspirationala-de-intentie|STO-0708]] _vezi_ — Manifestul de brand este o declarație aspirațională de intenție, nu misiunea corporativă rescrisă
+- [[SRC-025-shareworthy|SRC-025]] — Shareworthy: Advertising That Creates Powerful Connections Through Storytelling
+<!-- backlinks:end -->

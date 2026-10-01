@@ -52,12 +52,24 @@ Glenister confirmă convergența: BCMA avertizează că metricile de vanitate in
 
 ## Legături
 
-- **extinde** [[DIG-1101]] — evaluarea urmărește întregul customer journey.
-- **vezi** [[SOC-1107]] — cele trei niveluri de atenție explică de ce cifrele mari înșală.
-- **exemplu** [[SOC-1109]] — campaniile FMD sunt evaluate pe drumul complet până la rezervare.
-- **aplicare** [[SOC-1125]] — formulele ER, CPE, CPM traduc principiul în calcule.
+- **extinde** [[DIG-1101-customer-journey-ul-digital-trebuie-scurtat-fiecare-pas-e-o|DIG-1101]] — evaluarea urmărește întregul customer journey.
+- **vezi** [[SOC-1107-atentia-la-un-post-de-influencer-se-imparte-pe-trei-niveluri|SOC-1107]] — cele trei niveluri de atenție explică de ce cifrele mari înșală.
+- **exemplu** [[SOC-1109-fmd-influencerii-raporteaza-live-echipa-produce-formatele|SOC-1109]] — campaniile FMD sunt evaluate pe drumul complet până la rezervare.
+- **aplicare** [[SOC-1125-engagement-rate-cpe-si-cpm-aritmetica-de-baza-a-unei|SOC-1125]] — formulele ER, CPE, CPM traduc principiul în calcule.
 
 ## Surse
 
-- [[SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 6.1, p. 257–261; cap. 6.2, p. 265–268; cap. 6.2.1–6.2.2, p. 270–275; cap. 6.2.5–6.3.1, p. 280–283 (S. Gottschalk)
-- [[SRC-035]] Glenister, *Influencer Marketing Strategy*, cap. 1, p. 57, 63–64; cap. 9, p. 245–246, 250
+- [[SRC-034-social-media-storytelling|SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 6.1, p. 257–261; cap. 6.2, p. 265–268; cap. 6.2.1–6.2.2, p. 270–275; cap. 6.2.5–6.3.1, p. 280–283 (S. Gottschalk)
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] Glenister, *Influencer Marketing Strategy*, cap. 1, p. 57, 63–64; cap. 9, p. 245–246, 250
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-1101-customer-journey-ul-digital-trebuie-scurtat-fiecare-pas-e-o|DIG-1101]] _vezi_ — Customer journey-ul digital trebuie scurtat: fiecare pas e o barieră
+- [[SOC-1107-atentia-la-un-post-de-influencer-se-imparte-pe-trei-niveluri|SOC-1107]] _extinde_ — Atenția la un post de influencer se împarte pe trei niveluri
+- [[SOC-1125-engagement-rate-cpe-si-cpm-aritmetica-de-baza-a-unei|SOC-1125]] _fundament_ — Engagement rate, CPE și CPM: aritmetica de bază a unei campanii cu influenceri
+- [[SOC-1133-cadrul-strategic-al-unei-campanii-cu-influenceri-porneste|SOC-1133]] _vezi_ — Cadrul strategic al unei campanii cu influenceri pornește de la cercetare și obiective SMART
+- [[STO-1115-ingredientele-unei-campanii-virale-mesaj-simplu-emotie|STO-1115]] _contrazice_ — Ingredientele unei campanii virale: mesaj simplu, emoție, participare, urgență
+- [[SRC-034-social-media-storytelling|SRC-034]] — Social Media Storytelling
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] — Influencer Marketing Strategy: How influencers can help grow your business
+<!-- backlinks:end -->

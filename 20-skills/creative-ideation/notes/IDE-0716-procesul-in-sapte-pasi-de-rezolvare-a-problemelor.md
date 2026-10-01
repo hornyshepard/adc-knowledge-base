@@ -41,21 +41,29 @@ Pentru un proiect de agenție, pașii se suprapun pe fluxul cunoscut:
 - pașii 1–2 = analiza și „debrief"-ul brief-ului (întrebările naive, insight-ul);
 - pasul 3 = ideația, separată strict de pasul 4 (fără judecată în timpul generării);
 - pașii 4–5 = selecția conceptelor după criteriile din brief;
-- pasul 7 = măsurarea stabilită dinainte ([[BRF-0710]]).
+- pasul 7 = măsurarea stabilită dinainte ([[BRF-0710-masurarea-se-scrie-in-brief-inainte-de-campanie|BRF-0710]]).
 
-„5 de ce" se aplică bine la bariera din spatele unui obiectiv de vânzări (vezi [[BRF-0703]]).
+„5 de ce" se aplică bine la bariera din spatele unui obiectiv de vânzări (vezi [[BRF-0703-obiectivul-din-brief-este-unul-de-comunicare|BRF-0703]]).
 
 ## Întrebări
 
-- Procesul liniar e potrivit pentru o problemă creativă, unde soluția schimbă uneori problema însăși? Compară cu reîncadrarea din [[IDE-0714]].
+- Procesul liniar e potrivit pentru o problemă creativă, unde soluția schimbă uneori problema însăși? Compară cu reîncadrarea din [[IDE-0714-reincadrarea-problemei-din-brief|IDE-0714]].
 - Cartea nu are niciun exemplu de comunicare. Cum ar arăta cei șapte pași pentru un brief de lansare?
 
 ## Legături
 
-- **alternativa** [[IDE-0702]] — cele 16 etape Ingledew sunt varianta detaliată pentru brief-uri creative.
-- **extinde** [[IDE-0717]] — uneltele pentru pașii 3–5.
-- **vezi** [[IDE-0714]] — reîncadrarea pune la îndoială chiar pasul 1.
+- **alternativa** [[IDE-0702-cele-16-etape-ingledew-de-rezolvare-a-unui-brief|IDE-0702]] — cele 16 etape Ingledew sunt varianta detaliată pentru brief-uri creative.
+- **extinde** [[IDE-0717-trusa-scamper-sase-palarii-matrice-de-decizie|IDE-0717]] — uneltele pentru pașii 3–5.
+- **vezi** [[IDE-0714-reincadrarea-problemei-din-brief|IDE-0714]] — reîncadrarea pune la îndoială chiar pasul 1.
 
 ## Surse
 
-- [[SRC-026]] Naveed Ahmed, *Problem Solving Skills in Everyday Life*, cap. 1 și cap. 3
+- [[SRC-026-problem-solving-skills-in-everyday-life|SRC-026]] Naveed Ahmed, *Problem Solving Skills in Everyday Life*, cap. 1 și cap. 3
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[IDE-0714-reincadrarea-problemei-din-brief|IDE-0714]] _vezi_ — Reîncadrarea problemei din brief deschide soluții dintr-o altă categorie
+- [[IDE-0717-trusa-scamper-sase-palarii-matrice-de-decizie|IDE-0717]] _extinde_ — Trusa de generare și selecție — SCAMPER, cele șase pălării și matricea de decizie ponderată
+- [[SRC-026-problem-solving-skills-in-everyday-life|SRC-026]] — Problem Solving Skills in Everyday Life
+<!-- backlinks:end -->

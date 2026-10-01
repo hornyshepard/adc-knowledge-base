@@ -45,10 +45,19 @@ Walter a ajuns la peste trei milioane de urmăritori pe TikTok în 2021 cu sfatu
 
 ## Legături
 
-- **vezi** [[STO-1106]] — cele șase nevoi ale utilizatorilor descriu tipurile de valoare percepută.
-- **vezi** [[STO-1101]] — ghidul oferă valoare, nu admirație pentru un erou.
-- **vezi** [[SOC-1110]] — purpose-ul comun e și criteriul principal în alegerea creatorilor.
+- **vezi** [[STO-1106-sase-nevoi-ale-utilizatorilor-ghideaza-planificarea|STO-1106]] — cele șase nevoi ale utilizatorilor descriu tipurile de valoare percepută.
+- **vezi** [[STO-1101-pe-social-media-ghidul-inlocuieste-eroul-din-calatoria|STO-1101]] — ghidul oferă valoare, nu admirație pentru un erou.
+- **vezi** [[SOC-1110-valorile-comune-conteaza-inaintea-reach-ului-in-alegerea|SOC-1110]] — purpose-ul comun e și criteriul principal în alegerea creatorilor.
 
 ## Surse
 
-- [[SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 1, p. 19–21; cap. 1.1, p. 23; cap. 2.1.2, p. 60–61; cap. 2.7, p. 93
+- [[SRC-034-social-media-storytelling|SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 1, p. 19–21; cap. 1.1, p. 23; cap. 2.1.2, p. 60–61; cap. 2.7, p. 93
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[SOC-1110-valorile-comune-conteaza-inaintea-reach-ului-in-alegerea|SOC-1110]] _fundament_ — Valorile comune contează înaintea reach-ului în alegerea creatorului
+- [[STO-1101-pe-social-media-ghidul-inlocuieste-eroul-din-calatoria|STO-1101]] _vezi_ — Pe social media, ghidul înlocuiește eroul din călătoria clasică
+- [[STO-1106-sase-nevoi-ale-utilizatorilor-ghideaza-planificarea|STO-1106]] _vezi_ — Șase nevoi ale utilizatorilor ghidează planificarea formatelor sociale
+- [[SRC-034-social-media-storytelling|SRC-034]] — Social Media Storytelling
+<!-- backlinks:end -->

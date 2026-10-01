@@ -47,10 +47,21 @@ CNN aduce o poveste cotidiană despre debutul iernii în Snapchat Stories cu fot
 
 ## Legături
 
-- **vezi** [[STO-1105]] — toks favorizează formatele seriale scurte.
-- **vezi** [[STO-1104]] — un tok urmărit integral depinde de story beats.
-- **vezi** [[SOC-1103]] — stories servesc relații conversaționale, nu tranzacționale.
+- **vezi** [[STO-1105-formatul-serial-este-arma-secreta-a-micro-storytelling-ului|STO-1105]] — toks favorizează formatele seriale scurte.
+- **vezi** [[STO-1104-story-beats-tin-ritmul-si-imping-atentia-spre-ce-urmeaza|STO-1104]] — un tok urmărit integral depinde de story beats.
+- **vezi** [[SOC-1103-conversational-vs-tranzactional-doua-tipuri-de-relatii-pe|SOC-1103]] — stories servesc relații conversaționale, nu tranzacționale.
 
 ## Surse
 
-- [[SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 4.2.4–4.2.5, p. 175–183; cap. 4.3.4, p. 200–202
+- [[SRC-034-social-media-storytelling|SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 4.2.4–4.2.5, p. 175–183; cap. 4.3.4, p. 200–202
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[SOC-1103-conversational-vs-tranzactional-doua-tipuri-de-relatii-pe|SOC-1103]] _vezi_ — Conversațional vs. tranzacțional: două tipuri de relații pe platforme
+- [[SOC-1126-fiecare-platforma-are-un-rol-diferit-in-influencer-marketing|SOC-1126]] _vezi_ — Fiecare platformă are un rol diferit în influencer marketing
+- [[STO-1104-story-beats-tin-ritmul-si-imping-atentia-spre-ce-urmeaza|STO-1104]] _vezi_ — Story beats țin ritmul și împing atenția spre ce urmează
+- [[STO-1105-formatul-serial-este-arma-secreta-a-micro-storytelling-ului|STO-1105]] _vezi_ — Formatul serial este arma secretă a micro-storytelling-ului
+- [[STO-1110-no-edit-edit-autenticul-neslefuit-bate-filmul-de-imagine|STO-1110]] _vezi_ — No-edit edit: autenticul neșlefuit bate filmul de imagine lustruit
+- [[SRC-034-social-media-storytelling|SRC-034]] — Social Media Storytelling
+<!-- backlinks:end -->

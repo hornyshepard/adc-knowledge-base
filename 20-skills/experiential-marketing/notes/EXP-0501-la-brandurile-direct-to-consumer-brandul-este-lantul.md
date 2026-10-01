@@ -48,12 +48,23 @@ Harry's a intrat ulterior și în magazinele Target — semn că și brandurile 
 
 ## Legături
 
-- **vezi** [[ADV-0501]] — etapele de cumpărare, utilizare și evaluare din călătoria clientului.
-- **vezi** [[BRD-0520]] — serviciile au aceeași dependență de momentul interacțiunii.
-- **vezi** [[BRD-0506]] — costul de timp și beneficiul emoțional din ecuația valorii.
-- **aplicare** [[BRD-0510]] — „a face" în loc de „a spune": brandul exprimat prin experiență.
+- **vezi** [[ADV-0501-calatoria-clientului-centrata-pe-consumator-sase-etape-trei|ADV-0501]] — etapele de cumpărare, utilizare și evaluare din călătoria clientului.
+- **vezi** [[BRD-0520-brandul-de-servicii-se-castiga-sau-se-pierde-in-momentul|BRD-0520]] — serviciile au aceeași dependență de momentul interacțiunii.
+- **vezi** [[BRD-0506-ecuatia-valorii-brandurile-concureaza-la-numarator-sau-la|BRD-0506]] — costul de timp și beneficiul emoțional din ecuația valorii.
+- **aplicare** [[BRD-0510-scop-sau-pozitionare-brandurile-opereaza-la-altitudini|BRD-0510]] — „a face" în loc de „a spune": brandul exprimat prin experiență.
 
 ## Surse
 
-- [[SRC-014]] Sergio Pereira, „Customer Experience: The New Frontier of Branding", cap. 23 în *Kellogg on Branding in a Hyper-Connected World*, p. 294–300
-- [[SRC-016]] Jane McCarthy & Kate McAndrew, *Goddess Guide to Branding*, cap. 6 „Finding Your Gift” (Katie Conway); cap. 7, interviul „Experience” (Janet T. Planet)
+- [[SRC-014-kellogg-on-branding|SRC-014]] Sergio Pereira, „Customer Experience: The New Frontier of Branding", cap. 23 în *Kellogg on Branding in a Hyper-Connected World*, p. 294–300
+- [[SRC-016-the-goddess-guide-to-branding-jane-mccarthy|SRC-016]] Jane McCarthy & Kate McAndrew, *Goddess Guide to Branding*, cap. 6 „Finding Your Gift” (Katie Conway); cap. 7, interviul „Experience” (Janet T. Planet)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0501-calatoria-clientului-centrata-pe-consumator-sase-etape-trei|ADV-0501]] _vezi_ — Călătoria clientului centrată pe consumator: șase etape, trei întrebări
+- [[BRD-0506-ecuatia-valorii-brandurile-concureaza-la-numarator-sau-la|BRD-0506]] _vezi_ — Ecuația valorii: brandurile concurează la numărător sau la numitor
+- [[BRD-0510-scop-sau-pozitionare-brandurile-opereaza-la-altitudini|BRD-0510]] _vezi_ — Scop sau poziționare: brandurile operează la altitudini diferite
+- [[BRD-0520-brandul-de-servicii-se-castiga-sau-se-pierde-in-momentul|BRD-0520]] _vezi_ — Brandul de servicii se câștigă sau se pierde în momentul interacțiunii
+- [[SRC-014-kellogg-on-branding|SRC-014]] — Kellogg on Branding in a Hyper-Connected World
+- [[SRC-016-the-goddess-guide-to-branding-jane-mccarthy|SRC-016]] — Goddess Guide to Branding
+<!-- backlinks:end -->

@@ -47,12 +47,20 @@ Situații speciale: dacă fondatorul e chipul brandului, arhetipul trebuie să-i
 
 ## Legături
 
-- **fundament** [[BRD-0530]] — cele opt zeițe dintre care se alege.
-- **vezi** [[BRD-0517]] — Roese și Gardner recomandă la fel: un singur motiv țintit.
-- **aplicare** [[BRD-0532]] — arhetipul ales devine primul strat al brand blueprint-ului.
-- **vezi** [[BRD-0514]] — un late mover câștigă când e „suficient de diferit" de liderul categoriei.
-- **exemplu** [[BRD-0533]] — Billie a ales un arhetip neașteptat (Persefona Regina) în categoria aparatelor de ras.
+- **fundament** [[BRD-0530-opt-arhetipuri-zeite-ofera-o-alternativa-feminina-la-cele|BRD-0530]] — cele opt zeițe dintre care se alege.
+- **vezi** [[BRD-0517-matricea-motivelor-coerenta-agentie-si-comuniune-spre-sine|BRD-0517]] — Roese și Gardner recomandă la fel: un singur motiv țintit.
+- **aplicare** [[BRD-0532-brand-blueprint-zeita-inima-dar-si-stil-fiecare-trecut|BRD-0532]] — arhetipul ales devine primul strat al brand blueprint-ului.
+- **vezi** [[BRD-0514-momentul-intrarii-pe-piata-pionier-urmaritor-rapid-sau|BRD-0514]] — un late mover câștigă când e „suficient de diferit" de liderul categoriei.
+- **exemplu** [[BRD-0533-cazul-billie-a-arata-ce-ascunde-categoria-transforma-un|BRD-0533]] — Billie a ales un arhetip neașteptat (Persefona Regina) în categoria aparatelor de ras.
 
 ## Surse
 
-- [[SRC-016]] Jane McCarthy & Kate McAndrew, *Goddess Guide to Branding*, cap. 4 „Finding Your Goddess" (exercițiile 1–4, „Pressure Test", „Pick One"); „Fictional Case Study: Soft Scrubs Co."; „Your Customer Toolbox"
+- [[SRC-016-the-goddess-guide-to-branding-jane-mccarthy|SRC-016]] Jane McCarthy & Kate McAndrew, *Goddess Guide to Branding*, cap. 4 „Finding Your Goddess" (exercițiile 1–4, „Pressure Test", „Pick One"); „Fictional Case Study: Soft Scrubs Co."; „Your Customer Toolbox"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0530-opt-arhetipuri-zeite-ofera-o-alternativa-feminina-la-cele|BRD-0530]] _aplicare_ — Opt arhetipuri-zeițe oferă o alternativă feminină la cele 12 arhetipuri jungiene
+- [[BRD-0533-cazul-billie-a-arata-ce-ascunde-categoria-transforma-un|BRD-0533]] _exemplu_ — Cazul Billie: a arăta ce ascunde categoria transformă un tabu în poziționare
+- [[SRC-016-the-goddess-guide-to-branding-jane-mccarthy|SRC-016]] — Goddess Guide to Branding
+<!-- backlinks:end -->

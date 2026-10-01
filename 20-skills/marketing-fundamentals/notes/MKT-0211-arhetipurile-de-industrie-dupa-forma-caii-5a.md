@@ -53,10 +53,19 @@ Hipmunk (agenție de turism online, categorie „peștișor auriu") publică rev
 
 ## Legături
 
-- **fundament** [[MKT-0210]] — arhetipurile sunt forme ale căii 5A.
-- **fundament** [[ADV-0202]] — se bazează pe ratele de conversie și pe statisticile BAR.
-- **vezi** [[DIG-0201]] — omnichannel-ul e remediul pentru angajamentul mic din trompetă și pâlnie.
+- **fundament** [[MKT-0210-calea-clientului-5a-aware-appeal-ask-act-advocate|MKT-0210]] — arhetipurile sunt forme ale căii 5A.
+- **fundament** [[ADV-0202-par-si-bar-masoara-conversia-notorietatii-in-cumparare-si-recomandare|ADV-0202]] — se bazează pe ratele de conversie și pe statisticile BAR.
+- **vezi** [[DIG-0201-omnichannel-harta-touchpoint-scenarii-critice-silozuri|DIG-0201]] — omnichannel-ul e remediul pentru angajamentul mic din trompetă și pâlnie.
 
 ## Surse
 
-- [[SRC-004]] Kotler, Kartajaya, Setiawan, *Marketing 4.0*, cap. 7 „Industry Archetypes and Best Practices" (Fig. 7.1-7.4)
+- [[SRC-004-marketing-4-0-philip-kotler|SRC-004]] Kotler, Kartajaya, Setiawan, *Marketing 4.0*, cap. 7 „Industry Archetypes and Best Practices" (Fig. 7.1-7.4)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0202-par-si-bar-masoara-conversia-notorietatii-in-cumparare-si-recomandare|ADV-0202]] _aplicare_ — PAR și BAR măsoară productivitatea marketingului — cât din notorietate devine cumpărare și recomandare
+- [[DIG-0201-omnichannel-harta-touchpoint-scenarii-critice-silozuri|DIG-0201]] _vezi_ — Marketingul omnichannel cere harta punctelor de contact, concentrarea pe scenariile critice și spargerea silozurilor
+- [[MKT-0210-calea-clientului-5a-aware-appeal-ask-act-advocate|MKT-0210]] _aplicare_ — Calea clientului 5A — aware, appeal, ask, act, advocate — înlocuiește pâlnia AIDA în lumea conectată
+- [[SRC-004-marketing-4-0-philip-kotler|SRC-004]] — Marketing 4.0: Moving from Traditional to Digital
+<!-- backlinks:end -->

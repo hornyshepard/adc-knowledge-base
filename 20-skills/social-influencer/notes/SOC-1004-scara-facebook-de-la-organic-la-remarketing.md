@@ -48,12 +48,24 @@ Schwarz-Musch și colegii (SRC-032) explică de ce scara nu se oprește la organ
 
 ## Legături
 
-- **vezi** [[SOC-1006]] — cum arată concret o campanie în ad manager.
-- **vezi** [[DIG-1035]] — remarketingul, ultima treaptă.
-- **vezi** [[SOC-1005]] — concursurile, motorul treptei de lead-uri.
-- **vezi** [[SOC-1003]] — grupul, instrumentul de engagement cel mai personal.
+- **vezi** [[SOC-1006-ad-managerele-sociale-au-aceeasi-anatomie|SOC-1006]] — cum arată concret o campanie în ad manager.
+- **vezi** [[DIG-1035-retargetingul-eficient-in-era-cookie-expus-dupa|DIG-1035]] — remarketingul, ultima treaptă.
+- **vezi** [[SOC-1005-concursurile-sociale-efort-versus-implicare|SOC-1005]] — concursurile, motorul treptei de lead-uri.
+- **vezi** [[SOC-1003-focurile-de-tabara-digitale-comunitati-mici-private|SOC-1003]] — grupul, instrumentul de engagement cel mai personal.
 
 ## Surse
 
-- [[SRC-033]] Bharat Bhuval Nishad, *Facebook Marketing & Facebook Ads Beginner To Pro*, secț. 5–8, 12–16, 23
-- [[SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 3.1 (p. 100–101)
+- [[SRC-033-facebook-marketing|SRC-033]] Bharat Bhuval Nishad, *Facebook Marketing & Facebook Ads Beginner To Pro*, secț. 5–8, 12–16, 23
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 3.1 (p. 100–101)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-1035-retargetingul-eficient-in-era-cookie-expus-dupa|DIG-1035]] _vezi_ — Retargetingul a fost cea mai eficientă tactică a erei cookie și este cea mai expusă după ea — funcționează doar cu urmărire consimțită, pixeli necesari și plafoane de frecvență
+- [[SOC-1003-focurile-de-tabara-digitale-comunitati-mici-private|SOC-1003]] _vezi_ — Conversația se mută în „focuri de tabără digitale", comunități mici și private, iar brandul intră în ele ca gazdă utilă, nu ca vânzător
+- [[SOC-1005-concursurile-sociale-efort-versus-implicare|SOC-1005]] _vezi_ — Concursurile de pe social se aleg după efortul cerut — participarea ușoară aduce mulți oameni, participarea grea aduce mai puțini, dar mai legați de brand
+- [[SOC-1006-ad-managerele-sociale-au-aceeasi-anatomie|SOC-1006]] _vezi_ — Ad managerele platformelor sociale au aceeași anatomie — obiectiv, format, previzualizare, public și persona, durată, buget zilnic, estimare de rezultate, cost
+- [[SOC-1008-orele-optime-de-postare-vs-datele-propriului-public|SOC-1008]] _contrazice_ — „Orele optime de postare" universale sunt o scurtătură slabă — calendarul se construiește din datele propriului public și din teste
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] — Digital Advertising in the Post-cookie Era: Strategic Campaign Planning Across the Customer Journey
+- [[SRC-033-facebook-marketing|SRC-033]] — Facebook Marketing & Facebook Ads Beginner To Pro
+<!-- backlinks:end -->

@@ -43,11 +43,20 @@ Canadian Club: „Nu doar te muți, urci" (imagine) vs. „Când vine vorba de g
 
 ## Legături
 
-- **vezi** [[INS-0428]] — scopurile utilitar, de autoexprimare și hedonic ale produselor.
-- **vezi** [[INS-0409]] — potrivirea mesajului cu schema de sine.
-- **vezi** [[ADV-0402]] — grila FCB împarte și ea produsele în „gândire" și „simțire".
-- **vezi** [[INS-0430]] — nevoia de cogniție moderează ruta de persuasiune.
+- **vezi** [[INS-0428-produsele-servesc-patru-scopuri|INS-0428]] — scopurile utilitar, de autoexprimare și hedonic ale produselor.
+- **vezi** [[INS-0409-mesajul-potrivit-cu-schema-de-sine-e-citit-atent|INS-0409]] — potrivirea mesajului cu schema de sine.
+- **vezi** [[ADV-0402-grilele-fcb-si-rossiter-percy|ADV-0402]] — grila FCB împarte și ea produsele în „gândire" și „simțire".
+- **vezi** [[INS-0430-persuasiunea-pe-ruta-centrala-sau-periferica|INS-0430]] — nevoia de cogniție moderează ruta de persuasiune.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 1, p. 5-6, 24-27; cap. 4, p. 178-180
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 1, p. 5-6, 24-27; cap. 4, p. 178-180
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0402-grilele-fcb-si-rossiter-percy|ADV-0402]] _vezi_ — Grilele FCB și Rossiter-Percy combină implicarea cu tipul de motivație, dar tratează greșit implicarea ca atribut al produsului
+- [[INS-0409-mesajul-potrivit-cu-schema-de-sine-e-citit-atent|INS-0409]] _vezi_ — Un mesaj încadrat pe măsura imaginii de sine a cititorului e procesat mai atent
+- [[INS-0428-produsele-servesc-patru-scopuri|INS-0428]] _vezi_ — Produsele servesc patru scopuri — utilitar, de autoexprimare, de construire a identității și hedonic — iar mesajul trebuie să lovească scopul potrivit
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

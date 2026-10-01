@@ -47,10 +47,20 @@ Semnificația unei luni din calendar depinde de cultură: august înseamnă vaca
 
 ## Legături
 
-- **extinde** [[EXP-1201]] — detaliază al șaptelea E al mixului.
-- **contrazice** [[EXP-1206]] — critică parcursul liniar în etape și îl înlocuiește cu o hartă iterativă.
-- **vezi** [[INS-1210]] — etnografia este instrumentul principal al perspectivei emice.
+- **extinde** [[EXP-1201-mixul-experiential-7e-inlocuieste-cei-7p|EXP-1201]] — detaliază al șaptelea E al mixului.
+- **contrazice** [[EXP-1206-experienta-in-patru-etape-pre-consum-amintire|EXP-1206]] — critică parcursul liniar în etape și îl înlocuiește cu o hartă iterativă.
+- **vezi** [[INS-1210-etnografia-experientiala-socializare-colaborare|INS-1210]] — etnografia este instrumentul principal al perspectivei emice.
 
 ## Surse
 
-- [[SRC-036]] Wided Batat, *Experiential Marketing*, cap. 10 (Tabelul 10.1; Theory Boxes 10.1–10.5; Figura 10.1); cap. 2, secț. „Symbolic experience"
+- [[SRC-036-experiential-marketing|SRC-036]] Wided Batat, *Experiential Marketing*, cap. 10 (Tabelul 10.1; Theory Boxes 10.1–10.5; Figura 10.1); cap. 2, secț. „Symbolic experience"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[EXP-1201-mixul-experiential-7e-inlocuieste-cei-7p|EXP-1201]] _vezi_ — Mixul de marketing experiențial (7E) înlocuiește cei 7P cu decizii centrate pe experiența clientului
+- [[EXP-1206-experienta-in-patru-etape-pre-consum-amintire|EXP-1206]] _vezi_ — Experiența se desfășoară în patru etape — pre-consum, cumpărare, nucleu, amintire — și fiecare se proiectează separat
+- [[INS-1207-semiotica-decodeaza-sensul-cultural-al-consumului|INS-1207]] _vezi_ — Semiotica decodează semnele unei categorii ca să găsească sensul cultural pe care consumatorii nu îl pot spune
+- [[INS-1210-etnografia-experientiala-socializare-colaborare|INS-1210]] _aplicare_ — Etnografia experiențială lucrează cu consumatorii, nu asupra lor — socializare, colaborare, auto-confruntare
+- [[SRC-036-experiential-marketing|SRC-036]] — Experiential Marketing: Consumer Behavior, Customer Experience and the 7Es
+<!-- backlinks:end -->

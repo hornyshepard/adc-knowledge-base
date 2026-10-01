@@ -49,12 +49,19 @@ Campania „Stop Hate for Profit", în care Microsoft, Starbucks, Pfizer, Unilev
 
 ## Legături
 
-- **extinde** [[MKT-0206]] — 3.0 vedea în baza piramidei o piață; 5.0 vede în polarizare o constrângere de poziționare.
-- **vezi** [[MKT-0204]] — transformarea socio-culturală e răspunsul de business la polarizare.
-- **contrazice** [[BRD-0205]] — brandurile culturale profită de paradoxuri, nu le neutralizează; polarizarea ideologică le face mai riscante.
-- **contrazice** [[MKT-0216]] — dezbaterea despre purpose: diferențiator în 3.0, factor de igienă în 5.0.
+- **extinde** [[MKT-0206-intreprinderea-sociala-la-baza-piramidei-marketing-mix-reproiectat|MKT-0206]] — 3.0 vedea în baza piramidei o piață; 5.0 vede în polarizare o constrângere de poziționare.
+- **vezi** [[MKT-0204-filantropie-cause-marketing-transformare-socio-culturala|MKT-0204]] — transformarea socio-culturală e răspunsul de business la polarizare.
+- **contrazice** [[BRD-0205-brandurile-culturale-rezolva-paradoxurile-si-anxietatile-colective|BRD-0205]] — brandurile culturale profită de paradoxuri, nu le neutralizează; polarizarea ideologică le face mai riscante.
+- **contrazice** [[MKT-0216-seria-kotler-x-0-isi-revizuieste-propriile-idei|MKT-0216]] — dezbaterea despre purpose: diferențiator în 3.0, factor de igienă în 5.0.
 
 ## Surse
 
-- [[SRC-005]] Kotler, Kartajaya, Setiawan, *Marketing 5.0*, cap. 3 „Prosperity Polarization: Creating Inclusivity and Sustainability for Society" (Fig. 3.1-3.4)
-- [[SRC-003]] Kotler, Kartajaya, Setiawan, *Marketing 3.0*, cap. 6, p. 122-124
+- [[SRC-005-marketing-5-0-philip-kotler|SRC-005]] Kotler, Kartajaya, Setiawan, *Marketing 5.0*, cap. 3 „Prosperity Polarization: Creating Inclusivity and Sustainability for Society" (Fig. 3.1-3.4)
+- [[SRC-003-marketing-3-0-philip-kotler|SRC-003]] Kotler, Kartajaya, Setiawan, *Marketing 3.0*, cap. 6, p. 122-124
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[MKT-0216-seria-kotler-x-0-isi-revizuieste-propriile-idei|MKT-0216]] _contrazice_ — Seria Kotler X.0 își revizuiește propriile idei — segmentarea, rolul purpose-ului și raportul online–offline se schimbă de la o carte la alta
+- [[SRC-005-marketing-5-0-philip-kotler|SRC-005]] — Marketing 5.0: Technology for Humanity
+<!-- backlinks:end -->

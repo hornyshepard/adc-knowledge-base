@@ -44,10 +44,21 @@ O agenție care vrea să lucreze cu un retailer trimite într-un an: o analiză 
 
 ## Legături
 
-- **fundament** [[CLI-1401]] — fiecare atingere urmărește doar pasul următor, întâlnirea.
-- **extinde** [[CLI-1403]] — cea mai eficientă atingere e adesea o introducere făcută de un contact comun.
-- **vezi** [[PIT-1403]] — selecția clienților-țintă presupune aceeași judecată despre potrivire.
+- **fundament** [[CLI-1401-stage-selling-vinde-doar-pasul-urmator|CLI-1401]] — fiecare atingere urmărește doar pasul următor, întâlnirea.
+- **extinde** [[CLI-1403-introducerea-in-trei-deschide-usi|CLI-1403]] — cea mai eficientă atingere e adesea o introducere făcută de un contact comun.
+- **vezi** [[PIT-1403-intrebarea-de-examen-si-dreptul-de-a-refuza|PIT-1403]] — selecția clienților-țintă presupune aceeași judecată despre potrivire.
 
 ## Surse
 
-- [[SRC-045]] Bharat Bhuval Nishad, *The Complete Guide to B2B Sales Success*, „The Dream 100”, „Intention in B2B Sales”
+- [[SRC-045-b2b-sales-manual|SRC-045]] Bharat Bhuval Nishad, *The Complete Guide to B2B Sales Success*, „The Dream 100”, „Intention in B2B Sales”
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CLI-1401-stage-selling-vinde-doar-pasul-urmator|CLI-1401]] _vezi_ — Stage selling — fiecare etapă a vânzării vinde doar etapa următoare
+- [[CLI-1403-introducerea-in-trei-deschide-usi|CLI-1403]] _aplicare_ — Introducerea în trei deschide uși pe care apelul rece nu le deschide
+- [[CLI-1405-prospectarea-joc-de-consistenta|CLI-1405]] _vezi_ — Prospectarea este un joc de consistență în care se numără activitatea, nu răspunsurile
+- [[PIT-1403-intrebarea-de-examen-si-dreptul-de-a-refuza|PIT-1403]] _vezi_ — Înainte de orice pitch definește „întrebarea de examen” și decide dacă merită să participi
+- [[PRT-1419-portofoliul-nu-se-gaseste-singur-targetare-si-doi-pasi|PRT-1419]] _vezi_ — Portofoliul nu se găsește singur — targetare proactivă, „cei doi pași” și măsurarea răspunsului
+- [[SRC-045-b2b-sales-manual|SRC-045]] — The Complete Guide to B2B Sales Success: Effective Strategies for Lead Generation, Sales Processes, and Closing
+<!-- backlinks:end -->

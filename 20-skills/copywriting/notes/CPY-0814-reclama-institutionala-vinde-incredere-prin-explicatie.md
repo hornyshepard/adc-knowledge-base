@@ -44,11 +44,19 @@ Alte variante ale aceluiași gen:
 
 ## Legături
 
-- **vezi** [[HIS-0809]] — Ad Council și reclamele de idei din vreme de război.
-- **exemplu** [[CPY-0809]] — titlul Boston & Maine a fost găsit într-o replică de birou.
-- **vezi** [[HIS-0822]] — reclama Willkie, instituțională, cu efect politic.
-- **vezi** [[CLI]] — relația cu clientul-companie, nu doar cu produsul.
+- **vezi** [[HIS-0809-razboaiele-mondiale-au-facut-din-reclama-arma-de-opinie|HIS-0809]] — Ad Council și reclamele de idei din vreme de război.
+- **exemplu** [[CPY-0809-titlurile-bune-sunt-gasite-nu-inventate|CPY-0809]] — titlul Boston & Maine a fost găsit într-o replică de birou.
+- **vezi** [[HIS-0822-reclama-politica-a-invatat-de-la-cea-comerciala|HIS-0822]] — reclama Willkie, instituțională, cu efect politic.
+- **vezi** [[20-skills/client-business/SKILL|CLI]] — relația cu clientul-companie, nu doar cu produsul.
 
 ## Surse
 
-- [[SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „American Tel. & Tel.”, „Squibb”, „B B D & O — Brown’s Job”, „I. C. S. — The University of the Night”, „The Ayer House Ads”, „Young & Rubicam — Impact”, „Royal Typewriter”, „Boston & Maine”, „U. S. Steel”, „Warner & Swasey”, „Southern Pacific Railroad”
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „American Tel. & Tel.”, „Squibb”, „B B D & O — Brown’s Job”, „I. C. S. — The University of the Night”, „The Ayer House Ads”, „Young & Rubicam — Impact”, „Royal Typewriter”, „Boston & Maine”, „U. S. Steel”, „Warner & Swasey”, „Southern Pacific Railroad”
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[HIS-0809-razboaiele-mondiale-au-facut-din-reclama-arma-de-opinie|HIS-0809]] _vezi_ — Războaiele mondiale au transformat publicitatea dintr-un instrument de comerț într-o armă de opinie publică
+- [[HIS-0822-reclama-politica-a-invatat-de-la-cea-comerciala|HIS-0822]] _vezi_ — Reclama politică a învățat de la cea comercială — de la spoturile lui Eisenhower la „Daisy"
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] — The 100 Greatest Advertisements 1852–1958: Who Wrote Them and What They Did
+<!-- backlinks:end -->

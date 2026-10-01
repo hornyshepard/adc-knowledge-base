@@ -50,10 +50,20 @@ Un client cere „o campanie 360°, fără presă, cu prezență puternică pe s
 
 ## Legături
 
-- **aplicare** [[ADV-0603]] — copy strategy-ul validat e inima brief-ului creativ.
-- **fundament** [[ADV-0613]] — brief-ul trebuie să ducă la o singură problemă de comunicare.
-- **vezi** [[PIT-0601]] — după brief vine recomandarea prezentată clientului.
+- **aplicare** [[ADV-0603-copy-strategy-fixeaza-beneficiul-dovada-si-tonul|ADV-0603]] — copy strategy-ul validat e inima brief-ului creativ.
+- **fundament** [[ADV-0613-problema-de-comunicare-e-una-singura-notorietate-imagine-sau|ADV-0613]] — brief-ul trebuie să ducă la o singură problemă de comunicare.
+- **vezi** [[PIT-0601-recomandarea-de-agentie-arata-alegerea-nu-drumul|PIT-0601]] — după brief vine recomandarea prezentată clientului.
 
 ## Surse
 
-- [[SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 1 (p. 12–15), outil 2 (p. 16–17)
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 1 (p. 12–15), outil 2 (p. 16–17)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0603-copy-strategy-fixeaza-beneficiul-dovada-si-tonul|ADV-0603]] _vezi_ — Copy strategy (P&G) fixează în scris obiectivul, beneficiul cu dovada lui și tonul — nu execuția
+- [[ADV-0613-problema-de-comunicare-e-una-singura-notorietate-imagine-sau|ADV-0613]] _vezi_ — Problema de comunicare e una singură — de notorietate, de imagine sau de comportament, niciodată toate trei deodată
+- [[ADV-0620-planning-strategic-transforma-informatia-intr-un-unghi|ADV-0620]] _vezi_ — Planning-ul strategic transformă o compilație de informații într-un unghi de vedere — veghe, semnale slabe, sinteză
+- [[PIT-0601-recomandarea-de-agentie-arata-alegerea-nu-drumul|PIT-0601]] _vezi_ — Recomandarea de agenție („reco") arată de ce s-a ales o soluție, nu drumul întortocheat până la ea
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] — La boîte à outils de la publicité
+<!-- backlinks:end -->

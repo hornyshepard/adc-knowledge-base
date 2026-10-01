@@ -51,10 +51,18 @@ Mecanismul: perturbarea funcționează ca distragere ușoară (fără a „trezi
 
 ## Legături
 
-- **fundament** [[INS-0441]] — funcționează prin reducerea atenției critice.
-- **vezi** [[INS-0440]] — confuzia, al șaptelea principiu de influență.
-- **fundament** [[INS-0430]] — distragerea reduce contraargumentarea în teoriile duale.
+- **fundament** [[INS-0441-un-motiv-oarecare-ajuta-la-cereri-mici|INS-0441]] — funcționează prin reducerea atenției critice.
+- **vezi** [[INS-0440-sapte-principii-de-influenta-fara-schimbarea-atitudinii|INS-0440]] — confuzia, al șaptelea principiu de influență.
+- **fundament** [[INS-0430-persuasiunea-pe-ruta-centrala-sau-periferica|INS-0430]] — distragerea reduce contraargumentarea în teoriile duale.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 7, p. 336-339
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 7, p. 336-339
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[INS-0440-sapte-principii-de-influenta-fara-schimbarea-atitudinii|INS-0440]] _vezi_ — Conformarea fără schimbarea atitudinii se obține prin șapte principii de influență (Cialdini plus confuzia)
+- [[INS-0441-un-motiv-oarecare-ajuta-la-cereri-mici|INS-0441]] _vezi_ — La cereri mici, orice „pentru că" funcționează; la cereri mari, doar motivele reale (lipsa de atenție în conformare)
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

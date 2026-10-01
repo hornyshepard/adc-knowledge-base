@@ -44,10 +44,20 @@ Studiul de caz Threadless arată același mecanism la scară: comunitatea propun
 
 ## Legături
 
-- **vezi** [[SOC-0301]] — Threadless: creativitate distribuită într-o comunitate.
-- **vezi** [[CLI-0301]] — „ideile vin de oriunde" ca forță care schimbă agenția (cazul Whit Hiler).
-- **vezi** [[MKT-0303]] — supraîncrederea în propriile forțe este și ea un bias.
+- **vezi** [[SOC-0301-threadless-clientul-este-compania|SOC-0301]] — Threadless: creativitate distribuită într-o comunitate.
+- **vezi** [[CLI-0301-agentia-viitorului-sase-forte-care-ii-muta-modelul|CLI-0301]] — „ideile vin de oriunde" ca forță care schimbă agenția (cazul Whit Hiler).
+- **vezi** [[MKT-0303-strategiile-esueaza-din-cauza-biasurilor|MKT-0303]] — supraîncrederea în propriile forțe este și ea un bias.
 
 ## Surse
 
-- [[SRC-007]] H. von Scheel et al., *Strategy in the Age of Disruption*, cap. 8, p. 305–308
+- [[SRC-007-strategy-in-the-age-of-disruption|SRC-007]] H. von Scheel et al., *Strategy in the Age of Disruption*, cap. 8, p. 305–308
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0302-reclama-incluziva-ton-limbaj-reprezentare|ADV-0302]] _vezi_ — Reclama incluzivă se verifică pe trei axe — ton, limbaj, reprezentare — înainte de publicare
+- [[CLI-0301-agentia-viitorului-sase-forte-care-ii-muta-modelul|CLI-0301]] _vezi_ — Agenția viitorului: șase forțe care îi schimbă modelul de afaceri
+- [[MKT-0316-echipa-de-marketing-think-do-feel-si-orchestratorul|MKT-0316]] _vezi_ — Echipa de marketing se compune din trei tipuri de talente — think, do, feel — coordonate de un orchestrator
+- [[SOC-0301-threadless-clientul-este-compania|SOC-0301]] _vezi_ — Threadless: comunitatea propune, votează și cumpără — clientul devine compania
+- [[SRC-007-strategy-in-the-age-of-disruption|SRC-007]] — Strategy in the Age of Disruption: A Handbook to Anticipate Change and Make Smart Decisions
+<!-- backlinks:end -->

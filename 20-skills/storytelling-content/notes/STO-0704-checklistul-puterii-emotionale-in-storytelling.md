@@ -45,15 +45,25 @@ Argumentele lor: cercetarea lui Jonah Berger arată că emoțiile cu activare ma
 ## Întrebări
 
 - Testul „aș distribui-o eu?" e subiectiv. Cum îl transformi într-un pretest cu ținta?
-- Emoțiile negative (furia) cresc distribuirea. Ce risc aduc brandului (vezi [[IDE-0710]])?
+- Emoțiile negative (furia) cresc distribuirea. Ce risc aduc brandului (vezi [[IDE-0710-dezbatere-socul-arma-de-atentie-sau-risc|IDE-0710]])?
 
 ## Legături
 
-- **contrazice** [[BRF-0708]] — McTigue și Rucker nu acceptă că emoționalul e automat superior.
-- **vezi** [[BRF-0707]] — o emoție dominantă, cum spune brief-ul: un singur beneficiu.
-- **extinde** [[STO-0702]] — arcul narativ e punctul 3 al listei.
-- **vezi** [[STO-0703]] — surpriza emoțională întărește impactul.
+- **contrazice** [[BRF-0708-dezbatere-beneficiul-emotional-nu-e-automat-superior|BRF-0708]] — McTigue și Rucker nu acceptă că emoționalul e automat superior.
+- **vezi** [[BRF-0707-un-singur-beneficiu-nu-cinci|BRF-0707]] — o emoție dominantă, cum spune brief-ul: un singur beneficiu.
+- **extinde** [[STO-0702-formula-cow-b-t-si-structura-in-trei-acte|STO-0702]] — arcul narativ e punctul 3 al listei.
+- **vezi** [[STO-0703-curiozitatea-si-surpriza-emotionala-tin-publicul|STO-0703]] — surpriza emoțională întărește impactul.
 
 ## Surse
 
-- [[SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 4 „Can You Feel It? Brand Affinity"
+- [[SRC-025-shareworthy|SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 4 „Can You Feel It? Brand Affinity"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRF-0707-un-singur-beneficiu-nu-cinci|BRF-0707]] _vezi_ — Un singur beneficiu, nu cinci — poziționarea supraîncărcată blochează ideea creativă
+- [[BRF-0708-dezbatere-beneficiul-emotional-nu-e-automat-superior|BRF-0708]] _contrazice_ — Dezbatere — beneficiul emoțional nu e automat superior celui funcțional
+- [[STO-0702-formula-cow-b-t-si-structura-in-trei-acte|STO-0702]] _vezi_ — Formula C.O.W. + B → T — protagonist, obstacol, dorință, plus brandul, duc la transformare, de obicei în trei acte
+- [[STO-0703-curiozitatea-si-surpriza-emotionala-tin-publicul|STO-0703]] _vezi_ — Curiozitatea din prima secundă și surpriza emoțională țin publicul până la capăt
+- [[SRC-025-shareworthy|SRC-025]] — Shareworthy: Advertising That Creates Powerful Connections Through Storytelling
+<!-- backlinks:end -->

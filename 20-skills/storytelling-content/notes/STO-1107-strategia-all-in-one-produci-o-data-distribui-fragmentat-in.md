@@ -48,12 +48,23 @@ The Boston Globe a scos peste 600 de articole, timp de ani, dintr-o singură inv
 
 ## Legături
 
-- **fundament** [[STO-1102]] — momentul anatomic e al doilea pas al strategiei.
-- **exemplu** [[SOC-1109]] — campaniile FMD sunt modelul din care s-a născut strategia.
-- **vezi** [[DIG-1101]] — story journey-ul trebuie să ducă utilizatorul pe drumul cel mai scurt spre conversie.
-- **vezi** [[STO-1108]] — story DNA-ul definit la început leagă toate fragmentele.
-- **vezi** [[SOC-1126]] — rolul fiecărei platforme decide ce fragment ajunge unde.
+- **fundament** [[STO-1102-anatomia-povestii-alegi-momentul-dramatic-care-spune|STO-1102]] — momentul anatomic e al doilea pas al strategiei.
+- **exemplu** [[SOC-1109-fmd-influencerii-raporteaza-live-echipa-produce-formatele|SOC-1109]] — campaniile FMD sunt modelul din care s-a născut strategia.
+- **vezi** [[DIG-1101-customer-journey-ul-digital-trebuie-scurtat-fiecare-pas-e-o|DIG-1101]] — story journey-ul trebuie să ducă utilizatorul pe drumul cel mai scurt spre conversie.
+- **vezi** [[STO-1108-story-dna-o-singura-metafora-centrala-aplicata-pe-toate|STO-1108]] — story DNA-ul definit la început leagă toate fragmentele.
+- **vezi** [[SOC-1126-fiecare-platforma-are-un-rol-diferit-in-influencer-marketing|SOC-1126]] — rolul fiecărei platforme decide ce fragment ajunge unde.
 
 ## Surse
 
-- [[SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 1.2.3, p. 31–33; cap. 2.1.4 și 2.6, p. 67, 85–89; cap. 5.2.3–5.4.3, p. 244–255; cap. 6.1, p. 259
+- [[SRC-034-social-media-storytelling|SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 1.2.3, p. 31–33; cap. 2.1.4 și 2.6, p. 67, 85–89; cap. 5.2.3–5.4.3, p. 244–255; cap. 6.1, p. 259
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-1101-customer-journey-ul-digital-trebuie-scurtat-fiecare-pas-e-o|DIG-1101]] _aplicare_ — Customer journey-ul digital trebuie scurtat: fiecare pas e o barieră
+- [[SOC-1109-fmd-influencerii-raporteaza-live-echipa-produce-formatele|SOC-1109]] _exemplu_ — FMD: influencerii raportează live, echipa produce formatele lungi
+- [[SOC-1126-fiecare-platforma-are-un-rol-diferit-in-influencer-marketing|SOC-1126]] _vezi_ — Fiecare platformă are un rol diferit în influencer marketing
+- [[STO-1102-anatomia-povestii-alegi-momentul-dramatic-care-spune|STO-1102]] _aplicare_ — Anatomia poveștii: alegi momentul dramatic care spune întregul
+- [[STO-1108-story-dna-o-singura-metafora-centrala-aplicata-pe-toate|STO-1108]] _aplicare_ — Story DNA: o singură metaforă centrală aplicată pe toate straturile
+- [[SRC-034-social-media-storytelling|SRC-034]] — Social Media Storytelling
+<!-- backlinks:end -->

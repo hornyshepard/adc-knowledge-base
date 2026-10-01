@@ -40,11 +40,21 @@ Un pitch de vânzare care cere direct un buget de un milion se construiește alt
 
 ## Legături
 
-- **fundament** [[PIT-1406]] — obiectivul vizualizat în Discover devine aici cerere explicită.
-- **fundament** [[PIT-1407]] — este intenția „Do”.
-- **aplicare** [[PIT-1417]] — „Ask” din S.A.L.T. repetă cererea la final.
-- **vezi** [[CLI-1401]] — stage selling aplică aceeași logică întregii pâlnii de vânzare B2B.
+- **fundament** [[PIT-1406-see-it-feel-it-say-it-obiectivul-pitch-ului|PIT-1406]] — obiectivul vizualizat în Discover devine aici cerere explicită.
+- **fundament** [[PIT-1407-know-feel-do-why-now|PIT-1407]] — este intenția „Do”.
+- **aplicare** [[PIT-1417-incheierea-salt-si-regula-peak-end|PIT-1417]] — „Ask” din S.A.L.T. repetă cererea la final.
+- **vezi** [[CLI-1401-stage-selling-vinde-doar-pasul-urmator|CLI-1401]] — stage selling aplică aceeași logică întregii pâlnii de vânzare B2B.
 
 ## Surse
 
-- [[SRC-043]] Dominic Colenso, *Cut-Through*, cap. 2 („Don't be afraid to ask”)
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] Dominic Colenso, *Cut-Through*, cap. 2 („Don't be afraid to ask”)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CLI-1401-stage-selling-vinde-doar-pasul-urmator|CLI-1401]] _vezi_ — Stage selling — fiecare etapă a vânzării vinde doar etapa următoare
+- [[PIT-1406-see-it-feel-it-say-it-obiectivul-pitch-ului|PIT-1406]] _extinde_ — Obiectivul unui pitch se vizualizează, se simte și abia apoi se spune în sub zece cuvinte
+- [[PIT-1407-know-feel-do-why-now|PIT-1407]] _extinde_ — Intenția unei prezentări răspunde la patru întrebări — Know, Feel, Do și Why now
+- [[PIT-1417-incheierea-salt-si-regula-peak-end|PIT-1417]] _fundament_ — Încheierea S.A.L.T. controlează ultima impresie, conform regulii peak-end
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] — Cut-Through: The pitch and presentation playbook
+<!-- backlinks:end -->

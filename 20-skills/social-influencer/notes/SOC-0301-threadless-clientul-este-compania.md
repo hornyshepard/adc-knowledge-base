@@ -45,10 +45,19 @@ Concursul transformă artiștii în promotori. Fiecare participant își trimite
 
 ## Legături
 
-- **exemplu** [[MKT-0313]] — Threadless e cazul-școală de prosumare.
-- **vezi** [[IDE-0301]] — creativitatea distribuită contrazice mitul geniului solitar.
-- **vezi** [[CLI-0301]] — „ideile vin de oriunde" și „oamenii sunt canale media".
+- **exemplu** [[MKT-0313-prosumatorul-clientul-care-produce-o-parte-din-valoare|MKT-0313]] — Threadless e cazul-școală de prosumare.
+- **vezi** [[IDE-0301-geniul-e-un-sport-de-echipa-trei-mituri-ale-creativitatii|IDE-0301]] — creativitatea distribuită contrazice mitul geniului solitar.
+- **vezi** [[CLI-0301-agentia-viitorului-sase-forte-care-ii-muta-modelul|CLI-0301]] — „ideile vin de oriunde" și „oamenii sunt canale media".
 
 ## Surse
 
-- [[SRC-008]] Jon Wuebben, *Future Marketing: Winning in the Prosumer Age*, cap. 16
+- [[SRC-008-future-marketing|SRC-008]] Jon Wuebben, *Future Marketing: Winning in the Prosumer Age*, cap. 16
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CLI-0301-agentia-viitorului-sase-forte-care-ii-muta-modelul|CLI-0301]] _vezi_ — Agenția viitorului: șase forțe care îi schimbă modelul de afaceri
+- [[IDE-0301-geniul-e-un-sport-de-echipa-trei-mituri-ale-creativitatii|IDE-0301]] _vezi_ — Geniul e un sport de echipă: trei mituri ale creativității care blochează colaborarea
+- [[MKT-0313-prosumatorul-clientul-care-produce-o-parte-din-valoare|MKT-0313]] _vezi_ — Prosumatorul: clientul care produce o parte din valoare — pe care Kotler îl vedea, încă din 1986, ca segment de piață
+- [[SRC-008-future-marketing|SRC-008]] — Future Marketing: Winning in the Prosumer Age
+<!-- backlinks:end -->

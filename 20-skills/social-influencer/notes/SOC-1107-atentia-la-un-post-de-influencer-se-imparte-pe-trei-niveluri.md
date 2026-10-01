@@ -45,10 +45,19 @@ Postarea unui influencer despre un hotel de lux a avut vizualizări, like-uri ș
 
 ## Legături
 
-- **extinde** [[SOC-1108]] — modelul arată concret de ce like-urile nu sunt succes.
-- **vezi** [[SOC-1110]] — potrivirea de valori crește șansa ca atenția să ajungă la produs.
-- **vezi** [[SOC-1109]] — exemplele provin din campaniile de turism FMD.
+- **extinde** [[SOC-1108-like-urile-nu-sunt-succes-evaluezi-calatoria-nu-etapa|SOC-1108]] — modelul arată concret de ce like-urile nu sunt succes.
+- **vezi** [[SOC-1110-valorile-comune-conteaza-inaintea-reach-ului-in-alegerea|SOC-1110]] — potrivirea de valori crește șansa ca atenția să ajungă la produs.
+- **vezi** [[SOC-1109-fmd-influencerii-raporteaza-live-echipa-produce-formatele|SOC-1109]] — exemplele provin din campaniile de turism FMD.
 
 ## Surse
 
-- [[SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 6.2.1, p. 272; cap. 6.2.4 (S. Gottschalk), p. 277–280
+- [[SRC-034-social-media-storytelling|SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 6.2.1, p. 272; cap. 6.2.4 (S. Gottschalk), p. 277–280
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[SOC-1108-like-urile-nu-sunt-succes-evaluezi-calatoria-nu-etapa|SOC-1108]] _vezi_ — Like-urile nu sunt succes: evaluezi călătoria, nu etapa
+- [[SOC-1110-valorile-comune-conteaza-inaintea-reach-ului-in-alegerea|SOC-1110]] _vezi_ — Valorile comune contează înaintea reach-ului în alegerea creatorului
+- [[SOC-1116-semnalele-de-frauda-se-verifica-inainte-de-orice-contract|SOC-1116]] _vezi_ — Semnalele de fraudă se verifică înainte de orice contract cu un influencer
+- [[SRC-034-social-media-storytelling|SRC-034]] — Social Media Storytelling
+<!-- backlinks:end -->

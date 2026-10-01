@@ -44,10 +44,21 @@ Lindsey Vonn ridicând schiurile Head după victorie (p. 198): indiciu la o priv
 
 ## Legături
 
-- **fundament** [[INS-0430]] — rolurile multiple ale variabilelor în ELM.
-- **vezi** [[INS-0426]] — vedeta transferă și sensuri prin condiționare evaluativă.
-- **vezi** [[INS-0434]] — sursa cu interes evident activează cunoașterea persuasiunii.
+- **fundament** [[INS-0430-persuasiunea-pe-ruta-centrala-sau-periferica|INS-0430]] — rolurile multiple ale variabilelor în ELM.
+- **vezi** [[INS-0426-conditionarea-evaluativa-transfera-afect-si-sens|INS-0426]] — vedeta transferă și sensuri prin condiționare evaluativă.
+- **vezi** [[INS-0434-cunoasterea-persuasiunii-declanseaza-reactanta|INS-0434]] — sursa cu interes evident activează cunoașterea persuasiunii.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 1, p. 21-23; cap. 5, p. 210-213, 234-235
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 1, p. 21-23; cap. 5, p. 210-213, 234-235
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0405-sexul-atrage-privirea-dar-nu-vinde|CPY-0405]] _vezi_ — Sexul atrage privirea, dar nu vinde — scade chiar atitudinea față de brand, și la bărbați, și la femei
+- [[INS-0430-persuasiunea-pe-ruta-centrala-sau-periferica|INS-0430]] _extinde_ — Persuasiunea urmează ruta centrală sau periferică, în funcție de motivația și capacitatea de a procesa (ELM și HSM)
+- [[INS-0434-cunoasterea-persuasiunii-declanseaza-reactanta|INS-0434]] _vezi_ — Când publicul vede intenția de a-l convinge, poate face exact opusul (cunoașterea persuasiunii și reactanța)
+- [[INS-0440-sapte-principii-de-influenta-fara-schimbarea-atitudinii|INS-0440]] _vezi_ — Conformarea fără schimbarea atitudinii se obține prin șapte principii de influență (Cialdini plus confuzia)
+- [[INS-0442-increderea-online-depinde-de-focusul-reglator|INS-0442]] _vezi_ — Online, designul profesional construiește încrederea celor care caută câștiguri, iar semnalele de siguranță doar a celor care evită pierderi
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

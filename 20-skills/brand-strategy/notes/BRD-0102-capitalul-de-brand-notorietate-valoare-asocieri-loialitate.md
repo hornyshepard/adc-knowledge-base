@@ -48,11 +48,23 @@ Lacoste poate cere prețuri mai mari decât alte tricouri polo similare, inclusi
 
 ## Legături
 
-- **fundament** [[BRD-0101]] — elementele de brand sunt materia primă a notorietății și a asocierilor.
-- **vezi** [[MKT-0102]] — valoarea percepută aplică definiția valorii la nivel de brand.
-- **vezi** [[MKT-0105]] — loialitatea de brand se monetizează prin valoarea clientului pe durata vieții.
-- **aplicare** [[BRD-0104]] — extensiile valorifică capitalul de brand, dar îl pot și dilua.
+- **fundament** [[BRD-0101-brandul-scurteaza-decizia-si-protejeaza-de-concurenta|BRD-0101]] — elementele de brand sunt materia primă a notorietății și a asocierilor.
+- **vezi** [[MKT-0102-valoarea-este-ce-primesti-raportat-la-ce-dai|MKT-0102]] — valoarea percepută aplică definiția valorii la nivel de brand.
+- **vezi** [[MKT-0105-clientul-valoreaza-cat-relatia-nu-cat-tranzactia-clv|MKT-0105]] — loialitatea de brand se monetizează prin valoarea clientului pe durata vieții.
+- **aplicare** [[BRD-0104-extensia-de-brand-economiseste-dar-poate-dilua|BRD-0104]] — extensiile valorifică capitalul de brand, dar îl pot și dilua.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 11, p. 364-367 (Exhibit 11.5)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 11, p. 364-367 (Exhibit 11.5)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0101-brandul-scurteaza-decizia-si-protejeaza-de-concurenta|BRD-0101]] _extinde_ — Brandul ajută clientul să aleagă repede și protejează firma de concurența pe preț — prin elemente ușor de recunoscut
+- [[BRD-0104-extensia-de-brand-economiseste-dar-poate-dilua|BRD-0104]] _fundament_ — Extensia de brand economisește notorietate, dar poate dilua brandul — patru reguli o țin sub control
+- [[BRD-0105-repozitionarea-pentru-o-tendinta-reala-nu-o-moda|BRD-0105]] _vezi_ — Repoziționarea (rebranding) e scumpă și riscantă — merită pentru o tendință reală, nu pentru o modă (Old Spice, CoverGirl, WW)
+- [[MKT-0102-valoarea-este-ce-primesti-raportat-la-ce-dai|MKT-0102]] _vezi_ — Valoarea este ce primești raportat la ce dai, nu prețul mic
+- [[MKT-0105-clientul-valoreaza-cat-relatia-nu-cat-tranzactia-clv|MKT-0105]] _vezi_ — Clientul valorează cât relația, nu cât tranzacția — valoarea pe durata vieții (CLV)
+- [[MKT-0120-pretul-sacrificiu-total-fixat-prin-5c|MKT-0120]] _vezi_ — Prețul este sacrificiul total al clientului și se fixează prin cele 5C — obiective, clienți, costuri, concurență, canal
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+<!-- backlinks:end -->

@@ -47,11 +47,21 @@ Sachdev face calculul pe search: la un CPC mediu de 4 $, 100.000 $ pe Google în
 
 ## Legături
 
-- **vezi** [[DIG-1012]] — costul media depinde de modelul de plată ales.
-- **vezi** [[DIG-1027]] — frecvența planificată se impune prin plafonul de frecvență.
-- **vezi** [[BRF-1001]] — bugetul și calendarul sunt al patrulea bloc al brief-ului.
+- **vezi** [[DIG-1012-modelul-de-plata-media-urmeaza-obiectivul-si-etapa|DIG-1012]] — costul media depinde de modelul de plată ales.
+- **vezi** [[DIG-1027-brand-safety-viewability-si-plafonul-de-frecventa|DIG-1027]] — frecvența planificată se impune prin plafonul de frecvență.
+- **vezi** [[BRF-1001-briefingul-campaniei-digitale-patru-blocuri|BRF-1001]] — bugetul și calendarul sunt al patrulea bloc al brief-ului.
 
 ## Surse
 
-- [[SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 2.2.4 (p. 62–67)
-- [[SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 6 (p. 201–203)
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 2.2.4 (p. 62–67)
+- [[SRC-031-digital-marketing-manual|SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 6 (p. 201–203)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRF-1001-briefingul-campaniei-digitale-patru-blocuri|BRF-1001]] _vezi_ — Brief-ul pentru o campanie digitală are patru blocuri — situația de pornire, problema și obiectivele, ținta (cu persona și journey), bugetul și calendarul
+- [[DIG-1012-modelul-de-plata-media-urmeaza-obiectivul-si-etapa|DIG-1012]] _vezi_ — Modelul de plată media se alege după obiectiv și etapa din customer journey — CPM pentru notorietate, CPV/CPE pentru atracție, CPC/CPL pentru informare, CPA pentru cumpărare
+- [[DIG-1027-brand-safety-viewability-si-plafonul-de-frecventa|DIG-1027]] _vezi_ — Setările de calitate decid dacă impresiile plătite contează — brand safety, vizibilitate (viewability) și plafonul de frecvență
+- [[SRC-031-digital-marketing-manual|SRC-031]] — Digital Marketing
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] — Digital Advertising in the Post-cookie Era: Strategic Campaign Planning Across the Customer Journey
+<!-- backlinks:end -->

@@ -45,7 +45,7 @@ La final: aprobare cu semnătură și dată pentru SD/SP, AD/AE, PD, CD și clie
 
 - Folosește calendarul ca șablon pentru orice proiect de studiu: două revizii interne înaintea clientului.
 - Verifică dacă „end benefit" e cu adevărat al consumatorului (de exemplu „dorm liniștit") și nu un atribut („criptare").
-- Folosește „creative starters" cu grijă: o direcție de pornire, nu o reclamă scrisă (vezi [[BRF-0713]]).
+- Folosește „creative starters" cu grijă: o direcție de pornire, nu o reclamă scrisă (vezi [[BRF-0713-brief-ul-ingradeste-curtea|BRF-0713]]).
 
 ## Întrebări
 
@@ -54,10 +54,17 @@ La final: aprobare cu semnătură și dată pentru SD/SP, AD/AE, PD, CD și clie
 
 ## Legături
 
-- **vezi** [[BRF-0720]] — comparația cu celelalte formulare.
-- **vezi** [[BRF-0706]] — propunere, suport și beneficiu final reproduc treptele scării beneficiilor.
-- **vezi** [[CLI-0701]] — aprobările aliniate de la început.
+- **vezi** [[BRF-0720-comparatie-intre-modelele-de-brief-de-agentie|BRF-0720]] — comparația cu celelalte formulare.
+- **vezi** [[BRF-0706-scara-beneficiilor-si-cele-patru-criterii-ale-beneficiului|BRF-0706]] — propunere, suport și beneficiu final reproduc treptele scării beneficiilor.
+- **vezi** [[CLI-0701-clientul-bun-primeste-munca-buna|CLI-0701]] — aprobările aliniate de la început.
 
 ## Surse
 
-- [[SRC-023]] Modele de brief de agenție — Red Cell, „Creative brief", p. 1
+- [[SRC-023-modele-de-brief-de-agentie|SRC-023]] Modele de brief de agenție — Red Cell, „Creative brief", p. 1
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRF-0720-comparatie-intre-modelele-de-brief-de-agentie|BRF-0720]] _extinde_ — Modelele de brief de agenție au același nucleu, dar fiecare optimizează altceva — inspirația, concizia, contextul, procesul sau dovada
+- [[SRC-023-modele-de-brief-de-agentie|SRC-023]] — Modele de brief de agenție (Euro RSCG, Get/To/By, Naked, Red Cell, Singleton Ogilvy & Mather)
+<!-- backlinks:end -->

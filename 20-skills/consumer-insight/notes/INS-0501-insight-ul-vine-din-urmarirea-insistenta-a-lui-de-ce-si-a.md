@@ -45,10 +45,20 @@ TeamSnap a observat că voluntarii cluburilor sportive pentru copii retastau dat
 
 ## Legături
 
-- **vezi** [[ADV-0501]] — harta călătoriei clientului folosește aceleași întrebări despre nevoi, gânduri și comportamente.
-- **vezi** [[BRD-0522]] — întrebările deschise despre brand caută tot cuvintele reale ale oamenilor.
-- **aplicare** [[BRD-0503]] — insight-ul intră în descrierea țintei din declarația de poziționare.
+- **vezi** [[ADV-0501-calatoria-clientului-centrata-pe-consumator-sase-etape-trei|ADV-0501]] — harta călătoriei clientului folosește aceleași întrebări despre nevoi, gânduri și comportamente.
+- **vezi** [[BRD-0522-asocierile-de-brand-se-masoara-mai-onest-cu-intrebari|BRD-0522]] — întrebările deschise despre brand caută tot cuvintele reale ale oamenilor.
+- **aplicare** [[BRD-0503-declaratia-de-pozitionare-are-patru-elemente-tinta-cadru|BRD-0503]] — insight-ul intră în descrierea țintei din declarația de poziționare.
 
 ## Surse
 
-- [[SRC-014]] Bridgette Braig, „Digital Transformation and the Evolution of Customer Insights in Brand Building", cap. 13 în *Kellogg on Branding in a Hyper-Connected World*, p. 193–206
+- [[SRC-014-kellogg-on-branding|SRC-014]] Bridgette Braig, „Digital Transformation and the Evolution of Customer Insights in Brand Building", cap. 13 în *Kellogg on Branding in a Hyper-Connected World*, p. 193–206
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0501-calatoria-clientului-centrata-pe-consumator-sase-etape-trei|ADV-0501]] _vezi_ — Călătoria clientului centrată pe consumator: șase etape, trei întrebări
+- [[ADV-0502-mesajul-trebuie-incadrat-dupa-orientarea-de-promovare-sau|ADV-0502]] _vezi_ — Mesajul trebuie încadrat după orientarea de promovare sau de prevenție
+- [[BRD-0522-asocierile-de-brand-se-masoara-mai-onest-cu-intrebari|BRD-0522]] _vezi_ — Asocierile de brand se măsoară mai onest cu întrebări deschise
+- [[BRD-0533-cazul-billie-a-arata-ce-ascunde-categoria-transforma-un|BRD-0533]] _vezi_ — Cazul Billie: a arăta ce ascunde categoria transformă un tabu în poziționare
+- [[SRC-014-kellogg-on-branding|SRC-014]] — Kellogg on Branding in a Hyper-Connected World
+<!-- backlinks:end -->

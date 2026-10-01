@@ -45,10 +45,20 @@ Abercrombie & Fitch (mini-cazul 2.2) lucra pe patru simțuri: lumină difuză ca
 
 ## Legături
 
-- **vezi** [[EXP-1207]] — semnăturile senzoriale alimentează factorul atmosferic al imersiunii.
-- **vezi** [[EXP-1221]] — experiența web traduce cele cinci simțuri în mediul digital.
-- **vezi** [[EXP-1224]] — Badoit Express, cazul de marketing gustativ.
+- **vezi** [[EXP-1207-imersiunea-cinci-factori-servicescape|EXP-1207]] — semnăturile senzoriale alimentează factorul atmosferic al imersiunii.
+- **vezi** [[EXP-1221-sase-tipologii-ale-experientei-phygital|EXP-1221]] — experiența web traduce cele cinci simțuri în mediul digital.
+- **vezi** [[EXP-1224-caz-badoit-express-masa-gastronomica-in-metrou|EXP-1224]] — Badoit Express, cazul de marketing gustativ.
 
 ## Surse
 
-- [[SRC-036]] Wided Batat, *Experiential Marketing*, cap. 3, secț. „Sensory marketing" (mini-cazurile 3.10 Cineplex, 3.11 Intel, 3.12 Diesel, 3.13 Lush, 3.14 Badoit); cap. 2, mini-cazul 2.2 Abercrombie & Fitch
+- [[SRC-036-experiential-marketing|SRC-036]] Wided Batat, *Experiential Marketing*, cap. 3, secț. „Sensory marketing" (mini-cazurile 3.10 Cineplex, 3.11 Intel, 3.12 Diesel, 3.13 Lush, 3.14 Badoit); cap. 2, mini-cazul 2.2 Abercrombie & Fitch
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[EXP-1202-cadrul-cx-drivere-markeri-rezultate|EXP-1202]] _vezi_ — Experiența clientului e un proces cu drivere, markeri și rezultate (cadrul customer experience marketing)
+- [[EXP-1221-sase-tipologii-ale-experientei-phygital|EXP-1221]] _aplicare_ — Experiențele phygital au șase tipologii — conectată, web, VR/AR, socio-digitală, re-creativă, cyborg
+- [[EXP-1223-caz-coca-cola-happiness-factory-expo-shanghai|EXP-1223]] _vezi_ — Caz — pavilionul Coca-Cola de la Expo Shanghai 2010 transformă universul „Happiness Factory" într-un parcurs multisenzorial
+- [[EXP-1224-caz-badoit-express-masa-gastronomica-in-metrou|EXP-1224]] _exemplu_ — Caz — „Badoit Express" leagă o apă minerală de gastronomie printr-o cină surpriză în metroul din Paris
+- [[SRC-036-experiential-marketing|SRC-036]] — Experiential Marketing: Consumer Behavior, Customer Experience and the 7Es
+<!-- backlinks:end -->

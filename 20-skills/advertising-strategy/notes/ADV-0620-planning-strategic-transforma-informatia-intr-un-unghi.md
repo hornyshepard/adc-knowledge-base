@@ -46,10 +46,18 @@ Abilitățile cerute: curiozitate, cultură generală, capacitate de sinteză ș
 
 ## Legături
 
-- **vezi** [[INS-0602]] — insight-ul e rezultatul principal al muncii de planning.
-- **vezi** [[ADV-0619]] — tot planner-ul identifică convențiile pe care disruption-ul le rupe.
-- **vezi** [[BRF-0601]] — planning-ul completează și îmbogățește brief-ul clientului.
+- **vezi** [[INS-0602-insight-ul-e-o-dilema-a-consumatorului-pe-care-brandul-o-rezolva|INS-0602]] — insight-ul e rezultatul principal al muncii de planning.
+- **vezi** [[ADV-0619-disruption-conventie-ruptura-viziune|ADV-0619]] — tot planner-ul identifică convențiile pe care disruption-ul le rupe.
+- **vezi** [[BRF-0601-din-brief-ul-clientului-in-brief-ul-creativ|BRF-0601]] — planning-ul completează și îmbogățește brief-ul clientului.
 
 ## Surse
 
-- [[SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 4 (p. 20–23), outil 5 (p. 24–27), outil 56 (p. 178–179)
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 4 (p. 20–23), outil 5 (p. 24–27), outil 56 (p. 178–179)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0619-disruption-conventie-ruptura-viziune|ADV-0619]] _vezi_ — Disruption (Dru, BDDP) — identifici convenția categoriei, o rupi și propui o viziune
+- [[INS-0602-insight-ul-e-o-dilema-a-consumatorului-pe-care-brandul-o-rezolva|INS-0602]] _vezi_ — Insight-ul e o dilemă a consumatorului (dorință contra obstacol) pe care brandul o poate rezolva
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] — La boîte à outils de la publicité
+<!-- backlinks:end -->

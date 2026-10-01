@@ -41,10 +41,19 @@ Pentru o florărie, Ziua Mamei e una dintre cele mai mari ocazii de vânzare din
 
 ## Legături
 
-- **aplicare** [[DIG-0305]] — centrul de preferințe e infrastructura gestului.
-- **vezi** [[AIM-0301]] — o alternativă la personalizarea insistentă: personalizarea prin abținere.
-- **vezi** [[ADV-0302]] — aceeași sensibilitate față de cei care nu se regăsesc în mesaj.
+- **aplicare** [[DIG-0305-datele-first-party-se-cer-nu-se-iau-cinci-practici|DIG-0305]] — centrul de preferințe e infrastructura gestului.
+- **vezi** [[AIM-0301-paradoxul-personalizarii-relevanta-versus-intimitate|AIM-0301]] — o alternativă la personalizarea insistentă: personalizarea prin abținere.
+- **vezi** [[ADV-0302-reclama-incluziva-ton-limbaj-reprezentare|ADV-0302]] — aceeași sensibilitate față de cei care nu se regăsesc în mesaj.
 
 ## Surse
 
-- [[SRC-010]] Patrick Ejeke, *Marketing Trends*, trendul 29
+- [[SRC-010-marketing-trends-ejeke|SRC-010]] Patrick Ejeke, *Marketing Trends*, trendul 29
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0302-reclama-incluziva-ton-limbaj-reprezentare|ADV-0302]] _vezi_ — Reclama incluzivă se verifică pe trei axe — ton, limbaj, reprezentare — înainte de publicare
+- [[AIM-0301-paradoxul-personalizarii-relevanta-versus-intimitate|AIM-0301]] _vezi_ — Paradoxul personalizării: cu cât reclama știe mai mult despre tine, cu atât riscă să te sperie
+- [[DIG-0305-datele-first-party-se-cer-nu-se-iau-cinci-practici|DIG-0305]] _vezi_ — Datele first-party se cer, nu se iau: cinci practici pentru colectarea lor cu consimțământ
+- [[SRC-010-marketing-trends-ejeke|SRC-010]] — Marketing Trends: 63 Digital Marketing Trends in the Age of Automation, Integrated Marketing, Omnichannel Marketing, Metaverse, Big Data, NFTs, AI, AR & VR
+<!-- backlinks:end -->

@@ -51,12 +51,22 @@ Un spot de parfum de lux e dominat de funcția poetică (universul sublimat) și
 
 ## Legături
 
-- **vezi** [[CPY-0603]] — denotația ține de funcția referențială, conotația de cea poetică.
-- **vezi** [[ADV-0603]] — dovada din copy strategy corespunde funcției expresive.
-- **vezi** [[INS-0604]] — funcția fatică e locul procedeelor de atenție.
-- **vezi** [[PIT-0602]] — paraverbalul (voce, tăceri, ritm) e jumătate din mesajul spus.
+- **vezi** [[CPY-0603-titlul-ancoreaza-conotatiile-imaginii|CPY-0603]] — denotația ține de funcția referențială, conotația de cea poetică.
+- **vezi** [[ADV-0603-copy-strategy-fixeaza-beneficiul-dovada-si-tonul|ADV-0603]] — dovada din copy strategy corespunde funcției expresive.
+- **vezi** [[INS-0604-perceptia-e-selectiva-reclama-are-nevoie-de-procedee-de-atentie|INS-0604]] — funcția fatică e locul procedeelor de atenție.
+- **vezi** [[PIT-0602-vorbirea-in-public-iesi-din-punctuatia-scrisa|PIT-0602]] — paraverbalul (voce, tăceri, ritm) e jumătate din mesajul spus.
 
 ## Surse
 
-- [[SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 15, p. 54–57
-- [[SRC-020]] Jordan Muller, *La bible de la communication*, partea I: „Les bases de la communication"
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 15, p. 54–57
+- [[SRC-020-la-bible-de-la-communication|SRC-020]] Jordan Muller, *La bible de la communication*, partea I: „Les bases de la communication"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0603-titlul-ancoreaza-conotatiile-imaginii|CPY-0603]] _fundament_ — Imaginea agață, titlul ancorează — denotația informează, conotația adaugă sensuri pe care ținta trebuie să le decodeze
+- [[CPY-0604-patru-tipuri-de-discurs-publicitar-narativ-descriptiv-explicativ|CPY-0604]] _vezi_ — Discursul publicitar are patru tipuri — narativ, descriptiv, explicativ, argumentativ — și se verifică după ce e scris
+- [[PIT-0602-vorbirea-in-public-iesi-din-punctuatia-scrisa|PIT-0602]] _vezi_ — Ca să vorbești viu în fața unei săli, ieși din „punctuația scrisă" — atacuri ferme, tăceri asumate, enjambament, scansiune, ritm contrastant
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] — La boîte à outils de la publicité
+- [[SRC-020-la-bible-de-la-communication|SRC-020]] — La bible de la communication
+<!-- backlinks:end -->

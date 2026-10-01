@@ -33,7 +33,7 @@ Câteva povești de origine contrazic ideea că un slogan cere luni de cercetare
 
 ## Exemplu
 
-„Thirst Knows No Season” (Coca-Cola, 1922) a fost repetat până a devenit atitudinea publicului față de produs. Vânzările de iarnă au ajuns să depășească vechile vânzări de vară (vezi [[HIS-0826]]).
+„Thirst Knows No Season” (Coca-Cola, 1922) a fost repetat până a devenit atitudinea publicului față de produs. Vânzările de iarnă au ajuns să depășească vechile vânzări de vară (vezi [[HIS-0826-marile-campanii-au-inventat-ocazii-de-consum|HIS-0826]]).
 
 ## Întrebări
 
@@ -42,12 +42,25 @@ Câteva povești de origine contrazic ideea că un slogan cere luni de cercetare
 
 ## Legături
 
-- **extinde** [[CPY-0809]] — multe sloganuri sunt fraze găsite, nu inventate.
-- **fundament** [[CPY-0817]] — sloganul trăiește din consecvență.
-- **vezi** [[CPY-0815]] — Burma-Shave, sloganuri seriale pe marginea drumului.
-- **vezi** [[HIS-0803]] — strigătele de stradă rimate, strămoșii jingle-ului.
+- **extinde** [[CPY-0809-titlurile-bune-sunt-gasite-nu-inventate|CPY-0809]] — multe sloganuri sunt fraze găsite, nu inventate.
+- **fundament** [[CPY-0817-consecventa-bate-noutatea|CPY-0817]] — sloganul trăiește din consecvență.
+- **vezi** [[CPY-0815-burma-shave-copy-serial-care-controleaza-ritmul|CPY-0815]] — Burma-Shave, sloganuri seriale pe marginea drumului.
+- **vezi** [[HIS-0803-reclama-pentru-analfabeti-imagine-simbol-si-voce|HIS-0803]] — strigătele de stradă rimate, strămoșii jingle-ului.
 
 ## Surse
 
-- [[SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 3, p. 38–39; cap. 7, p. 121, 131; cap. 14, p. 340–343; cap. 16, p. 369–375
-- [[SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Squibb — The Priceless Ingredient”, „Woodbury Soap”, „Coca-Cola — Two Ads That Made History”, „Phoebe Snow”, „Sapolio — Spotless Town”
+- [[SRC-027-a-history-of-advertising|SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 3, p. 38–39; cap. 7, p. 121, 131; cap. 14, p. 340–343; cap. 16, p. 369–375
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Squibb — The Priceless Ingredient”, „Woodbury Soap”, „Coca-Cola — Two Ads That Made History”, „Phoebe Snow”, „Sapolio — Spotless Town”
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0809-titlurile-bune-sunt-gasite-nu-inventate|CPY-0809]] _aplicare_ — Cele mai bune titluri sunt adesea găsite, nu inventate — ascultă clientul și strada
+- [[CPY-0815-burma-shave-copy-serial-care-controleaza-ritmul|CPY-0815]] _vezi_ — Burma-Shave — copy serial care controlează ritmul lecturii și transformă drumul în joc
+- [[CPY-0817-consecventa-bate-noutatea|CPY-0817]] _aplicare_ — Consecvența bate noutatea — nu schimba o reclamă care încă funcționează
+- [[HIS-0803-reclama-pentru-analfabeti-imagine-simbol-si-voce|HIS-0803]] _vezi_ — Cât timp oamenii nu știau să citească, reclama a fost imagine, simbol și voce
+- [[HIS-0822-reclama-politica-a-invatat-de-la-cea-comerciala|HIS-0822]] _vezi_ — Reclama politică a învățat de la cea comercială — de la spoturile lui Eisenhower la „Daisy"
+- [[HIS-0826-marile-campanii-au-inventat-ocazii-de-consum|HIS-0826]] _vezi_ — Marile campanii au inventat ocazii de consum — Coca-Cola, pauza de cafea, inelul cu diamant
+- [[SRC-027-a-history-of-advertising|SRC-027]] — A History of Advertising: The First 300,000 Years
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] — The 100 Greatest Advertisements 1852–1958: Who Wrote Them and What They Did
+<!-- backlinks:end -->

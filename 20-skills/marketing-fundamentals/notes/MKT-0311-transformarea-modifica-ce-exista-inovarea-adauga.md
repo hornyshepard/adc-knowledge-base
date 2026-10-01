@@ -46,10 +46,20 @@ Netflix a schimbat modelul de venituri de la închiriere la abonament (p. 184). 
 
 ## Legături
 
-- **extinde** [[MKT-0307]] — intersecțiile Can–Should și Should–Want separă transformarea de inovare.
-- **aplicare** [[MKT-0305]] — forțele cer transformare, driverele cer inovare.
-- **vezi** [[MKT-0308]] — zona de 80% e transformată, zona de 5% e inovată.
+- **extinde** [[MKT-0307-can-want-should-zona-de-pericol|MKT-0307]] — intersecțiile Can–Should și Should–Want separă transformarea de inovare.
+- **aplicare** [[MKT-0305-o-tendinta-e-intai-driver-apoi-forta|MKT-0305]] — forțele cer transformare, driverele cer inovare.
+- **vezi** [[MKT-0308-regula-80-15-5-best-industry-leading-practice|MKT-0308]] — zona de 80% e transformată, zona de 5% e inovată.
 
 ## Surse
 
-- [[SRC-007]] H. von Scheel et al., *Strategy in the Age of Disruption*, cap. 5, p. 167, 172–184, 218–219
+- [[SRC-007-strategy-in-the-age-of-disruption|SRC-007]] H. von Scheel et al., *Strategy in the Age of Disruption*, cap. 5, p. 167, 172–184, 218–219
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[MKT-0303-strategiile-esueaza-din-cauza-biasurilor|MKT-0303]] _vezi_ — Cele mai multe strategii eșuează din cauza biasurilor decidenților, nu a lipsei de idei
+- [[MKT-0305-o-tendinta-e-intai-driver-apoi-forta|MKT-0305]] _vezi_ — O tendință apare întâi ca driver (oportunitate de inovare) și devine apoi forță (presiune de adaptare)
+- [[MKT-0307-can-want-should-zona-de-pericol|MKT-0307]] _vezi_ — Can–Want–Should: zona de pericol se află între ce poți și ce vrei, când sari peste ce trebuie
+- [[MKT-0308-regula-80-15-5-best-industry-leading-practice|MKT-0308]] _vezi_ — Regula 80-15-5: cele mai multe activități trebuie doar să fie la standard; foarte puține trebuie să fie unice
+- [[SRC-007-strategy-in-the-age-of-disruption|SRC-007]] — Strategy in the Age of Disruption: A Handbook to Anticipate Change and Make Smart Decisions
+<!-- backlinks:end -->

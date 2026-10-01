@@ -43,11 +43,20 @@ Una dintre rimele de siguranță ale lui Odell (1935) le amintea șoferilor să 
 
 ## Legături
 
-- **exemplu** [[CPY-0813]] — umorul ca recompensă într-o epocă serioasă.
-- **vezi** [[CPY-0811]] — rimele seriale ca jingle-uri vizuale.
-- **aplicare** [[ART-0801]] — designul formatului s-a adaptat constrângerilor drumului.
-- **vezi** [[CPY-0817]] — consecvența unui format timp de aproape patru decenii.
+- **exemplu** [[CPY-0813-umorul-de-la-interzis-la-recompensa|CPY-0813]] — umorul ca recompensă într-o epocă serioasă.
+- **vezi** [[CPY-0811-sloganul-bun-repetabil-diferentiator-durabil|CPY-0811]] — rimele seriale ca jingle-uri vizuale.
+- **aplicare** [[ART-0801-layoutul-de-reclama-s-a-inventat-sub-constrangeri|ART-0801]] — designul formatului s-a adaptat constrângerilor drumului.
+- **vezi** [[CPY-0817-consecventa-bate-noutatea|CPY-0817]] — consecvența unui format timp de aproape patru decenii.
 
 ## Surse
 
-- [[SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 13, p. 280–281; cap. 16, p. 403
+- [[SRC-027-a-history-of-advertising|SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 13, p. 280–281; cap. 16, p. 403
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0801-layoutul-de-reclama-s-a-inventat-sub-constrangeri|ART-0801]] _vezi_ — Layoutul de reclamă s-a inventat sub constrângeri — spațiul alb al lui Franklin și „epoca repetiției"
+- [[CPY-0811-sloganul-bun-repetabil-diferentiator-durabil|CPY-0811]] _vezi_ — Sloganul bun e repetabil, diferențiator și rezistă decenii — iar jingle-ul îl face să se cânte
+- [[CPY-0813-umorul-de-la-interzis-la-recompensa|CPY-0813]] — Umorul în reclamă — de la „cleverness" interzis la recompensa care cumpără atenția
+- [[SRC-027-a-history-of-advertising|SRC-027]] — A History of Advertising: The First 300,000 Years
+<!-- backlinks:end -->

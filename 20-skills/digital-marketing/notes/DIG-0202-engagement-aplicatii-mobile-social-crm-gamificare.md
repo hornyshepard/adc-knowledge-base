@@ -43,10 +43,20 @@ TripAdvisor folosește insignele TripCollective, cu șase niveluri de la New Rev
 
 ## Legături
 
-- **fundament** [[ADV-0202]] — engagement-ul e intervenția pentru afinitatea scăzută (act → advocate).
-- **vezi** [[DIG-0201]] — omnichannel-ul aduce clientul până la cumpărare; engagement-ul îl duce mai departe.
-- **extinde** [[EXP-0201]] — nivelul cel mai înalt de interacțiune e cel care produce momentul WOW.
+- **fundament** [[ADV-0202-par-si-bar-masoara-conversia-notorietatii-in-cumparare-si-recomandare|ADV-0202]] — engagement-ul e intervenția pentru afinitatea scăzută (act → advocate).
+- **vezi** [[DIG-0201-omnichannel-harta-touchpoint-scenarii-critice-silozuri|DIG-0201]] — omnichannel-ul aduce clientul până la cumpărare; engagement-ul îl duce mai departe.
+- **extinde** [[EXP-0201-wow-ul-e-surprinzator-personal-contagios-si-se-proiecteaza|EXP-0201]] — nivelul cel mai înalt de interacțiune e cel care produce momentul WOW.
 
 ## Surse
 
-- [[SRC-004]] Kotler, Kartajaya, Setiawan, *Marketing 4.0*, cap. 11 „Engagement Marketing for Brand Affinity"; cap. 6
+- [[SRC-004-marketing-4-0-philip-kotler|SRC-004]] Kotler, Kartajaya, Setiawan, *Marketing 4.0*, cap. 11 „Engagement Marketing for Brand Affinity"; cap. 6
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-0206-marketingul-augmentat-inteligenta-amplificata-interfete-pe-niveluri|AIM-0206]] _vezi_ — Marketingul augmentat amplifică oamenii în loc să-i înlocuiască — interfețe pe niveluri și instrumente digitale pentru prima linie
+- [[DIG-0201-omnichannel-harta-touchpoint-scenarii-critice-silozuri|DIG-0201]] _extinde_ — Marketingul omnichannel cere harta punctelor de contact, concentrarea pe scenariile critice și spargerea silozurilor
+- [[EXP-0201-wow-ul-e-surprinzator-personal-contagios-si-se-proiecteaza|EXP-0201]] _vezi_ — Momentul WOW e surprinzător, personal și contagios — și poate fi proiectat, nu lăsat la voia întâmplării
+- [[SOC-0202-marketingul-in-metavers-motivatii-si-patru-moduri-de-participare|SOC-0202]] _extinde_ — Marketingul în metavers pornește de la motivațiile utilizatorilor și are patru forme — colecții de brand, publicitate experiențială, comerț O2O și loialitate gamificată
+- [[SRC-004-marketing-4-0-philip-kotler|SRC-004]] — Marketing 4.0: Moving from Traditional to Digital
+<!-- backlinks:end -->

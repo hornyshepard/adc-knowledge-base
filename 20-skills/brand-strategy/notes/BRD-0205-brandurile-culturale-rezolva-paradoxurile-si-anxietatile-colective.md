@@ -47,10 +47,22 @@ Reclama Coca-Cola „I'd Like to Teach the World to Sing" (1971) a funcționat p
 
 ## Legături
 
-- **fundament** [[MKT-0202]] — marketingul cultural e unul dintre cele trei piloni ai Marketingului 3.0.
-- **vezi** [[STO-0201]] — personajul poveștii de brand vine din aceeași teorie a lui Holt.
-- **extinde** [[INS-0201]] — Marketing 4.0 reformulează paradoxurile pentru era conectivității.
+- **fundament** [[MKT-0202-marketing-3-0-trateaza-clientul-ca-om-intreg-minte-inima-spirit|MKT-0202]] — marketingul cultural e unul dintre cele trei piloni ai Marketingului 3.0.
+- **vezi** [[STO-0201-povestea-de-brand-personaj-intriga-metafora|STO-0201]] — personajul poveștii de brand vine din aceeași teorie a lui Holt.
+- **extinde** [[INS-0201-paradoxurile-clientului-conectat|INS-0201]] — Marketing 4.0 reformulează paradoxurile pentru era conectivității.
 
 ## Surse
 
-- [[SRC-003]] Kotler, Kartajaya, Setiawan, *Marketing 3.0*, cap. 1 „The Age of Globalization Paradox and Cultural Marketing", p. 30-35; cap. 8, p. 164
+- [[SRC-003-marketing-3-0-philip-kotler|SRC-003]] Kotler, Kartajaya, Setiawan, *Marketing 3.0*, cap. 1 „The Age of Globalization Paradox and Cultural Marketing", p. 30-35; cap. 8, p. 164
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0203-misiunea-buna-business-as-unusual-poveste-consumatori-imputerniciti|BRD-0203]] _vezi_ — O misiune bună de brand are trei ingrediente — business as unusual, o poveste care mișcă și consumatori împuterniciți
+- [[INS-0201-paradoxurile-clientului-conectat|INS-0201]] _vezi_ — Clientul conectat trăiește trei paradoxuri — online vs. offline, informat vs. distras, advocacy negativă vs. pozitivă
+- [[MKT-0202-marketing-3-0-trateaza-clientul-ca-om-intreg-minte-inima-spirit|MKT-0202]] _vezi_ — Marketing 3.0 tratează clientul ca om întreg — minte, inimă și spirit
+- [[MKT-0206-intreprinderea-sociala-la-baza-piramidei-marketing-mix-reproiectat|MKT-0206]] _vezi_ — Întreprinderea socială de la baza piramidei cere un marketing mix reproiectat
+- [[MKT-0213-polarizarea-prosperitatii-mijlocul-pietei-dispare|MKT-0213]] _contrazice_ — Polarizarea prosperității golește mijlocul pieței — rămân doar poziționarea low-cost și cea premium prin experiență
+- [[STO-0201-povestea-de-brand-personaj-intriga-metafora|STO-0201]] _vezi_ — Povestea de brand care mișcă oamenii are personaj, intrigă și metaforă
+- [[SRC-003-marketing-3-0-philip-kotler|SRC-003]] — Marketing 3.0: From Products to Customers to the Human Spirit
+<!-- backlinks:end -->

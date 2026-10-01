@@ -47,11 +47,21 @@ Nishad descrie aceeași greșeală din direcția opusă: cei mai mulți încep p
 
 ## Legături
 
-- **fundament** [[PIT-1403]] — obiectivul personal se definește după ce înțelegi întrebarea audienței.
-- **extinde** [[PIT-1410]] — obiectivul vizualizat devine cererea explicită („următorul pas logic”).
-- **vezi** [[PIT-1407]] — „Do” din Know–Feel–Do derivă din acest obiectiv.
+- **fundament** [[PIT-1403-intrebarea-de-examen-si-dreptul-de-a-refuza|PIT-1403]] — obiectivul personal se definește după ce înțelegi întrebarea audienței.
+- **extinde** [[PIT-1410-urmatorul-pas-logic-nu-da-ul-final|PIT-1410]] — obiectivul vizualizat devine cererea explicită („următorul pas logic”).
+- **vezi** [[PIT-1407-know-feel-do-why-now|PIT-1407]] — „Do” din Know–Feel–Do derivă din acest obiectiv.
 
 ## Surse
 
-- [[SRC-043]] Dominic Colenso, *Cut-Through*, cap. 1 („Know what you want”)
-- [[SRC-044]] Bharat Bhuval Nishad, *The Art of Presentation*, „Reaching Your Goals in Every Presentation”
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] Dominic Colenso, *Cut-Through*, cap. 1 („Know what you want”)
+- [[SRC-044-art-of-presentation-and-public-speaking|SRC-044]] Bharat Bhuval Nishad, *The Art of Presentation*, „Reaching Your Goals in Every Presentation”
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PIT-1403-intrebarea-de-examen-si-dreptul-de-a-refuza|PIT-1403]] _vezi_ — Înainte de orice pitch definește „întrebarea de examen” și decide dacă merită să participi
+- [[PIT-1410-urmatorul-pas-logic-nu-da-ul-final|PIT-1410]] _fundament_ — Cererea dintr-un pitch este „următorul pas logic”, nu „da”-ul final
+- [[PIT-1432-dezbatere-tracul-calmare-sau-video|PIT-1432]] _contrazice_ — Tracul se tratează prin tehnici de calmare sau prin eliminarea necunoscutului? Două abordări în tensiune
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] — Cut-Through: The pitch and presentation playbook
+- [[SRC-044-art-of-presentation-and-public-speaking|SRC-044]] — The Art of Presentation And Confident Public Speaking
+<!-- backlinks:end -->

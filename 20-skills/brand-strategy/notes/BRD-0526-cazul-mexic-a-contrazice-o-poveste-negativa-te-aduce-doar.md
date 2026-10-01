@@ -47,10 +47,17 @@ Campania pentru SUA recunoaște explicit prejudecata publicului („locul pe car
 
 ## Legături
 
-- **vezi** [[BRD-0508]] — repoziționarea unui brand cu asocieri negative puternice.
-- **aplicare** [[STO-0501]] — povestea pozitivă pornește de la pasiunile oamenilor, nu de la autolaudă.
-- **vezi** [[BRD-0521]] — notorietatea mare și asocierile negative cer o strategie dedicată.
+- **vezi** [[BRD-0508-repozitionarea-este-o-solutie-de-ultima-instanta|BRD-0508]] — repoziționarea unui brand cu asocieri negative puternice.
+- **aplicare** [[STO-0501-in-povestea-de-brand-brandul-e-oxigen-peste-tot-dar|STO-0501]] — povestea pozitivă pornește de la pasiunile oamenilor, nu de la autolaudă.
+- **vezi** [[BRD-0521-modelul-notorietate-simpatie-cota-de-piata-indica-strategia|BRD-0521]] — notorietatea mare și asocierile negative cer o strategie dedicată.
 
 ## Surse
 
-- [[SRC-014]] Gloria Guevara, „Repositioning a Country Brand: Changing the Conversation about Mexico", cap. 21 în *Kellogg on Branding in a Hyper-Connected World*, p. 279–286
+- [[SRC-014-kellogg-on-branding|SRC-014]] Gloria Guevara, „Repositioning a Country Brand: Changing the Conversation about Mexico", cap. 21 în *Kellogg on Branding in a Hyper-Connected World*, p. 279–286
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[STO-0501-in-povestea-de-brand-brandul-e-oxigen-peste-tot-dar|STO-0501]] _vezi_ — În povestea de brand, brandul e oxigen: peste tot, dar niciodată protagonist
+- [[SRC-014-kellogg-on-branding|SRC-014]] — Kellogg on Branding in a Hyper-Connected World
+<!-- backlinks:end -->

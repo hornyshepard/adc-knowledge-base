@@ -50,10 +50,20 @@ ASA a decis că o postare a lui Molly-Mae Hague despre PrettyLittleThing avea ne
 
 ## Legături
 
-- **fundament** [[SOC-1113]] — legătura materială este ceea ce transformă recomandarea în influencer marketing.
-- **aplicare** [[SOC-1119]] — obligațiile de disclosure intră în contract.
-- **exemplu** [[SOC-1129]] — Fyre Festival a ignorat disclosure-ul la scară mare.
+- **fundament** [[SOC-1113-influencer-marketingul-nu-este-endorsement-de-celebritate|SOC-1113]] — legătura materială este ceea ce transformă recomandarea în influencer marketing.
+- **aplicare** [[SOC-1119-negocierea-cu-un-creator-are-variabile-multiple-iar|SOC-1119]] — obligațiile de disclosure intră în contract.
+- **exemplu** [[SOC-1129-fyre-festival-si-alte-esecuri-ce-se-intampla-cand-executia|SOC-1129]] — Fyre Festival a ignorat disclosure-ul la scară mare.
 
 ## Surse
 
-- [[SRC-035]] Glenister, *Influencer Marketing Strategy*, cap. 4, p. 144–151; p. 152 (R. Shah)
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] Glenister, *Influencer Marketing Strategy*, cap. 4, p. 144–151; p. 152 (R. Shah)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRF-1101-brief-ul-pentru-influenceri-da-directie-dar-lasa-loc|BRF-1101]] _vezi_ — Brief-ul pentru influenceri dă direcție, dar lasă loc interpretării creatorului
+- [[SOC-1113-influencer-marketingul-nu-este-endorsement-de-celebritate|SOC-1113]] _vezi_ — Influencer marketingul nu este endorsement de celebritate, afiliere sau direct marketing
+- [[SOC-1119-negocierea-cu-un-creator-are-variabile-multiple-iar|SOC-1119]] _vezi_ — Negocierea cu un creator are variabile multiple, iar contractul fixează drepturile
+- [[SOC-1129-fyre-festival-si-alte-esecuri-ce-se-intampla-cand-executia|SOC-1129]] _exemplu_ — Fyre Festival și alte eșecuri: ce se întâmplă când execuția trădează promisiunea
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] — Influencer Marketing Strategy: How influencers can help grow your business
+<!-- backlinks:end -->

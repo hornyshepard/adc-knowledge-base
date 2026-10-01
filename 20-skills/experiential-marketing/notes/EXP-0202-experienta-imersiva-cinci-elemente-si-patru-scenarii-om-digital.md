@@ -54,11 +54,20 @@ Campania Coca-Cola „Friendly Twist" a pus în campusuri automate cu sticle car
 
 ## Legături
 
-- **fundament** [[MKT-0215]] — imersiunea hibridă e obiectivul metamarketingului.
-- **extinde** [[EXP-0201]] — WOW-ul din 4.0 devine aici un sistem de cinci elemente proiectate.
-- **vezi** [[AIM-0203]] — scenariile operaționalizează diviziunea om–mașină din 5.0.
-- **aplicare** [[EXP-0203]] — spațiul fizic augmentat e locul unde se construiesc aceste experiențe.
+- **fundament** [[MKT-0215-marketing-6-0-metamarketingul-de-la-multi-la-omni-la-meta|MKT-0215]] — imersiunea hibridă e obiectivul metamarketingului.
+- **extinde** [[EXP-0201-wow-ul-e-surprinzator-personal-contagios-si-se-proiecteaza|EXP-0201]] — WOW-ul din 4.0 devine aici un sistem de cinci elemente proiectate.
+- **vezi** [[AIM-0203-masinile-sunt-cool-oamenii-sunt-calzi-noul-cx|AIM-0203]] — scenariile operaționalizează diviziunea om–mașină din 5.0.
+- **aplicare** [[EXP-0203-al-treilea-loc-reinventat-realitati-extinse-in-spatiul-fizic|EXP-0203]] — spațiul fizic augmentat e locul unde se construiesc aceste experiențe.
 
 ## Surse
 
-- [[SRC-006]] Kotler, Kartajaya, Setiawan, *Marketing 6.0*, cap. 4 „The Future of Customer Experience: Fusing Physical and Digital for Complete Immersion" (Fig. 4.1-4.4)
+- [[SRC-006-marketing-6-0-philip-kotler|SRC-006]] Kotler, Kartajaya, Setiawan, *Marketing 6.0*, cap. 4 „The Future of Customer Experience: Fusing Physical and Digital for Complete Immersion" (Fig. 4.1-4.4)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[EXP-0203-al-treilea-loc-reinventat-realitati-extinse-in-spatiul-fizic|EXP-0203]] _fundament_ — Al treilea loc trebuie reinventat ca realitate extinsă — spațiul fizic augmentat digital, construit din dovezi fizice, proces și oameni
+- [[EXP-0204-marketingul-multisenzorial-antidot-la-oboseala-digitala|EXP-0204]] _fundament_ — Marketingul multisenzorial e antidotul la oboseala digitală — fiecare simț are un rol diferit, iar stimulii trebuie să spună aceeași poveste
+- [[MKT-0215-marketing-6-0-metamarketingul-de-la-multi-la-omni-la-meta|MKT-0215]] _aplicare_ — Marketing 6.0 e metamarketing — după multichannel și omnichannel, experiența în care clientul nu mai distinge fizicul de digital
+- [[SRC-006-marketing-6-0-philip-kotler|SRC-006]] — Marketing 6.0: The Future Is Immersive
+<!-- backlinks:end -->

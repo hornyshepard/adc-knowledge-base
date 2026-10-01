@@ -50,10 +50,19 @@ Exemplul din carte: excelența operațională. Pornești de la ce *poți* în mo
 
 ## Legături
 
-- **fundament** [[MKT-0301]] — instrumentul servește la cele trei alegeri, începând cu ce nu faci.
-- **aplicare** [[MKT-0303]] — e propus ca remediu pentru biasurile care fac strategiile să eșueze.
-- **vezi** [[MKT-0311]] — intersecțiile disting transformarea de inovare.
+- **fundament** [[MKT-0301-strategia-inseamna-trei-alegeri-in-ordine|MKT-0301]] — instrumentul servește la cele trei alegeri, începând cu ce nu faci.
+- **aplicare** [[MKT-0303-strategiile-esueaza-din-cauza-biasurilor|MKT-0303]] — e propus ca remediu pentru biasurile care fac strategiile să eșueze.
+- **vezi** [[MKT-0311-transformarea-modifica-ce-exista-inovarea-adauga|MKT-0311]] — intersecțiile disting transformarea de inovare.
 
 ## Surse
 
-- [[SRC-007]] H. von Scheel et al., *Strategy in the Age of Disruption*, cap. 5, p. 191–196; cap. 7, p. 270
+- [[SRC-007-strategy-in-the-age-of-disruption|SRC-007]] H. von Scheel et al., *Strategy in the Age of Disruption*, cap. 5, p. 191–196; cap. 7, p. 270
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[MKT-0301-strategia-inseamna-trei-alegeri-in-ordine|MKT-0301]] _vezi_ — Strategia înseamnă trei alegeri, în ordine: ce nu faci, unde ești diferit, pe ce te concentrezi
+- [[MKT-0303-strategiile-esueaza-din-cauza-biasurilor|MKT-0303]] _vezi_ — Cele mai multe strategii eșuează din cauza biasurilor decidenților, nu a lipsei de idei
+- [[MKT-0311-transformarea-modifica-ce-exista-inovarea-adauga|MKT-0311]] _extinde_ — Transformarea modifică ce există, inovarea adaugă ceva nou: diagnostichezi lanțul problemei sau al obiectivului înainte să alegi
+- [[SRC-007-strategy-in-the-age-of-disruption|SRC-007]] — Strategy in the Age of Disruption: A Handbook to Anticipate Change and Make Smart Decisions
+<!-- backlinks:end -->

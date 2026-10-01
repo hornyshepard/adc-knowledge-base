@@ -46,11 +46,21 @@ Amazon Prime „Rapunzel": prințesa nu-și mai așteaptă prințul, comandă o 
 
 ## Legături
 
-- **fundament** [[STO-0701]] — povestea trebuie mai întâi să merite urmărită.
-- **extinde** [[STO-0703]] — curiozitatea și surpriza emoțională din primul act.
-- **vezi** [[BRD-0701]] — arhetipul brandului decide dacă e erou, înțelept sau magician.
-- **vezi** [[STO-0704]] — arcul narativ e un punct din lista de verificare emoțională.
+- **fundament** [[STO-0701-o-poveste-e-shareworthy-cand-are-valoare-de-folosinta|STO-0701]] — povestea trebuie mai întâi să merite urmărită.
+- **extinde** [[STO-0703-curiozitatea-si-surpriza-emotionala-tin-publicul|STO-0703]] — curiozitatea și surpriza emoțională din primul act.
+- **vezi** [[BRD-0701-brand-construct-arhetip-personalitate-naratiune|BRD-0701]] — arhetipul brandului decide dacă e erou, înțelept sau magician.
+- **vezi** [[STO-0704-checklistul-puterii-emotionale-in-storytelling|STO-0704]] — arcul narativ e un punct din lista de verificare emoțională.
 
 ## Surse
 
-- [[SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 5 „Beginning, Middle, and End (Or Not)"
+- [[SRC-025-shareworthy|SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 5 „Beginning, Middle, and End (Or Not)"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0701-brand-construct-arhetip-personalitate-naratiune|BRD-0701]] _vezi_ — Brand construct-ul duce la arhetip, personalitate și narațiune, iar o idee e „on-brand" când se potrivește pe aceleași scale
+- [[STO-0701-o-poveste-e-shareworthy-cand-are-valoare-de-folosinta|STO-0701]] _extinde_ — O poveste de brand e „shareworthy" când are valoare de folosință pentru public, nu doar pentru brand
+- [[STO-0703-curiozitatea-si-surpriza-emotionala-tin-publicul|STO-0703]] _extinde_ — Curiozitatea din prima secundă și surpriza emoțională țin publicul până la capăt
+- [[STO-0704-checklistul-puterii-emotionale-in-storytelling|STO-0704]] _extinde_ — Checklist-ul puterii emoționale — valori umane, arc narativ, o emoție dominantă și testul „aș distribui-o eu?"
+- [[SRC-025-shareworthy|SRC-025]] — Shareworthy: Advertising That Creates Powerful Connections Through Storytelling
+<!-- backlinks:end -->

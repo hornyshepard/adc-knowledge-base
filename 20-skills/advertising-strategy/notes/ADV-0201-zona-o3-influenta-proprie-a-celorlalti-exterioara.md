@@ -47,11 +47,21 @@ O categorie nouă, cumpărată pentru prima dată (de exemplu, primul abonament 
 
 ## Legături
 
-- **fundament** [[MKT-0210]] — O3 acționează de-a lungul celor cinci etape ale căii 5A.
-- **vezi** [[INS-0202]] — YWN sunt cea mai puternică sursă de influență a celorlalți.
-- **extinde** [[ADV-0202]] — PAR și BAR tratează conversația ca pe o pârghie financiară peste publicitate.
-- **fundament** [[MKT-0208]] — trecerea la încrederea în factorul F explică dominanța influenței celorlalți.
+- **fundament** [[MKT-0210-calea-clientului-5a-aware-appeal-ask-act-advocate|MKT-0210]] — O3 acționează de-a lungul celor cinci etape ale căii 5A.
+- **vezi** [[INS-0202-tinerii-femeile-netizenii-subculturile-influente|INS-0202]] — YWN sunt cea mai puternică sursă de influență a celorlalți.
+- **extinde** [[ADV-0202-par-si-bar-masoara-conversia-notorietatii-in-cumparare-si-recomandare|ADV-0202]] — PAR și BAR tratează conversația ca pe o pârghie financiară peste publicitate.
+- **fundament** [[MKT-0208-puterea-trece-la-clientii-conectati-orizontal-inclusiv-social|MKT-0208]] — trecerea la încrederea în factorul F explică dominanța influenței celorlalți.
 
 ## Surse
 
-- [[SRC-004]] Kotler, Kartajaya, Setiawan, *Marketing 4.0*, cap. 5, secțiunea „Driving from Awareness to Advocacy: The O Zone (O3)" (Fig. 5.3, 5.4)
+- [[SRC-004-marketing-4-0-philip-kotler|SRC-004]] Kotler, Kartajaya, Setiawan, *Marketing 4.0*, cap. 5, secțiunea „Driving from Awareness to Advocacy: The O Zone (O3)" (Fig. 5.3, 5.4)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0202-par-si-bar-masoara-conversia-notorietatii-in-cumparare-si-recomandare|ADV-0202]] _extinde_ — PAR și BAR măsoară productivitatea marketingului — cât din notorietate devine cumpărare și recomandare
+- [[INS-0202-tinerii-femeile-netizenii-subculturile-influente|INS-0202]] _aplicare_ — Tinerii, femeile și netizenii (YWN) sunt subculturile cele mai influente din era digitală
+- [[MKT-0208-puterea-trece-la-clientii-conectati-orizontal-inclusiv-social|MKT-0208]] _vezi_ — Puterea a trecut la clienții conectați — de la vertical, exclusiv și individual la orizontal, inclusiv și social
+- [[MKT-0210-calea-clientului-5a-aware-appeal-ask-act-advocate|MKT-0210]] _extinde_ — Calea clientului 5A — aware, appeal, ask, act, advocate — înlocuiește pâlnia AIDA în lumea conectată
+- [[SRC-004-marketing-4-0-philip-kotler|SRC-004]] — Marketing 4.0: Moving from Traditional to Digital
+<!-- backlinks:end -->

@@ -50,11 +50,23 @@ Impossible Foods și Beyond Meat (deschiderea capitolului 9) nu țintesc veganii
 
 ## Legături
 
-- **fundament** [[MKT-0108]] — STP este pasul 3 al planului de marketing.
-- **extinde** [[MKT-0113]] — pasul 2 detaliază metodele de segmentare.
-- **extinde** [[MKT-0114]] — pașii 3 și 4 detaliază evaluarea și alegerea țintei.
-- **extinde** [[MKT-0115]] — pasul 5 detaliază poziționarea.
+- **fundament** [[MKT-0108-planul-de-marketing-cinci-pasi-in-trei-faze|MKT-0108]] — STP este pasul 3 al planului de marketing.
+- **extinde** [[MKT-0113-bazele-segmentarii-gasesti-tinta-apoi-o-convingi|MKT-0113]] — pasul 2 detaliază metodele de segmentare.
+- **extinde** [[MKT-0114-cinci-criterii-si-patru-strategii-de-targetare|MKT-0114]] — pașii 3 și 4 detaliază evaluarea și alegerea țintei.
+- **extinde** [[MKT-0115-pozitionarea-patru-baze-verificate-pe-harta-perceptuala|MKT-0115]] — pasul 5 detaliază poziționarea.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 2, p. 40-43; cap. 9, p. 278-305 (Exhibit 9.1)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 2, p. 40-43; cap. 9, p. 278-305 (Exhibit 9.1)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[MKT-0107-strategia-tinta-mix-si-avantaj-competitiv-durabil|MKT-0107]] _vezi_ — Strategia de marketing = piață țintă + mix + un avantaj competitiv durabil, construit ca un zid
+- [[MKT-0108-planul-de-marketing-cinci-pasi-in-trei-faze|MKT-0108]] _extinde_ — Planul de marketing are cinci pași grupați în trei faze — planificare, implementare, control
+- [[MKT-0109-swot-separa-ce-tine-de-firma-de-ce-tine-de-piata|MKT-0109]] _aplicare_ — Analiza SWOT separă ce ține de firmă (puncte tari și slabe) de ce ține de piață (oportunități și amenințări)
+- [[MKT-0113-bazele-segmentarii-gasesti-tinta-apoi-o-convingi|MKT-0113]] _fundament_ — Demografia și geografia te ajută să găsești ținta, beneficiile și stilul de viață te ajută s-o convingi
+- [[MKT-0114-cinci-criterii-si-patru-strategii-de-targetare|MKT-0114]] _fundament_ — Un segment merită urmărit dacă trece cinci criterii; apoi alegi una dintre patru strategii de targetare
+- [[MKT-0115-pozitionarea-patru-baze-verificate-pe-harta-perceptuala|MKT-0115]] _fundament_ — Poziționarea se construiește pe valoare, atribute, simboluri sau concurență și se verifică pe harta perceptuală
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+<!-- backlinks:end -->

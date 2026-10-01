@@ -39,11 +39,22 @@ Mecanismul („Brainjack"): privitorul se așteaptă la încă un mesaj din seri
 
 ## Legături
 
-- **fundament** [[IDE-0701]] — mecanismul așteptării răsturnate.
-- **vezi** [[IDE-0708]] — rudă apropiată: inversarea convenției.
-- **vezi** [[ART-0702]] — simbolurile și icoanele sunt materia primă a subversiunii.
-- **vezi** [[IDE-0709]] — ironia și parodia ca forme de umor.
+- **fundament** [[IDE-0701-brainjack-ideea-captureaza-mintea-nu-doar-ochiul|IDE-0701]] — mecanismul așteptării răsturnate.
+- **vezi** [[IDE-0708-inversarea-problemei-dezavantajul-devine-argumentul|IDE-0708]] — rudă apropiată: inversarea convenției.
+- **vezi** [[ART-0702-simbolurile-icoanele-si-gesturile-comunica-instant|ART-0702]] — simbolurile și icoanele sunt materia primă a subversiunii.
+- **vezi** [[IDE-0709-umorul-ironia-si-satira-rastoarna-asteptarea|IDE-0709]] — ironia și parodia ca forme de umor.
 
 ## Surse
 
-- [[SRC-024]] John Ingledew, *The A–Z of Visual Ideas*, intrările „Clichés seen afresh", „Creative collisions", „Familiar but seen afresh"
+- [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] John Ingledew, *The A–Z of Visual Ideas*, intrările „Clichés seen afresh", „Creative collisions", „Familiar but seen afresh"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0702-simbolurile-icoanele-si-gesturile-comunica-instant|ART-0702]] _vezi_ — Simbolurile, icoanele și gesturile comunică instant pentru că sensul lor e deja instalat în mintea privitorului
+- [[IDE-0708-inversarea-problemei-dezavantajul-devine-argumentul|IDE-0708]] _vezi_ — Inversarea problemei — dezavantajul devine argumentul
+- [[IDE-0709-umorul-ironia-si-satira-rastoarna-asteptarea|IDE-0709]] _vezi_ — Umorul, ironia și satira răstoarnă așteptarea și creează complicitate cu privitorul
+- [[IDE-0712-banca-de-inspiratie-creativul-colectioneaza-permanent|IDE-0712]] — Banca de inspirație — creativul colecționează permanent, ca să nu pornească niciodată de la zero
+- [[STO-0703-curiozitatea-si-surpriza-emotionala-tin-publicul|STO-0703]] _vezi_ — Curiozitatea din prima secundă și surpriza emoțională țin publicul până la capăt
+- [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] — The A–Z of Visual Ideas: How to Solve Any Creative Brief
+<!-- backlinks:end -->

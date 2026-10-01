@@ -50,10 +50,17 @@ Aeroportul din Bangalore a introdus o experiență fără contact „de la parca
 
 ## Legături
 
-- **fundament** [[MKT-0212]] — transformarea digitală e precondiția pentru Marketing 5.0.
-- **vezi** [[AIM-0201]] — partea de cerere depinde de frica și încrederea clienților în tehnologie.
-- **extinde** [[DIG-0201]] — omnichannel-ul din 4.0 devine aici obiectivul cadranului Omni.
+- **fundament** [[MKT-0212-marketing-5-0-tehnologie-pentru-umanitate-cinci-componente|MKT-0212]] — transformarea digitală e precondiția pentru Marketing 5.0.
+- **vezi** [[AIM-0201-decalajul-digital-real-e-intre-sustinatorii-si-criticii-digitalizarii|AIM-0201]] — partea de cerere depinde de frica și încrederea clienților în tehnologie.
+- **extinde** [[DIG-0201-omnichannel-harta-touchpoint-scenarii-critice-silozuri|DIG-0201]] — omnichannel-ul din 4.0 devine aici obiectivul cadranului Omni.
 
 ## Surse
 
-- [[SRC-005]] Kotler, Kartajaya, Setiawan, *Marketing 5.0*, cap. 5 „The Digital-Ready Organization: One Strategy Doesn't Fit All" (Fig. 5.1-5.5)
+- [[SRC-005-marketing-5-0-philip-kotler|SRC-005]] Kotler, Kartajaya, Setiawan, *Marketing 5.0*, cap. 5 „The Digital-Ready Organization: One Strategy Doesn't Fit All" (Fig. 5.1-5.5)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-0201-decalajul-digital-real-e-intre-sustinatorii-si-criticii-digitalizarii|AIM-0201]] _vezi_ — Decalajul digital real e între susținătorii și criticii digitalizării — tehnologia câștigă încredere când e personală, socială și experiențială
+- [[SRC-005-marketing-5-0-philip-kotler|SRC-005]] — Marketing 5.0: Technology for Humanity
+<!-- backlinks:end -->

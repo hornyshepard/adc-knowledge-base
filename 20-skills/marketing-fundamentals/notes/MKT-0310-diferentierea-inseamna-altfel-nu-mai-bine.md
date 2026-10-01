@@ -45,10 +45,20 @@ Autorul recomandă creșterea „din nucleu": îți replici cel mai puternic ava
 
 ## Legături
 
-- **fundament** [[MKT-0301]] — diferențierea este a doua dintre cele trei alegeri.
-- **vezi** [[MKT-0308]] — doar ~5% din organizație e cu adevărat diferențiatoare.
-- **vezi** [[MKT-0304]] — competențele diferențiatoare se mapează pe lanțul valoric.
+- **fundament** [[MKT-0301-strategia-inseamna-trei-alegeri-in-ordine|MKT-0301]] — diferențierea este a doua dintre cele trei alegeri.
+- **vezi** [[MKT-0308-regula-80-15-5-best-industry-leading-practice|MKT-0308]] — doar ~5% din organizație e cu adevărat diferențiatoare.
+- **vezi** [[MKT-0304-pozitionarea-strategica-outside-in-si-inside-out|MKT-0304]] — competențele diferențiatoare se mapează pe lanțul valoric.
 
 ## Surse
 
-- [[SRC-007]] H. von Scheel et al., *Strategy in the Age of Disruption*, cap. 5, p. 199–206
+- [[SRC-007-strategy-in-the-age-of-disruption|SRC-007]] H. von Scheel et al., *Strategy in the Age of Disruption*, cap. 5, p. 199–206
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[MKT-0301-strategia-inseamna-trei-alegeri-in-ordine|MKT-0301]] _vezi_ — Strategia înseamnă trei alegeri, în ordine: ce nu faci, unde ești diferit, pe ce te concentrezi
+- [[MKT-0304-pozitionarea-strategica-outside-in-si-inside-out|MKT-0304]] _vezi_ — Poziționarea strategică pornește din două priviri asupra lanțului valoric: din afară spre interior și din interior spre afară
+- [[MKT-0308-regula-80-15-5-best-industry-leading-practice|MKT-0308]] _fundament_ — Regula 80-15-5: cele mai multe activități trebuie doar să fie la standard; foarte puține trebuie să fie unice
+- [[MKT-0312-alegeri-strategice-in-ordine-sau-simultan|MKT-0312]] _vezi_ — Alegerile strategice se fac în ordine sau simultan? O tensiune nerezolvată în cartea lui von Scheel
+- [[SRC-007-strategy-in-the-age-of-disruption|SRC-007]] — Strategy in the Age of Disruption: A Handbook to Anticipate Change and Make Smart Decisions
+<!-- backlinks:end -->

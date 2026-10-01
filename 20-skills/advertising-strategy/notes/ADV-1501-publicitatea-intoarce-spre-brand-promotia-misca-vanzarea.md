@@ -47,10 +47,21 @@ Reclama Natuzzi pentru fotoliul Re-vive nu cere cumpărarea. Leagă brandul de c
 
 ## Legături
 
-- **fundament** [[ADV-1502]] — distincția se sprijină pe cele patru efecte de comunicare.
-- **vezi** [[ADV-1531]] — capitolul despre promoții detaliază ce face promoția „consumer franchise building".
-- **vezi** [[ADV-1519]] — autorii resping ideea că rolul publicității s-ar fi schimbat odată cu jargonul nou.
+- **fundament** [[ADV-1502-patru-efecte-de-comunicare-notorietatea-si-atitudinea-mereu|ADV-1502]] — distincția se sprijină pe cele patru efecte de comunicare.
+- **vezi** [[ADV-1531-promotiile-se-aleg-dupa-incercare-sau-recumparare-si-poarta-beneficiul|ADV-1531]] — capitolul despre promoții detaliază ce face promoția „consumer franchise building".
+- **vezi** [[ADV-1519-jargonul-nou-nu-schimba-felul-in-care-functioneaza-publicitatea|ADV-1519]] — autorii resping ideea că rolul publicității s-ar fi schimbat odată cu jargonul nou.
 
 ## Surse
 
-- [[SRC-049]] Larry Percy & Richard Rosenbaum-Elliott, *Strategic Advertising Management*, cap. 1 (audio 04), cap. 5 (audio 12)
+- [[SRC-049-strategic-advertising-management|SRC-049]] Larry Percy & Richard Rosenbaum-Elliott, *Strategic Advertising Management*, cap. 1 (audio 04), cap. 5 (audio 12)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-1502-patru-efecte-de-comunicare-notorietatea-si-atitudinea-mereu|ADV-1502]] _extinde_ — Orice comunicare poate produce patru efecte, dar notorietatea și atitudinea față de brand sunt mereu obiective
+- [[ADV-1519-jargonul-nou-nu-schimba-felul-in-care-functioneaza-publicitatea|ADV-1519]] _vezi_ — Pentru Percy și Rosenbaum-Elliott, jargonul nou („platforme", „metrici", „brand ideals") nu schimbă felul în care funcționează publicitatea
+- [[ADV-1522-whopper-detour-transforma-restaurantele-concurentului-in-puncte-de-comanda|ADV-1522]] _vezi_ — Whopper Detour a transformat restaurantele McDonald's în puncte de comandă pentru Burger King, ca să obțină descărcarea aplicației
+- [[ADV-1531-promotiile-se-aleg-dupa-incercare-sau-recumparare-si-poarta-beneficiul|ADV-1531]] _fundament_ — Tehnica de promoție se alege după obiectivul de acțiune (încercare sau recumpărare), dar trebuie să construiască și brandul, purtând același beneficiu și look
+- [[ADV-1533-publicitatea-si-promotia-impreuna-efectul-de-clichet|ADV-1533]] _fundament_ — Publicitatea și promoția folosite împreună produc un „efect de clichet", iar ponderea lor se alege după ciclul de viață, diferențiere, loialitate și poziția pe piață
+- [[SRC-049-strategic-advertising-management|SRC-049]] — Strategic Advertising Management (6th edition)
+<!-- backlinks:end -->

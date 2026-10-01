@@ -41,11 +41,23 @@ A doua mare etapă vine sub presiunea criticilor (Raportul Nader, 1969): asocia�
 
 ## Legături
 
-- **fundament** [[HIS-0806]] — reacția la leacurile-minune a declanșat mișcarea.
-- **alternativa** [[HIS-0808]] — reglementarea legală (FTC) completează autoreglementarea.
-- **vezi** [[HIS-0804]] — editorii aveau interes să-și protejeze cititorii, sursa audienței vândute.
-- **vezi** [[HIS-0820]] — ghidurile pentru advertorial și native sunt tot autoreglementare.
+- **fundament** [[HIS-0806-medicamentele-minune-au-inventat-si-compromis-reclama|HIS-0806]] — reacția la leacurile-minune a declanșat mișcarea.
+- **alternativa** [[HIS-0808-standardul-ftc-dovada-inaintea-afirmatiei|HIS-0808]] — reglementarea legală (FTC) completează autoreglementarea.
+- **vezi** [[HIS-0804-publicitatea-motorul-financiar-al-presei|HIS-0804]] — editorii aveau interes să-și protejeze cititorii, sursa audienței vândute.
+- **vezi** [[HIS-0820-reclama-deghizata-in-continut-e-veche|HIS-0820]] — ghidurile pentru advertorial și native sunt tot autoreglementare.
 
 ## Surse
 
-- [[SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 8, p. 157–158; cap. 9, p. 184–190; cap. 12, p. 266–273
+- [[SRC-027-a-history-of-advertising|SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 8, p. 157–158; cap. 9, p. 184–190; cap. 12, p. 266–273
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[HIS-0804-publicitatea-motorul-financiar-al-presei|HIS-0804]] _exemplu_ — Publicitatea a devenit motorul financiar al presei — și presa a devenit a doua „stăpână" a reclamei
+- [[HIS-0806-medicamentele-minune-au-inventat-si-compromis-reclama|HIS-0806]] _exemplu_ — Medicamentele-minune au inventat tehnicile reclamei moderne și i-au distrus reputația pentru un secol
+- [[HIS-0808-standardul-ftc-dovada-inaintea-afirmatiei|HIS-0808]] _alternativa_ — Standardul american al înșelăciunii — afirmația trebuie dovedită înainte să fie publicată
+- [[HIS-0818-shockvertising-atentia-prin-scandal|HIS-0818]] _vezi_ — Shockvertising — atenția câștigată prin scandal are un preț pe care îl plătește brandul
+- [[HIS-0820-reclama-deghizata-in-continut-e-veche|HIS-0820]] _vezi_ — Reclama deghizată în conținut e veche de peste un secol — advertorial, plasare, infomercial, native
+- [[HIS-0824-tutunul-frontul-limitelor-publicitatii|HIS-0824]] _vezi_ — Tutunul a fost frontul pe care publicitatea și-a testat puterea și limitele
+- [[SRC-027-a-history-of-advertising|SRC-027]] — A History of Advertising: The First 300,000 Years
+<!-- backlinks:end -->

@@ -43,10 +43,20 @@ Tough Mudder (cap. 10) a crescut ani la rând doar pe Facebook, pentru că țint
 
 ## Legături
 
-- **fundament** [[BRD-0517]] — comunitatea servește motivul comuniunii din matricea motivelor.
-- **vezi** [[ADV-0504]] — comunitățile existente sunt singurul caz în care social media difuzează fără broadcast.
-- **vezi** [[BRD-0518]] — celelalte principii ale conexiunii sine–brand.
+- **fundament** [[BRD-0517-matricea-motivelor-coerenta-agentie-si-comuniune-spre-sine|BRD-0517]] — comunitatea servește motivul comuniunii din matricea motivelor.
+- **vezi** [[ADV-0504-mesajele-devin-virale-prin-difuzare-de-masa-nu-din-om-in-om|ADV-0504]] — comunitățile existente sunt singurul caz în care social media difuzează fără broadcast.
+- **vezi** [[BRD-0518-tranzitiile-de-viata-si-amenintarile-identitare-deschid|BRD-0518]] — celelalte principii ale conexiunii sine–brand.
 
 ## Surse
 
-- [[SRC-014]] Neal J. Roese & Wendi L. Gardner, „Building Strong Connections between Brands and the Self", cap. 9 în *Kellogg on Branding in a Hyper-Connected World*, p. 138–140
+- [[SRC-014-kellogg-on-branding|SRC-014]] Neal J. Roese & Wendi L. Gardner, „Building Strong Connections between Brands and the Self", cap. 9 în *Kellogg on Branding in a Hyper-Connected World*, p. 138–140
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0504-mesajele-devin-virale-prin-difuzare-de-masa-nu-din-om-in-om|ADV-0504]] _vezi_ — Mesajele devin virale prin difuzare de masă, nu din om în om
+- [[BRD-0517-matricea-motivelor-coerenta-agentie-si-comuniune-spre-sine|BRD-0517]] _extinde_ — Matricea motivelor: coerență, agenție și comuniune, spre sine sau spre ceilalți
+- [[BRD-0518-tranzitiile-de-viata-si-amenintarile-identitare-deschid|BRD-0518]] _vezi_ — Tranzițiile de viață și amenințările identitare deschid oamenii spre branduri noi
+- [[STO-0502-povestirea-transmedia-imparte-o-lume-narativa-intre-canale|STO-0502]] _vezi_ — Povestirea transmedia împarte o lume narativă între canale cu roluri diferite
+- [[SRC-014-kellogg-on-branding|SRC-014]] — Kellogg on Branding in a Hyper-Connected World
+<!-- backlinks:end -->

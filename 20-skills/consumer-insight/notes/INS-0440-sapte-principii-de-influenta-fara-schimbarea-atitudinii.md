@@ -50,11 +50,20 @@ Bernard Madoff (p. 329-330): chiar și instituțiile financiare i-au încredinț
 
 ## Legături
 
-- **extinde** [[INS-0441]] — „lipsa de atenție" care face posibile aceste tehnici.
-- **vezi** [[CPY-0406]] — tehnica „perturbă apoi reîncadrează".
-- **vezi** [[INS-0422]] — angajamentul activ schimbă ulterior și atitudinea, prin auto-percepție.
-- **vezi** [[INS-0432]] — autoritatea și atractivitatea sursei în persuasiune.
+- **extinde** [[INS-0441-un-motiv-oarecare-ajuta-la-cereri-mici|INS-0441]] — „lipsa de atenție" care face posibile aceste tehnici.
+- **vezi** [[CPY-0406-perturba-apoi-reincadreaza|CPY-0406]] — tehnica „perturbă apoi reîncadrează".
+- **vezi** [[INS-0422-atitudinile-puternice-rezista-cele-slabe-se-construiesc|INS-0422]] — angajamentul activ schimbă ulterior și atitudinea, prin auto-percepție.
+- **vezi** [[INS-0432-vedeta-convinge-ca-argument-doar-cand-e-relevanta|INS-0432]] — autoritatea și atractivitatea sursei în persuasiune.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 7, p. 303-336, 341-343
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 7, p. 303-336, 341-343
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0406-perturba-apoi-reincadreaza|CPY-0406]] _vezi_ — „Perturbă, apoi reîncadrează" — o ciudățenie mică în formularea prețului, urmată de o concluzie persuasivă, crește vânzarea
+- [[INS-0441-un-motiv-oarecare-ajuta-la-cereri-mici|INS-0441]] _aplicare_ — La cereri mici, orice „pentru că" funcționează; la cereri mari, doar motivele reale (lipsa de atenție în conformare)
+- [[INS-0443-online-procesarea-e-euristica-si-memoria-externa|INS-0443]] _vezi_ — Online, consumatorul procesează euristic și își mută memoria pe Google — lupta se mută din setul de considerație la locul căutării
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

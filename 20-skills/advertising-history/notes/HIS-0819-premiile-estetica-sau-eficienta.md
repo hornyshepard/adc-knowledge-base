@@ -54,11 +54,20 @@ Fearless Girl (State Street Global Advisors, 2017), statuia unei fetițe în fa�
 
 ## Legături
 
-- **vezi** [[CPY-0808]] — criteriile Watkins–Rubicam pentru o reclamă „mare”.
-- **vezi** [[HIS-0812]] — premiile reflectă dezbaterea știință vs. artă.
-- **vezi** [[PRT]] — premiile ca monedă a portofoliului.
+- **vezi** [[CPY-0808-o-reclama-mare-idee-sinceritate-memorie-lunga|CPY-0808]] — criteriile Watkins–Rubicam pentru o reclamă „mare”.
+- **vezi** [[HIS-0812-publicitatea-stiinta-sau-arta|HIS-0812]] — premiile reflectă dezbaterea știință vs. artă.
+- **vezi** [[20-skills/portfolio/SKILL|PRT]] — premiile ca monedă a portofoliului.
 
 ## Surse
 
-- [[SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 10, p. 223–226; cap. 13, p. 293
-- [[SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, Prefața autorului (1949) și Cuvântul-înainte de Raymond Rubicam
+- [[SRC-027-a-history-of-advertising|SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 10, p. 223–226; cap. 13, p. 293
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, Prefața autorului (1949) și Cuvântul-înainte de Raymond Rubicam
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0802-arta-plastica-in-reclama-afisul-si-bubbles|ART-0802]] _vezi_ — Arta plastică a intrat în reclamă prin afiș și prin „Bubbles" — începutul reclamei de imagine
+- [[CPY-0808-o-reclama-mare-idee-sinceritate-memorie-lunga|CPY-0808]] _vezi_ — O reclamă mare are o idee, sinceritate și o viață lungă în memorie
+- [[SRC-027-a-history-of-advertising|SRC-027]] — A History of Advertising: The First 300,000 Years
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] — The 100 Greatest Advertisements 1852–1958: Who Wrote Them and What They Did
+<!-- backlinks:end -->

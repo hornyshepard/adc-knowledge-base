@@ -50,11 +50,21 @@ Coada de la intrarea în pavilionul Coca-Cola de la Expo Shanghai era animată d
 
 ## Legături
 
-- **extinde** [[EXP-1205]] — operaționalizează definiția CX ca experiență trăită înainte, în timpul și după.
-- **vezi** [[EXP-1217]] — în fiecare etapă, punctele de contact se pot citi prin emoția pe care o produc.
-- **vezi** [[EXP-1219]] — maparea socioculturală critică parcursul liniar și îl face iterativ.
-- **vezi** [[EXP-1223]] — cazul pavilionului Coca-Cola, în care și așteptarea e proiectată.
+- **extinde** [[EXP-1205-de-la-crm-la-customer-experience|EXP-1205]] — operaționalizează definiția CX ca experiență trăită înainte, în timpul și după.
+- **vezi** [[EXP-1217-emotional-touchpoints-emotia-defineste-contactul|EXP-1217]] — în fiecare etapă, punctele de contact se pot citi prin emoția pe care o produc.
+- **vezi** [[EXP-1219-procesul-emic-etic-maparea-socioculturala|EXP-1219]] — maparea socioculturală critică parcursul liniar și îl face iterativ.
+- **vezi** [[EXP-1223-caz-coca-cola-happiness-factory-expo-shanghai|EXP-1223]] — cazul pavilionului Coca-Cola, în care și așteptarea e proiectată.
 
 ## Surse
 
-- [[SRC-036]] Wided Batat, *Experiential Marketing*, cap. 2, secț. „Experience touchpoints through customer journey"; cap. 4, secț. „Stages of customer experience" și mini-cazul 4.6
+- [[SRC-036-experiential-marketing|SRC-036]] Wided Batat, *Experiential Marketing*, cap. 2, secț. „Experience touchpoints through customer journey"; cap. 4, secț. „Stages of customer experience" și mini-cazul 4.6
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[EXP-1204-rezultatele-experientei-valoare-transformare|EXP-1204]] _vezi_ — O experiență reușită produce patru rezultate — valoare, transformare, competență, memorabilitate
+- [[EXP-1205-de-la-crm-la-customer-experience|EXP-1205]] _vezi_ — Customer experience a depășit CRM-ul — marketingul trece de la „a cumpăra" la „a trăi" consumul
+- [[EXP-1217-emotional-touchpoints-emotia-defineste-contactul|EXP-1217]] _vezi_ — Emotional touchpoints — punctul de contact se definește prin emoția pe care o produce, nu prin canal
+- [[EXP-1219-procesul-emic-etic-maparea-socioculturala|EXP-1219]] _contrazice_ — Procesul emic/etic — experiența se proiectează privind cultura de consum din interior și din exterior
+- [[SRC-036-experiential-marketing|SRC-036]] — Experiential Marketing: Consumer Behavior, Customer Experience and the 7Es
+<!-- backlinks:end -->

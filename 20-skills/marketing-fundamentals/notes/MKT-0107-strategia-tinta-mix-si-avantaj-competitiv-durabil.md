@@ -48,11 +48,20 @@ PepsiCo (deschiderea capitolului 2): zidul e făcut din mărci puternice, clien�
 
 ## Legături
 
-- **fundament** [[MKT-0104]] — mixul este a doua componentă a strategiei.
-- **extinde** [[MKT-0108]] — strategia se formalizează în planul de marketing.
-- **aplicare** [[MKT-0105]] — customer excellence se măsoară prin loialitate și valoarea pe durata vieții.
-- **vezi** [[MKT-0112]] — piața țintă se alege prin procesul STP.
+- **fundament** [[MKT-0104-mixul-4p-creeaza-capteaza-livreaza-comunica-valoarea|MKT-0104]] — mixul este a doua componentă a strategiei.
+- **extinde** [[MKT-0108-planul-de-marketing-cinci-pasi-in-trei-faze|MKT-0108]] — strategia se formalizează în planul de marketing.
+- **aplicare** [[MKT-0105-clientul-valoreaza-cat-relatia-nu-cat-tranzactia-clv|MKT-0105]] — customer excellence se măsoară prin loialitate și valoarea pe durata vieții.
+- **vezi** [[MKT-0112-stp-in-cinci-pasi|MKT-0112]] — piața țintă se alege prin procesul STP.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 2, p. 30-35 (Exhibit 2.1)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 2, p. 30-35 (Exhibit 2.1)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[MKT-0104-mixul-4p-creeaza-capteaza-livreaza-comunica-valoarea|MKT-0104]] _extinde_ — Mixul de marketing 4P — produsul creează, prețul captează, plasarea livrează, promovarea comunică valoarea
+- [[MKT-0105-clientul-valoreaza-cat-relatia-nu-cat-tranzactia-clv|MKT-0105]] _aplicare_ — Clientul valorează cât relația, nu cât tranzacția — valoarea pe durata vieții (CLV)
+- [[MKT-0108-planul-de-marketing-cinci-pasi-in-trei-faze|MKT-0108]] _fundament_ — Planul de marketing are cinci pași grupați în trei faze — planificare, implementare, control
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+<!-- backlinks:end -->

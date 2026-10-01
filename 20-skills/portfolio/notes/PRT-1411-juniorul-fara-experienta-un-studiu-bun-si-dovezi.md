@@ -54,12 +54,21 @@ O campanie inventată pentru un brand local de cafea, cu buget realist, cercetar
 
 ## Legături
 
-- **vezi** [[PRT-1405]] — și pentru junior calitatea bate volumul.
-- **aplicare** [[PRT-1409]] — proiectul pro bono sau personal se scrie ca orice studiu de caz.
-- **vezi** [[PRT-1408]] — introducerea juniorului spune onest ce caută, fără hiperbolă.
-- **vezi** [[PRT-1418]] — Morgan și Fenn sunt în dezacord asupra concursurilor de design.
+- **vezi** [[PRT-1405-doua-trei-proiecte-excelente-bat-cinci-mediocre|PRT-1405]] — și pentru junior calitatea bate volumul.
+- **aplicare** [[PRT-1409-studiul-de-caz-brief-ce-am-facut-rezultate|PRT-1409]] — proiectul pro bono sau personal se scrie ca orice studiu de caz.
+- **vezi** [[PRT-1408-introducerea-si-titlurile-vand-relevanta|PRT-1408]] — introducerea juniorului spune onest ce caută, fără hiperbolă.
+- **vezi** [[PRT-1418-dezbatere-grafice-de-competente-si-concursuri-de-design|PRT-1418]] — Morgan și Fenn sunt în dezacord asupra concursurilor de design.
 
 ## Surse
 
-- [[SRC-048]] Ian Fenn, *UX Portfolio Design*, cap. 6 și 9
-- [[SRC-047]] Hannah Morgan, *The Infographic Resume*, cap. 2 și 8
+- [[SRC-048-ux-portfolio-design|SRC-048]] Ian Fenn, *UX Portfolio Design*, cap. 6 și 9
+- [[SRC-047-the-infographic-resume|SRC-047]] Hannah Morgan, *The Infographic Resume*, cap. 2 și 8
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PRT-1405-doua-trei-proiecte-excelente-bat-cinci-mediocre|PRT-1405]] _vezi_ — Două-trei proiecte excelente bat cinci proiecte înconjurate de mediocritate
+- [[PRT-1418-dezbatere-grafice-de-competente-si-concursuri-de-design|PRT-1418]] _contrazice_ — Graficele de competențe și concursurile de design — Morgan le recomandă, Fenn și Kubišová le resping
+- [[SRC-047-the-infographic-resume|SRC-047]] — The Infographic Resume: How to Create a Visual Portfolio That Showcases Your Skills and Lands the Job
+- [[SRC-048-ux-portfolio-design|SRC-048]] — UX Portfolio Design
+<!-- backlinks:end -->

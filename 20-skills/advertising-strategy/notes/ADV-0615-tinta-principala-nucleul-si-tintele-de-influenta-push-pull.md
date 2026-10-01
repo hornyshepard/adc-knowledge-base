@@ -50,10 +50,20 @@ Un produs farmaceutic fără prescripție: ținta principală sunt adulții cu s
 
 ## Legături
 
-- **fundament** [[ADV-0612]] — țintele sunt o verigă a planului strategic.
-- **vezi** [[ADV-0614]] — pull servește obiectivele cognitive, push pe cele conative.
-- **vezi** [[ADV-0617]] — punctele de contact prin care ajungi la fiecare țintă.
+- **fundament** [[ADV-0612-planul-strategic-de-comunicare-e-un-lant-logic|ADV-0612]] — țintele sunt o verigă a planului strategic.
+- **vezi** [[ADV-0614-obiectivele-de-comunicare-sunt-cognitive-afective-sau-conative|ADV-0614]] — pull servește obiectivele cognitive, push pe cele conative.
+- **vezi** [[ADV-0617-touchpoints-paid-owned-earned|ADV-0617]] — punctele de contact prin care ajungi la fiecare țintă.
 
 ## Surse
 
-- [[SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 10, p. 40–43
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 10, p. 40–43
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0612-planul-strategic-de-comunicare-e-un-lant-logic|ADV-0612]] _vezi_ — Planul strategic de comunicare e un lanț în care fiecare verigă decurge din cea anterioară — de la SWOT la buget
+- [[ADV-0614-obiectivele-de-comunicare-sunt-cognitive-afective-sau-conative|ADV-0614]] _vezi_ — Obiectivele de comunicare sunt cognitive (a face cunoscut), afective (a face iubit) sau conative (a face să acționeze)
+- [[ADV-0617-touchpoints-paid-owned-earned|ADV-0617]] _vezi_ — Punctele de contact ale brandului sunt plătite, deținute sau câștigate (Paid–Owned–Earned) și trebuie combinate
+- [[ADV-0621-comunicarea-organizatiei-are-trei-registre-externa-interna|ADV-0621]] _vezi_ — Comunicarea unei organizații are trei registre — externă, internă, instituțională — cu ținte, obiective și unelte diferite
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] — La boîte à outils de la publicité
+<!-- backlinks:end -->

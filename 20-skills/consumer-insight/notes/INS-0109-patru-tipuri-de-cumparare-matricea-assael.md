@@ -52,11 +52,18 @@ Pasta de dinți și șamponul sunt exemplele de cumpărare din obișnuință: cl
 
 ## Legături
 
-- **alternativa** [[INS-0107]] — Grewal-Levy clasifică deciziile pe o singură axă, a implicării, prin ELM.
-- **fundament** [[INS-0101]] — fiecare tip parcurge altfel etapele procesului decizional.
-- **aplicare** [[ADV-0105]] — publicitatea de reamintire servește cumpărarea din obișnuință.
+- **alternativa** [[INS-0107-implicarea-decide-procesarea-centrala-sau-periferica|INS-0107]] — Grewal-Levy clasifică deciziile pe o singură axă, a implicării, prin ELM.
+- **fundament** [[INS-0101-decizia-de-cumparare-cinci-etape-si-dupa-cumparare|INS-0101]] — fiecare tip parcurge altfel etapele procesului decizional.
+- **aplicare** [[ADV-0105-reclama-informeaza-convinge-sau-reaminteste|ADV-0105]] — publicitatea de reamintire servește cumpărarea din obișnuință.
 
 ## Surse
 
-- [[SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 2, p. 63-67 (§2.10, Figura 2.6)
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 6, p. 211-213
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 2, p. 63-67 (§2.10, Figura 2.6)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 6, p. 211-213
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[INS-0107-implicarea-decide-procesarea-centrala-sau-periferica|INS-0107]] _alternativa_ — Implicarea decide dacă mesajul e citit cu atenție sau doar „scanat" după indicii (modelul ELM)
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] — Principles of Marketing
+<!-- backlinks:end -->

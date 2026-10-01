@@ -47,10 +47,19 @@ Autorul glumește că n-a cunoscut pe nimeni (în afară de un prieten comedian)
 
 ## Legături
 
-- **vezi** [[PIT-1414]] — regulile jocului se anunță în „Roadmap”-ul deschiderii.
-- **vezi** [[PIT-1426]] — online și hibrid, implicarea pe nume devine obligatorie.
-- **vezi** [[PIT-1422]] — Q&A-ul planificat completează implicarea spontană.
+- **vezi** [[PIT-1414-deschiderea-star|PIT-1414]] — regulile jocului se anunță în „Roadmap”-ul deschiderii.
+- **vezi** [[PIT-1426-prezentarea-virtuala-si-hibrida|PIT-1426]] — online și hibrid, implicarea pe nume devine obligatorie.
+- **vezi** [[PIT-1422-qa-in-cinci-pasi-si-formula-p-p|PIT-1422]] — Q&A-ul planificat completează implicarea spontană.
 
 ## Surse
 
-- [[SRC-043]] Dominic Colenso, *Cut-Through*, cap. 5 („Stop the tumbleweed”)
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] Dominic Colenso, *Cut-Through*, cap. 5 („Stop the tumbleweed”)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PIT-1414-deschiderea-star|PIT-1414]] _vezi_ — Deschiderea S.T.A.R. — Surprise, Takeaways, Authority, Roadmap
+- [[PIT-1423-cele-cinci-r-ale-obiectiilor|PIT-1423]] _vezi_ — Obiecțiile se tratează în cinci pași — Reveal, Relate, Refine, Reduce, Redirect
+- [[PIT-1426-prezentarea-virtuala-si-hibrida|PIT-1426]] _vezi_ — Prezentarea virtuală cere gândire de editor TV — privire în cameră, cadru strâns, schimbări de „plan”
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] — Cut-Through: The pitch and presentation playbook
+<!-- backlinks:end -->

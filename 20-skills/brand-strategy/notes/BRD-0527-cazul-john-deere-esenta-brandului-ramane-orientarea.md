@@ -47,10 +47,17 @@ Contrastul din capitol: Kodak, Blockbuster și BlackBerry au fost branduri mari 
 
 ## Legături
 
-- **vezi** [[BRD-0507]] — esența menținută cu o instanțiere nouă.
-- **vezi** [[BRD-0515]] — transformarea a cerut o schimbare de structură și cultură.
-- **vezi** [[ADV-0501]] — gândirea pe etape ale „călătoriei" clientului.
+- **vezi** [[BRD-0507-o-pozitie-se-sustine-prin-instantiere-moderna-schimbarea|BRD-0507]] — esența menținută cu o instanțiere nouă.
+- **vezi** [[BRD-0515-implementarea-strategiei-de-brand-cere-sase-elemente-nu|BRD-0515]] — transformarea a cerut o schimbare de structură și cultură.
+- **vezi** [[ADV-0501-calatoria-clientului-centrata-pe-consumator-sase-etape-trei|ADV-0501]] — gândirea pe etape ale „călătoriei" clientului.
 
 ## Surse
 
-- [[SRC-014]] Denny Docherty & Mike Porter, „Transforming a Historic Brand for a Hyper-Connected World: The John Deere Story", cap. 19 în *Kellogg on Branding in a Hyper-Connected World*, p. 263–270
+- [[SRC-014-kellogg-on-branding|SRC-014]] Denny Docherty & Mike Porter, „Transforming a Historic Brand for a Hyper-Connected World: The John Deere Story", cap. 19 în *Kellogg on Branding in a Hyper-Connected World*, p. 263–270
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0507-o-pozitie-se-sustine-prin-instantiere-moderna-schimbarea|BRD-0507]] _exemplu_ — O poziție se susține prin instanțiere modernă, schimbarea dovezii și laddering
+- [[SRC-014-kellogg-on-branding|SRC-014]] — Kellogg on Branding in a Hyper-Connected World
+<!-- backlinks:end -->

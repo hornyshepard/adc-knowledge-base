@@ -48,11 +48,20 @@ Dezbaterea opt-in vs. opt-out este vechea dilemă din marketingul direct: mai mu
 
 ## Legături
 
-- **vezi** [[DIG-0910]] — permisiunea în e-mail e cea mai solidă sursă de date first-party.
-- **aplicare** [[DIG-0927]] — designul e-mailului promoțional presupune o listă cu permisiune.
-- **aplicare** [[DIG-0929]] — controlul destinatarului extinde ideea de permisiune.
-- **vezi** [[DIG-0902]] — e-mailul servește mai ales retenția și creșterea valorii.
+- **vezi** [[DIG-0910-cookie-urile-third-party-dispar-datele-first-party-devin-baza|DIG-0910]] — permisiunea în e-mail e cea mai solidă sursă de date first-party.
+- **aplicare** [[DIG-0927-emailul-promotional-bun-o-oferta-un-termen-un-subiect-scurt|DIG-0927]] — designul e-mailului promoțional presupune o listă cu permisiune.
+- **aplicare** [[DIG-0929-personalizarea-relevanta-respect-control-reactanta|DIG-0929]] — controlul destinatarului extinde ideea de permisiune.
+- **vezi** [[DIG-0902-patru-strategii-generice-achizitie-conversie-retentie-valoare|DIG-0902]] — e-mailul servește mai ales retenția și creșterea valorii.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 11, p. 294-303
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 11, p. 294-303
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0910-cookie-urile-third-party-dispar-datele-first-party-devin-baza|DIG-0910]] _aplicare_ — Cookie-urile third-party dispar, iar datele first-party devin baza targetării
+- [[DIG-0927-emailul-promotional-bun-o-oferta-un-termen-un-subiect-scurt|DIG-0927]] _vezi_ — E-mailul promoțional bun are o singură ofertă, un termen-limită și un subiect sub 50 de caractere
+- [[DIG-0929-personalizarea-relevanta-respect-control-reactanta|DIG-0929]] _extinde_ — Personalizarea funcționează doar cu relevanță, respect și control; venită prea devreme, produce reactanță
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+<!-- backlinks:end -->

@@ -44,10 +44,19 @@ O cremă care promite „riduri șterse în 7 zile" poate genera trial, dar clie
 
 ## Legături
 
-- **fundament** [[INS-0404]] — noutatea și surpriza atrag atenția, dar au și această față.
-- **contrazice** [[INS-0416]] — publicitatea poate uneori rescrie amintirea experienței, atenuând dezamăgirea.
-- **vezi** [[CPY-0401]] — promisiunile vag formulate creează inferențe exagerate.
+- **fundament** [[INS-0404-salienta-vividness-noutate-capteaza-atentia|INS-0404]] — noutatea și surpriza atrag atenția, dar au și această față.
+- **contrazice** [[INS-0416-publicitatea-poate-rescrie-amintirea-experientei|INS-0416]] — publicitatea poate uneori rescrie amintirea experienței, atenuând dezamăgirea.
+- **vezi** [[CPY-0401-sloganurile-literal-adevarate-pot-induce-in-eroare|CPY-0401]] — promisiunile vag formulate creează inferențe exagerate.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 2, p. 68-69
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 2, p. 68-69
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0401-sloganurile-literal-adevarate-pot-induce-in-eroare|CPY-0401]] _vezi_ — Sloganurile literal adevărate pot induce în eroare prin inferențele pe care le lasă publicului
+- [[INS-0404-salienta-vividness-noutate-capteaza-atentia|INS-0404]] _extinde_ — Saliența, vividness-ul și noutatea captează atenția involuntar, dar saliența dispare când toți copiază
+- [[INS-0416-publicitatea-poate-rescrie-amintirea-experientei|INS-0416]] _contrazice_ — Publicitatea poate rescrie amintirea experienței cu produsul, mai ales când experiența e ambiguă
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

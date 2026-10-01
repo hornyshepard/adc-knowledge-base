@@ -46,10 +46,19 @@ Prea multe firme, spun autorii, își „împing" obiectivele de business pe soc
 
 ## Legături
 
-- **extinde** [[SOC-0902]] — cei 5C dezvoltă pasul „People".
-- **extinde** [[SOC-0903]] — cele șase obiective dezvoltă pasul „Objectives".
-- **vezi** [[DIG-0912]] — persona e instrumentul de lucru pentru pasul „People".
+- **extinde** [[SOC-0902-cei-5c-ai-motivatiei-pe-social-media|SOC-0902]] — cei 5C dezvoltă pasul „People".
+- **extinde** [[SOC-0903-social-media-serveste-sase-obiective-fiecare-cu-alt-kpi|SOC-0903]] — cele șase obiective dezvoltă pasul „Objectives".
+- **vezi** [[DIG-0912-persona-transforma-un-segment-statistic-intr-un-om|DIG-0912]] — persona e instrumentul de lucru pentru pasul „People".
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 9, p. 245-247
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 9, p. 245-247
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0912-persona-transforma-un-segment-statistic-intr-un-om|DIG-0912]] _vezi_ — Persona transformă un segment statistic într-un om pentru care designerii și creativii pot lucra
+- [[SOC-0902-cei-5c-ai-motivatiei-pe-social-media|SOC-0902]] _extinde_ — Cei 5C — oamenii folosesc social media ca să consume, să se conecteze, să controleze, să concureze și să creeze
+- [[SOC-0903-social-media-serveste-sase-obiective-fiecare-cu-alt-kpi|SOC-0903]] _extinde_ — Social media servește șase obiective distincte, iar fiecare cere alt KPI
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+<!-- backlinks:end -->

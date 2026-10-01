@@ -52,12 +52,24 @@ Un brand nou, necunoscut, care cere „să schimbăm percepția" sare peste o ve
 
 ## Legături
 
-- **vezi** [[ADV-0613]] — diagnosticul și problema unică, veriga care leagă analiza de strategie.
-- **vezi** [[ADV-0614]] — obiectivele de comunicare, detaliate.
-- **vezi** [[ADV-0615]] — țintele și strategiile push/pull.
-- **vezi** [[PIT-0601]] — recomandarea către client urmează aceeași ordine.
-- **vezi** [[BRD-0607]] — poziționarea, veriga dintre problemă și obiective.
+- **vezi** [[ADV-0613-problema-de-comunicare-e-una-singura-notorietate-imagine-sau|ADV-0613]] — diagnosticul și problema unică, veriga care leagă analiza de strategie.
+- **vezi** [[ADV-0614-obiectivele-de-comunicare-sunt-cognitive-afective-sau-conative|ADV-0614]] — obiectivele de comunicare, detaliate.
+- **vezi** [[ADV-0615-tinta-principala-nucleul-si-tintele-de-influenta-push-pull|ADV-0615]] — țintele și strategiile push/pull.
+- **vezi** [[PIT-0601-recomandarea-de-agentie-arata-alegerea-nu-drumul|PIT-0601]] — recomandarea către client urmează aceeași ordine.
+- **vezi** [[BRD-0607-harta-de-pozitionare-in-patru-pasi-si-sase-criterii|BRD-0607]] — poziționarea, veriga dintre problemă și obiective.
 
 ## Surse
 
-- [[SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, dosarul 2, outils 6–14, p. 28–51
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, dosarul 2, outils 6–14, p. 28–51
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0613-problema-de-comunicare-e-una-singura-notorietate-imagine-sau|ADV-0613]] _fundament_ — Problema de comunicare e una singură — de notorietate, de imagine sau de comportament, niciodată toate trei deodată
+- [[ADV-0615-tinta-principala-nucleul-si-tintele-de-influenta-push-pull|ADV-0615]] _fundament_ — Ținta de comunicare are straturi — țintă principală, nucleu și ținte de influență — și se atinge prin push sau pull
+- [[ADV-0616-grp-acoperire-ori-repetitie-vocabularul-media-planningului|ADV-0616]] _aplicare_ — GRP = acoperire × repetiție — vocabularul de bază al media planning-ului
+- [[ADV-0617-touchpoints-paid-owned-earned|ADV-0617]] _extinde_ — Punctele de contact ale brandului sunt plătite, deținute sau câștigate (Paid–Owned–Earned) și trebuie combinate
+- [[BRD-0607-harta-de-pozitionare-in-patru-pasi-si-sase-criterii|BRD-0607]] _aplicare_ — Harta de poziționare se face în patru pași, iar poziționarea aleasă trece șase teste — clară, pertinentă, distinctivă, coerentă, atractivă, durabilă
+- [[PIT-0601-recomandarea-de-agentie-arata-alegerea-nu-drumul|PIT-0601]] _fundament_ — Recomandarea de agenție („reco") arată de ce s-a ales o soluție, nu drumul întortocheat până la ea
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] — La boîte à outils de la publicité
+<!-- backlinks:end -->

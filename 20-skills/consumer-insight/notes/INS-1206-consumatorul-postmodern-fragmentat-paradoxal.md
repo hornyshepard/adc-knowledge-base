@@ -51,10 +51,18 @@ Las Vegas (mini-cazul 1.9) e un manifest postmodern: replici ale Turnului Eiffel
 
 ## Legături
 
-- **vezi** [[INS-1201]] — consumul experiențial e una dintre trăsăturile consumatorului postmodern.
-- **vezi** [[EXP-1209]] — tematizarea hiper-reală exploatează gustul postmodern pentru simulare.
-- **vezi** [[BRD-1201]] — comunicarea a trecut de la modernitate la postmodernitate și alter-modernitate.
+- **vezi** [[INS-1201-consumul-hedonic-fantezii-sentimente-distractie|INS-1201]] — consumul experiențial e una dintre trăsăturile consumatorului postmodern.
+- **vezi** [[EXP-1209-tematizarea-unifica-decorul-experientei|EXP-1209]] — tematizarea hiper-reală exploatează gustul postmodern pentru simulare.
+- **vezi** [[BRD-1201-emphasis-de-la-brand-content-la-brand-culture|BRD-1201]] — comunicarea a trecut de la modernitate la postmodernitate și alter-modernitate.
 
 ## Surse
 
-- [[SRC-036]] Wided Batat, *Experiential Marketing*, cap. 1, secț. „Postmodernism and the transition to experiential consumption" (Figurile 1.5–1.7, Tabelul 1.6, Theory Box 1.2, mini-cazurile 1.9, 1.10)
+- [[SRC-036-experiential-marketing|SRC-036]] Wided Batat, *Experiential Marketing*, cap. 1, secț. „Postmodernism and the transition to experiential consumption" (Figurile 1.5–1.7, Tabelul 1.6, Theory Box 1.2, mini-cazurile 1.9, 1.10)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[EXP-1209-tematizarea-unifica-decorul-experientei|EXP-1209]] _vezi_ — Tematizarea unifică decorul și transformă o ofertă obișnuită într-o experiență
+- [[INS-1205-consumatorul-imputernicit-patru-piloni|INS-1205]] _vezi_ — Consumatorul împuternicit stă pe patru piloni — competență, (re)creare, conștiința drepturilor, rezistență
+- [[SRC-036-experiential-marketing|SRC-036]] — Experiential Marketing: Consumer Behavior, Customer Experience and the 7Es
+<!-- backlinks:end -->

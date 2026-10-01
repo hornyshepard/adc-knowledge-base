@@ -29,7 +29,7 @@ status: seed
 - Regula de bază: nu spune în text ce arată deja imaginea. Textul răsucește, contrazice sau completează.
 - Pune același titlu în trei fonturi și întreabă: ce „actor" spune replica cel mai credibil?
 - Clasifică relația text–imagine din schiță: redundantă (slab), complementară (bine), în contradicție productivă (adesea cel mai bine).
-- Fonturile fac parte din semnalele de brand: alegerea trebuie să treacă testul consecvenței (vezi [[ART-0701]]).
+- Fonturile fac parte din semnalele de brand: alegerea trebuie să treacă testul consecvenței (vezi [[ART-0701-testul-unui-singur-perete|ART-0701]]).
 
 ## Întrebări
 
@@ -38,10 +38,19 @@ status: seed
 
 ## Legături
 
-- **vezi** [[CPY-0701]] — jocul de cuvinte e jumătatea verbală a tensiunii.
-- **vezi** [[ART-0701]] — tipografia ca element de brand consecvent.
-- **vezi** [[IDE-0705]] — juxtapunerea cuvânt–imagine funcționează ca juxtapunerea a două imagini.
+- **vezi** [[CPY-0701-jocul-de-cuvinte-vizual-calambur-expresie-rebus|CPY-0701]] — jocul de cuvinte e jumătatea verbală a tensiunii.
+- **vezi** [[ART-0701-testul-unui-singur-perete|ART-0701]] — tipografia ca element de brand consecvent.
+- **vezi** [[IDE-0705-juxtapunerea-doua-imagini-alaturate|IDE-0705]] — juxtapunerea cuvânt–imagine funcționează ca juxtapunerea a două imagini.
 
 ## Surse
 
-- [[SRC-024]] John Ingledew, *The A–Z of Visual Ideas*, intrările „Type", „Phototypography", „Tension between words and images"
+- [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] John Ingledew, *The A–Z of Visual Ideas*, intrările „Type", „Phototypography", „Tension between words and images"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0701-testul-unui-singur-perete|ART-0701]] _vezi_ — Testul „unui singur perete" — toate materialele unui brand trebuie să pară din aceeași sursă
+- [[CPY-0701-jocul-de-cuvinte-vizual-calambur-expresie-rebus|CPY-0701]] _vezi_ — Jocul de cuvinte vizual — calamburul, expresia vizualizată, rebusul și întrebarea
+- [[IDE-0705-juxtapunerea-doua-imagini-alaturate|IDE-0705]] _vezi_ — Juxtapunerea — două imagini puse alături îl obligă pe privitor să construiască singur legătura
+- [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] — The A–Z of Visual Ideas: How to Solve Any Creative Brief
+<!-- backlinks:end -->

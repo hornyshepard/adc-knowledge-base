@@ -44,11 +44,26 @@ Harta Coca-Cola: în centru „Coke aduce bucurie", în jur răcoritor, atempora
 
 ## Legături
 
-- **extinde** [[ART-0502]] — cele 12 tipuri de indicii prin care designul declanșează asocierile.
-- **exemplu** [[ART-0503]] — Tropicana arată ce se întâmplă când indiciile perceptuale dispar.
-- **fundament** [[BRD-0501]] — brandul e un set de asociații; designul le creează inconștient.
-- **fundament** [[BRD-0503]] — harta perceptuală pornește de la poziționare.
+- **extinde** [[ART-0502-sablonul-de-design-de-brand-douasprezece-tipuri-de-indicii|ART-0502]] — cele 12 tipuri de indicii prin care designul declanșează asocierile.
+- **exemplu** [[ART-0503-cazul-tropicana-redesignul-ambalajului-a-sters-indiciile-de|ART-0503]] — Tropicana arată ce se întâmplă când indiciile perceptuale dispar.
+- **fundament** [[BRD-0501-brandul-este-un-set-de-asociatii-care-actioneaza-ca-o|BRD-0501]] — brandul e un set de asociații; designul le creează inconștient.
+- **fundament** [[BRD-0503-declaratia-de-pozitionare-are-patru-elemente-tinta-cadru|BRD-0503]] — harta perceptuală pornește de la poziționare.
 
 ## Surse
 
-- [[SRC-014]] Bobby J. Calder, „Brand Design and Design Thinking", cap. 7 în *Kellogg on Branding in a Hyper-Connected World*, p. 93–97, 108
+- [[SRC-014-kellogg-on-branding|SRC-014]] Bobby J. Calder, „Brand Design and Design Thinking", cap. 7 în *Kellogg on Branding in a Hyper-Connected World*, p. 93–97, 108
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0502-sablonul-de-design-de-brand-douasprezece-tipuri-de-indicii|ART-0502]] _fundament_ — Șablonul de design de brand: douăsprezece tipuri de indicii senzoriale
+- [[ART-0503-cazul-tropicana-redesignul-ambalajului-a-sters-indiciile-de|ART-0503]] _exemplu_ — Cazul Tropicana: redesignul ambalajului a șters indiciile de recunoaștere
+- [[ART-0504-un-logo-dureaza-prin-zece-piloni-dintre-care-designerul|ART-0504]] _fundament_ — Un logo durează prin zece piloni, dintre care designerul controlează șapte
+- [[ART-0505-lista-de-substantive-de-brand-stabileste-subiectul-logo|ART-0505]] _fundament_ — Lista de substantive de brand stabilește subiectul logo-ului înainte de schițe
+- [[BRD-0501-brandul-este-un-set-de-asociatii-care-actioneaza-ca-o|BRD-0501]] _extinde_ — Brandul este un set de asociații care acționează ca o prismă asupra produsului
+- [[BRD-0524-un-nume-bun-de-brand-e-relevant-emotionant-usor-de-rostit|BRD-0524]] _fundament_ — Un nume bun de brand e relevant, emoționant, ușor de rostit și de promovat
+- [[BRD-0525-un-brand-nou-se-construieste-in-patru-pasi-carlig-nume|BRD-0525]] _aplicare_ — Un brand nou se construiește în patru pași: cârlig, nume, marcă, design
+- [[BRD-0528-personalitatea-brandului-are-cinci-dimensiuni-in-modelul|BRD-0528]] _aplicare_ — Personalitatea brandului are cinci dimensiuni în modelul Aaker
+- [[SRC-014-kellogg-on-branding|SRC-014]] — Kellogg on Branding in a Hyper-Connected World
+- [[SRC-017-logos-that-last|SRC-017]] — Logos That Last: How to Create Iconic Visual Branding
+<!-- backlinks:end -->

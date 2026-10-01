@@ -50,10 +50,17 @@ Ilustrare de lucru: o reclamă pentru un produs de îngrijire a pielii arată do
 
 ## Legături
 
-- **vezi** [[BRD-0301]] — sensibilitatea față de cei pe care un mesaj îi poate răni.
-- **vezi** [[MKT-0323]] — riscul ca valorile declarate să nu fie trăite, analog greenwashingului.
-- **vezi** [[IDE-0301]] — echipele diverse văd mai multe tipare și mai puține unghiuri moarte.
+- **vezi** [[BRD-0301-bloom-and-wild-renuntarea-la-campaniile-sensibile|BRD-0301]] — sensibilitatea față de cei pe care un mesaj îi poate răni.
+- **vezi** [[MKT-0323-greenwashing-afirmatia-verde-trebuie-dovedita|MKT-0323]] — riscul ca valorile declarate să nu fie trăite, analog greenwashingului.
+- **vezi** [[IDE-0301-geniul-e-un-sport-de-echipa-trei-mituri-ale-creativitatii|IDE-0301]] — echipele diverse văd mai multe tipare și mai puține unghiuri moarte.
 
 ## Surse
 
-- [[SRC-010]] Patrick Ejeke, *Marketing Trends*, trendul 21
+- [[SRC-010-marketing-trends-ejeke|SRC-010]] Patrick Ejeke, *Marketing Trends*, trendul 21
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0301-bloom-and-wild-renuntarea-la-campaniile-sensibile|BRD-0301]] _vezi_ — Bloom & Wild: să le permiți clienților să refuze campaniile de Ziua Mamei e tot marketing — marketing atent
+- [[SRC-010-marketing-trends-ejeke|SRC-010]] — Marketing Trends: 63 Digital Marketing Trends in the Age of Automation, Integrated Marketing, Omnichannel Marketing, Metaverse, Big Data, NFTs, AI, AR & VR
+<!-- backlinks:end -->

@@ -41,11 +41,21 @@ Content marketingul e vechi: John Deere publică *The Furrow* din 1895, o revist
 
 ## Legături
 
-- **extinde** [[STO-0903]] — procesul strategic în patru pași operaționalizează definiția.
-- **vezi** [[STO-0902]] — matricea alege tipul de conținut după etapă și emoție.
-- **vezi** [[DIG-0931]] — în B2B, conținutul e primul pas al demand generation.
-- **vezi** [[DIG-0925]] — distribuția folosește media owned, earned și paid.
+- **extinde** [[STO-0903-strategia-de-content-marketing-are-patru-pasi|STO-0903]] — procesul strategic în patru pași operaționalizează definiția.
+- **vezi** [[STO-0902-matricea-content-marketingului-entertain-inspire-educate-convince|STO-0902]] — matricea alege tipul de conținut după etapă și emoție.
+- **vezi** [[DIG-0931-demand-generation-de-la-continut-la-lead-calificat|DIG-0931]] — în B2B, conținutul e primul pas al demand generation.
+- **vezi** [[DIG-0925-media-owned-earned-paid-control-credibilitate-acoperire|DIG-0925]] — distribuția folosește media owned, earned și paid.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 12, p. 329-331, 335
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 12, p. 329-331, 335
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0931-demand-generation-de-la-continut-la-lead-calificat|DIG-0931]] _vezi_ — Demand generation duce prospectul de la conținut la lead calificat în șase pași, iar în B2B decizia e luată de un grup
+- [[STO-0902-matricea-content-marketingului-entertain-inspire-educate-convince|STO-0902]] _extinde_ — Matricea content marketingului — distrează, inspiră, educă, convinge — după emoție și etapa deciziei
+- [[STO-0903-strategia-de-content-marketing-are-patru-pasi|STO-0903]] _extinde_ — Strategia de content marketing are patru pași — creezi, dezvolți audiența, distribui, evaluezi
+- [[STO-0905-povestea-de-brand-buna-personaje-emotie-moment-detalii|STO-0905]] _vezi_ — O poveste de brand bună are personaje identificabile, emoție autentică, un moment semnificativ și detalii concrete
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+<!-- backlinks:end -->

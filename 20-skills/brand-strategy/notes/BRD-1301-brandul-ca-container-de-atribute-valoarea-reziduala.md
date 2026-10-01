@@ -44,10 +44,18 @@ Cazul Sony e exemplul din carte: o „identitate de brand" aparent vagă devine 
 
 ## Legături
 
-- **fundament** [[AIM-1310]] — distincția dintre alegere discretă și conjoint.
-- **vezi** [[AIM-1311]] — simulatorul de preț arată prima brandului în acțiune.
-- **vezi** [[AIM-1308]] — datele tranzacționale nu văd percepțiile care susțin prima.
+- **fundament** [[AIM-1310-metodele-de-trade-off-cand-folosesti-fiecare|AIM-1310]] — distincția dintre alegere discretă și conjoint.
+- **vezi** [[AIM-1311-simularea-de-piata-arata-pretul-unui-razboi-al-preturilor|AIM-1311]] — simulatorul de preț arată prima brandului în acțiune.
+- **vezi** [[AIM-1308-datele-istorice-prezic-repetarea-nu-noutatea|AIM-1308]] — datele tranzacționale nu văd percepțiile care susțin prima.
 
 ## Surse
 
-- [[SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, cap. 2, 4 și 5
+- [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, cap. 2, 4 și 5
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-1311-simularea-de-piata-arata-pretul-unui-razboi-al-preturilor|AIM-1311]] _vezi_ — Simularea de piață arată când o reducere de preț crește cota, dar scade veniturile
+- [[INS-1305-importanta-unui-atribut-se-schimba-cu-etapa-de-viata|INS-1305]] _vezi_ — Importanța unui atribut se schimbă cu etapa de viață — „brandul de încredere" contează enorm la 4–8 ani și aproape deloc la preadolescenți
+- [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]] — Artificial Intelligence Marketing and Predicting Consumer Choice: An Overview of Tools and Techniques
+<!-- backlinks:end -->

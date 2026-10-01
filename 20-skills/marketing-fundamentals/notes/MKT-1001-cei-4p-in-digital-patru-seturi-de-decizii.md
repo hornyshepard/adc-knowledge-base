@@ -45,10 +45,18 @@ Domino's AnyWare: comanda de pizza se poate da prin site, aplicație, Google Hom
 
 ## Legături
 
-- **vezi** [[DIG-1001]] — cele 7A completează cei 4P.
-- **aplicare** [[DIG-1002]] — tabelul 4P intră în secțiunea 5 a planului.
-- **vezi** [[DIG-1036]] — publicitatea nativă, una dintre opțiunile de „Promotion", ridică probleme de transparență.
+- **vezi** [[DIG-1001-cele-7a-ale-marketingului-digital-completeaza-cei-4p|DIG-1001]] — cele 7A completează cei 4P.
+- **aplicare** [[DIG-1002-planul-strategic-digital-trei-etape-opt-sectiuni|DIG-1002]] — tabelul 4P intră în secțiunea 5 a planului.
+- **vezi** [[DIG-1036-publicitatea-nativa-credibilitate-versus-transparenta|DIG-1036]] — publicitatea nativă, una dintre opțiunile de „Promotion", ridică probleme de transparență.
 
 ## Surse
 
-- [[SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 1 (p. 36) și cap. 2 (p. 53–56)
+- [[SRC-031-digital-marketing-manual|SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 1 (p. 36) și cap. 2 (p. 53–56)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-1001-cele-7a-ale-marketingului-digital-completeaza-cei-4p|DIG-1001]] _extinde_ — Cele 7A ale marketingului digital (Add, Allure, Advance, Adapt, Associate, Abide, Analyze) completează cei 4P
+- [[DIG-1036-publicitatea-nativa-credibilitate-versus-transparenta|DIG-1036]] _vezi_ — Publicitatea nativă își ia credibilitatea din faptul că seamănă cu conținutul editorial — exact lucrul pe care regulile de transparență îl limitează
+- [[SRC-031-digital-marketing-manual|SRC-031]] — Digital Marketing
+<!-- backlinks:end -->

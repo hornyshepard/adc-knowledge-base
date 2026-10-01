@@ -45,11 +45,20 @@ Model de livrabile din carte: patru Instagram stories și două postări în dou
 
 ## Legături
 
-- **aplicare** [[SOC-1117]] — brief-ul deschis traduce pasul Create din Mission–Cast–Create.
-- **vezi** [[SOC-1118]] — regulile de disclosure trebuie scrise explicit în brief.
-- **vezi** [[SOC-1119]] — livrabilele din brief devin clauze în contract.
-- **vezi** [[SOC-1133]] — brief-ul decurge din cadrul strategic al campaniei.
+- **aplicare** [[SOC-1117-mission-cast-create-misiunea-inaintea-castingului-de|SOC-1117]] — brief-ul deschis traduce pasul Create din Mission–Cast–Create.
+- **vezi** [[SOC-1118-colaborarea-platita-se-declara-clar-la-inceput-in-fiecare|SOC-1118]] — regulile de disclosure trebuie scrise explicit în brief.
+- **vezi** [[SOC-1119-negocierea-cu-un-creator-are-variabile-multiple-iar|SOC-1119]] — livrabilele din brief devin clauze în contract.
+- **vezi** [[SOC-1133-cadrul-strategic-al-unei-campanii-cu-influenceri-porneste|SOC-1133]] — brief-ul decurge din cadrul strategic al campaniei.
 
 ## Surse
 
-- [[SRC-035]] Glenister, *Influencer Marketing Strategy*, cap. 3, p. 127–129; cap. 5, p. 174, 175–176, 184–185; cap. 11, p. 316
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] Glenister, *Influencer Marketing Strategy*, cap. 3, p. 127–129; cap. 5, p. 174, 175–176, 184–185; cap. 11, p. 316
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[SOC-1117-mission-cast-create-misiunea-inaintea-castingului-de|SOC-1117]] _aplicare_ — Mission, Cast, Create: misiunea înaintea castingului de creatori
+- [[SOC-1119-negocierea-cu-un-creator-are-variabile-multiple-iar|SOC-1119]] _fundament_ — Negocierea cu un creator are variabile multiple, iar contractul fixează drepturile
+- [[SOC-1133-cadrul-strategic-al-unei-campanii-cu-influenceri-porneste|SOC-1133]] _aplicare_ — Cadrul strategic al unei campanii cu influenceri pornește de la cercetare și obiective SMART
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] — Influencer Marketing Strategy: How influencers can help grow your business
+<!-- backlinks:end -->

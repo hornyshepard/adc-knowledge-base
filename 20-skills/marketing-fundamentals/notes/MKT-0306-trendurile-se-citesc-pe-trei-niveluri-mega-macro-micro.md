@@ -45,10 +45,18 @@ Ilustrare: „sobrietatea" (oameni care beau mai puțin alcool) poate fi un micr
 
 ## Legături
 
-- **vezi** [[MKT-0305]] — fiecare trend se manifestă apoi ca driver sau forță.
-- **vezi** [[MKT-0319]] — cum citești critic listele de trenduri.
-- **vezi** [[MKT-0315]] — un alt autor transformă trendurile în prognoze concrete pentru 2021.
+- **vezi** [[MKT-0305-o-tendinta-e-intai-driver-apoi-forta|MKT-0305]] — fiecare trend se manifestă apoi ca driver sau forță.
+- **vezi** [[MKT-0319-cartile-de-trenduri-se-citesc-ca-ipoteze|MKT-0319]] — cum citești critic listele de trenduri.
+- **vezi** [[MKT-0315-zece-schimbari-prezise-pentru-2021-de-la-branduri-la-platforme|MKT-0315]] — un alt autor transformă trendurile în prognoze concrete pentru 2021.
 
 ## Surse
 
-- [[SRC-007]] H. von Scheel et al., *Strategy in the Age of Disruption*, cap. 4, p. 90–93; cap. 7, p. 255–257
+- [[SRC-007-strategy-in-the-age-of-disruption|SRC-007]] H. von Scheel et al., *Strategy in the Age of Disruption*, cap. 4, p. 90–93; cap. 7, p. 255–257
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[MKT-0305-o-tendinta-e-intai-driver-apoi-forta|MKT-0305]] _fundament_ — O tendință apare întâi ca driver (oportunitate de inovare) și devine apoi forță (presiune de adaptare)
+- [[MKT-0319-cartile-de-trenduri-se-citesc-ca-ipoteze|MKT-0319]] _aplicare_ — Cărțile de trenduri se citesc ca ipoteze, nu ca hărți: cum separi semnalul de umplutură
+- [[SRC-007-strategy-in-the-age-of-disruption|SRC-007]] — Strategy in the Age of Disruption: A Handbook to Anticipate Change and Make Smart Decisions
+<!-- backlinks:end -->

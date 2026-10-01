@@ -48,10 +48,19 @@ Pe forumul Coca-Cola, o întrebare frecventă era rețeta unui tort cu Coca-Cola
 
 ## Legături
 
-- **extinde** [[STO-1302]] — pilonii de conținut pornesc din punctul de mutualitate.
-- **vezi** [[INS-1306]] — personas-urile spun ce subiect îi interesează pe oameni.
-- **vezi** [[ADV-1303]] — conținutul trebuie să ducă publicul mai departe, nu doar să-l distreze.
+- **extinde** [[STO-1302-pilonii-de-continut-trei-teste-patru-functii|STO-1302]] — pilonii de conținut pornesc din punctul de mutualitate.
+- **vezi** [[INS-1306-personas-nu-segmente-ozzy-osbourne-si-printul-charles|INS-1306]] — personas-urile spun ce subiect îi interesează pe oameni.
+- **vezi** [[ADV-1303-big-idea-nu-ajunge-long-idea-volvo-epic-split|ADV-1303]] — conținutul trebuie să ducă publicul mai departe, nu doar să-l distreze.
 
 ## Surse
 
-- [[SRC-040]] Aly Richards & Scott McLean, *Intelligent Customer Engagement*, Intro; secț. 3, cap. 1; secț. 4, cap. 2
+- [[SRC-040-intelligent-customer-engagement|SRC-040]] Aly Richards & Scott McLean, *Intelligent Customer Engagement*, Intro; secț. 3, cap. 1; secț. 4, cap. 2
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-1303-big-idea-nu-ajunge-long-idea-volvo-epic-split|ADV-1303]] _fundament_ — Un Big Idea nu ajunge fără un „Long Idea" — publicul trebuie așteptat la pasul următor (Volvo Trucks, „Epic Split")
+- [[INS-1306-personas-nu-segmente-ozzy-osbourne-si-printul-charles|INS-1306]] _aplicare_ — Personas, nu segmente — Ozzy Osbourne și Prințul Charles au același profil demografic
+- [[STO-1302-pilonii-de-continut-trei-teste-patru-functii|STO-1302]] _fundament_ — Pilonii de conținut trec trei teste — interes editorial, acționabil, sustenabil — și combină patru funcții
+- [[SRC-040-intelligent-customer-engagement|SRC-040]] — Intelligent Customer Engagement: The Future of Content Marketing
+<!-- backlinks:end -->

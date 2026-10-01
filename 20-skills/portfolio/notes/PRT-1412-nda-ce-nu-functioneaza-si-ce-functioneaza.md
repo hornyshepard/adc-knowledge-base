@@ -56,12 +56,22 @@ Un junior care a lucrat la un pitch pierdut poate descrie, fără numele clientu
 
 ## Legături
 
-- **vezi** [[PRT-1403]] — documentarea în timpul proiectului trebuie să țină cont de NDA.
-- **vezi** [[PRT-1407]] — parola, inclusiv pe site, e un obstacol pentru cititor.
-- **vezi** [[CLI-1403]] — relațiile bune cu clienții fac posibilă cererea de permisiuni.
+- **vezi** [[PRT-1403-jurnalul-de-lucru-povestile-se-colecteaza-in-timp-real|PRT-1403]] — documentarea în timpul proiectului trebuie să țină cont de NDA.
+- **vezi** [[PRT-1407-pdf-personalizabil-intai-apoi-site|PRT-1407]] — parola, inclusiv pe site, e un obstacol pentru cititor.
+- **vezi** [[CLI-1403-introducerea-in-trei-deschide-usi|CLI-1403]] — relațiile bune cu clienții fac posibilă cererea de permisiuni.
 
 ## Surse
 
-- [[SRC-048]] Ian Fenn, *UX Portfolio Design*, cap. 9 („Non-disclosure agreements”)
-- [[SRC-047]] Hannah Morgan, *The Infographic Resume*, cap. 2
-- [[SRC-046]] Zuzana Kubišová, *The Architect's Pocket Guide to Portfolio Design*, Pasul 2, p. 37; Pasul 8, pp. 213–214
+- [[SRC-048-ux-portfolio-design|SRC-048]] Ian Fenn, *UX Portfolio Design*, cap. 9 („Non-disclosure agreements”)
+- [[SRC-047-the-infographic-resume|SRC-047]] Hannah Morgan, *The Infographic Resume*, cap. 2
+- [[SRC-046-architects-pocket-guide-to-portfolio-design|SRC-046]] Zuzana Kubišová, *The Architect's Pocket Guide to Portfolio Design*, Pasul 2, p. 37; Pasul 8, pp. 213–214
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PRT-1403-jurnalul-de-lucru-povestile-se-colecteaza-in-timp-real|PRT-1403]] _vezi_ — Poveștile de portofoliu se colectează în timpul proiectelor, cu un jurnal de lucru indexat
+- [[PRT-1407-pdf-personalizabil-intai-apoi-site|PRT-1407]] _vezi_ — Pornește cu un portofoliu PDF personalizabil și adaugă apoi un site; comunitățile de portofoliu sunt riscante
+- [[SRC-046-architects-pocket-guide-to-portfolio-design|SRC-046]] — The Architect's Pocket Guide to Portfolio Design
+- [[SRC-047-the-infographic-resume|SRC-047]] — The Infographic Resume: How to Create a Visual Portfolio That Showcases Your Skills and Lands the Job
+- [[SRC-048-ux-portfolio-design|SRC-048]] — UX Portfolio Design
+<!-- backlinks:end -->

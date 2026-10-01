@@ -47,10 +47,17 @@ Campania benzinăriilor 76 pe Waze (trendul 24, geofencing): logoul apărea pe h
 
 ## Legături
 
-- **vezi** [[DIG-0302]] — întrebările rostite sunt adesea micro-momente.
-- **vezi** [[DIG-0303]] — micro-momentele sunt puncte de intrare în parcursul omnicanal.
-- **vezi** [[MKT-0319]] — mitul „peștelui-auriu" ca exemplu de statistică ne-verificată.
+- **vezi** [[DIG-0302-cautarea-vocala-optimizare-pentru-intrebari-conversationale|DIG-0302]] — întrebările rostite sunt adesea micro-momente.
+- **vezi** [[DIG-0303-omnicanal-inseamna-canale-care-se-intaresc-reciproc|DIG-0303]] — micro-momentele sunt puncte de intrare în parcursul omnicanal.
+- **vezi** [[MKT-0319-cartile-de-trenduri-se-citesc-ca-ipoteze|MKT-0319]] — mitul „peștelui-auriu" ca exemplu de statistică ne-verificată.
 
 ## Surse
 
-- [[SRC-010]] Patrick Ejeke, *Marketing Trends*, trendurile 24, 25 și 47
+- [[SRC-010-marketing-trends-ejeke|SRC-010]] Patrick Ejeke, *Marketing Trends*, trendurile 24, 25 și 47
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0302-cautarea-vocala-optimizare-pentru-intrebari-conversationale|DIG-0302]] _vezi_ — Căutarea vocală cere conținut scris ca răspuns la întrebări rostite — o prognoză exagerată, dar o practică utilă
+- [[SRC-010-marketing-trends-ejeke|SRC-010]] — Marketing Trends: 63 Digital Marketing Trends in the Age of Automation, Integrated Marketing, Omnichannel Marketing, Metaverse, Big Data, NFTs, AI, AR & VR
+<!-- backlinks:end -->

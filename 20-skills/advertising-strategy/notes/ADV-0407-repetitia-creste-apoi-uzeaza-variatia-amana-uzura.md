@@ -44,11 +44,18 @@ Pixul „Omega 3" (Schumann et al.): opt expuneri la aceeași reclamă au scăzu
 
 ## Legături
 
-- **extinde** [[ADV-0405]] — repetiția din perspectiva memoriei; aici, a atitudinii.
-- **fundament** [[INS-0430]] — repetiția oferă ocazia de elaborare din teoriile duale.
-- **vezi** [[INS-0425]] — la procesare superficială, repetiția lucrează prin expunere simplă.
-- **vezi** [[ADV-0403]] — uzura apare și în modelul în S al vânzărilor.
+- **extinde** [[ADV-0405-repetitia-spatiata-si-pozitia-in-calup|ADV-0405]] — repetiția din perspectiva memoriei; aici, a atitudinii.
+- **fundament** [[INS-0430-persuasiunea-pe-ruta-centrala-sau-periferica|INS-0430]] — repetiția oferă ocazia de elaborare din teoriile duale.
+- **vezi** [[INS-0425-trei-cai-afective-spre-atitudine|INS-0425]] — la procesare superficială, repetiția lucrează prin expunere simplă.
+- **vezi** [[ADV-0403-modele-de-raspuns-al-vanzarilor-concav-si-s|ADV-0403]] — uzura apare și în modelul în S al vânzărilor.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 5, p. 204-209, 217-219; cap. 2, p. 68-69
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 5, p. 204-209, 217-219; cap. 2, p. 68-69
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0405-repetitia-spatiata-si-pozitia-in-calup|ADV-0405]] _extinde_ — Repetiția spațiată bate repetiția masivă, iar primul spot din calup e cel mai bine reținut
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

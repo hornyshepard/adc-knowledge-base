@@ -47,10 +47,18 @@ Contraexemplul pozitiv din carte: un influencer care explică onest „ne pare r
 
 ## Legături
 
-- **exemplu** [[SOC-1118]] — Fyre e cazul-școală al lipsei de disclosure.
-- **vezi** [[SOC-1106]] — gestionarea haterilor și a trolilor completează managementul crizei.
-- **vezi** [[SOC-1112]] — alăturarea la trenduri fără potrivire produce aceeași dinamică.
+- **exemplu** [[SOC-1118-colaborarea-platita-se-declara-clar-la-inceput-in-fiecare|SOC-1118]] — Fyre e cazul-școală al lipsei de disclosure.
+- **vezi** [[SOC-1106-haters-troli-si-boti-ascunde-raporteaza-nu-hrani-trolul|SOC-1106]] — gestionarea haterilor și a trolilor completează managementul crizei.
+- **vezi** [[SOC-1112-lipirea-de-un-hashtag-viral-fara-potrivire-de-valori|SOC-1112]] — alăturarea la trenduri fără potrivire produce aceeași dinamică.
 
 ## Surse
 
-- [[SRC-035]] Glenister, *Influencer Marketing Strategy*, cap. 3, p. 124–125; cap. 4, p. 152–153, 161–164; cap. 5, p. 168; cap. 11, p. 301–302
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] Glenister, *Influencer Marketing Strategy*, cap. 3, p. 124–125; cap. 4, p. 152–153, 161–164; cap. 5, p. 168; cap. 11, p. 301–302
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[SOC-1106-haters-troli-si-boti-ascunde-raporteaza-nu-hrani-trolul|SOC-1106]] _vezi_ — Haters, troli și boți: ascunde, raportează, nu hrăni trolul
+- [[SOC-1118-colaborarea-platita-se-declara-clar-la-inceput-in-fiecare|SOC-1118]] _exemplu_ — Colaborarea plătită se declară clar, la început, în fiecare format
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] — Influencer Marketing Strategy: How influencers can help grow your business
+<!-- backlinks:end -->

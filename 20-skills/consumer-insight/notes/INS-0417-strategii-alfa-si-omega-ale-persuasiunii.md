@@ -46,11 +46,24 @@ Avis, „suntem pe locul doi, așa că ne străduim mai mult": recunoașterea sl
 
 ## Legături
 
-- **extinde** [[INS-0434]] — rezistența pe care o vizează strategiile omega.
-- **aplicare** [[CPY-0402]] — mesajul bilateral ca tactică omega.
-- **aplicare** [[ADV-0408]] — plasarea de produs și publicitatea nativă ca tactici omega.
-- **exemplu** [[INS-0418]] — contraargumentarea directă a zvonului McDonald's a eșuat.
+- **extinde** [[INS-0434-cunoasterea-persuasiunii-declanseaza-reactanta|INS-0434]] — rezistența pe care o vizează strategiile omega.
+- **aplicare** [[CPY-0402-mesajul-bilateral-castiga-credibilitate|CPY-0402]] — mesajul bilateral ca tactică omega.
+- **aplicare** [[ADV-0408-plasarea-de-produs-si-publicitatea-nativa|ADV-0408]] — plasarea de produs și publicitatea nativă ca tactici omega.
+- **exemplu** [[INS-0418-mcdonalds-viermi-dezmintirea-intareste-asocierea|INS-0418]] — contraargumentarea directă a zvonului McDonald's a eșuat.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 1, p. 13-14; cap. 5, p. 233-252
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 1, p. 13-14; cap. 5, p. 233-252
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0408-plasarea-de-produs-si-publicitatea-nativa|ADV-0408]] _aplicare_ — Plasarea de produs și publicitatea nativă ocolesc rezistența, dar se întorc împotriva brandului când sunt prea vizibile sau asociate cu ceva negativ
+- [[CPY-0402-mesajul-bilateral-castiga-credibilitate|CPY-0402]] _aplicare_ — Mesajul bilateral câștigă credibilitate dacă recunoaște un defect minor, plauzibil și legat de beneficiul principal
+- [[INS-0418-mcdonalds-viermi-dezmintirea-intareste-asocierea|INS-0418]] _aplicare_ — McDonald's și zvonul cu viermi — dezmințirea întărește asocierea, iar soluția e diluarea ei cu alte asocieri
+- [[INS-0420-poate-publicitatea-crea-dorinte-si-materialism|INS-0420]] _vezi_ — Publicitatea nu creează nevoi, dar poate cultiva dorințe și materialism, mai ales la copii
+- [[INS-0433-apelurile-la-frica-mai-multa-frica-mai-multa-persuasiune|INS-0433]] _vezi_ — Apelurile la frică funcționează mai bine cu cât amenințarea e mai gravă — ideea că frica mare „blochează" mesajul nu s-a confirmat
+- [[INS-0434-cunoasterea-persuasiunii-declanseaza-reactanta|INS-0434]] _fundament_ — Când publicul vede intenția de a-l convinge, poate face exact opusul (cunoașterea persuasiunii și reactanța)
+- [[INS-0435-gaseste-credinta-care-separa-cumparatorii|INS-0435]] _vezi_ — Înainte de a convinge, află dacă frâna e atitudinea, norma socială sau controlul perceput (teoria comportamentului planificat)
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

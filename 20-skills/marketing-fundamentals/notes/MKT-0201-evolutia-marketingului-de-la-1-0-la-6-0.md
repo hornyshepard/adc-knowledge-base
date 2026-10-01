@@ -51,20 +51,35 @@ Coca-Cola apare în toate cărțile, de fiecare dată cu lentila etapei: în 3.0
 
 ## Legături
 
-- **fundament** [[MKT-0202]] — Marketing 3.0, punctul de plecare al seriei: valori pentru omul întreg.
-- **vezi** [[MKT-0203]] — 3.0: viitorul orizontal (co-creare, comunitizare, caracter).
-- **vezi** [[BRD-0202]] — 3.0: matricea VBM.
-- **vezi** [[MKT-0208]] — 4.0: mutarea puterii spre clienții conectați.
-- **vezi** [[MKT-0209]] — 4.0: echivalentele digitale ale STP și 4P.
-- **vezi** [[MKT-0210]] — 4.0: calea clientului 5A.
-- **vezi** [[MKT-0212]] — 5.0: tehnologie pentru umanitate și cele cinci componente.
-- **vezi** [[INS-0204]] — 5.0 și 6.0: generațiile care declanșează etapele.
-- **vezi** [[MKT-0215]] — 6.0: metamarketingul.
-- **contrazice** [[MKT-0216]] — dezbaterea despre cum își rescrie seria propriile idei.
+- **fundament** [[MKT-0202-marketing-3-0-trateaza-clientul-ca-om-intreg-minte-inima-spirit|MKT-0202]] — Marketing 3.0, punctul de plecare al seriei: valori pentru omul întreg.
+- **vezi** [[MKT-0203-marketingul-orizontal-co-creare-comunitizare-caracter|MKT-0203]] — 3.0: viitorul orizontal (co-creare, comunitizare, caracter).
+- **vezi** [[BRD-0202-matricea-vbm-misiune-viziune-valori-minte-inima-spirit|BRD-0202]] — 3.0: matricea VBM.
+- **vezi** [[MKT-0208-puterea-trece-la-clientii-conectati-orizontal-inclusiv-social|MKT-0208]] — 4.0: mutarea puterii spre clienții conectați.
+- **vezi** [[MKT-0209-marketing-4-0-redefineste-stp-pozitionarea-4p-si-serviciul|MKT-0209]] — 4.0: echivalentele digitale ale STP și 4P.
+- **vezi** [[MKT-0210-calea-clientului-5a-aware-appeal-ask-act-advocate|MKT-0210]] — 4.0: calea clientului 5A.
+- **vezi** [[MKT-0212-marketing-5-0-tehnologie-pentru-umanitate-cinci-componente|MKT-0212]] — 5.0: tehnologie pentru umanitate și cele cinci componente.
+- **vezi** [[INS-0204-cinci-generatii-si-patru-etape-de-viata|INS-0204]] — 5.0 și 6.0: generațiile care declanșează etapele.
+- **vezi** [[MKT-0215-marketing-6-0-metamarketingul-de-la-multi-la-omni-la-meta|MKT-0215]] — 6.0: metamarketingul.
+- **contrazice** [[MKT-0216-seria-kotler-x-0-isi-revizuieste-propriile-idei|MKT-0216]] — dezbaterea despre cum își rescrie seria propriile idei.
 
 ## Surse
 
-- [[SRC-003]] Kotler, Kartajaya, Setiawan, *Marketing 3.0*, cap. 1 (Tabelul 1.1); cap. 2 „The Past 60 Years of Marketing", p. 43-50 (Fig. 2.1)
-- [[SRC-004]] Kotler, Kartajaya, Setiawan, *Marketing 4.0*, Prolog „From Marketing 3.0 to Marketing 4.0"; cap. 4
-- [[SRC-005]] Kotler, Kartajaya, Setiawan, *Marketing 5.0*, cap. 1; cap. 2 „Generation Gap and Marketing Evolution" (Fig. 2.3)
-- [[SRC-006]] Kotler, Kartajaya, Setiawan, *Marketing 6.0*, cap. 1 „From Multi to Omni to Meta" (Fig. 1.1, 1.2)
+- [[SRC-003-marketing-3-0-philip-kotler|SRC-003]] Kotler, Kartajaya, Setiawan, *Marketing 3.0*, cap. 1 (Tabelul 1.1); cap. 2 „The Past 60 Years of Marketing", p. 43-50 (Fig. 2.1)
+- [[SRC-004-marketing-4-0-philip-kotler|SRC-004]] Kotler, Kartajaya, Setiawan, *Marketing 4.0*, Prolog „From Marketing 3.0 to Marketing 4.0"; cap. 4
+- [[SRC-005-marketing-5-0-philip-kotler|SRC-005]] Kotler, Kartajaya, Setiawan, *Marketing 5.0*, cap. 1; cap. 2 „Generation Gap and Marketing Evolution" (Fig. 2.3)
+- [[SRC-006-marketing-6-0-philip-kotler|SRC-006]] Kotler, Kartajaya, Setiawan, *Marketing 6.0*, cap. 1 „From Multi to Omni to Meta" (Fig. 1.1, 1.2)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[INS-0204-cinci-generatii-si-patru-etape-de-viata|INS-0204]] _vezi_ — Cinci generații trăiesc simultan — Boomers, X, Y, Z și Alpha — și parcurg patru etape de viață tot mai rapid
+- [[MKT-0202-marketing-3-0-trateaza-clientul-ca-om-intreg-minte-inima-spirit|MKT-0202]] _fundament_ — Marketing 3.0 tratează clientul ca om întreg — minte, inimă și spirit
+- [[MKT-0210-calea-clientului-5a-aware-appeal-ask-act-advocate|MKT-0210]] _vezi_ — Calea clientului 5A — aware, appeal, ask, act, advocate — înlocuiește pâlnia AIDA în lumea conectată
+- [[MKT-0212-marketing-5-0-tehnologie-pentru-umanitate-cinci-componente|MKT-0212]] _fundament_ — Marketing 5.0 folosește tehnologii care imită omul pe toată călătoria clientului, prin două discipline și trei aplicații
+- [[MKT-0215-marketing-6-0-metamarketingul-de-la-multi-la-omni-la-meta|MKT-0215]] _fundament_ — Marketing 6.0 e metamarketing — după multichannel și omnichannel, experiența în care clientul nu mai distinge fizicul de digital
+- [[MKT-0216-seria-kotler-x-0-isi-revizuieste-propriile-idei|MKT-0216]] _fundament_ — Seria Kotler X.0 își revizuiește propriile idei — segmentarea, rolul purpose-ului și raportul online–offline se schimbă de la o carte la alta
+- [[SRC-003-marketing-3-0-philip-kotler|SRC-003]] — Marketing 3.0: From Products to Customers to the Human Spirit
+- [[SRC-004-marketing-4-0-philip-kotler|SRC-004]] — Marketing 4.0: Moving from Traditional to Digital
+- [[SRC-005-marketing-5-0-philip-kotler|SRC-005]] — Marketing 5.0: Technology for Humanity
+- [[SRC-006-marketing-6-0-philip-kotler|SRC-006]] — Marketing 6.0: The Future Is Immersive
+<!-- backlinks:end -->

@@ -50,12 +50,21 @@ Facebook permite două tipuri de reclame: promovarea unei postări deja publicat
 
 ## Legături
 
-- **vezi** [[SOC-1007]] — cum alegi platforma înainte de a deschide ad managerul.
-- **vezi** [[DIG-1012]] — modelele de plată din spatele câmpului „buget".
-- **vezi** [[SOC-1004]] — treptele plătite ale scării de pe Facebook.
-- **vezi** [[DIG-1008]] — persona minim viabilă alimentează setările de public.
+- **vezi** [[SOC-1007-platforma-sociala-potrivita-patru-intrebari|SOC-1007]] — cum alegi platforma înainte de a deschide ad managerul.
+- **vezi** [[DIG-1012-modelul-de-plata-media-urmeaza-obiectivul-si-etapa|DIG-1012]] — modelele de plată din spatele câmpului „buget".
+- **vezi** [[SOC-1004-scara-facebook-de-la-organic-la-remarketing|SOC-1004]] — treptele plătite ale scării de pe Facebook.
+- **vezi** [[DIG-1008-minimum-viable-persona-pornesti-cu-minimul|DIG-1008]] — persona minim viabilă alimentează setările de public.
 
 ## Surse
 
-- [[SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 3.2 (p. 101–104), 3.4.1.2 (p. 111–113), 3.4.4.2 (p. 125–128)
-- [[SRC-033]] Bharat Bhuval Nishad, *Facebook Marketing & Facebook Ads Beginner To Pro*, secț. „Promoting A Facebook Marketing Post" și „Creating A Facebook Web Traffic Ad"
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 3.2 (p. 101–104), 3.4.1.2 (p. 111–113), 3.4.4.2 (p. 125–128)
+- [[SRC-033-facebook-marketing|SRC-033]] Bharat Bhuval Nishad, *Facebook Marketing & Facebook Ads Beginner To Pro*, secț. „Promoting A Facebook Marketing Post" și „Creating A Facebook Web Traffic Ad"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[SOC-1004-scara-facebook-de-la-organic-la-remarketing|SOC-1004]] _vezi_ — Pe Facebook, marketingul urcă o scară — prezență organică, engagement, lead-uri, trafic plătit, remarketing —, pentru că reach-ul organic singur nu mai ajunge
+- [[SOC-1007-platforma-sociala-potrivita-patru-intrebari|SOC-1007]] _vezi_ — Platforma socială potrivită trece testul a patru întrebări — persona e acolo, obiectivul se poate atinge, mesajul se potrivește, publicul e receptiv acolo
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] — Digital Advertising in the Post-cookie Era: Strategic Campaign Planning Across the Customer Journey
+- [[SRC-033-facebook-marketing|SRC-033]] — Facebook Marketing & Facebook Ads Beginner To Pro
+<!-- backlinks:end -->

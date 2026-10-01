@@ -53,10 +53,18 @@ Un marketer de hrană pentru bebeluși știe că abandonul categoriei e natural:
 
 ## Legături
 
-- **fundament** [[DIG-0902]] — IDIC operaționalizează retenția și creșterea valorii.
-- **vezi** [[DIG-0929]] — pasul de customizare trebuie dozat ca să nu producă reactanță.
-- **vezi** [[EXP-0901]] — scopul final al CRM este o experiență de client fără cusur.
+- **fundament** [[DIG-0902-patru-strategii-generice-achizitie-conversie-retentie-valoare|DIG-0902]] — IDIC operaționalizează retenția și creșterea valorii.
+- **vezi** [[DIG-0929-personalizarea-relevanta-respect-control-reactanta|DIG-0929]] — pasul de customizare trebuie dozat ca să nu producă reactanță.
+- **vezi** [[EXP-0901-customer-experience-suma-interactiunilor-nu-un-eveniment|EXP-0901]] — scopul final al CRM este o experiență de client fără cusur.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 14, p. 389-393, 396-400
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 14, p. 389-393, 396-400
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0902-patru-strategii-generice-achizitie-conversie-retentie-valoare|DIG-0902]] _aplicare_ — Orice program digital servește una dintre patru strategii generice — achiziție, conversie, retenție, creșterea valorii
+- [[DIG-0929-personalizarea-relevanta-respect-control-reactanta|DIG-0929]] _vezi_ — Personalizarea funcționează doar cu relevanță, respect și control; venită prea devreme, produce reactanță
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+<!-- backlinks:end -->

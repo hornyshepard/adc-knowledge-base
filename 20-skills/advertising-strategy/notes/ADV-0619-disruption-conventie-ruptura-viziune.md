@@ -45,10 +45,17 @@ Cartea nu dă un caz detaliat de disruption. Un exercițiu util la seminar: conv
 
 ## Legături
 
-- **alternativa** [[ADV-0603]] — metodă de strategie de creație din aceeași familie cu copy strategy, dar orientată spre ruptură.
-- **vezi** [[ADV-0620]] — planner-ul strategic identifică convențiile.
-- **contrazice** [[ADV-0606]] — ruptura cere schimbare acolo unde perseverența cere continuitate.
+- **alternativa** [[ADV-0603-copy-strategy-fixeaza-beneficiul-dovada-si-tonul|ADV-0603]] — metodă de strategie de creație din aceeași familie cu copy strategy, dar orientată spre ruptură.
+- **vezi** [[ADV-0620-planning-strategic-transforma-informatia-intr-un-unghi|ADV-0620]] — planner-ul strategic identifică convențiile.
+- **contrazice** [[ADV-0606-schimbarea-prea-deasa-a-campaniei-distruge-penetrarea|ADV-0606]] — ruptura cere schimbare acolo unde perseverența cere continuitate.
 
 ## Surse
 
-- [[SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 25 (p. 90–91), outil 11 (p. 44)
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 25 (p. 90–91), outil 11 (p. 44)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0620-planning-strategic-transforma-informatia-intr-un-unghi|ADV-0620]] _vezi_ — Planning-ul strategic transformă o compilație de informații într-un unghi de vedere — veghe, semnale slabe, sinteză
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] — La boîte à outils de la publicité
+<!-- backlinks:end -->

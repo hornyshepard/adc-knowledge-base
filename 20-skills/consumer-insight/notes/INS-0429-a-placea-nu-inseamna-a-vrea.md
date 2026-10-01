@@ -46,10 +46,18 @@ Ceasul Seiko GPS (p. 176): scop format după o lectură, acțiune declanșată d
 
 ## Legături
 
-- **fundament** [[INS-0428]] — scopurile pe care le servesc produsele.
-- **vezi** [[INS-0413]] — declanșatorul activează brandul în setul de considerație.
-- **contrazice** [[ADV-0401]] — trecerea de la „dorință" la „acțiune" nu e automată, cum sugerează AIDA.
+- **fundament** [[INS-0428-produsele-servesc-patru-scopuri|INS-0428]] — scopurile pe care le servesc produsele.
+- **vezi** [[INS-0413-accesibilitatea-decide-setul-de-consideratie|INS-0413]] — declanșatorul activează brandul în setul de considerație.
+- **contrazice** [[ADV-0401-ierarhiile-de-efecte-nu-au-suport-empiric|ADV-0401]] — trecerea de la „dorință" la „acțiune" nu e automată, cum sugerează AIDA.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 4, p. 176-177
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 4, p. 176-177
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[INS-0428-produsele-servesc-patru-scopuri|INS-0428]] _vezi_ — Produsele servesc patru scopuri — utilitar, de autoexprimare, de construire a identității și hedonic — iar mesajul trebuie să lovească scopul potrivit
+- [[INS-0436-intentiile-de-implementare-daca-atunci|INS-0436]] _vezi_ — Planul „dacă situația X, atunci fac Y" transformă intenția în acțiune (intențiile de implementare)
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

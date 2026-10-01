@@ -49,11 +49,20 @@ Cascada de obiective din carte: un obiectiv corporativ pe termen lung („maturi
 
 ## Legături
 
-- **aplicare** [[DIG-0912]] — persona e unealta pasului 2.
-- **aplicare** [[DIG-0913]] — convențiile de lectură și navigație intră în pasul 4.
-- **aplicare** [[DIG-0914]] — alegerea responsive / adaptive / aplicație face parte din nevoile de dezvoltare.
-- **vezi** [[DIG-0907]] — pasul 7 folosește metricile alese din obiective.
+- **aplicare** [[DIG-0912-persona-transforma-un-segment-statistic-intr-un-om|DIG-0912]] — persona e unealta pasului 2.
+- **aplicare** [[DIG-0913-pagina-web-se-citeste-dupa-conventii-triunghiul-de-aur|DIG-0913]] — convențiile de lectură și navigație intră în pasul 4.
+- **aplicare** [[DIG-0914-aplicatia-se-justifica-doar-daca-face-ce-site-ul-nu-poate|DIG-0914]] — alegerea responsive / adaptive / aplicație face parte din nevoile de dezvoltare.
+- **vezi** [[DIG-0907-metricile-se-aleg-din-obiective-smart-si-etapa-journey-ului|DIG-0907]] — pasul 7 folosește metricile alese din obiective.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 6, p. 160-169, 179-183
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 6, p. 160-169, 179-183
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0912-persona-transforma-un-segment-statistic-intr-un-om|DIG-0912]] _aplicare_ — Persona transformă un segment statistic într-un om pentru care designerii și creativii pot lucra
+- [[DIG-0913-pagina-web-se-citeste-dupa-conventii-triunghiul-de-aur|DIG-0913]] _extinde_ — Pagina web se citește după convenții — triunghiul de aur, above the fold, logo în stânga sus
+- [[DIG-0914-aplicatia-se-justifica-doar-daca-face-ce-site-ul-nu-poate|DIG-0914]] _extinde_ — O aplicație mobilă se justifică doar dacă face ceva ce un site responsive nu poate face
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+<!-- backlinks:end -->

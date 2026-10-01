@@ -54,11 +54,21 @@ Potrivirea largă e rar cea mai rentabilă: plătești clicuri irelevante. Pentr
 
 ## Legături
 
-- **aplicare** [[DIG-0918]] — etapele 2–5 optimizează Ad Rank-ul.
-- **aplicare** [[DIG-0920]] — etapa 3 e dezvoltată ca principiu separat.
-- **aplicare** [[DIG-0933]] — etapa 5 se sprijină pe teste A/B.
-- **vezi** [[DIG-0903]] — oferta și CTA-ul din anunț urmează logica marketingului direct.
+- **aplicare** [[DIG-0918-ad-rank-si-quality-score-pozitia-se-castiga-cu-relevanta|DIG-0918]] — etapele 2–5 optimizează Ad Rank-ul.
+- **aplicare** [[DIG-0920-reclama-e-doar-atat-de-buna-cat-landing-page-ul-ei|DIG-0920]] — etapa 3 e dezvoltată ca principiu separat.
+- **aplicare** [[DIG-0933-testul-ab-o-singura-variabila-si-semnificatie-statistica|DIG-0933]] — etapa 5 se sprijină pe teste A/B.
+- **vezi** [[DIG-0903-oferta-si-lista-cantaresc-mai-mult-decat-creatia-40-40-20|DIG-0903]] — oferta și CTA-ul din anunț urmează logica marketingului direct.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 8, p. 223-230, 233, 237-239
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 8, p. 223-230, 233, 237-239
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0903-oferta-si-lista-cantaresc-mai-mult-decat-creatia-40-40-20|DIG-0903]] _aplicare_ — În marketingul direct, oferta și lista cântăresc mai mult decât execuția creativă (regula 40/40/20)
+- [[DIG-0918-ad-rank-si-quality-score-pozitia-se-castiga-cu-relevanta|DIG-0918]] _aplicare_ — În Google Ads poziția se câștigă cu relevanță, nu doar cu bani — Ad Rank combină licitația cu Quality Score
+- [[DIG-0920-reclama-e-doar-atat-de-buna-cat-landing-page-ul-ei|DIG-0920]] _extinde_ — Reclama e doar atât de bună cât landing page-ul ei — simplitate, continuitate, relevanță
+- [[SOC-0904-algoritmii-sociali-relatie-engagement-tip-continut-timp|SOC-0904]] _vezi_ — Algoritmii sociali ordonează feed-ul după relație, engagement, tipul conținutului și timp
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+<!-- backlinks:end -->

@@ -45,10 +45,18 @@ Virgin Radio, „Louder is Better" (Franța, 2011): un adolescent dă muzica tar
 
 ## Legături
 
-- **vezi** [[EXP-1213]] — consumatorul împuternicit este partenerul co-creației.
-- **vezi** [[EXP-1214]] — nivelurile marketingului colaborativ depind de competența lui.
-- **vezi** [[INS-1206]] — împuternicirea face parte din tranziția spre consumatorul postmodern.
+- **vezi** [[EXP-1213-exchange-valoarea-co-creata-in-locul-pretului|EXP-1213]] — consumatorul împuternicit este partenerul co-creației.
+- **vezi** [[EXP-1214-marketing-colaborativ-diy-colaborare-co-inovare|EXP-1214]] — nivelurile marketingului colaborativ depind de competența lui.
+- **vezi** [[INS-1206-consumatorul-postmodern-fragmentat-paradoxal|INS-1206]] — împuternicirea face parte din tranziția spre consumatorul postmodern.
 
 ## Surse
 
-- [[SRC-036]] Wided Batat, *Experiential Marketing*, cap. 1, secț. „The making of the empowered consumer" (Figura 1.3, Tabelul 1.4, mini-cazurile 1.4–1.7)
+- [[SRC-036-experiential-marketing|SRC-036]] Wided Batat, *Experiential Marketing*, cap. 1, secț. „The making of the empowered consumer" (Figura 1.3, Tabelul 1.4, mini-cazurile 1.4–1.7)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[EXP-1213-exchange-valoarea-co-creata-in-locul-pretului|EXP-1213]] _vezi_ — Exchange — în mixul experiențial, prețul cedează locul valorii co-create cu clientul
+- [[EXP-1214-marketing-colaborativ-diy-colaborare-co-inovare|EXP-1214]] _vezi_ — Marketingul colaborativ are trei niveluri de implicare — DIY, colaborare, co-inovare
+- [[SRC-036-experiential-marketing|SRC-036]] — Experiential Marketing: Consumer Behavior, Customer Experience and the 7Es
+<!-- backlinks:end -->

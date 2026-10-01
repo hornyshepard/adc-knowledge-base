@@ -43,12 +43,25 @@ Lego beneficiază masiv de UGC bazat pe hashtag-uri; în pandemie, Porsche a lan
 
 ## Legături
 
-- **fundament** [[SOC-1102]] — UGC-ul apare doar într-o comunitate activă, nu într-o audiență pasivă.
-- **exemplu** [[SOC-1109]] — FMD a generat UGC prin competiția Sunspot Award și prin grupul de cineaști.
-- **vezi** [[STO-1110]] — UGC-ul e expresia maximă a conținutului neșlefuit, favorizat de algoritmi.
-- **vezi** [[STO-1115]] — challenge-urile virale se sprijină pe UGC.
-- **vezi** [[SOC-1123]] — ambasadorii obișnuiți sunt o sursă organizată de UGC.
+- **fundament** [[SOC-1102-comunitatea-nu-este-audienta-membrii-ei-interactioneaza|SOC-1102]] — UGC-ul apare doar într-o comunitate activă, nu într-o audiență pasivă.
+- **exemplu** [[SOC-1109-fmd-influencerii-raporteaza-live-echipa-produce-formatele|SOC-1109]] — FMD a generat UGC prin competiția Sunspot Award și prin grupul de cineaști.
+- **vezi** [[STO-1110-no-edit-edit-autenticul-neslefuit-bate-filmul-de-imagine|STO-1110]] — UGC-ul e expresia maximă a conținutului neșlefuit, favorizat de algoritmi.
+- **vezi** [[STO-1115-ingredientele-unei-campanii-virale-mesaj-simplu-emotie|STO-1115]] — challenge-urile virale se sprijină pe UGC.
+- **vezi** [[SOC-1123-programul-de-ambasadori-se-conduce-ca-o-echipa-de-vanzari|SOC-1123]] — ambasadorii obișnuiți sunt o sursă organizată de UGC.
 
 ## Surse
 
-- [[SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 1.2.4, p. 37–39; cap. 1.4.3, p. 51; cap. 6.3.2, p. 284–285; cap. 7.2.2, p. 292–293
+- [[SRC-034-social-media-storytelling|SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 1.2.4, p. 37–39; cap. 1.4.3, p. 51; cap. 6.3.2, p. 284–285; cap. 7.2.2, p. 292–293
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-1101-modelul-peso-influencer-marketingul-traverseaza-media|ADV-1101]] _vezi_ — Modelul PESO: influencer marketingul traversează media plătită, câștigată, distribuită și proprie
+- [[SOC-1102-comunitatea-nu-este-audienta-membrii-ei-interactioneaza|SOC-1102]] _aplicare_ — Comunitatea nu este audiență: membrii ei interacționează între ei
+- [[SOC-1109-fmd-influencerii-raporteaza-live-echipa-produce-formatele|SOC-1109]] _vezi_ — FMD: influencerii raportează live, echipa produce formatele lungi
+- [[SOC-1123-programul-de-ambasadori-se-conduce-ca-o-echipa-de-vanzari|SOC-1123]] _vezi_ — Programul de ambasadori se conduce ca o echipă de vânzări cu manager dedicat
+- [[SOC-1130-tango-si-robinsons-campanii-creator-led-pe-tiktok-masurate|SOC-1130]] _vezi_ — Tango și Robinsons: campanii creator-led pe TikTok măsurate prin brand lift
+- [[STO-1110-no-edit-edit-autenticul-neslefuit-bate-filmul-de-imagine|STO-1110]] _vezi_ — No-edit edit: autenticul neșlefuit bate filmul de imagine lustruit
+- [[STO-1115-ingredientele-unei-campanii-virale-mesaj-simplu-emotie|STO-1115]] _vezi_ — Ingredientele unei campanii virale: mesaj simplu, emoție, participare, urgență
+- [[SRC-034-social-media-storytelling|SRC-034]] — Social Media Storytelling
+<!-- backlinks:end -->

@@ -41,10 +41,18 @@ Imaginea UNHATE cu Benjamin Netanyahu și Mahmoud Abbas sărutându-se a fost af
 
 ## Legături
 
-- **contrazice** [[CPY-0808]] — Rubicam excludea din „marile reclame” pe cele care strică bunăvoința publicului față de publicitate.
-- **vezi** [[HIS-0807]] — autoreglementarea e singurul filtru pentru reclamele de prost gust, dar legale.
-- **vezi** [[HIS-0823]] — Benetton a lucrat chiar cu temele reprezentării rasiale.
+- **contrazice** [[CPY-0808-o-reclama-mare-idee-sinceritate-memorie-lunga|CPY-0808]] — Rubicam excludea din „marile reclame” pe cele care strică bunăvoința publicului față de publicitate.
+- **vezi** [[HIS-0807-autoreglementarea-a-inceput-la-editori|HIS-0807]] — autoreglementarea e singurul filtru pentru reclamele de prost gust, dar legale.
+- **vezi** [[HIS-0823-diversitatea-a-intrat-tarziu-in-agentii-si-in-reclame|HIS-0823]] — Benetton a lucrat chiar cu temele reprezentării rasiale.
 
 ## Surse
 
-- [[SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 10, p. 206; cap. 12, p. 268–269
+- [[SRC-027-a-history-of-advertising|SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 10, p. 206; cap. 12, p. 268–269
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0808-o-reclama-mare-idee-sinceritate-memorie-lunga|CPY-0808]] _contrazice_ — O reclamă mare are o idee, sinceritate și o viață lungă în memorie
+- [[HIS-0823-diversitatea-a-intrat-tarziu-in-agentii-si-in-reclame|HIS-0823]] _vezi_ — Diversitatea a intrat târziu în publicitate — și în agenții, și în imaginea din reclame
+- [[SRC-027-a-history-of-advertising|SRC-027]] — A History of Advertising: The First 300,000 Years
+<!-- backlinks:end -->

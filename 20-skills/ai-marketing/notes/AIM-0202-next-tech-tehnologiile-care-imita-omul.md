@@ -50,11 +50,21 @@ La parcurile Disney, MagicBand funcționează ca bilet, cheie de cameră și mij
 
 ## Legături
 
-- **fundament** [[MKT-0212]] — next tech e motorul celor trei aplicații din Marketing 5.0.
-- **aplicare** [[AIM-0204]] — checklistul cu cele șapte cazuri de utilizare martech pe calea clientului.
-- **vezi** [[DIG-0205]] — senzorii și IoT stau la baza marketingului contextual.
-- **extinde** [[AIM-0203]] — unde trebuie să rămână omul în fața acestor tehnologii.
+- **fundament** [[MKT-0212-marketing-5-0-tehnologie-pentru-umanitate-cinci-componente|MKT-0212]] — next tech e motorul celor trei aplicații din Marketing 5.0.
+- **aplicare** [[AIM-0204-sapte-cazuri-de-utilizare-martech-pe-calea-clientului|AIM-0204]] — checklistul cu cele șapte cazuri de utilizare martech pe calea clientului.
+- **vezi** [[DIG-0205-marketingul-contextual-senzori-declansatori-trei-niveluri|DIG-0205]] — senzorii și IoT stau la baza marketingului contextual.
+- **extinde** [[AIM-0203-masinile-sunt-cool-oamenii-sunt-calzi-noul-cx|AIM-0203]] — unde trebuie să rămână omul în fața acestor tehnologii.
 
 ## Surse
 
-- [[SRC-005]] Kotler, Kartajaya, Setiawan, *Marketing 5.0*, cap. 6 „The Next Tech: It's Time for Human-Like Technologies to Take Off" (Fig. 6.1, 6.2)
+- [[SRC-005-marketing-5-0-philip-kotler|SRC-005]] Kotler, Kartajaya, Setiawan, *Marketing 5.0*, cap. 6 „The Next Tech: It's Time for Human-Like Technologies to Take Off" (Fig. 6.1, 6.2)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-0203-masinile-sunt-cool-oamenii-sunt-calzi-noul-cx|AIM-0203]] _fundament_ — În noul CX mașinile sunt „cool", dar oamenii sunt „calzi" — AI preia datele și convergența, omul păstrează insight-ul, înțelepciunea și empatia
+- [[AIM-0204-sapte-cazuri-de-utilizare-martech-pe-calea-clientului|AIM-0204]] _fundament_ — Martech are șapte cazuri de utilizare pe calea clientului — de la publicitate și conținut la service CRM
+- [[DIG-0205-marketingul-contextual-senzori-declansatori-trei-niveluri|DIG-0205]] _fundament_ — Marketingul contextual aduce personalizarea digitală în spațiul fizic — senzori, declanșatori și trei niveluri, informativ, interactiv, imersiv
+- [[MKT-0212-marketing-5-0-tehnologie-pentru-umanitate-cinci-componente|MKT-0212]] _vezi_ — Marketing 5.0 folosește tehnologii care imită omul pe toată călătoria clientului, prin două discipline și trei aplicații
+- [[SRC-005-marketing-5-0-philip-kotler|SRC-005]] — Marketing 5.0: Technology for Humanity
+<!-- backlinks:end -->

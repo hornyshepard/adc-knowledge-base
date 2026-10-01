@@ -44,10 +44,19 @@ Grupul FMD de cineaști este conversațional (sfaturi, showreel-uri, discuții d
 
 ## Legături
 
-- **fundament** [[SOC-1102]] — comunitatea se construiește pe relații conversaționale.
-- **vezi** [[SOC-1101]] — stories și toks sunt genuri conversaționale.
-- **vezi** [[DIG-1101]] — drumul tranzacțional trebuie să fie cât mai scurt.
+- **fundament** [[SOC-1102-comunitatea-nu-este-audienta-membrii-ei-interactioneaza|SOC-1102]] — comunitatea se construiește pe relații conversaționale.
+- **vezi** [[SOC-1101-stories-si-toks-doua-genuri-native-de-smartphone-cu-logici|SOC-1101]] — stories și toks sunt genuri conversaționale.
+- **vezi** [[DIG-1101-customer-journey-ul-digital-trebuie-scurtat-fiecare-pas-e-o|DIG-1101]] — drumul tranzacțional trebuie să fie cât mai scurt.
 
 ## Surse
 
-- [[SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 1.2.2, p. 28–31; cap. 4.3.2, p. 185–186
+- [[SRC-034-social-media-storytelling|SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 1.2.2, p. 28–31; cap. 4.3.2, p. 185–186
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-1101-customer-journey-ul-digital-trebuie-scurtat-fiecare-pas-e-o|DIG-1101]] _vezi_ — Customer journey-ul digital trebuie scurtat: fiecare pas e o barieră
+- [[SOC-1101-stories-si-toks-doua-genuri-native-de-smartphone-cu-logici|SOC-1101]] _vezi_ — Stories și toks: două genuri native de smartphone cu logici diferite
+- [[SOC-1102-comunitatea-nu-este-audienta-membrii-ei-interactioneaza|SOC-1102]] _vezi_ — Comunitatea nu este audiență: membrii ei interacționează între ei
+- [[SRC-034-social-media-storytelling|SRC-034]] — Social Media Storytelling
+<!-- backlinks:end -->

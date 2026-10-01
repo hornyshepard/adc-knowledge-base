@@ -57,12 +57,23 @@ Hallmark, lider matur în felicitări, încearcă felicitări personalizabile, c
 
 ## Legături
 
-- **extinde** [[MKT-0119]] — tipurile de consumatori din fiecare etapă vin din curba difuziei inovației.
-- **aplicare** [[ADV-0105]] — obiectivele publicitare se aliniază cu etapa din ciclul de viață.
-- **vezi** [[MKT-0111]] — piețele noi și produsele noi sunt opțiunile de creștere din maturitate.
-- **vezi** [[MKT-0108]] — aceeași capcană a profeției care se autoîmplinește apare la matricea BCG.
+- **extinde** [[MKT-0119-inovatia-se-raspandeste-in-cinci-grupuri-de-adoptatori|MKT-0119]] — tipurile de consumatori din fiecare etapă vin din curba difuziei inovației.
+- **aplicare** [[ADV-0105-reclama-informeaza-convinge-sau-reaminteste|ADV-0105]] — obiectivele publicitare se aliniază cu etapa din ciclul de viață.
+- **vezi** [[MKT-0111-patru-cai-de-crestere-matricea-ansoff|MKT-0111]] — piețele noi și produsele noi sunt opțiunile de creștere din maturitate.
+- **vezi** [[MKT-0108-planul-de-marketing-cinci-pasi-in-trei-faze|MKT-0108]] — aceeași capcană a profeției care se autoîmplinește apare la matricea BCG.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 12, p. 405-409 (Exhibit 12.5, 12.6)
-- [[SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 4, p. 129-132 (§4.8)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 12, p. 405-409 (Exhibit 12.5, 12.6)
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 4, p. 129-132 (§4.8)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0105-reclama-informeaza-convinge-sau-reaminteste|ADV-0105]] _fundament_ — Orice reclamă informează, convinge sau reamintește — obiectivul se alege după etapa produsului și după focus (produs, instituție, cauză)
+- [[BRD-0105-repozitionarea-pentru-o-tendinta-reala-nu-o-moda|BRD-0105]] _vezi_ — Repoziționarea (rebranding) e scumpă și riscantă — merită pentru o tendință reală, nu pentru o modă (Old Spice, CoverGirl, WW)
+- [[MKT-0111-patru-cai-de-crestere-matricea-ansoff|MKT-0111]] _vezi_ — Există patru căi de creștere — piață actuală sau nouă × produs actual sau nou (matricea Ansoff)
+- [[MKT-0119-inovatia-se-raspandeste-in-cinci-grupuri-de-adoptatori|MKT-0119]] _fundament_ — O inovație se răspândește prin cinci grupuri de adoptatori, iar viteza depinde de cinci caracteristici ale produsului
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] — Principles of Marketing
+<!-- backlinks:end -->

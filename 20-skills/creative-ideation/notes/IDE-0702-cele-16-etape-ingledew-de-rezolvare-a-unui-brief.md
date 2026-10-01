@@ -58,11 +58,22 @@ Edwin Land a inventat Polaroidul după ce fiica lui de trei ani a întrebat de c
 
 ## Legături
 
-- **extinde** [[IDE-0701]] — procesul care duce la idei de tip brainjack.
-- **vezi** [[IDE-0703]] — ce faci în etapa 8 când te blochezi.
-- **vezi** [[BRF-0707]] — simplificarea brief-ului la o singură propunere.
-- **vezi** [[BRF-0713]] — analiza brief-ului ca punct de pornire, nu ca limită.
+- **extinde** [[IDE-0701-brainjack-ideea-captureaza-mintea-nu-doar-ochiul|IDE-0701]] — procesul care duce la idei de tip brainjack.
+- **vezi** [[IDE-0703-cand-ideea-nu-vine-incubatie-distragere-declansatori|IDE-0703]] — ce faci în etapa 8 când te blochezi.
+- **vezi** [[BRF-0707-un-singur-beneficiu-nu-cinci|BRF-0707]] — simplificarea brief-ului la o singură propunere.
+- **vezi** [[BRF-0713-brief-ul-ingradeste-curtea|BRF-0713]] — analiza brief-ului ca punct de pornire, nu ca limită.
 
 ## Surse
 
-- [[SRC-024]] John Ingledew, *The A–Z of Visual Ideas*, „Strategies for solving a creative brief"
+- [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] John Ingledew, *The A–Z of Visual Ideas*, „Strategies for solving a creative brief"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRF-0707-un-singur-beneficiu-nu-cinci|BRF-0707]] _vezi_ — Un singur beneficiu, nu cinci — poziționarea supraîncărcată blochează ideea creativă
+- [[BRF-0713-brief-ul-ingradeste-curtea|BRF-0713]] _vezi_ — Brief-ul „îngrădește curtea" — constrângerea strategică le dă creativilor de unde să pornească
+- [[IDE-0701-brainjack-ideea-captureaza-mintea-nu-doar-ochiul|IDE-0701]] _extinde_ — „Brainjack" — ideea bună capturează mintea privitorului, nu doar ochiul
+- [[IDE-0703-cand-ideea-nu-vine-incubatie-distragere-declansatori|IDE-0703]] _extinde_ — Când ideea nu vine — incubație, distragere creativă și declanșatori aleatori
+- [[IDE-0716-procesul-in-sapte-pasi-de-rezolvare-a-problemelor|IDE-0716]] _alternativa_ — Procesul în șapte pași de rezolvare a problemelor — de la definirea decalajului la revizuirea rezultatului
+- [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] — The A–Z of Visual Ideas: How to Solve Any Creative Brief
+<!-- backlinks:end -->

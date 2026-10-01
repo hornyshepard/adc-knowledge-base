@@ -51,11 +51,22 @@ Cele trei reclame „experiențiale" citate (TNT, Febreze, Droga5/Prudential) au
 
 ## Legături
 
-- **fundament** [[MKT-0313]] — prosumatorul e motorul majorității schimbărilor.
-- **vezi** [[MKT-0319]] — cum se citesc critic astfel de prognoze.
-- **vezi** [[DIG-0301]] — modelul „pull" (Attract–Assist–Affiliate), propus pentru același orizont.
-- **vezi** [[ADV-0301]] — teza „de la mesaje la experiențe" și locul reclamei.
+- **fundament** [[MKT-0313-prosumatorul-clientul-care-produce-o-parte-din-valoare|MKT-0313]] — prosumatorul e motorul majorității schimbărilor.
+- **vezi** [[MKT-0319-cartile-de-trenduri-se-citesc-ca-ipoteze|MKT-0319]] — cum se citesc critic astfel de prognoze.
+- **vezi** [[DIG-0301-pull-marketing-attract-assist-affiliate-return-on-attention|DIG-0301]] — modelul „pull" (Attract–Assist–Affiliate), propus pentru același orizont.
+- **vezi** [[ADV-0301-continut-in-loc-de-reclame-teza-si-limitele-ei|ADV-0301]] — teza „de la mesaje la experiențe" și locul reclamei.
 
 ## Surse
 
-- [[SRC-008]] Jon Wuebben, *Future Marketing: Winning in the Prosumer Age*, cap. 10; cap. 17
+- [[SRC-008-future-marketing|SRC-008]] Jon Wuebben, *Future Marketing: Winning in the Prosumer Age*, cap. 10; cap. 17
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0301-continut-in-loc-de-reclame-teza-si-limitele-ei|ADV-0301]] _extinde_ — Conținut în locul reclamei? Teza că reclamele nu construiesc relații și limitele ei
+- [[MKT-0306-trendurile-se-citesc-pe-trei-niveluri-mega-macro-micro|MKT-0306]] _vezi_ — Trendurile se citesc pe trei niveluri: megatrend (10–15 ani), macrotrend (5–10 ani), microtrend (3–5 ani)
+- [[MKT-0316-echipa-de-marketing-think-do-feel-si-orchestratorul|MKT-0316]] _extinde_ — Echipa de marketing se compune din trei tipuri de talente — think, do, feel — coordonate de un orchestrator
+- [[MKT-0319-cartile-de-trenduri-se-citesc-ca-ipoteze|MKT-0319]] _vezi_ — Cărțile de trenduri se citesc ca ipoteze, nu ca hărți: cum separi semnalul de umplutură
+- [[STO-0301-povestea-se-incheie-narativa-te-invita|STO-0301]] _vezi_ — Povestea se încheie, narațiunea te invită: distincția lui Hagel între story și narrative
+- [[SRC-008-future-marketing|SRC-008]] — Future Marketing: Winning in the Prosumer Age
+<!-- backlinks:end -->

@@ -27,24 +27,24 @@ level: 2
 
 | Pas (pp.) | Tema | Note derivate |
 |---|---|---|
-| Intro (p. 1) | portofoliul ca manifest și ca proiect de design | [[PRT-1425]] |
-| 1 Start (pp. 3–15) | cine ești, pentru cine; academic vs. profesional; cercetarea audienței; tipuri: sample, full, leave-behind; flexibilitate | [[PRT-1423]] |
-| 2 Curation (pp. 17–37) | organizarea și etichetarea fișierelor, arhivare, fotografierea machetelor; DA / NU / POATE; ritmul (cronologic, trei acte, categorii, relevanță); creditarea colaboratorilor | [[PRT-1422]], [[PRT-1421]], [[PRT-1403]] |
-| 3 Form (pp. 41–83) | fizic vs. PDF vs. online; legătorie, hârtie, DPI, CMYK; formate; site, navigare, imagini optimizate | [[PRT-1407]] |
-| 4–7 Layout (pp. 87–188) | spread-uri, schițe-miniatură, temă; regula treimilor, margini, spațiu alb, grile; proximitate, ierarhie, echilibru, similaritate; tipografie | [[PRT-1425]] |
-| 8 Content (pp. 189–231) | copertă, CV, declarație de design, cuprins, pagina-introducere de proiect, pagini de proiect, extra, mulțumiri și cerere; greșeli frecvente | [[PRT-1424]], [[PRT-1426]], [[PRT-1410]] |
-| 9 Case Studies (pp. 241–286) | douăsprezece portofolii comentate | [[PRT-1425]] |
-| 10 Review (pp. 287–293) | rafinare, feedback, actualizare, corectură, scrisoare de intenție, repetarea prezentării, trimitere | [[PRT-1426]], [[PRT-1413]] |
+| Intro (p. 1) | portofoliul ca manifest și ca proiect de design | [[PRT-1425-portofoliul-e-un-proiect-de-design-structura-invizibila|PRT-1425]] |
+| 1 Start (pp. 3–15) | cine ești, pentru cine; academic vs. profesional; cercetarea audienței; tipuri: sample, full, leave-behind; flexibilitate | [[PRT-1423-trei-tipuri-de-portofoliu-sample-full-leave-behind|PRT-1423]] |
+| 2 Curation (pp. 17–37) | organizarea și etichetarea fișierelor, arhivare, fotografierea machetelor; DA / NU / POATE; ritmul (cronologic, trei acte, categorii, relevanță); creditarea colaboratorilor | [[PRT-1422-curatoria-in-trei-gramezi-da-nu-poate|PRT-1422]], [[PRT-1421-ritmul-portofoliului-patru-metode-de-ordonare|PRT-1421]], [[PRT-1403-jurnalul-de-lucru-povestile-se-colecteaza-in-timp-real|PRT-1403]] |
+| 3 Form (pp. 41–83) | fizic vs. PDF vs. online; legătorie, hârtie, DPI, CMYK; formate; site, navigare, imagini optimizate | [[PRT-1407-pdf-personalizabil-intai-apoi-site|PRT-1407]] |
+| 4–7 Layout (pp. 87–188) | spread-uri, schițe-miniatură, temă; regula treimilor, margini, spațiu alb, grile; proximitate, ierarhie, echilibru, similaritate; tipografie | [[PRT-1425-portofoliul-e-un-proiect-de-design-structura-invizibila|PRT-1425]] |
+| 8 Content (pp. 189–231) | copertă, CV, declarație de design, cuprins, pagina-introducere de proiect, pagini de proiect, extra, mulțumiri și cerere; greșeli frecvente | [[PRT-1424-pagina-de-proiect-textul-spune-ce-nu-arata-imaginea|PRT-1424]], [[PRT-1426-cv-declaratia-de-design-si-scrisoarea-de-intentie|PRT-1426]], [[PRT-1410-sandvisul-portofoliului-si-ce-nu-se-include|PRT-1410]] |
+| 9 Case Studies (pp. 241–286) | douăsprezece portofolii comentate | [[PRT-1425-portofoliul-e-un-proiect-de-design-structura-invizibila|PRT-1425]] |
+| 10 Review (pp. 287–293) | rafinare, feedback, actualizare, corectură, scrisoare de intenție, repetarea prezentării, trimitere | [[PRT-1426-cv-declaratia-de-design-si-scrisoarea-de-intentie|PRT-1426]], [[PRT-1413-cere-critica-nu-feedback|PRT-1413]] |
 
 ## Idei-cheie → note permanente
 
-- [[PRT-1421]] — ritmul portofoliului: patru metode de ordonare a proiectelor.
-- [[PRT-1422]] — curatoria în trei grămezi: DA, NU, POATE.
-- [[PRT-1423]] — trei tipuri de portofoliu: sample, full, leave-behind.
-- [[PRT-1424]] — pagina de proiect: textul spune ce nu arată imaginea.
-- [[PRT-1425]] — portofoliul e un proiect de design: structură invizibilă, fără decor.
-- [[PRT-1426]] — CV-ul, declarația de design și scrisoarea de intenție: funcționale, scurte, adaptate.
-- Îmbogățiri: [[PRT-1403]], [[PRT-1407]], [[PRT-1410]], [[PRT-1412]], [[PRT-1413]], [[PRT-1418]].
+- [[PRT-1421-ritmul-portofoliului-patru-metode-de-ordonare|PRT-1421]] — ritmul portofoliului: patru metode de ordonare a proiectelor.
+- [[PRT-1422-curatoria-in-trei-gramezi-da-nu-poate|PRT-1422]] — curatoria în trei grămezi: DA, NU, POATE.
+- [[PRT-1423-trei-tipuri-de-portofoliu-sample-full-leave-behind|PRT-1423]] — trei tipuri de portofoliu: sample, full, leave-behind.
+- [[PRT-1424-pagina-de-proiect-textul-spune-ce-nu-arata-imaginea|PRT-1424]] — pagina de proiect: textul spune ce nu arată imaginea.
+- [[PRT-1425-portofoliul-e-un-proiect-de-design-structura-invizibila|PRT-1425]] — portofoliul e un proiect de design: structură invizibilă, fără decor.
+- [[PRT-1426-cv-declaratia-de-design-si-scrisoarea-de-intentie|PRT-1426]] — CV-ul, declarația de design și scrisoarea de intenție: funcționale, scurte, adaptate.
+- Îmbogățiri: [[PRT-1403-jurnalul-de-lucru-povestile-se-colecteaza-in-timp-real|PRT-1403]], [[PRT-1407-pdf-personalizabil-intai-apoi-site|PRT-1407]], [[PRT-1410-sandvisul-portofoliului-si-ce-nu-se-include|PRT-1410]], [[PRT-1412-nda-ce-nu-functioneaza-si-ce-functioneaza|PRT-1412]], [[PRT-1413-cere-critica-nu-feedback|PRT-1413]], [[PRT-1418-dezbatere-grafice-de-competente-si-concursuri-de-design|PRT-1418]].
 
 ## Ce lipsește / ce trebuie citit critic
 
@@ -57,3 +57,21 @@ level: 2
 ## Citat
 
 > „Your portfolio is itself a design project.” (p. 1)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PRT-1403-jurnalul-de-lucru-povestile-se-colecteaza-in-timp-real|PRT-1403]] — Poveștile de portofoliu se colectează în timpul proiectelor, cu un jurnal de lucru indexat
+- [[PRT-1405-doua-trei-proiecte-excelente-bat-cinci-mediocre|PRT-1405]] — Două-trei proiecte excelente bat cinci proiecte înconjurate de mediocritate
+- [[PRT-1407-pdf-personalizabil-intai-apoi-site|PRT-1407]] — Pornește cu un portofoliu PDF personalizabil și adaugă apoi un site; comunitățile de portofoliu sunt riscante
+- [[PRT-1410-sandvisul-portofoliului-si-ce-nu-se-include|PRT-1410]] — Portofoliul este un „sandviș” — introducere, studii de caz, completări — și are lucruri care nu se pun deloc
+- [[PRT-1412-nda-ce-nu-functioneaza-si-ce-functioneaza|PRT-1412]] — Acordurile de confidențialitate nu se ocolesc prin încălcare, parolă sau anonimizare, ci se negociază din timp
+- [[PRT-1413-cere-critica-nu-feedback|PRT-1413]] — Pentru portofoliu cere critică structurată, nu „feedback” general, și verifică tonul înainte de a-l trimite
+- [[PRT-1418-dezbatere-grafice-de-competente-si-concursuri-de-design|PRT-1418]] — Graficele de competențe și concursurile de design — Morgan le recomandă, Fenn și Kubišová le resping
+- [[PRT-1421-ritmul-portofoliului-patru-metode-de-ordonare|PRT-1421]] — Ordinea proiectelor creează ritmul portofoliului — patru metode, de la cronologic la relevanță
+- [[PRT-1422-curatoria-in-trei-gramezi-da-nu-poate|PRT-1422]] — Selecția pentru portofoliu se face în trei grămezi — DA, NU, POATE — cu cinci întrebări de control
+- [[PRT-1423-trei-tipuri-de-portofoliu-sample-full-leave-behind|PRT-1423]] — Un candidat are nevoie de trei tipuri de portofoliu — sample, full și leave-behind
+- [[PRT-1424-pagina-de-proiect-textul-spune-ce-nu-arata-imaginea|PRT-1424]] — Pe pagina de proiect, textul spune ce imaginea nu poate arăta — titluri specifice, descrieri scurte, legende informative
+- [[PRT-1425-portofoliul-e-un-proiect-de-design-structura-invizibila|PRT-1425]] — Portofoliul este el însuși un proiect de design — structura invizibilă lasă munca să vorbească, decorul o acoperă
+- [[PRT-1426-cv-declaratia-de-design-si-scrisoarea-de-intentie|PRT-1426]] — CV-ul, declarația de design și scrisoarea de intenție completează portofoliul — funcționale, scurte și adaptate fiecărei aplicații
+<!-- backlinks:end -->

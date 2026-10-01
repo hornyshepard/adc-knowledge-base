@@ -43,11 +43,20 @@ Google Project 10^100 (2008) a cerut publicului idei pentru a ajuta cât mai mul
 
 ## Legături
 
-- **fundament** [[BRD-0202]] — misiunea e prima coloană a matricei VBM.
-- **extinde** [[STO-0201]] — al doilea ingredient, povestea, are propriul model: personaj, intrigă, metaforă.
-- **vezi** [[MKT-0203]] — împuternicirea consumatorului decurge din trecerea la încrederea orizontală.
-- **vezi** [[BRD-0205]] — misiunile puternice transformă brandul în icon cultural.
+- **fundament** [[BRD-0202-matricea-vbm-misiune-viziune-valori-minte-inima-spirit|BRD-0202]] — misiunea e prima coloană a matricei VBM.
+- **extinde** [[STO-0201-povestea-de-brand-personaj-intriga-metafora|STO-0201]] — al doilea ingredient, povestea, are propriul model: personaj, intrigă, metaforă.
+- **vezi** [[MKT-0203-marketingul-orizontal-co-creare-comunitizare-caracter|MKT-0203]] — împuternicirea consumatorului decurge din trecerea la încrederea orizontală.
+- **vezi** [[BRD-0205-brandurile-culturale-rezolva-paradoxurile-si-anxietatile-colective|BRD-0205]] — misiunile puternice transformă brandul în icon cultural.
 
 ## Surse
 
-- [[SRC-003]] Kotler, Kartajaya, Setiawan, *Marketing 3.0*, cap. 3 „Marketing the Mission to the Consumers", p. 69-86 (Fig. 3.1, Tabelul 3.1)
+- [[SRC-003-marketing-3-0-philip-kotler|SRC-003]] Kotler, Kartajaya, Setiawan, *Marketing 3.0*, cap. 3 „Marketing the Mission to the Consumers", p. 69-86 (Fig. 3.1, Tabelul 3.1)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0202-matricea-vbm-misiune-viziune-valori-minte-inima-spirit|BRD-0202]] _extinde_ — Matricea bazată pe valori (VBM) leagă misiunea, viziunea și valorile de mintea, inima și spiritul stakeholderilor
+- [[EXP-0204-marketingul-multisenzorial-antidot-la-oboseala-digitala|EXP-0204]] _vezi_ — Marketingul multisenzorial e antidotul la oboseala digitală — fiecare simț are un rol diferit, iar stimulii trebuie să spună aceeași poveste
+- [[STO-0201-povestea-de-brand-personaj-intriga-metafora|STO-0201]] _fundament_ — Povestea de brand care mișcă oamenii are personaj, intrigă și metaforă
+- [[SRC-003-marketing-3-0-philip-kotler|SRC-003]] — Marketing 3.0: From Products to Customers to the Human Spirit
+<!-- backlinks:end -->

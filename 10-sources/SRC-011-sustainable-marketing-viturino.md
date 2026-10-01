@@ -27,21 +27,21 @@ level: 1
 
 | Cap. | Tema | Note derivate |
 |---|---|---|
-| Intro, 1 | Definiție (Belz & Peattie), relația cu CSR, provocări de mediu și sociale, rolul companiilor; Patagonia, Unilever, Tesla | [[MKT-0320]], [[BRD-0302]] |
-| 2 | Valori sustenabile (audit intern, misiune, materialitate), comunicare (rapoarte, campanii, certificări), stakeholderi, beneficii; Nike, Starbucks, IKEA | [[MKT-0321]], [[MKT-0323]] |
-| 3 | Marketing verde și eco-eficiență; design de produs, producție, ambalaj; amprentă de carbon; economie circulară; Interface, Seventh Generation, IKEA | [[MKT-0320]], [[MKT-0324]], [[MKT-0322]] |
-| 4 | CSR și cause marketing; identificarea cauzelor (materialitate, cercetare, aliniere), parteneriate, comunicare; Ben & Jerry's, Patagonia, TOMS | [[MKT-0321]], [[BRD-0302]] |
-| 5 | Măsurarea impactului: scope 1-2-3, resurse, NPS, indici de reputație, audituri, KPI, IoT; Unilever, IBM | [[MKT-0322]] |
+| Intro, 1 | Definiție (Belz & Peattie), relația cu CSR, provocări de mediu și sociale, rolul companiilor; Patagonia, Unilever, Tesla | [[MKT-0320-marketing-sustenabil-verde-eco-eficienta-csr-cause-nu-sunt-sinonime|MKT-0320]], [[BRD-0302-patagonia-dont-buy-this-jacket|BRD-0302]] |
+| 2 | Valori sustenabile (audit intern, misiune, materialitate), comunicare (rapoarte, campanii, certificări), stakeholderi, beneficii; Nike, Starbucks, IKEA | [[MKT-0321-cauza-se-alege-prin-analiza-de-materialitate|MKT-0321]], [[MKT-0323-greenwashing-afirmatia-verde-trebuie-dovedita|MKT-0323]] |
+| 3 | Marketing verde și eco-eficiență; design de produs, producție, ambalaj; amprentă de carbon; economie circulară; Interface, Seventh Generation, IKEA | [[MKT-0320-marketing-sustenabil-verde-eco-eficienta-csr-cause-nu-sunt-sinonime|MKT-0320]], [[MKT-0324-designul-pentru-circularitate-produs-si-ambalaj|MKT-0324]], [[MKT-0322-impactul-sustenabil-se-masoara-pe-patru-familii-de-indicatori|MKT-0322]] |
+| 4 | CSR și cause marketing; identificarea cauzelor (materialitate, cercetare, aliniere), parteneriate, comunicare; Ben & Jerry's, Patagonia, TOMS | [[MKT-0321-cauza-se-alege-prin-analiza-de-materialitate|MKT-0321]], [[BRD-0302-patagonia-dont-buy-this-jacket|BRD-0302]] |
+| 5 | Măsurarea impactului: scope 1-2-3, resurse, NPS, indici de reputație, audituri, KPI, IoT; Unilever, IBM | [[MKT-0322-impactul-sustenabil-se-masoara-pe-patru-familii-de-indicatori|MKT-0322]] |
 | Concluzie | Inovare continuă, transparență, stakeholderi, măsurare | — |
 
 ## Idei-cheie → note permanente
 
-- [[MKT-0320]] — marketing sustenabil, marketing verde, eco-eficiență, CSR și cause marketing: cinci noțiuni diferite.
-- [[MKT-0321]] — alegerea unei cauze prin analiza de materialitate și alinierea cu misiunea.
-- [[MKT-0322]] — măsurarea impactului pe patru familii de indicatori; credibilitatea prin audit extern.
-- [[MKT-0323]] — greenwashing: afirmația verde trebuie dovedită (dezbatere pornind de la ce *lipsește* din carte).
-- [[MKT-0324]] — design și ambalaj pentru circularitate (listă de verificare).
-- [[BRD-0302]] — Patagonia, „Don't Buy This Jacket" (2011).
+- [[MKT-0320-marketing-sustenabil-verde-eco-eficienta-csr-cause-nu-sunt-sinonime|MKT-0320]] — marketing sustenabil, marketing verde, eco-eficiență, CSR și cause marketing: cinci noțiuni diferite.
+- [[MKT-0321-cauza-se-alege-prin-analiza-de-materialitate|MKT-0321]] — alegerea unei cauze prin analiza de materialitate și alinierea cu misiunea.
+- [[MKT-0322-impactul-sustenabil-se-masoara-pe-patru-familii-de-indicatori|MKT-0322]] — măsurarea impactului pe patru familii de indicatori; credibilitatea prin audit extern.
+- [[MKT-0323-greenwashing-afirmatia-verde-trebuie-dovedita|MKT-0323]] — greenwashing: afirmația verde trebuie dovedită (dezbatere pornind de la ce *lipsește* din carte).
+- [[MKT-0324-designul-pentru-circularitate-produs-si-ambalaj|MKT-0324]] — design și ambalaj pentru circularitate (listă de verificare).
+- [[BRD-0302-patagonia-dont-buy-this-jacket|BRD-0302]] — Patagonia, „Don't Buy This Jacket" (2011).
 
 ## Ce lipsește / ce trebuie citit critic
 
@@ -55,3 +55,14 @@ level: 1
 ## Citat
 
 > Nicio formulare memorabilă; textul este descriptiv, iar traducerea e stângace.
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0302-patagonia-dont-buy-this-jacket|BRD-0302]] — Patagonia, „Don't Buy This Jacket”: o reclamă de Black Friday care îți cere să nu cumperi
+- [[MKT-0320-marketing-sustenabil-verde-eco-eficienta-csr-cause-nu-sunt-sinonime|MKT-0320]] — Marketingul sustenabil, marketingul verde, eco-eficiența, CSR și cause marketing nu sunt sinonime
+- [[MKT-0321-cauza-se-alege-prin-analiza-de-materialitate|MKT-0321]] — Cauza nu se alege după trend: analiza de materialitate și alinierea cu misiunea
+- [[MKT-0322-impactul-sustenabil-se-masoara-pe-patru-familii-de-indicatori|MKT-0322]] — Impactul sustenabil se măsoară pe patru familii de indicatori, iar credibilitatea vine din auditul extern
+- [[MKT-0323-greenwashing-afirmatia-verde-trebuie-dovedita|MKT-0323]] — Greenwashing: afirmația verde trebuie dovedită, nu doar comunicată — iar manualele entuziaste ocolesc problema
+- [[MKT-0324-designul-pentru-circularitate-produs-si-ambalaj|MKT-0324]] — Designul pentru circularitate: produsul și ambalajul se gândesc de la sfârșitul vieții lor
+<!-- backlinks:end -->

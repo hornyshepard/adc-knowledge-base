@@ -47,12 +47,24 @@ Dove (Unilever) combină două niveluri: campaniile despre stima de sine sunt CS
 
 ## Legături
 
-- **vezi** [[MKT-0321]] — alegerea cauzei pornește de la aceste distincții.
-- **vezi** [[MKT-0323]] — greenwashingul apare în spațiul dintre „real" și „perceput".
-- **vezi** [[MKT-0324]] — marketingul verde aplicat la designul de produs și ambalaj.
-- **vezi** [[MKT-0322]] — fiecare nivel are alți indicatori de impact.
+- **vezi** [[MKT-0321-cauza-se-alege-prin-analiza-de-materialitate|MKT-0321]] — alegerea cauzei pornește de la aceste distincții.
+- **vezi** [[MKT-0323-greenwashing-afirmatia-verde-trebuie-dovedita|MKT-0323]] — greenwashingul apare în spațiul dintre „real" și „perceput".
+- **vezi** [[MKT-0324-designul-pentru-circularitate-produs-si-ambalaj|MKT-0324]] — marketingul verde aplicat la designul de produs și ambalaj.
+- **vezi** [[MKT-0322-impactul-sustenabil-se-masoara-pe-patru-familii-de-indicatori|MKT-0322]] — fiecare nivel are alți indicatori de impact.
 
 ## Surse
 
-- [[SRC-011]] Maria Cesarini Viturino, *Sustainable Marketing*, cap. 1, 3, 4
-- [[SRC-010]] Patrick Ejeke, *Marketing Trends*, trendurile 15 și 62
+- [[SRC-011-sustainable-marketing-viturino|SRC-011]] Maria Cesarini Viturino, *Sustainable Marketing*, cap. 1, 3, 4
+- [[SRC-010-marketing-trends-ejeke|SRC-010]] Patrick Ejeke, *Marketing Trends*, trendurile 15 și 62
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0302-patagonia-dont-buy-this-jacket|BRD-0302]] _exemplu_ — Patagonia, „Don't Buy This Jacket”: o reclamă de Black Friday care îți cere să nu cumperi
+- [[MKT-0321-cauza-se-alege-prin-analiza-de-materialitate|MKT-0321]] _fundament_ — Cauza nu se alege după trend: analiza de materialitate și alinierea cu misiunea
+- [[MKT-0322-impactul-sustenabil-se-masoara-pe-patru-familii-de-indicatori|MKT-0322]] _fundament_ — Impactul sustenabil se măsoară pe patru familii de indicatori, iar credibilitatea vine din auditul extern
+- [[MKT-0323-greenwashing-afirmatia-verde-trebuie-dovedita|MKT-0323]] _fundament_ — Greenwashing: afirmația verde trebuie dovedită, nu doar comunicată — iar manualele entuziaste ocolesc problema
+- [[MKT-0324-designul-pentru-circularitate-produs-si-ambalaj|MKT-0324]] _fundament_ — Designul pentru circularitate: produsul și ambalajul se gândesc de la sfârșitul vieții lor
+- [[SRC-010-marketing-trends-ejeke|SRC-010]] — Marketing Trends: 63 Digital Marketing Trends in the Age of Automation, Integrated Marketing, Omnichannel Marketing, Metaverse, Big Data, NFTs, AI, AR & VR
+- [[SRC-011-sustainable-marketing-viturino|SRC-011]] — Sustainable Marketing: Responsible Practices for the Future of Marketing
+<!-- backlinks:end -->

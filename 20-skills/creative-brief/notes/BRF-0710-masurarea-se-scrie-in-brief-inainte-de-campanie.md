@@ -46,10 +46,23 @@ Orbit a avut un animatic testat dezastruos, dar campania a dus brandul pe primul
 
 ## Legături
 
-- **fundament** [[BRF-0703]] — măsurarea oglindește obiectivul de comunicare.
-- **vezi** [[BRF-0712]] — criteriile ADPLAN corespund măsurilor din testele de reclamă.
-- **exemplu** [[BRF-0714]] — măsurarea Stark devine percepție de securitate, test înainte de lansare și test în piață.
+- **fundament** [[BRF-0703-obiectivul-din-brief-este-unul-de-comunicare|BRF-0703]] — măsurarea oglindește obiectivul de comunicare.
+- **vezi** [[BRF-0712-adplan-sase-intrebari-pentru-o-executie-on-brief|BRF-0712]] — criteriile ADPLAN corespund măsurilor din testele de reclamă.
+- **exemplu** [[BRF-0714-cazul-stark-cloud-solutions-de-la-brief-bun-la-excelent|BRF-0714]] — măsurarea Stark devine percepție de securitate, test înainte de lansare și test în piață.
 
 ## Surse
 
-- [[SRC-022]] Kevin McTigue, Derek D. Rucker, *The Creative Brief Blueprint*, cap. 7 „Measurement"
+- [[SRC-022-the-creative-brief-blueprint|SRC-022]] Kevin McTigue, Derek D. Rucker, *The Creative Brief Blueprint*, cap. 7 „Measurement"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRF-0702-brief-ul-mctigue-rucker-are-sase-componente-pe-o-pagina|BRF-0702]] — Brief-ul McTigue–Rucker are șase componente și încape pe o singură pagină
+- [[BRF-0703-obiectivul-din-brief-este-unul-de-comunicare|BRF-0703]] _aplicare_ — Obiectivul din brief este unul de comunicare — specific, falsificabil și legat de bariera principală
+- [[BRF-0712-adplan-sase-intrebari-pentru-o-executie-on-brief|BRF-0712]] _vezi_ — ADPLAN — șase întrebări pentru o execuție care e „on brief" dar tot poate eșua
+- [[BRF-0717-naked-brief-informativ-si-inspirational|BRF-0717]] _vezi_ — Naked Brief — un brief „informativ și inspirațional", construit pe context, învățare și trei tipuri de măsuri
+- [[CLI-0701-clientul-bun-primeste-munca-buna|CLI-0701]] _vezi_ — Clientul bun primește munca bună — aliniere de la început, încredere și risc strategic
+- [[IDE-0710-dezbatere-socul-arma-de-atentie-sau-risc|IDE-0710]] — Dezbatere — șocul este cea mai puternică armă de atenție sau cel mai mare risc de reacție negativă?
+- [[IDE-0716-procesul-in-sapte-pasi-de-rezolvare-a-problemelor|IDE-0716]] — Procesul în șapte pași de rezolvare a problemelor — de la definirea decalajului la revizuirea rezultatului
+- [[SRC-022-the-creative-brief-blueprint|SRC-022]] — The Creative Brief Blueprint
+<!-- backlinks:end -->

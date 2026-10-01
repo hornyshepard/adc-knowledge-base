@@ -47,12 +47,21 @@ Watkins insistă că sentimentul trebuie să fie ancorat în ceva adevărat: Ste
 
 ## Legături
 
-- **alternativa** [[CPY-0802]] — reason-why, tradiția opusă.
-- **fundament** [[HIS-0810]] — MacManus în genealogia stilurilor.
-- **exemplu** [[ART-0804]] — Marlboro, imagine construită aproape fără text.
-- **vezi** [[CPY-0808]] — sinceritatea ca test al reclamei emoționale.
+- **alternativa** [[CPY-0802-reason-why-vanzare-tiparita|CPY-0802]] — reason-why, tradiția opusă.
+- **fundament** [[HIS-0810-genealogia-stilurilor-de-copy|HIS-0810]] — MacManus în genealogia stilurilor.
+- **exemplu** [[ART-0804-marlboro-repozitionarea-unui-brand-printr-o-imagine|ART-0804]] — Marlboro, imagine construită aproape fără text.
+- **vezi** [[CPY-0808-o-reclama-mare-idee-sinceritate-memorie-lunga|CPY-0808]] — sinceritatea ca test al reclamei emoționale.
 
 ## Surse
 
-- [[SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 10, p. 197, 207
-- [[SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Cadillac — The Penalty of Leadership”, „Edward S. (Ned) Jordan — Somewhere West of Laramie”, „Steinway — The Instrument of the Immortals”, „Packard”, „Rolls-Royce — To a Man Who Is Afraid to Let His Dream Come True”
+- [[SRC-027-a-history-of-advertising|SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 10, p. 197, 207
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Cadillac — The Penalty of Leadership”, „Edward S. (Ned) Jordan — Somewhere West of Laramie”, „Steinway — The Instrument of the Immortals”, „Packard”, „Rolls-Royce — To a Man Who Is Afraid to Let His Dream Come True”
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0802-arta-plastica-in-reclama-afisul-si-bubbles|ART-0802]] _vezi_ — Arta plastică a intrat în reclamă prin afiș și prin „Bubbles" — începutul reclamei de imagine
+- [[CPY-0802-reason-why-vanzare-tiparita|CPY-0802]] _alternativa_ — Reason-why — reclama ca vânzare tipărită care îi dă cititorului un motiv concret
+- [[HIS-0810-genealogia-stilurilor-de-copy|HIS-0810]] _extinde_ — Genealogia stilurilor de copy — știre, reason-why, imagine, USP, Big Idea
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] — The 100 Greatest Advertisements 1852–1958: Who Wrote Them and What They Did
+<!-- backlinks:end -->

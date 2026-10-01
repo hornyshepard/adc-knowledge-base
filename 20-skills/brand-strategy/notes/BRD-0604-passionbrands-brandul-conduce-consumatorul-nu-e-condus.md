@@ -42,10 +42,18 @@ Cartea nu analizează în detaliu cazuri; autorul notează doar că Passionbrand
 
 ## Legături
 
-- **alternativa** [[BRD-0603]] — modelul paralel și mult mai mediatizat al lui Roberts.
-- **contrazice** [[ADV-0601]] — critică exact centrarea pe consumator din paradigma consumer branding.
-- **vezi** [[HIS-0601]] — autorul îl dă ca exemplu de mecanism „redundant", creat și pentru a vinde o consultanță.
+- **alternativa** [[BRD-0603-lovemarks-iubire-plus-respect-mister-senzualitate-intimitate|BRD-0603]] — modelul paralel și mult mai mediatizat al lui Roberts.
+- **contrazice** [[ADV-0601-trei-paradigme-de-brand-management-produs-personalitate|ADV-0601]] — critică exact centrarea pe consumator din paradigma consumer branding.
+- **vezi** [[HIS-0601-inventia-recurenta-mecanismele-strategice-se-reambaleaza|HIS-0601]] — autorul îl dă ca exemplu de mecanism „redundant", creat și pentru a vinde o consultanță.
 
 ## Surse
 
-- [[SRC-018]] Jorge David Fernández Gómez, *Strategic Advertising Mechanisms*, cap. 6 §6.4 (Edwards & Day 2005)
+- [[SRC-018-strategic-advertising-mechanisms|SRC-018]] Jorge David Fernández Gómez, *Strategic Advertising Mechanisms*, cap. 6 §6.4 (Edwards & Day 2005)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0621-comunicarea-organizatiei-are-trei-registre-externa-interna|ADV-0621]] _vezi_ — Comunicarea unei organizații are trei registre — externă, internă, instituțională — cu ținte, obiective și unelte diferite
+- [[BRD-0603-lovemarks-iubire-plus-respect-mister-senzualitate-intimitate|BRD-0603]] _alternativa_ — Lovemarks (Roberts) — iubire peste respect, construită prin mister, senzualitate și intimitate
+- [[SRC-018-strategic-advertising-mechanisms|SRC-018]] — Strategic Advertising Mechanisms: From Copy Strategy to Iconic Brands
+<!-- backlinks:end -->

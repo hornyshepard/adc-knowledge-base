@@ -27,18 +27,18 @@ level: 1
 
 | Cap. | Tema | Note derivate |
 |---|---|---|
-| Intro, 1 | Ce e AI (ML, NLP, computer vision, RPA, predictive, recomandări); de ce contează branding-ul; „AI-powered branding" | [[AIM-1326]] |
+| Intro, 1 | Ce e AI (ML, NLP, computer vision, RPA, predictive, recomandări); de ce contează branding-ul; „AI-powered branding" | [[AIM-1326-poate-ai-ul-crea-identitatea-unui-brand|AIM-1326]] |
 | 2 | Revoluționarea identității: date, personalizare, conținut dinamic, „predictive branding"; „cazuri" Netflix și Nike | — (generic) |
-| 3 | Percepții în digital: autenticitate, consecvență, narațiune, social proof; analiză de sentiment, cercetare, reputație | [[AIM-1325]] |
-| 4 | Tehnici: predictive, NLP, computer vision, GANs, emotion AI; storytelling cu AI; recunoaștere vizuală; chatboți | [[AIM-1325]], [[SOC-1301]], [[AIM-1326]] |
-| 5 | Identitate de business „cutting-edge"; strategie data-driven; inovare continuă; tendințe | [[AIM-1326]] |
-| Concluzie | Branding-ul e definit de povești și relații, nu de algoritmi | [[AIM-1326]] |
+| 3 | Percepții în digital: autenticitate, consecvență, narațiune, social proof; analiză de sentiment, cercetare, reputație | [[AIM-1325-ascultarea-vizuala-gaseste-brandul-in-imagini|AIM-1325]] |
+| 4 | Tehnici: predictive, NLP, computer vision, GANs, emotion AI; storytelling cu AI; recunoaștere vizuală; chatboți | [[AIM-1325-ascultarea-vizuala-gaseste-brandul-in-imagini|AIM-1325]], [[SOC-1301-ai-verifica-autenticitatea-audientei-influencerului|SOC-1301]], [[AIM-1326-poate-ai-ul-crea-identitatea-unui-brand|AIM-1326]] |
+| 5 | Identitate de business „cutting-edge"; strategie data-driven; inovare continuă; tendințe | [[AIM-1326-poate-ai-ul-crea-identitatea-unui-brand|AIM-1326]] |
+| Concluzie | Branding-ul e definit de povești și relații, nu de algoritmi | [[AIM-1326-poate-ai-ul-crea-identitatea-unui-brand|AIM-1326]] |
 
 ## Idei-cheie → note permanente
 
-- [[AIM-1325]] — ascultarea vizuală: brandul găsit în imagini (mențiuni, ambasadori, contrafaceri, sentiment vizual).
-- [[AIM-1326]] — dezbatere: poate AI-ul crea identitatea unui brand?
-- [[SOC-1301]] — contribuție minoră: identificarea ambasadorilor spontani prin recunoaștere vizuală.
+- [[AIM-1325-ascultarea-vizuala-gaseste-brandul-in-imagini|AIM-1325]] — ascultarea vizuală: brandul găsit în imagini (mențiuni, ambasadori, contrafaceri, sentiment vizual).
+- [[AIM-1326-poate-ai-ul-crea-identitatea-unui-brand|AIM-1326]] — dezbatere: poate AI-ul crea identitatea unui brand?
+- [[SOC-1301-ai-verifica-autenticitatea-audientei-influencerului|SOC-1301]] — contribuție minoră: identificarea ambasadorilor spontani prin recunoaștere vizuală.
 
 ## Ce lipsește / ce trebuie citit critic
 
@@ -51,3 +51,11 @@ level: 1
 ## Citat
 
 > Branding-ul e definit de povești și relații, „not statistics or algorithms" (Concluzie).
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-1325-ascultarea-vizuala-gaseste-brandul-in-imagini|AIM-1325]] — Ascultarea vizuală găsește brandul în imagini, acolo unde nu e numit în text
+- [[AIM-1326-poate-ai-ul-crea-identitatea-unui-brand|AIM-1326]] — Poate AI-ul crea identitatea unui brand? Promisiunea „brand assets generate" vs. brandul ca semnificație și relație
+- [[SOC-1301-ai-verifica-autenticitatea-audientei-influencerului|SOC-1301]] — Cu AI, un influencer se alege după autenticitatea și potrivirea audienței, nu după numărul de urmăritori
+<!-- backlinks:end -->

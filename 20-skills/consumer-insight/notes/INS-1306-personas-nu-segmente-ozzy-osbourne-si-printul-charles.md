@@ -50,10 +50,17 @@ Inginerii unei firme tehnice își scriau singuri manualele de utilizare. Fără
 
 ## Legături
 
-- **vezi** [[AIM-1302]] — segmentarea dinamică cu AI, o altă critică a segmentelor statice.
-- **vezi** [[INS-1305]] — și driverii de cumpărare diferă pe etape de viață.
-- **aplicare** [[STO-1301]] — persona arată ce subiect comun funcționează.
+- **vezi** [[AIM-1302-segmentele-construite-cu-ai-sunt-dinamice|AIM-1302]] — segmentarea dinamică cu AI, o altă critică a segmentelor statice.
+- **vezi** [[INS-1305-importanta-unui-atribut-se-schimba-cu-etapa-de-viata|INS-1305]] — și driverii de cumpărare diferă pe etape de viață.
+- **aplicare** [[STO-1301-punctul-de-mutualitate-subiectul-comun-brand-public|STO-1301]] — persona arată ce subiect comun funcționează.
 
 ## Surse
 
-- [[SRC-040]] Aly Richards & Scott McLean, *Intelligent Customer Engagement*, secț. 3, cap. 1; secț. 4, cap. 2
+- [[SRC-040-intelligent-customer-engagement|SRC-040]] Aly Richards & Scott McLean, *Intelligent Customer Engagement*, secț. 3, cap. 1; secț. 4, cap. 2
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[STO-1301-punctul-de-mutualitate-subiectul-comun-brand-public|STO-1301]] _vezi_ — Punctul de mutualitate este subiectul despre care și brandul, și publicul vor să vorbească
+- [[SRC-040-intelligent-customer-engagement|SRC-040]] — Intelligent Customer Engagement: The Future of Content Marketing
+<!-- backlinks:end -->

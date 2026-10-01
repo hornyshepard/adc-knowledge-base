@@ -45,11 +45,19 @@ Lipton Ice (Karremans et al., 2006) și replicarea BBC (2015) — același desig
 
 ## Legături
 
-- **fundament** [[INS-0414]] — priming-ul subliminal și supraliminal au efecte comparabile în laborator.
-- **vezi** [[INS-0415]] — exemplu de efect fragil la replicare.
-- **vezi** [[INS-0438]] — scopurile activate de mediu, condiția-cheie a efectului.
-- **vezi** [[INS-0446]] — psihanaliza, Dichter și Packard, contextul în care s-a născut mitul.
+- **fundament** [[INS-0414-priming-ul-coloreaza-judecatile-ulterioare|INS-0414]] — priming-ul subliminal și supraliminal au efecte comparabile în laborator.
+- **vezi** [[INS-0415-criza-replicarii-cum-citim-studiile|INS-0415]] — exemplu de efect fragil la replicare.
+- **vezi** [[INS-0438-mediul-activeaza-scopuri-si-norme-fara-constiinta|INS-0438]] — scopurile activate de mediu, condiția-cheie a efectului.
+- **vezi** [[INS-0446-psihanaliza-in-marketing-tehnici-proiective|INS-0446]] — psihanaliza, Dichter și Packard, contextul în care s-a născut mitul.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 6, p. 294-299; cap. 3, p. 105-106
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 6, p. 294-299; cap. 3, p. 105-106
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[INS-0438-mediul-activeaza-scopuri-si-norme-fara-constiinta|INS-0438]] _vezi_ — Mediul de cumpărare activează scopuri, norme și „mentalități" care ghidează alegerea fără ca omul să-și dea seama
+- [[INS-0446-psihanaliza-in-marketing-tehnici-proiective|INS-0446]] _vezi_ — Psihanaliza nu poate fi dovedită, dar oferă tehnici proiective și concepte utile pentru insight — „permisiunea de a te bucura fără vinovăție"
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

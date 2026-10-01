@@ -43,10 +43,19 @@ Caricaturistul Charles Philipon a fost judecat în 1832 pentru că l-a desenat p
 
 ## Legături
 
-- **extinde** [[IDE-0704]] — metafora e o bisociație vizibilă.
-- **vezi** [[ART-0702]] — simbolurile sunt metafore care s-au stabilizat în cultură.
-- **vezi** [[IDE-0705]] — juxtapunerea alătură, metafora contopește.
+- **extinde** [[IDE-0704-ideile-noi-sunt-combinatii-bisociatia-lui-koestler|IDE-0704]] — metafora e o bisociație vizibilă.
+- **vezi** [[ART-0702-simbolurile-icoanele-si-gesturile-comunica-instant|ART-0702]] — simbolurile sunt metafore care s-au stabilizat în cultură.
+- **vezi** [[IDE-0705-juxtapunerea-doua-imagini-alaturate|IDE-0705]] — juxtapunerea alătură, metafora contopește.
 
 ## Surse
 
-- [[SRC-024]] John Ingledew, *The A–Z of Visual Ideas*, intrările „Visual metaphors", „One thing looks like another", „Fusion", „Making faces"
+- [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] John Ingledew, *The A–Z of Visual Ideas*, intrările „Visual metaphors", „One thing looks like another", „Fusion", „Making faces"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0702-simbolurile-icoanele-si-gesturile-comunica-instant|ART-0702]] _vezi_ — Simbolurile, icoanele și gesturile comunică instant pentru că sensul lor e deja instalat în mintea privitorului
+- [[ART-0703-schimbarea-de-scara-si-imaginea-din-elemente-mici|ART-0703]] _vezi_ — Schimbarea de scară și imaginea construită din multe elemente mici răstoarnă ordinea așteptată a lumii
+- [[IDE-0704-ideile-noi-sunt-combinatii-bisociatia-lui-koestler|IDE-0704]] _extinde_ — Ideile noi sunt combinații — bisociația lui Koestler și gândirea combinatorie
+- [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] — The A–Z of Visual Ideas: How to Solve Any Creative Brief
+<!-- backlinks:end -->

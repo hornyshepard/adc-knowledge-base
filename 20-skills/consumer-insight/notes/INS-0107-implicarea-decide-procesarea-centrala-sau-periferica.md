@@ -49,12 +49,24 @@ Două persoane văd aceeași reclamă pentru ținute de birou. Laura, care caut�
 
 ## Legături
 
-- **fundament** [[INS-0101]] — implicarea decide cât de complet parcurge consumatorul etapele deciziei.
-- **vezi** [[INS-0103]] — riscul perceput mare împinge spre rezolvarea extinsă a problemei.
-- **aplicare** [[ADV-0106]] — alegerea între apel informațional și emoțional depinde de nivelul de implicare.
-- **vezi** [[INS-0105]] — cumpărarea din impuls e ușor de influențat prin arhitectura alegerii (produsele de lângă casă).
-- **alternativa** [[INS-0109]] — matricea Assael adaugă a doua axă, diferențele percepute între branduri.
+- **fundament** [[INS-0101-decizia-de-cumparare-cinci-etape-si-dupa-cumparare|INS-0101]] — implicarea decide cât de complet parcurge consumatorul etapele deciziei.
+- **vezi** [[INS-0103-cinci-tipuri-de-risc-perceput-cresc-cautarea|INS-0103]] — riscul perceput mare împinge spre rezolvarea extinsă a problemei.
+- **aplicare** [[ADV-0106-mesajul-usp-si-apelul-informational-sau-emotional|ADV-0106]] — alegerea între apel informațional și emoțional depinde de nivelul de implicare.
+- **vezi** [[INS-0105-arhitectura-alegerii-nudge-si-optiunea-implicita|INS-0105]] — cumpărarea din impuls e ușor de influențat prin arhitectura alegerii (produsele de lângă casă).
+- **alternativa** [[INS-0109-patru-tipuri-de-cumparare-matricea-assael|INS-0109]] — matricea Assael adaugă a doua axă, diferențele percepute între branduri.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 6, p. 211-213 (Exhibit 6.6)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 6, p. 211-213 (Exhibit 6.6)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0106-mesajul-usp-si-apelul-informational-sau-emotional|ADV-0106]] _vezi_ — Mesajul condensează propunerea de valoare într-un USP unic, relevant și durabil, transmis printr-un apel informațional sau emoțional
+- [[DIG-0104-pe-mobil-reclama-are-sub-o-secunda-ca-sa-fie-vazuta|DIG-0104]] _vezi_ — Pe mobil, o reclamă are mai puțin de o secundă ca să fie văzută — fețe, contrast și emoție instantanee
+- [[INS-0101-decizia-de-cumparare-cinci-etape-si-dupa-cumparare|INS-0101]] _vezi_ — Decizia de cumpărare are cinci etape și nu se încheie la casă — satisfacția, disonanța și loialitatea vin după
+- [[INS-0103-cinci-tipuri-de-risc-perceput-cresc-cautarea|INS-0103]] _vezi_ — Cinci tipuri de risc perceput frânează cumpărarea — cu cât e mai mare riscul, cu atât consumatorul caută mai mult
+- [[INS-0105-arhitectura-alegerii-nudge-si-optiunea-implicita|INS-0105]] _vezi_ — Arhitectura alegerii influențează decizia fără s-o interzică — prin „ghionturi" (nudges) și opțiuni implicite
+- [[INS-0109-patru-tipuri-de-cumparare-matricea-assael|INS-0109]] _alternativa_ — Patru tipuri de comportament de cumpărare rezultă din implicare × diferențele percepute între branduri (matricea Assael)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+<!-- backlinks:end -->

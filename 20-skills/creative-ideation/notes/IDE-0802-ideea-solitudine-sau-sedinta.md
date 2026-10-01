@@ -44,12 +44,22 @@ Anunțul „Find the Man” a adus noii agenții două conturi importante și o 
 
 ## Legături
 
-- **contrazice** [[HIS-0811]] — perechea lui Bernbach vs. scriitorul solitar al anilor '20.
-- **vezi** [[CPY-0809]] — multe idei au fost auzite, nu inventate.
-- **vezi** [[IDE-0801]] — ce anume caută acest proces: Big Idea.
-- **vezi** [[HIS-0826]] — „Soup on the Rocks”, idee de grup care a creat o ocazie de consum.
+- **contrazice** [[HIS-0811-revolutia-creativa-copywriter-si-art-director-impreuna|HIS-0811]] — perechea lui Bernbach vs. scriitorul solitar al anilor '20.
+- **vezi** [[CPY-0809-titlurile-bune-sunt-gasite-nu-inventate|CPY-0809]] — multe idei au fost auzite, nu inventate.
+- **vezi** [[IDE-0801-big-idea-strategie-plus-surpriza|IDE-0801]] — ce anume caută acest proces: Big Idea.
+- **vezi** [[HIS-0826-marile-campanii-au-inventat-ocazii-de-consum|HIS-0826]] — „Soup on the Rocks”, idee de grup care a creat o ocazie de consum.
 
 ## Surse
 
-- [[SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Squibb”, „Steinway”, „Hamilton Watch”, „Lennen & Mitchell — Find the Man”, „Campbell’s Soup — New Excitement into Soup”, „Canada Dry”, „The Story Behind The Kid in Upper 4”, „I. C. S. — The University of the Night”
-- [[SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 10, p. 198, 209; cap. 17, p. 411
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Squibb”, „Steinway”, „Hamilton Watch”, „Lennen & Mitchell — Find the Man”, „Campbell’s Soup — New Excitement into Soup”, „Canada Dry”, „The Story Behind The Kid in Upper 4”, „I. C. S. — The University of the Night”
+- [[SRC-027-a-history-of-advertising|SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 10, p. 198, 209; cap. 17, p. 411
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0809-titlurile-bune-sunt-gasite-nu-inventate|CPY-0809]] _vezi_ — Cele mai bune titluri sunt adesea găsite, nu inventate — ascultă clientul și strada
+- [[HIS-0811-revolutia-creativa-copywriter-si-art-director-impreuna|HIS-0811]] _contrazice_ — Revoluția creativă din 1959 a pus copywriterul și art directorul în aceeași cameră
+- [[HIS-0826-marile-campanii-au-inventat-ocazii-de-consum|HIS-0826]] — Marile campanii au inventat ocazii de consum — Coca-Cola, pauza de cafea, inelul cu diamant
+- [[IDE-0801-big-idea-strategie-plus-surpriza|IDE-0801]] _vezi_ — Big Idea — conceptul care face o reclamă diferită de ale concurenților îmbină strategia cu surpriza
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] — The 100 Greatest Advertisements 1852–1958: Who Wrote Them and What They Did
+<!-- backlinks:end -->

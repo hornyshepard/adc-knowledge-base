@@ -44,11 +44,22 @@ Un junior care prezintă unui CMO poate spune: „Am lucrat la lansarea ultimelo
 
 ## Legături
 
-- **fundament** [[PIT-1405]] — legătura cu nevoia audienței cere cunoașterea ei.
-- **aplicare** [[PIT-1414]] — se livrează în pasul „Authority” al deschiderii.
-- **vezi** [[PIT-1429]] — unicitatea e baza diferențierii față de concurență.
-- **aplicare** [[PRT-1416]] — la interviu, unicitatea se spune prin povestea de sine.
+- **fundament** [[PIT-1405-cercetarea-audientei-fapte-vs-sentimente|PIT-1405]] — legătura cu nevoia audienței cere cunoașterea ei.
+- **aplicare** [[PIT-1414-deschiderea-star|PIT-1414]] — se livrează în pasul „Authority” al deschiderii.
+- **vezi** [[PIT-1429-define-differentiate-destroy-concurenta|PIT-1429]] — unicitatea e baza diferențierii față de concurență.
+- **aplicare** [[PRT-1416-povestea-de-sine-explicare-si-pitch-pixar|PRT-1416]] — la interviu, unicitatea se spune prin povestea de sine.
 
 ## Surse
 
-- [[SRC-043]] Dominic Colenso, *Cut-Through*, cap. 1 și 3
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] Dominic Colenso, *Cut-Through*, cap. 1 și 3
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CLI-1403-introducerea-in-trei-deschide-usi|CLI-1403]] _vezi_ — Introducerea în trei deschide uși pe care apelul rece nu le deschide
+- [[PIT-1405-cercetarea-audientei-fapte-vs-sentimente|PIT-1405]] _aplicare_ — Cercetarea audienței separă faptele verificabile de sentimente
+- [[PIT-1414-deschiderea-star|PIT-1414]] _extinde_ — Deschiderea S.T.A.R. — Surprise, Takeaways, Authority, Roadmap
+- [[PIT-1429-define-differentiate-destroy-concurenta|PIT-1429]] _vezi_ — Orice prezentare are concurență — Define, Differentiate, Destroy
+- [[PRT-1408-introducerea-si-titlurile-vand-relevanta|PRT-1408]] _vezi_ — Introducerea și titlurile studiilor de caz vând relevanța pentru cititor, nu adjective
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] — Cut-Through: The pitch and presentation playbook
+<!-- backlinks:end -->

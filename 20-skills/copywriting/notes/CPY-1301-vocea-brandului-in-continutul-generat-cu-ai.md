@@ -52,11 +52,20 @@ Cazul Companiei A arată tiparul tipic: câștigul de timp vine abia după ce ec
 
 ## Legături
 
-- **fundament** [[AIM-1317]] — promptul-brief e pasul 1 al ciclului.
-- **vezi** [[AIM-1318]] — transparența față de public privind conținutul generat cu AI.
-- **vezi** [[DIG-1301]] — riscul pierderii vocii în e-mailurile automatizate.
-- **vezi** [[AIM-1326]] — dezbaterea mai largă: poate AI-ul crea identitatea unui brand?
+- **fundament** [[AIM-1317-promptul-de-marketing-e-un-mini-brief|AIM-1317]] — promptul-brief e pasul 1 al ciclului.
+- **vezi** [[AIM-1318-declara-cand-folosesti-ai-trusa-de-transparenta|AIM-1318]] — transparența față de public privind conținutul generat cu AI.
+- **vezi** [[DIG-1301-ai-in-e-mail-moment-si-frecventa-pe-individ|DIG-1301]] — riscul pierderii vocii în e-mailurile automatizate.
+- **vezi** [[AIM-1326-poate-ai-ul-crea-identitatea-unui-brand|AIM-1326]] — dezbaterea mai largă: poate AI-ul crea identitatea unui brand?
 
 ## Surse
 
-- [[SRC-039]] Eldar Najafov, *ChatGPT for Marketing*, cap. 4, p. 80–81; cap. 2, p. 37–38
+- [[SRC-039-chatgpt-for-marketing|SRC-039]] Eldar Najafov, *ChatGPT for Marketing*, cap. 4, p. 80–81; cap. 2, p. 37–38
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-1317-promptul-de-marketing-e-un-mini-brief|AIM-1317]] _extinde_ — Promptul de marketing e un mini-brief, iar răspunsul modelului e o ciornă, nu un livrabil
+- [[AIM-1318-declara-cand-folosesti-ai-trusa-de-transparenta|AIM-1318]] _vezi_ — Declară când folosești AI — o trusă de transparență și un checklist etic în opt puncte
+- [[AIM-1326-poate-ai-ul-crea-identitatea-unui-brand|AIM-1326]] _vezi_ — Poate AI-ul crea identitatea unui brand? Promisiunea „brand assets generate" vs. brandul ca semnificație și relație
+- [[SRC-039-chatgpt-for-marketing|SRC-039]] — ChatGPT for Marketing: Learn Practical Applications of ChatGPT for Marketing
+<!-- backlinks:end -->

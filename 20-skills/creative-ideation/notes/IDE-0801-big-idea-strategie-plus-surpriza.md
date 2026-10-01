@@ -44,13 +44,24 @@ Watkins, scriind cu un deceniu înaintea revoluției creative, spune același lu
 
 ## Legături
 
-- **fundament** [[HIS-0811]] — Big Idea a devenit standard odată cu revoluția creativă.
-- **vezi** [[CPY-0813]] — surpriza și umorul ca recompensă care livrează strategia.
-- **extinde** [[HIS-0810]] — sinteza stilurilor de copy.
-- **vezi** [[IDE-0802]] — cum se naște, practic, o idee.
-- **vezi** [[IDE]] — hub-ul de ideație.
+- **fundament** [[HIS-0811-revolutia-creativa-copywriter-si-art-director-impreuna|HIS-0811]] — Big Idea a devenit standard odată cu revoluția creativă.
+- **vezi** [[CPY-0813-umorul-de-la-interzis-la-recompensa|CPY-0813]] — surpriza și umorul ca recompensă care livrează strategia.
+- **extinde** [[HIS-0810-genealogia-stilurilor-de-copy|HIS-0810]] — sinteza stilurilor de copy.
+- **vezi** [[IDE-0802-ideea-solitudine-sau-sedinta|IDE-0802]] — cum se naște, practic, o idee.
+- **vezi** [[20-skills/creative-ideation/SKILL|IDE]] — hub-ul de ideație.
 
 ## Surse
 
-- [[SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 10, p. 202–203, 208; cap. 17, p. 413
-- [[SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, Prefața autorului (1949); intrarea „Joint Coffee Trade Publicity Committee — And the Coffee Break Was Born”
+- [[SRC-027-a-history-of-advertising|SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 10, p. 202–203, 208; cap. 17, p. 413
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, Prefața autorului (1949); intrarea „Joint Coffee Trade Publicity Committee — And the Coffee Break Was Born”
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0813-umorul-de-la-interzis-la-recompensa|CPY-0813]] _vezi_ — Umorul în reclamă — de la „cleverness" interzis la recompensa care cumpără atenția
+- [[HIS-0810-genealogia-stilurilor-de-copy|HIS-0810]] _vezi_ — Genealogia stilurilor de copy — știre, reason-why, imagine, USP, Big Idea
+- [[HIS-0811-revolutia-creativa-copywriter-si-art-director-impreuna|HIS-0811]] _aplicare_ — Revoluția creativă din 1959 a pus copywriterul și art directorul în aceeași cameră
+- [[IDE-0802-ideea-solitudine-sau-sedinta|IDE-0802]] _vezi_ — Ideea se naște în solitudine, în pereche sau în ședință? Clasicii nu sunt de acord
+- [[SRC-027-a-history-of-advertising|SRC-027]] — A History of Advertising: The First 300,000 Years
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] — The 100 Greatest Advertisements 1852–1958: Who Wrote Them and What They Did
+<!-- backlinks:end -->

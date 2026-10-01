@@ -51,11 +51,22 @@ Fabricantul de răcoritoare care crește bugetul și vede vânzări mai mari nu 
 
 ## Legături
 
-- **vezi** [[INS-0412]] — și metricile de memorie induc în eroare.
-- **vezi** [[INS-0415]] — experimentele trebuie să aibă eșantioane suficiente ca să fie replicabile.
-- **vezi** [[ADV-0403]] — modelele agregate de răspuns al vânzărilor nu explică mecanismul.
-- **contrazice** [[INS-0446]] — tradiția psihanalitică și interpretativă respinge experimentul ca singur criteriu.
+- **vezi** [[INS-0412-recall-ul-e-o-masura-slaba-a-eficientei|INS-0412]] — și metricile de memorie induc în eroare.
+- **vezi** [[INS-0415-criza-replicarii-cum-citim-studiile|INS-0415]] — experimentele trebuie să aibă eșantioane suficiente ca să fie replicabile.
+- **vezi** [[ADV-0403-modele-de-raspuns-al-vanzarilor-concav-si-s|ADV-0403]] — modelele agregate de răspuns al vânzărilor nu explică mecanismul.
+- **contrazice** [[INS-0446-psihanaliza-in-marketing-tehnici-proiective|INS-0446]] — tradiția psihanalitică și interpretativă respinge experimentul ca singur criteriu.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, Prefață, p. x-xi; cap. 1, p. 6-8, 17-21
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, Prefață, p. x-xi; cap. 1, p. 6-8, 17-21
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0403-modele-de-raspuns-al-vanzarilor-concav-si-s|ADV-0403]] _vezi_ — Răspunsul vânzărilor la buget urmează o curbă concavă sau în S, cu prag de intrare și punct de uzură
+- [[INS-0412-recall-ul-e-o-masura-slaba-a-eficientei|INS-0412]] _vezi_ — Recall-ul și recunoașterea sunt măsuri slabe ale eficienței unei reclame
+- [[INS-0415-criza-replicarii-cum-citim-studiile|INS-0415]] _fundament_ — Criza replicării obligă la prudență, dar teoriile se judecă pe programe de cercetare, nu pe studii izolate
+- [[INS-0420-poate-publicitatea-crea-dorinte-si-materialism|INS-0420]] _vezi_ — Publicitatea nu creează nevoi, dar poate cultiva dorințe și materialism, mai ales la copii
+- [[INS-0446-psihanaliza-in-marketing-tehnici-proiective|INS-0446]] _contrazice_ — Psihanaliza nu poate fi dovedită, dar oferă tehnici proiective și concepte utile pentru insight — „permisiunea de a te bucura fără vinovăție"
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

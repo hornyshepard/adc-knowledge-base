@@ -48,10 +48,18 @@ Glenister descrie talent managerii care reprezintă creatorii mari (de obicei cu
 
 ## Legături
 
-- **vezi** [[ADV-1101]] — PESO arată de ce disciplina traversează competențele mai multor tipuri de agenții.
-- **vezi** [[SOC-1127]] — amplificarea plătită e argumentul principal al agențiilor media.
-- **vezi** [[SOC-1133]] — cadrul strategic cere un singur proprietar al campaniei.
+- **vezi** [[ADV-1101-modelul-peso-influencer-marketingul-traverseaza-media|ADV-1101]] — PESO arată de ce disciplina traversează competențele mai multor tipuri de agenții.
+- **vezi** [[SOC-1127-continutul-creatorilor-se-amplifica-platit-dupa-ce-isi|SOC-1127]] — amplificarea plătită e argumentul principal al agențiilor media.
+- **vezi** [[SOC-1133-cadrul-strategic-al-unei-campanii-cu-influenceri-porneste|SOC-1133]] — cadrul strategic cere un singur proprietar al campaniei.
 
 ## Surse
 
-- [[SRC-035]] Glenister, *Influencer Marketing Strategy*, cap. 1, p. 62; cap. 5, p. 189–190; cap. 6, p. 199, 203–211; cap. 9, p. 249–250, 254–255
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] Glenister, *Influencer Marketing Strategy*, cap. 1, p. 62; cap. 5, p. 189–190; cap. 6, p. 199, 203–211; cap. 9, p. 249–250, 254–255
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-1101-modelul-peso-influencer-marketingul-traverseaza-media|ADV-1101]] _vezi_ — Modelul PESO: influencer marketingul traversează media plătită, câștigată, distribuită și proprie
+- [[SOC-1132-creatorii-devin-branduri-de-la-endorsement-la-creator|SOC-1132]] _vezi_ — Creatorii devin branduri: de la endorsement la creator economy
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] — Influencer Marketing Strategy: How influencers can help grow your business
+<!-- backlinks:end -->

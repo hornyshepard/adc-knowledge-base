@@ -45,10 +45,18 @@ Disney deschide advertiserilor peste 1.000 de segmente din datele proprii fără
 
 ## Legături
 
-- **extinde** [[DIG-1021]] — datele first-party sunt materia primă a celor trei trepte.
-- **vezi** [[DIG-1017]] — de ce a devenit necesară o nouă infrastructură de identitate.
-- **vezi** [[DIG-1029]] — programmatic-ul folosește aceste identități pentru cumpărarea automată.
+- **extinde** [[DIG-1021-strategia-first-party-incepe-cu-intrebarea-de-vanzari|DIG-1021]] — datele first-party sunt materia primă a celor trei trepte.
+- **vezi** [[DIG-1017-cookie-urile-terte-ce-faceau-si-de-ce-dispar|DIG-1017]] — de ce a devenit necesară o nouă infrastructură de identitate.
+- **vezi** [[DIG-1029-publicitatea-programatica-licitatie-in-timp-real|DIG-1029]] — programmatic-ul folosește aceste identități pentru cumpărarea automată.
 
 ## Surse
 
-- [[SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 1.3.5.2 (p. 31–34)
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 1.3.5.2 (p. 31–34)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-1021-strategia-first-party-incepe-cu-intrebarea-de-vanzari|DIG-1021]] _vezi_ — O strategie de date first-party începe cu întrebarea „ce date ne cresc vânzările?", nu cu colectarea, și funcționează doar dacă oferă utilizatorului o valoare reală în schimb
+- [[DIG-1029-publicitatea-programatica-licitatie-in-timp-real|DIG-1029]] _vezi_ — Publicitatea programatică cumpără fiecare impresie automat, prin licitație în timp real — câștigă eficiență, pierde control și are nevoie de date și bugete mari
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] — Digital Advertising in the Post-cookie Era: Strategic Campaign Planning Across the Customer Journey
+<!-- backlinks:end -->

@@ -45,10 +45,18 @@ McDonald's vinde în India Maharaja Mac și McAloo Tikki, dar păstrează arcade
 
 ## Legături
 
-- **vezi** [[BRD-0515]] — guvernanța de brand și „libertatea în cadrul unui cadru".
-- **aplicare** [[BRD-0503]] — esența globală se fixează în poziționare, execuția rămâne locală.
-- **vezi** [[ART-0502]] — consecvența simbolurilor vizuale (cazul lalelei Pond's).
+- **vezi** [[BRD-0515-implementarea-strategiei-de-brand-cere-sase-elemente-nu|BRD-0515]] — guvernanța de brand și „libertatea în cadrul unui cadru".
+- **aplicare** [[BRD-0503-declaratia-de-pozitionare-are-patru-elemente-tinta-cadru|BRD-0503]] — esența globală se fixează în poziționare, execuția rămâne locală.
+- **vezi** [[ART-0502-sablonul-de-design-de-brand-douasprezece-tipuri-de-indicii|ART-0502]] — consecvența simbolurilor vizuale (cazul lalelei Pond's).
 
 ## Surse
 
-- [[SRC-014]] Sanjay Khosla, „The Three Keys to Building Global Brands with Soul", cap. 6 în *Kellogg on Branding in a Hyper-Connected World*, p. 78–90
+- [[SRC-014-kellogg-on-branding|SRC-014]] Sanjay Khosla, „The Three Keys to Building Global Brands with Soul", cap. 6 în *Kellogg on Branding in a Hyper-Connected World*, p. 78–90
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0502-sablonul-de-design-de-brand-douasprezece-tipuri-de-indicii|ART-0502]] _vezi_ — Șablonul de design de brand: douăsprezece tipuri de indicii senzoriale
+- [[BRD-0515-implementarea-strategiei-de-brand-cere-sase-elemente-nu|BRD-0515]] _vezi_ — Implementarea strategiei de brand cere șase elemente, nu doar o poziționare
+- [[SRC-014-kellogg-on-branding|SRC-014]] — Kellogg on Branding in a Hyper-Connected World
+<!-- backlinks:end -->

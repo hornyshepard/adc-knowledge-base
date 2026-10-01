@@ -44,11 +44,23 @@ Pentru deschidere, autorii recomandă trei metode: o imagine spectaculoasă, un 
 
 ## Legături
 
-- **extinde** [[STO-1102]] — beat-urile leagă momentele dramatice alese prin anatomia poveștii.
-- **vezi** [[STO-1105]] — formulele de intro/outro ale unui serial sunt beat-uri explicite.
-- **vezi** [[STO-1111]] — șabloanele de micro-poveste fixează locul beat-urilor.
-- **vezi** [[SOC-1101]] — toks se urmăresc integral, deci ritmul intern e vital.
+- **extinde** [[STO-1102-anatomia-povestii-alegi-momentul-dramatic-care-spune|STO-1102]] — beat-urile leagă momentele dramatice alese prin anatomia poveștii.
+- **vezi** [[STO-1105-formatul-serial-este-arma-secreta-a-micro-storytelling-ului|STO-1105]] — formulele de intro/outro ale unui serial sunt beat-uri explicite.
+- **vezi** [[STO-1111-sabloane-simple-de-micro-poveste-pentru-social-media|STO-1111]] — șabloanele de micro-poveste fixează locul beat-urilor.
+- **vezi** [[SOC-1101-stories-si-toks-doua-genuri-native-de-smartphone-cu-logici|SOC-1101]] — toks se urmăresc integral, deci ritmul intern e vital.
 
 ## Surse
 
-- [[SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 2.2, p. 68–70; cap. 3.3, p. 103; cap. 3.8.1, p. 119
+- [[SRC-034-social-media-storytelling|SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 2.2, p. 68–70; cap. 3.3, p. 103; cap. 3.8.1, p. 119
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[SOC-1101-stories-si-toks-doua-genuri-native-de-smartphone-cu-logici|SOC-1101]] _vezi_ — Stories și toks: două genuri native de smartphone cu logici diferite
+- [[STO-1102-anatomia-povestii-alegi-momentul-dramatic-care-spune|STO-1102]] _vezi_ — Anatomia poveștii: alegi momentul dramatic care spune întregul
+- [[STO-1103-cele-sapte-cotituri-ale-calatoriei-eroului-devin-sapte|STO-1103]] _vezi_ — Cele șapte cotituri ale călătoriei eroului devin șapte întrebări de brand
+- [[STO-1105-formatul-serial-este-arma-secreta-a-micro-storytelling-ului|STO-1105]] _vezi_ — Formatul serial este arma secretă a micro-storytelling-ului
+- [[STO-1109-fiecare-strat-multimedia-trebuie-sa-adauge-sens-nou-nu-sa|STO-1109]] _extinde_ — Fiecare strat multimedia trebuie să adauge sens nou, nu să repete
+- [[STO-1111-sabloane-simple-de-micro-poveste-pentru-social-media|STO-1111]] _vezi_ — Șabloane simple de micro-poveste pentru social media
+- [[SRC-034-social-media-storytelling|SRC-034]] — Social Media Storytelling
+<!-- backlinks:end -->

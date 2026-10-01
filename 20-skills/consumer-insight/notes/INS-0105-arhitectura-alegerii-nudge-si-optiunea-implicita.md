@@ -42,10 +42,18 @@ CVS (Dilema 6.1) a scos tutunul din magazine (o pierdere de 2 miliarde de dolari
 
 ## Legături
 
-- **fundament** [[INS-0104]] — arhitectura alegerii acționează în etapa de evaluare a alternativelor.
-- **vezi** [[INS-0107]] — cumpărarea din impuls e o formă de rezolvare limitată, ușor de influențat prin indicii.
-- **vezi** [[MKT-0106]] — folosirea nudge-urilor pe copii este o dilemă de marketing conștient.
+- **fundament** [[INS-0104-setul-evocat-si-atributul-determinant|INS-0104]] — arhitectura alegerii acționează în etapa de evaluare a alternativelor.
+- **vezi** [[INS-0107-implicarea-decide-procesarea-centrala-sau-periferica|INS-0107]] — cumpărarea din impuls e o formă de rezolvare limitată, ușor de influențat prin indicii.
+- **vezi** [[MKT-0106-conscious-marketing-pune-scopul-in-centru-csr-il-adauga|MKT-0106]] — folosirea nudge-urilor pe copii este o dilemă de marketing conștient.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 6, p. 197-199 (Dilema 6.1, 6.3)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 6, p. 197-199 (Dilema 6.1, 6.3)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[INS-0107-implicarea-decide-procesarea-centrala-sau-periferica|INS-0107]] _vezi_ — Implicarea decide dacă mesajul e citit cu atenție sau doar „scanat" după indicii (modelul ELM)
+- [[MKT-0129-marketingul-social-vinde-comportamente-nu-produse|MKT-0129]] _vezi_ — Marketingul social vinde comportamente, nu produse — și nu e același lucru cu marketingul pe social media
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+<!-- backlinks:end -->

@@ -50,11 +50,19 @@ Ca test senzorial, Milavsky amintește că nimic nu are gust de Coca-Cola, cu ex
 
 ## Legături
 
-- **fundament** [[ADV-0624]] — promisiunea iese din inventarul de beneficii finale.
-- **vezi** [[ADV-0604]] — USP-ul cere aceeași promisiune unică și greu de egalat.
-- **vezi** [[ADV-0603]] — promisiunea e rubrica centrală a strategiei de creație.
-- **vezi** [[INS-0608]] — prețul, cea mai slabă promisiune, e citit de creierul rapid prin ancore și referințe.
+- **fundament** [[ADV-0624-de-la-atribut-la-beneficiul-final-si-final-final|ADV-0624]] — promisiunea iese din inventarul de beneficii finale.
+- **vezi** [[ADV-0604-usp-are-trei-conditii-propunere-unica-care-vinde|ADV-0604]] — USP-ul cere aceeași promisiune unică și greu de egalat.
+- **vezi** [[ADV-0603-copy-strategy-fixeaza-beneficiul-dovada-si-tonul|ADV-0603]] — promisiunea e rubrica centrală a strategiei de creație.
+- **vezi** [[INS-0608-ancora-si-recenta-creierul-rapid-ghiceste-dupa-ultimul-numar|INS-0608]] — prețul, cea mai slabă promisiune, e citit de creierul rapid prin ancore și referințe.
 
 ## Surse
 
-- [[SRC-021]] Barry Milavsky, *Overcome AD-versity*, cap. 3, p. 36–43
+- [[SRC-021-overcome-ad-versity|SRC-021]] Barry Milavsky, *Overcome AD-versity*, cap. 3, p. 36–43
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0624-de-la-atribut-la-beneficiul-final-si-final-final|ADV-0624]] _vezi_ — De la atribut la beneficiu final și „final-final" — inventar complet, testul „și ce dacă?" și eliminarea beneficiilor de categorie
+- [[INS-0608-ancora-si-recenta-creierul-rapid-ghiceste-dupa-ultimul-numar|INS-0608]] _vezi_ — Ancora și recența — sub presiunea timpului, creierul rapid răspunde cu ultimul lucru văzut, iar prețul se citește prin referințe
+- [[SRC-021-overcome-ad-versity|SRC-021]] — Overcome AD-versity: How to Put Persuasion Power in Advertising
+<!-- backlinks:end -->

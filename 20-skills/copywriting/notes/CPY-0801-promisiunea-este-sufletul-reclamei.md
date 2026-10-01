@@ -46,12 +46,22 @@ Phoenix Mutual a pretestat zeci de titluri; anunțul cu pescarul care s-a retras
 
 ## Legături
 
-- **contrazice** [[HIS-0806]] — leacurile-minune arată unde duce promisiunea fără acoperire.
-- **aplicare** [[CPY-0805]] — școala mail-order a testat promisiunile cu cupoane.
-- **vezi** [[HIS-0808]] — dovada trebuie să existe înaintea promisiunii.
-- **vezi** [[CPY-0802]] — reason-why: promisiunea plus motivul de a o crede.
+- **contrazice** [[HIS-0806-medicamentele-minune-au-inventat-si-compromis-reclama|HIS-0806]] — leacurile-minune arată unde duce promisiunea fără acoperire.
+- **aplicare** [[CPY-0805-scoala-mail-order-cuponul-ca-experiment|CPY-0805]] — școala mail-order a testat promisiunile cu cupoane.
+- **vezi** [[HIS-0808-standardul-ftc-dovada-inaintea-afirmatiei|HIS-0808]] — dovada trebuie să existe înaintea promisiunii.
+- **vezi** [[CPY-0802-reason-why-vanzare-tiparita|CPY-0802]] — reason-why: promisiunea plus motivul de a o crede.
 
 ## Surse
 
-- [[SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 5, p. 95–96
-- [[SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Wanted: Volunteers for the South Pole”, „Rinso”, „Sherwin Cody”, „Phoenix Mutual”
+- [[SRC-027-a-history-of-advertising|SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 5, p. 95–96
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Wanted: Volunteers for the South Pole”, „Rinso”, „Sherwin Cody”, „Phoenix Mutual”
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0805-scoala-mail-order-cuponul-ca-experiment|CPY-0805]] _aplicare_ — Școala mail-order — cuponul a transformat copywritingul într-un experiment măsurabil
+- [[HIS-0801-publicitatea-este-orice-comunicare-promotionala|HIS-0801]] _vezi_ — Publicitatea este orice comunicare promoțională — de aceea istoria ei începe cu mult înainte de tipar
+- [[HIS-0806-medicamentele-minune-au-inventat-si-compromis-reclama|HIS-0806]] _contrazice_ — Medicamentele-minune au inventat tehnicile reclamei moderne și i-au distrus reputația pentru un secol
+- [[SRC-027-a-history-of-advertising|SRC-027]] — A History of Advertising: The First 300,000 Years
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] — The 100 Greatest Advertisements 1852–1958: Who Wrote Them and What They Did
+<!-- backlinks:end -->

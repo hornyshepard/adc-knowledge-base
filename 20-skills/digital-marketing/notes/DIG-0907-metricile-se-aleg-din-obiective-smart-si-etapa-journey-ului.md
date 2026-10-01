@@ -48,11 +48,24 @@ Al treilea filtru, decisiv, sunt **obiectivele SMART** (specifice, măsurabile, 
 
 ## Legături
 
-- **fundament** [[DIG-0906]] — distincția metric vs. KPI precede alegerea.
-- **fundament** [[DIG-0905]] — etapele journey-ului structurează lista de metrici.
-- **aplicare** [[DIG-0908]] — pâlnia de conversie e diagnosticul detaliat al etapei de cumpărare.
-- **aplicare** [[DIG-0933]] — obiectivele de reactivare și conversie se ating prin teste A/B.
+- **fundament** [[DIG-0906-un-metric-e-un-numar-un-kpi-arata-progresul-fata-de-obiectiv|DIG-0906]] — distincția metric vs. KPI precede alegerea.
+- **fundament** [[DIG-0905-customer-journey-ul-digital-nu-e-palnie-ci-bucla-de-loialitate|DIG-0905]] — etapele journey-ului structurează lista de metrici.
+- **aplicare** [[DIG-0908-palnia-de-conversie-arata-unde-pleaca-vizitatorii|DIG-0908]] — pâlnia de conversie e diagnosticul detaliat al etapei de cumpărare.
+- **aplicare** [[DIG-0933-testul-ab-o-singura-variabila-si-semnificatie-statistica|DIG-0933]] — obiectivele de reactivare și conversie se ating prin teste A/B.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 5, p. 130, 137-142
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 5, p. 130, 137-142
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0905-customer-journey-ul-digital-nu-e-palnie-ci-bucla-de-loialitate|DIG-0905]] _aplicare_ — Customer journey-ul digital nu e o pâlnie liniară, ci un traseu cu bucle care se închide într-o buclă de loialitate
+- [[DIG-0906-un-metric-e-un-numar-un-kpi-arata-progresul-fata-de-obiectiv|DIG-0906]] _aplicare_ — Un metric e doar un număr; un KPI arată cât de aproape ești de obiectiv
+- [[DIG-0908-palnia-de-conversie-arata-unde-pleaca-vizitatorii|DIG-0908]] _extinde_ — Pâlnia de conversie arată unde pleacă vizitatorii; treaba marketerului e să afle de ce
+- [[DIG-0909-metricile-video-masoara-timpul-brandul-trebuie-sa-apara-devreme|DIG-0909]] _aplicare_ — Metricile video măsoară timpul — brandul trebuie să apară înainte ca privitorul să plece
+- [[DIG-0911-site-ul-se-construieste-in-sapte-pasi-marketingul-conduce|DIG-0911]] _vezi_ — Site-ul se construiește în șapte pași, iar marketingul conduce primii — altfel iese tehnologie fără obiectiv
+- [[DIG-0914-aplicatia-se-justifica-doar-daca-face-ce-site-ul-nu-poate|DIG-0914]] _vezi_ — O aplicație mobilă se justifică doar dacă face ceva ce un site responsive nu poate face
+- [[DIG-0933-testul-ab-o-singura-variabila-si-semnificatie-statistica|DIG-0933]] _aplicare_ — Testul A/B schimbă o singură variabilă, pornește de la o ipoteză și așteaptă semnificația statistică
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+<!-- backlinks:end -->

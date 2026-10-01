@@ -46,11 +46,21 @@ Domino's permite comanda de pizza prin voce, iar PayPal transferuri prin Siri (S
 
 ## Legături
 
-- **vezi** [[MKT-0319]] — prognoza „50% voce până în 2024" e un exemplu de trend supraevaluat.
-- **vezi** [[DIG-0304]] — întrebările vocale sunt micro-momente de tip „vreau să știu / să merg".
-- **vezi** [[DIG-0303]] — vocea e încă un canal care trebuie integrat în experiența omnicanal.
+- **vezi** [[MKT-0319-cartile-de-trenduri-se-citesc-ca-ipoteze|MKT-0319]] — prognoza „50% voce până în 2024" e un exemplu de trend supraevaluat.
+- **vezi** [[DIG-0304-micro-momentele-patru-intentii|DIG-0304]] — întrebările vocale sunt micro-momente de tip „vreau să știu / să merg".
+- **vezi** [[DIG-0303-omnicanal-inseamna-canale-care-se-intaresc-reciproc|DIG-0303]] — vocea e încă un canal care trebuie integrat în experiența omnicanal.
 
 ## Surse
 
-- [[SRC-009]] The DX Review, *Future-Proof Marketing: Strategies for Success in 2024 and Beyond*, cap. 4
-- [[SRC-010]] Patrick Ejeke, *Marketing Trends*, trendurile 13 și 50
+- [[SRC-009-future-proof-marketing-2024-and-beyond|SRC-009]] The DX Review, *Future-Proof Marketing: Strategies for Success in 2024 and Beyond*, cap. 4
+- [[SRC-010-marketing-trends-ejeke|SRC-010]] Patrick Ejeke, *Marketing Trends*, trendurile 13 și 50
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0303-omnicanal-inseamna-canale-care-se-intaresc-reciproc|DIG-0303]] _vezi_ — Omnicanal nu înseamnă prezență pe multe canale, ci canale care se întăresc reciproc — și se măsoară altfel
+- [[DIG-0304-micro-momentele-patru-intentii|DIG-0304]] _vezi_ — Micro-momentele: patru intenții — vreau să știu, să merg, să fac, să cumpăr — la care brandul răspunde în secunde
+- [[MKT-0319-cartile-de-trenduri-se-citesc-ca-ipoteze|MKT-0319]] _vezi_ — Cărțile de trenduri se citesc ca ipoteze, nu ca hărți: cum separi semnalul de umplutură
+- [[SRC-009-future-proof-marketing-2024-and-beyond|SRC-009]] — Future-Proof Marketing: Strategies for Success in 2024 and Beyond
+- [[SRC-010-marketing-trends-ejeke|SRC-010]] — Marketing Trends: 63 Digital Marketing Trends in the Age of Automation, Integrated Marketing, Omnichannel Marketing, Metaverse, Big Data, NFTs, AI, AR & VR
+<!-- backlinks:end -->

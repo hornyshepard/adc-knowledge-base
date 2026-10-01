@@ -54,11 +54,25 @@ Gerber Singles (mâncare pentru adulți singuri) a moștenit imaginea bebelușul
 
 ## Legături
 
-- **fundament** [[ART-0501]] — toate indiciile se verifică față de harta perceptuală.
-- **vezi** [[BRD-0524]] — numele, primul indiciu, are propriile criterii.
-- **vezi** [[BRD-0504]] — numele categoriei ca decizie de poziționare.
-- **vezi** [[BRD-0516]] — consecvența simbolurilor într-un brand global (cele 50 de lalele Pond's).
+- **fundament** [[ART-0501-designul-de-brand-lucreaza-in-sistemul-1-si-porneste-de-la|ART-0501]] — toate indiciile se verifică față de harta perceptuală.
+- **vezi** [[BRD-0524-un-nume-bun-de-brand-e-relevant-emotionant-usor-de-rostit|BRD-0524]] — numele, primul indiciu, are propriile criterii.
+- **vezi** [[BRD-0504-cadrul-de-referinta-spune-consumatorului-ce-scop|BRD-0504]] — numele categoriei ca decizie de poziționare.
+- **vezi** [[BRD-0516-brandurile-globale-cu-suflet-firul-comun-echilibrul-glocal|BRD-0516]] — consecvența simbolurilor într-un brand global (cele 50 de lalele Pond's).
 
 ## Surse
 
-- [[SRC-014]] Bobby J. Calder, „Brand Design and Design Thinking", cap. 7 în *Kellogg on Branding in a Hyper-Connected World*, p. 97–108
+- [[SRC-014-kellogg-on-branding|SRC-014]] Bobby J. Calder, „Brand Design and Design Thinking", cap. 7 în *Kellogg on Branding in a Hyper-Connected World*, p. 97–108
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0501-designul-de-brand-lucreaza-in-sistemul-1-si-porneste-de-la|ART-0501]] _extinde_ — Designul de brand lucrează în Sistemul 1 și pornește de la 3–4 asociații țintă
+- [[ART-0503-cazul-tropicana-redesignul-ambalajului-a-sters-indiciile-de|ART-0503]] _vezi_ — Cazul Tropicana: redesignul ambalajului a șters indiciile de recunoaștere
+- [[ART-0504-un-logo-dureaza-prin-zece-piloni-dintre-care-designerul|ART-0504]] _extinde_ — Un logo durează prin zece piloni, dintre care designerul controlează șapte
+- [[ART-0509-adn-ul-geometric-al-semnului-se-extinde-in-pattern-uri|ART-0509]] _vezi_ — ADN-ul geometric al semnului se extinde în pattern-uri, iconuri și litere
+- [[BRD-0504-cadrul-de-referinta-spune-consumatorului-ce-scop|BRD-0504]] _aplicare_ — Cadrul de referință spune consumatorului ce scop îndeplinește brandul
+- [[BRD-0511-arhitectura-de-brand-de-la-branded-house-la-house-of-brands|BRD-0511]] _vezi_ — Arhitectura de brand: de la branded house la house of brands
+- [[BRD-0516-brandurile-globale-cu-suflet-firul-comun-echilibrul-glocal|BRD-0516]] _vezi_ — Brandurile globale cu suflet: firul comun, echilibrul glocal, lansarea agilă
+- [[BRD-0524-un-nume-bun-de-brand-e-relevant-emotionant-usor-de-rostit|BRD-0524]] _vezi_ — Un nume bun de brand e relevant, emoționant, ușor de rostit și de promovat
+- [[SRC-014-kellogg-on-branding|SRC-014]] — Kellogg on Branding in a Hyper-Connected World
+<!-- backlinks:end -->

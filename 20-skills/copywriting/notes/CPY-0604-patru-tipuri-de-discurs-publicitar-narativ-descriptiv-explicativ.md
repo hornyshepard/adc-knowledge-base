@@ -50,10 +50,18 @@ Web-seria Bouygues Télécom „Les Dumas" (DDB, 2012) e un discurs narativ clas
 
 ## Legături
 
-- **vezi** [[CPY-0602]] — funcțiile limbajului explică ce face fiecare tip de discurs.
-- **vezi** [[STO-0601]] — schema narativă e motorul brand content-ului.
-- **fundament** [[CPY-0601]] — discursul argumentativ continuă tradiția reason-why.
+- **vezi** [[CPY-0602-cele-sase-functii-ale-lui-jakobson-aplicate-mesajului-publicitar|CPY-0602]] — funcțiile limbajului explică ce face fiecare tip de discurs.
+- **vezi** [[STO-0601-brand-content-aduce-consumatorul-la-brand|STO-0601]] — schema narativă e motorul brand content-ului.
+- **fundament** [[CPY-0601-reason-why-reclama-ca-vanzare-tiparita-cu-motive|CPY-0601]] — discursul argumentativ continuă tradiția reason-why.
 
 ## Surse
 
-- [[SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 22 (p. 82–83), outil 24 (p. 88–89), dosarul 3 (p. 53); Bouygues Télécom la outil 40, p. 133
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 22 (p. 82–83), outil 24 (p. 88–89), dosarul 3 (p. 53); Bouygues Télécom la outil 40, p. 133
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0607-formatele-de-executie-slice-of-life-prezentator-testimonial|CPY-0607]] _vezi_ — Formatele de execuție au forțe și slăbiciuni previzibile — slice-of-life, prezentator, purtător de cuvânt, testimonial, vignete, muzică, umor
+- [[STO-0601-brand-content-aduce-consumatorul-la-brand|STO-0601]] _aplicare_ — Brand content-ul inversează sensul publicității — consumatorul vine la brand pentru informație, utilitate sau divertisment
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] — La boîte à outils de la publicité
+<!-- backlinks:end -->

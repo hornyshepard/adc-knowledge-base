@@ -49,13 +49,22 @@ status: seed
 
 ## Legături
 
-- **contrazice** [[PRT-1406]] — regulile lui Fenn pentru portofoliu exclud explicit graficele de competențe.
-- **contrazice** [[PRT-1411]] — Fenn interzice concursurile de design, pe care Morgan le propune ca sursă de design.
-- **vezi** [[PRT-1417]] — contextul general al CV-ului vizual la Morgan.
-- **vezi** [[PRT-1426]] — Kubišová cere un CV funcțional, fără niveluri de competență.
+- **contrazice** [[PRT-1406-portofoliul-proiectat-pentru-30-de-secunde|PRT-1406]] — regulile lui Fenn pentru portofoliu exclud explicit graficele de competențe.
+- **contrazice** [[PRT-1411-juniorul-fara-experienta-un-studiu-bun-si-dovezi|PRT-1411]] — Fenn interzice concursurile de design, pe care Morgan le propune ca sursă de design.
+- **vezi** [[PRT-1417-cv-ul-vizual-arata-rezultate-si-are-versiune-text|PRT-1417]] — contextul general al CV-ului vizual la Morgan.
+- **vezi** [[PRT-1426-cv-declaratia-de-design-si-scrisoarea-de-intentie|PRT-1426]] — Kubišová cere un CV funcțional, fără niveluri de competență.
 
 ## Surse
 
-- [[SRC-047]] Hannah Morgan, *The Infographic Resume*, cap. 3, 5–7
-- [[SRC-048]] Ian Fenn, *UX Portfolio Design*, cap. 4 și 9
-- [[SRC-046]] Zuzana Kubišová, *The Architect's Pocket Guide to Portfolio Design*, Pasul 8, pp. 205 și 228
+- [[SRC-047-the-infographic-resume|SRC-047]] Hannah Morgan, *The Infographic Resume*, cap. 3, 5–7
+- [[SRC-048-ux-portfolio-design|SRC-048]] Ian Fenn, *UX Portfolio Design*, cap. 4 și 9
+- [[SRC-046-architects-pocket-guide-to-portfolio-design|SRC-046]] Zuzana Kubišová, *The Architect's Pocket Guide to Portfolio Design*, Pasul 8, pp. 205 și 228
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PRT-1411-juniorul-fara-experienta-un-studiu-bun-si-dovezi|PRT-1411]] _vezi_ — Juniorul fără experiență are nevoie de un studiu de caz bun și de dovezi ale calităților cerute, nu de volum
+- [[PRT-1417-cv-ul-vizual-arata-rezultate-si-are-versiune-text|PRT-1417]] _contrazice_ — CV-ul vizual funcționează doar dacă arată rezultate, se potrivește cititorului și are mereu o versiune text
+- [[SRC-046-architects-pocket-guide-to-portfolio-design|SRC-046]] — The Architect's Pocket Guide to Portfolio Design
+- [[SRC-047-the-infographic-resume|SRC-047]] — The Infographic Resume: How to Create a Visual Portfolio That Showcases Your Skills and Lands the Job
+<!-- backlinks:end -->

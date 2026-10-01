@@ -47,16 +47,25 @@ Beer Cap Project (AB InBev, MullenLowe SSP3, Columbia): berea Aguila și-a scos 
 ## Întrebări
 
 - Pot categoriile „plictisitoare" (detergent, asigurări) să producă povești shareworthy? Ce sugerează Lysol și Suncorp?
-- E distribuirea un obiectiv de comunicare valid în sine (vezi [[BRF-0703]])?
+- E distribuirea un obiectiv de comunicare valid în sine (vezi [[BRF-0703-obiectivul-din-brief-este-unul-de-comunicare|BRF-0703]])?
 
 ## Legături
 
-- **extinde** [[STO-0702]] — structura narativă care face povestea demnă de urmărit.
-- **vezi** [[STO-0705]] — autenticitatea, condiția distribuirii.
-- **vezi** [[IDE-0711]] — poveștile care nu arată a reclamă.
-- **extinde** [[STO-0706]] — participarea publicului, detaliată ca împuternicire.
-- **vezi** [[INS-0701]] — orice poveste distribuită pornește de la un insight uman.
+- **extinde** [[STO-0702-formula-cow-b-t-si-structura-in-trei-acte|STO-0702]] — structura narativă care face povestea demnă de urmărit.
+- **vezi** [[STO-0705-autenticitatea-are-cinci-directii|STO-0705]] — autenticitatea, condiția distribuirii.
+- **vezi** [[IDE-0711-mesajul-care-nu-arata-a-reclama-locuri-si-formate-neasteptate|IDE-0711]] — poveștile care nu arată a reclamă.
+- **extinde** [[STO-0706-martor-sau-participant-trei-intrebari-de-imputernicire|STO-0706]] — participarea publicului, detaliată ca împuternicire.
+- **vezi** [[INS-0701-insight-ul-este-un-adevar-uman-semnificativ|INS-0701]] — orice poveste distribuită pornește de la un insight uman.
 
 ## Surse
 
-- [[SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, Introducere și cap. 1 (inclusiv interviul cu Greg Hahn)
+- [[SRC-025-shareworthy|SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, Introducere și cap. 1 (inclusiv interviul cu Greg Hahn)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRF-0716-brief-ul-get-to-by-strategia-intr-o-fraza|BRF-0716]] — Brief-ul Get/To/By pune toată strategia într-o frază cu patru verigi — țintă, răspuns, mesaj, motiv
+- [[STO-0702-formula-cow-b-t-si-structura-in-trei-acte|STO-0702]] _fundament_ — Formula C.O.W. + B → T — protagonist, obstacol, dorință, plus brandul, duc la transformare, de obicei în trei acte
+- [[STO-0706-martor-sau-participant-trei-intrebari-de-imputernicire|STO-0706]] _extinde_ — Martor sau participant — trei întrebări pentru a împuternici publicul, de la respect la super-fani
+- [[SRC-025-shareworthy|SRC-025]] — Shareworthy: Advertising That Creates Powerful Connections Through Storytelling
+<!-- backlinks:end -->

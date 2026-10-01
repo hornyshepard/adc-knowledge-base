@@ -48,11 +48,22 @@ Hilton (deschiderea capitolului 3) are circa 200 de angajați, experți locali, 
 
 ## Legături
 
-- **fundament** [[DIG-0101]] — procesul pune în practică cadrul 4E.
-- **fundament** [[DIG-0102]] — datele de implicare din roată sunt materia primă a analizei.
-- **vezi** [[MKT-0125]] — ascultarea socială e cercetare de marketing continuă.
-- **vezi** [[ADV-0103]] — metricile web completează măsurarea IMC (CTR, ROMI).
+- **fundament** [[DIG-0101-cadrul-4e-entuziasmeaza-educa-experienta-implica|DIG-0101]] — procesul pune în practică cadrul 4E.
+- **fundament** [[DIG-0102-roata-implicarii-pe-social-media-cinci-efecte|DIG-0102]] — datele de implicare din roată sunt materia primă a analizei.
+- **vezi** [[MKT-0125-cercetarea-de-marketing-in-cinci-pasi|MKT-0125]] — ascultarea socială e cercetare de marketing continuă.
+- **vezi** [[ADV-0103-bugetul-din-obiective-si-sarcini-eficienta-prin-grp-ctr-romi|ADV-0103]] — metricile web completează măsurarea IMC (CTR, ROMI).
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 3, p. 83-84, 103-107 (Exhibit 3.4, 3.5, 3.6)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 3, p. 83-84, 103-107 (Exhibit 3.4, 3.5, 3.6)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0103-bugetul-din-obiective-si-sarcini-eficienta-prin-grp-ctr-romi|ADV-0103]] _vezi_ — Bugetul IMC se construiește din obiective și sarcini, iar eficiența se măsoară cu reach × frecvență (GRP), CTR și ROMI
+- [[DIG-0101-cadrul-4e-entuziasmeaza-educa-experienta-implica|DIG-0101]] _aplicare_ — Cadrul 4E — marketingul digital trebuie să entuziasmeze, să educe, să ofere experiența produsului și să implice
+- [[DIG-0102-roata-implicarii-pe-social-media-cinci-efecte|DIG-0102]] _aplicare_ — Roata implicării pe social media are cinci efecte care o pun în mișcare — informație, conexiune, rețea, dinamică, promptitudine
+- [[MKT-0125-cercetarea-de-marketing-in-cinci-pasi|MKT-0125]] _vezi_ — Cercetarea de marketing are cinci pași — de la obiectiv la plan de acțiune — și transformă datele în informație
+- [[MKT-0126-date-secundare-primare-calitativ-cantitativ|MKT-0126]] _vezi_ — Datele secundare sunt ieftine dar generale, cele primare sunt țintite dar scumpe; cercetarea calitativă deschide, cea cantitativă confirmă
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+<!-- backlinks:end -->

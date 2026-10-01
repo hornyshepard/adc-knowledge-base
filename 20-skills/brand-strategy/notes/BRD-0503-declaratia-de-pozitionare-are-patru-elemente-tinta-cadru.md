@@ -48,12 +48,28 @@ Blue Apron putea fi poziționat ca alternativă mai eficientă la cumpărături 
 
 ## Legături
 
-- **extinde** [[BRD-0504]] — cadrul de referință detaliat, cu cele trei moduri de a-l comunica.
-- **extinde** [[BRD-0505]] — tipurile de motive de a crede și durabilitatea lor.
-- **extinde** [[BRD-0506]] — punctul de diferență exprimat ca valoare (beneficii/costuri).
-- **aplicare** [[ADV-0503]] — brief-ul creativ pornește din declarația de poziționare.
-- **fundament** [[BRD-0501]] — poziționarea alege asocierile pe care le vrem în mintea țintei.
+- **extinde** [[BRD-0504-cadrul-de-referinta-spune-consumatorului-ce-scop|BRD-0504]] — cadrul de referință detaliat, cu cele trei moduri de a-l comunica.
+- **extinde** [[BRD-0505-dovezile-bazate-pe-atribute-se-copiaza-cele-bazate-pe|BRD-0505]] — tipurile de motive de a crede și durabilitatea lor.
+- **extinde** [[BRD-0506-ecuatia-valorii-brandurile-concureaza-la-numarator-sau-la|BRD-0506]] — punctul de diferență exprimat ca valoare (beneficii/costuri).
+- **aplicare** [[ADV-0503-strategia-creativa-in-trei-pasi-atentie-amplificare|ADV-0503]] — brief-ul creativ pornește din declarația de poziționare.
+- **fundament** [[BRD-0501-brandul-este-un-set-de-asociatii-care-actioneaza-ca-o|BRD-0501]] — poziționarea alege asocierile pe care le vrem în mintea țintei.
 
 ## Surse
 
-- [[SRC-014]] Alice M. Tybout, „Brand Positioning", cap. 1 în *Kellogg on Branding in a Hyper-Connected World*, p. 3–11
+- [[SRC-014-kellogg-on-branding|SRC-014]] Alice M. Tybout, „Brand Positioning", cap. 1 în *Kellogg on Branding in a Hyper-Connected World*, p. 3–11
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0503-strategia-creativa-in-trei-pasi-atentie-amplificare|ADV-0503]] _fundament_ — Strategia creativă în trei pași: atenție, amplificare, legătura cu brandul
+- [[ART-0501-designul-de-brand-lucreaza-in-sistemul-1-si-porneste-de-la|ART-0501]] _fundament_ — Designul de brand lucrează în Sistemul 1 și pornește de la 3–4 asociații țintă
+- [[BRD-0501-brandul-este-un-set-de-asociatii-care-actioneaza-ca-o|BRD-0501]] _vezi_ — Brandul este un set de asociații care acționează ca o prismă asupra produsului
+- [[BRD-0504-cadrul-de-referinta-spune-consumatorului-ce-scop|BRD-0504]] _fundament_ — Cadrul de referință spune consumatorului ce scop îndeplinește brandul
+- [[BRD-0505-dovezile-bazate-pe-atribute-se-copiaza-cele-bazate-pe|BRD-0505]] _fundament_ — Dovezile bazate pe atribute se copiază, cele bazate pe imagine se pot deține
+- [[BRD-0506-ecuatia-valorii-brandurile-concureaza-la-numarator-sau-la|BRD-0506]] _fundament_ — Ecuația valorii: brandurile concurează la numărător sau la numitor
+- [[BRD-0507-o-pozitie-se-sustine-prin-instantiere-moderna-schimbarea|BRD-0507]] _fundament_ — O poziție se susține prin instanțiere modernă, schimbarea dovezii și laddering
+- [[BRD-0516-brandurile-globale-cu-suflet-firul-comun-echilibrul-glocal|BRD-0516]] _aplicare_ — Brandurile globale cu suflet: firul comun, echilibrul glocal, lansarea agilă
+- [[BRD-0525-un-brand-nou-se-construieste-in-patru-pasi-carlig-nume|BRD-0525]] _vezi_ — Un brand nou se construiește în patru pași: cârlig, nume, marcă, design
+- [[INS-0501-insight-ul-vine-din-urmarirea-insistenta-a-lui-de-ce-si-a|INS-0501]] _aplicare_ — Insight-ul vine din urmărirea insistentă a lui „de ce" și a punctelor de fricțiune
+- [[SRC-014-kellogg-on-branding|SRC-014]] — Kellogg on Branding in a Hyper-Connected World
+<!-- backlinks:end -->

@@ -45,11 +45,22 @@ Exemplul „reclamei care te urmărește" arată și reversul: sisteme prost set
 
 ## Legături
 
-- **vezi** [[DIG-1018]] — ce opțiuni de targetare rămân.
-- **vezi** [[DIG-1035]] — retargetingul, tactica cea mai afectată.
-- **vezi** [[DIG-1022]] — consimțământul devine condiția oricărei urmăriri.
+- **vezi** [[DIG-1018-cinci-familii-de-targetare-fara-cookie-uri-terte|DIG-1018]] — ce opțiuni de targetare rămân.
+- **vezi** [[DIG-1035-retargetingul-eficient-in-era-cookie-expus-dupa|DIG-1035]] — retargetingul, tactica cea mai afectată.
+- **vezi** [[DIG-1022-consimtamantul-valid-activ-retras-la-fel-de-usor|DIG-1022]] — consimțământul devine condiția oricărei urmăriri.
 
 ## Surse
 
-- [[SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 1.2.1–1.2.2 (p. 15–18)
-- [[SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 11 (p. 391) și cap. 12 (p. 408)
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 1.2.1–1.2.2 (p. 15–18)
+- [[SRC-031-digital-marketing-manual|SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 11 (p. 391) și cap. 12 (p. 408)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-1018-cinci-familii-de-targetare-fara-cookie-uri-terte|DIG-1018]] _fundament_ — Fără cookie-uri terțe rămân cinci familii de targetare, iar profilul pe cookie descria oricum un dispozitiv, nu un om
+- [[DIG-1022-consimtamantul-valid-activ-retras-la-fel-de-usor|DIG-1022]] _vezi_ — Consimțământul valid se cere activ și se poate retrage la fel de ușor — butoane egale, căsuțe nebifate, scopuri explicate, dovadă păstrată
+- [[DIG-1023-identitatea-fara-cookie-uri-trei-trepte-de-reach|DIG-1023]] _vezi_ — Identitatea fără cookie-uri are trei trepte de reach — canalele proprii sau o singură „grădină închisă", camerele curate de date (data clean rooms) și ID-urile universale
+- [[DIG-1035-retargetingul-eficient-in-era-cookie-expus-dupa|DIG-1035]] _fundament_ — Retargetingul a fost cea mai eficientă tactică a erei cookie și este cea mai expusă după ea — funcționează doar cu urmărire consimțită, pixeli necesari și plafoane de frecvență
+- [[SRC-031-digital-marketing-manual|SRC-031]] — Digital Marketing
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] — Digital Advertising in the Post-cookie Era: Strategic Campaign Planning Across the Customer Journey
+<!-- backlinks:end -->

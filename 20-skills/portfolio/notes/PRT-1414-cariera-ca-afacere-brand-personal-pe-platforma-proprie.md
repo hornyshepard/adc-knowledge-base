@@ -44,10 +44,18 @@ Un copywriter cu domeniul propriu, același nume pe LinkedIn, Behance și Instag
 
 ## Legături
 
-- **vezi** [[PRT-1415]] — conținutul brandului vine din inventarul realizărilor și din propunerea de valoare.
-- **vezi** [[PRT-1420]] — reputația online e partea publică a brandului personal.
-- **vezi** [[PRT-1407]] — Fenn compară platformele din perspectiva celui care evaluează.
+- **vezi** [[PRT-1415-inventarul-activelor-si-propunerea-de-valoare|PRT-1415]] — conținutul brandului vine din inventarul realizărilor și din propunerea de valoare.
+- **vezi** [[PRT-1420-reputatia-online-este-cv-ul-in-timp-real|PRT-1420]] — reputația online e partea publică a brandului personal.
+- **vezi** [[PRT-1407-pdf-personalizabil-intai-apoi-site|PRT-1407]] — Fenn compară platformele din perspectiva celui care evaluează.
 
 ## Surse
 
-- [[SRC-047]] Hannah Morgan, *The Infographic Resume*, cap. 1–3
+- [[SRC-047-the-infographic-resume|SRC-047]] Hannah Morgan, *The Infographic Resume*, cap. 1–3
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PRT-1415-inventarul-activelor-si-propunerea-de-valoare|PRT-1415]] _fundament_ — Povestea profesională se construiește dintr-un inventar al realizărilor cuantificate și dintr-o propunere de valoare în trei întrebări
+- [[PRT-1420-reputatia-online-este-cv-ul-in-timp-real|PRT-1420]] _fundament_ — Reputația online este CV-ul în timp real — și se construiește deliberat
+- [[SRC-047-the-infographic-resume|SRC-047]] — The Infographic Resume: How to Create a Visual Portfolio That Showcases Your Skills and Lands the Job
+<!-- backlinks:end -->

@@ -41,11 +41,21 @@ LEGO a creat Ambassador Program (40 de fani în dialog aproape zilnic cu echipa 
 
 ## Legături
 
-- **vezi** [[MKT-0314]] — mixul EP² e construit în jurul prosumatorului.
-- **vezi** [[SOC-0301]] — Threadless, unde clienții creează și aleg produsele.
-- **vezi** [[MKT-0318]] — Carrotmob: prosumatori care negociază colectiv contractul social cu un brand.
-- **vezi** [[CLI-0301]] — „oamenii sunt noile canale media" schimbă rolul agenției.
+- **vezi** [[MKT-0314-ep2-mixul-de-marketing-al-prosumatorului|MKT-0314]] — mixul EP² e construit în jurul prosumatorului.
+- **vezi** [[SOC-0301-threadless-clientul-este-compania|SOC-0301]] — Threadless, unde clienții creează și aleg produsele.
+- **vezi** [[MKT-0318-carrotmob-cumpararea-colectiva-conditionata|MKT-0318]] — Carrotmob: prosumatori care negociază colectiv contractul social cu un brand.
+- **vezi** [[CLI-0301-agentia-viitorului-sase-forte-care-ii-muta-modelul|CLI-0301]] — „oamenii sunt noile canale media" schimbă rolul agenției.
 
 ## Surse
 
-- [[SRC-008]] Jon Wuebben, *Future Marketing: Winning in the Prosumer Age*, Introducere; cap. 6; cap. 9; cap. 16
+- [[SRC-008-future-marketing|SRC-008]] Jon Wuebben, *Future Marketing: Winning in the Prosumer Age*, Introducere; cap. 6; cap. 9; cap. 16
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[MKT-0314-ep2-mixul-de-marketing-al-prosumatorului|MKT-0314]] _fundament_ — EP²: Wuebben propune înlocuirea celor 4P cu Engagement, Experiences, Personalization, Passion
+- [[MKT-0315-zece-schimbari-prezise-pentru-2021-de-la-branduri-la-platforme|MKT-0315]] _fundament_ — Zece schimbări prezise pentru 2021: de la branduri la platforme, de la mass-media la meme și mișcări
+- [[MKT-0318-carrotmob-cumpararea-colectiva-conditionata|MKT-0318]] _aplicare_ — Carrotmob: consumatorii organizați recompensează o firmă doar dacă face o schimbare responsabilă
+- [[SOC-0301-threadless-clientul-este-compania|SOC-0301]] _exemplu_ — Threadless: comunitatea propune, votează și cumpără — clientul devine compania
+- [[SRC-008-future-marketing|SRC-008]] — Future Marketing: Winning in the Prosumer Age
+<!-- backlinks:end -->

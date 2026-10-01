@@ -46,11 +46,19 @@ Old Spice e exemplul complet: diagnostic (Axe), țintă nouă, insight (cine cum
 
 ## Legături
 
-- **fundament** [[MKT-0115]] — repoziționarea mută brandul în alt punct pe harta perceptuală.
-- **vezi** [[BRD-0102]] — repoziționarea încearcă să schimbe asocierile de brand.
-- **vezi** [[ADV-0110]] — promoțiile prea dese pot anula efectul unei campanii de repoziționare.
-- **vezi** [[MKT-0118]] — repoziționarea e o cale de a reîntineri un brand în maturitate.
+- **fundament** [[MKT-0115-pozitionarea-patru-baze-verificate-pe-harta-perceptuala|MKT-0115]] — repoziționarea mută brandul în alt punct pe harta perceptuală.
+- **vezi** [[BRD-0102-capitalul-de-brand-notorietate-valoare-asocieri-loialitate|BRD-0102]] — repoziționarea încearcă să schimbe asocierile de brand.
+- **vezi** [[ADV-0110-promotiile-aduc-vanzari-azi-dar-pot-fura-din-cele-de-maine|ADV-0110]] — promoțiile prea dese pot anula efectul unei campanii de repoziționare.
+- **vezi** [[MKT-0118-ciclul-de-viata-al-produsului-si-capcana-lui|MKT-0118]] — repoziționarea e o cale de a reîntineri un brand în maturitate.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 2, p. 44 (Adding Value 2.3); cap. 11, p. 374-376 (Adding Value 11.2); cap. 19, p. 613
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 2, p. 44 (Adding Value 2.3); cap. 11, p. 374-376 (Adding Value 11.2); cap. 19, p. 613
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0110-promotiile-aduc-vanzari-azi-dar-pot-fura-din-cele-de-maine|ADV-0110]] _vezi_ — Promoțiile de vânzări aduc vânzări azi, dar pot fura din cele de mâine și pot anula efectul unei campanii bune
+- [[MKT-0115-pozitionarea-patru-baze-verificate-pe-harta-perceptuala|MKT-0115]] _vezi_ — Poziționarea se construiește pe valoare, atribute, simboluri sau concurență și se verifică pe harta perceptuală
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+<!-- backlinks:end -->

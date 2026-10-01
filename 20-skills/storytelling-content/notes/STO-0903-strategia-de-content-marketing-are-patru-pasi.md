@@ -44,12 +44,23 @@ Hootsuite face din curatoriere o rubrică permanentă: postarea săptămânală 
 
 ## Legături
 
-- **extinde** [[STO-0901]] — procesul operaționalizează definiția content marketingului.
-- **fundament** [[DIG-0912]] — dezvoltarea audienței pornește de la persona.
-- **aplicare** [[DIG-0925]] — distribuția urmează ordinea owned → earned → paid.
-- **vezi** [[STO-0904]] — piramida organizează producția și refolosirea conținutului.
-- **vezi** [[DIG-0930]] — publicitatea nativă e unul dintre canalele plătite de distribuție.
+- **extinde** [[STO-0901-content-marketingul-este-always-on-campania-doar-il-puncteaza|STO-0901]] — procesul operaționalizează definiția content marketingului.
+- **fundament** [[DIG-0912-persona-transforma-un-segment-statistic-intr-un-om|DIG-0912]] — dezvoltarea audienței pornește de la persona.
+- **aplicare** [[DIG-0925-media-owned-earned-paid-control-credibilitate-acoperire|DIG-0925]] — distribuția urmează ordinea owned → earned → paid.
+- **vezi** [[STO-0904-piramida-continutului-cercetarea-de-baza-alimenteaza-derivatele|STO-0904]] — piramida organizează producția și refolosirea conținutului.
+- **vezi** [[DIG-0930-publicitatea-nativa-imprumuta-forma-mediului|DIG-0930]] — publicitatea nativă e unul dintre canalele plătite de distribuție.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 12, p. 335-338, 340-345
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 12, p. 335-338, 340-345
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0912-persona-transforma-un-segment-statistic-intr-un-om|DIG-0912]] _aplicare_ — Persona transformă un segment statistic într-un om pentru care designerii și creativii pot lucra
+- [[DIG-0925-media-owned-earned-paid-control-credibilitate-acoperire|DIG-0925]] _aplicare_ — Media owned, earned și paid se completează — control, credibilitate și acoperire
+- [[DIG-0930-publicitatea-nativa-imprumuta-forma-mediului|DIG-0930]] _extinde_ — Publicitatea nativă împrumută forma, tonul și funcția mediului, dar trebuie marcată clar ca reclamă
+- [[STO-0901-content-marketingul-este-always-on-campania-doar-il-puncteaza|STO-0901]] _extinde_ — Content marketingul este „always on”, iar campania doar îl punctează
+- [[STO-0904-piramida-continutului-cercetarea-de-baza-alimenteaza-derivatele|STO-0904]] _extinde_ — Piramida conținutului — o cercetare de bază alimentează zeci de piese derivate și promoționale
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+<!-- backlinks:end -->

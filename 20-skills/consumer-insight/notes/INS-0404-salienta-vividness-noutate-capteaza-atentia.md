@@ -47,10 +47,21 @@ Centraal Beheer (Olanda): umorul a creat „rumoare în jurul brandului", deși 
 
 ## Legături
 
-- **fundament** [[INS-0401]] — cele trei proprietăți deschid trecerea de la etapa preatentivă la atenția focală.
-- **extinde** [[INS-0405]] — noutatea legată de produs creează și riscul așteptărilor dezamăgite.
-- **vezi** [[ADV-0404]] — clutter-ul publicitar face saliența o necesitate.
+- **fundament** [[INS-0401-procesarea-reclamei-are-patru-etape|INS-0401]] — cele trei proprietăți deschid trecerea de la etapa preatentivă la atenția focală.
+- **extinde** [[INS-0405-dilema-promisiunii-asteptari-si-satisfactie|INS-0405]] — noutatea legată de produs creează și riscul așteptărilor dezamăgite.
+- **vezi** [[ADV-0404-clutterul-produce-interferenta-competitiva|ADV-0404]] — clutter-ul publicitar face saliența o necesitate.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 2, p. 64-69
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 2, p. 64-69
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0404-clutterul-produce-interferenta-competitiva|ADV-0404]] _vezi_ — Clutter-ul produce interferență competitivă, iar antidotul e un indiciu de reamintire distinctiv la punctul de cumpărare
+- [[ART-0401-privirea-modelului-spre-produs-duce-atentia|ART-0401]] _vezi_ — Privirea modelului îndreptată spre produs duce atenția la produs; privirea spre cititor o oprește pe chip
+- [[CPY-0404-umorul-atrage-atentia-dar-fura-brandul|CPY-0404]] _vezi_ — Umorul atrage atenția și simpatia, dar fură memoria brandului — funcționează mai ales pentru produse ieftine cumpărate fără gândire
+- [[INS-0401-procesarea-reclamei-are-patru-etape|INS-0401]] _vezi_ — Procesarea unei reclame trece prin patru etape, de la scanarea preatentivă la raționamentul elaborativ
+- [[INS-0405-dilema-promisiunii-asteptari-si-satisfactie|INS-0405]] _fundament_ — Promisiunea exagerată vinde o dată și dezamăgește după (modelul confirmării așteptărilor)
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

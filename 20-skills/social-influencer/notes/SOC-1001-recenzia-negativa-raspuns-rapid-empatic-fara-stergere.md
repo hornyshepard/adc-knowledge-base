@@ -44,11 +44,20 @@ Best Buy a răspuns pe Facebook unui client căruia i se spusese că un frigider
 
 ## Legături
 
-- **vezi** [[DIG-1014]] — gestionarea criticii e testul public al încrederii digitale.
-- **vezi** [[BRD-1002]] — reputația online face parte din credibilitatea brandului digital.
-- **vezi** [[SOC-1002]] — aceeași logică a onestității guvernează relația cu influencerii.
+- **vezi** [[DIG-1014-increderea-digitala-cinci-parghii|DIG-1014]] — gestionarea criticii e testul public al încrederii digitale.
+- **vezi** [[BRD-1002-brandul-digital-identitate-vizibilitate-credibilitate|BRD-1002]] — reputația online face parte din credibilitatea brandului digital.
+- **vezi** [[SOC-1002-relatia-materiala-cu-influencerul-se-dezvaluie-clar|SOC-1002]] — aceeași logică a onestității guvernează relația cu influencerii.
 
 ## Surse
 
-- [[SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 10 (p. 352–357) și cap. 11 (p. 370)
-- [[SRC-033]] Bharat Bhuval Nishad, *Facebook Marketing & Facebook Ads Beginner To Pro*, secț. „Do's And Don'ts"
+- [[SRC-031-digital-marketing-manual|SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 10 (p. 352–357) și cap. 11 (p. 370)
+- [[SRC-033-facebook-marketing|SRC-033]] Bharat Bhuval Nishad, *Facebook Marketing & Facebook Ads Beginner To Pro*, secț. „Do's And Don'ts"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-1014-increderea-digitala-cinci-parghii|DIG-1014]] _vezi_ — Încrederea digitală se construiește cu cinci pârghii — angajament credibil, consecvență, transparență, validare de la terți și simboluri de încredere
+- [[SOC-1002-relatia-materiala-cu-influencerul-se-dezvaluie-clar|SOC-1002]] _vezi_ — Relația materială dintre brand și influencer trebuie dezvăluită clar și vizibil, chiar în conținut, nu ascunsă după un click
+- [[SRC-031-digital-marketing-manual|SRC-031]] — Digital Marketing
+- [[SRC-033-facebook-marketing|SRC-033]] — Facebook Marketing & Facebook Ads Beginner To Pro
+<!-- backlinks:end -->

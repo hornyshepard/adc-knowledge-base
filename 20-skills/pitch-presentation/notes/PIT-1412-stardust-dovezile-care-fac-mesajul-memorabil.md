@@ -47,11 +47,23 @@ Producătorul Charlie Fink ar fi vândut *Regele Leu* la Disney în trei cuvinte
 
 ## Legături
 
-- **fundament** [[PIT-1408]] — dovezile se atârnă sub cele trei mesaje cheie.
-- **extinde** [[PIT-1416]] — cazurile și poveștile se structurează apoi cu SELL și SOLVE.
-- **vezi** [[PIT-1418]] — vizualurile se aleg după principiile de design al slide-urilor.
+- **fundament** [[PIT-1408-headline-si-trei-mesaje-cheie|PIT-1408]] — dovezile se atârnă sub cele trei mesaje cheie.
+- **extinde** [[PIT-1416-povesti-sell-si-solve-clientul-e-eroul|PIT-1416]] — cazurile și poveștile se structurează apoi cu SELL și SOLVE.
+- **vezi** [[PIT-1418-sase-principii-pentru-slide-uri|PIT-1418]] — vizualurile se aleg după principiile de design al slide-urilor.
 
 ## Surse
 
-- [[SRC-043]] Dominic Colenso, *Cut-Through*, cap. 2 („Add some stardust”)
-- [[SRC-044]] Bharat Bhuval Nishad, *The Art of Presentation*, „Choosing Relevant Examples and Stories”
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] Dominic Colenso, *Cut-Through*, cap. 2 („Add some stardust”)
+- [[SRC-044-art-of-presentation-and-public-speaking|SRC-044]] Bharat Bhuval Nishad, *The Art of Presentation*, „Choosing Relevant Examples and Stories”
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PIT-1404-centrele-de-energie-cap-inima-instinct-picioare|PIT-1404]] _vezi_ — Audiența comunică din patru centre de energie — cap, inimă, instinct și picioare
+- [[PIT-1408-headline-si-trei-mesaje-cheie|PIT-1408]] _vezi_ — Un pitch se organizează ca un arbore — un headline, trei mesaje cheie și dovezile dedesubt
+- [[PIT-1416-povesti-sell-si-solve-clientul-e-eroul|PIT-1416]] _fundament_ — Poveștile dintr-un pitch se structurează cu SELL sau SOLVE, iar eroul este clientul
+- [[PIT-1418-sase-principii-pentru-slide-uri|PIT-1418]] _fundament_ — Slide-urile sunt decor, nu script — șase principii de design al deck-ului
+- [[PRT-1416-povestea-de-sine-explicare-si-pitch-pixar|PRT-1416]] _vezi_ — Răspunsul la „Spune-mi despre tine” se construiește cu principiile explicării și cu structura pitch-ului Pixar
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] — Cut-Through: The pitch and presentation playbook
+- [[SRC-044-art-of-presentation-and-public-speaking|SRC-044]] — The Art of Presentation And Confident Public Speaking
+<!-- backlinks:end -->

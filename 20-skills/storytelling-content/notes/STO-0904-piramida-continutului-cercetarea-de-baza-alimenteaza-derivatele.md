@@ -47,11 +47,21 @@ Un raport de cercetare „oferă oportunități aproape nelimitate": video-uri, 
 
 ## Legături
 
-- **extinde** [[STO-0903]] — piramida structurează pasul „creează conținut".
-- **vezi** [[STO-0902]] — derivatele populează cadranele matricei.
-- **vezi** [[DIG-0916]] — paginile-pilon și clusterele sunt forma SEO a piramidei.
+- **extinde** [[STO-0903-strategia-de-content-marketing-are-patru-pasi|STO-0903]] — piramida structurează pasul „creează conținut".
+- **vezi** [[STO-0902-matricea-content-marketingului-entertain-inspire-educate-convince|STO-0902]] — derivatele populează cadranele matricei.
+- **vezi** [[DIG-0916-seo-sta-pe-trei-piloni-tehnic-continut-off-site|DIG-0916]] — paginile-pilon și clusterele sunt forma SEO a piramidei.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 12, p. 339-340; cap. 13, p. 364
-- [[SRC-030]] K. Connors, *Advanced Digital Marketing Strategies*, cap. 10
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 12, p. 339-340; cap. 13, p. 364
+- [[SRC-030-digital-marketing-strategies|SRC-030]] K. Connors, *Advanced Digital Marketing Strategies*, cap. 10
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0916-seo-sta-pe-trei-piloni-tehnic-continut-off-site|DIG-0916]] _vezi_ — SEO stă pe trei piloni — tehnic, conținut și off-site — iar Google cântărește cel mai mult conținutul, linkurile și RankBrain
+- [[STO-0902-matricea-content-marketingului-entertain-inspire-educate-convince|STO-0902]] _vezi_ — Matricea content marketingului — distrează, inspiră, educă, convinge — după emoție și etapa deciziei
+- [[STO-0903-strategia-de-content-marketing-are-patru-pasi|STO-0903]] _vezi_ — Strategia de content marketing are patru pași — creezi, dezvolți audiența, distribui, evaluezi
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+- [[SRC-030-digital-marketing-strategies|SRC-030]] — Advanced Digital Marketing Strategies: Mastering SEO, Social Media, Content Marketing, and AI for Maximum Online Growth
+<!-- backlinks:end -->

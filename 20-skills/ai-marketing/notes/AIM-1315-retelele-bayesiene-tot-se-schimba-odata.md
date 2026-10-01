@@ -47,11 +47,21 @@ Rezultatul e o măsură a **sensibilității** țintei la fiecare variabilă, te
 
 ## Legături
 
-- **alternativa** [[AIM-1313]] — arborii văd interacțiuni locale, rețelele văd tot tiparul.
-- **aplicare** [[ADV-1302]] — rețeaua aplicată unui model teoretic al efectelor publicității.
-- **aplicare** [[INS-1305]] — rețeaua aplicată driverilor de cumpărare pe segmente de vârstă.
-- **fundament** [[AIM-1306]] — validarea, inclusă în rețelele bayesiene.
+- **alternativa** [[AIM-1313-arborii-de-clasificare-transforma-baza-de-date-in-reguli|AIM-1313]] — arborii văd interacțiuni locale, rețelele văd tot tiparul.
+- **aplicare** [[ADV-1302-ierarhia-efectelor-testata-cu-date-alta-ordine|ADV-1302]] — rețeaua aplicată unui model teoretic al efectelor publicității.
+- **aplicare** [[INS-1305-importanta-unui-atribut-se-schimba-cu-etapa-de-viata|INS-1305]] — rețeaua aplicată driverilor de cumpărare pe segmente de vârstă.
+- **fundament** [[AIM-1306-validarea-pe-esantion-de-control-separa-tiparele-reale|AIM-1306]] — validarea, inclusă în rețelele bayesiene.
 
 ## Surse
 
-- [[SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, cap. 7 și cap. 8
+- [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, cap. 7 și cap. 8
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-1302-ierarhia-efectelor-testata-cu-date-alta-ordine|ADV-1302]] _fundament_ — Testată cu date, ierarhia efectelor a ieșit într-o altă ordine decât teoria — de la „ce fac ei" la „ce fac eu"
+- [[AIM-1306-validarea-pe-esantion-de-control-separa-tiparele-reale|AIM-1306]] _aplicare_ — Validarea pe un eșantion de control separă tiparele reale de supra-ajustare
+- [[AIM-1313-arborii-de-clasificare-transforma-baza-de-date-in-reguli|AIM-1313]] _alternativa_ — Arborii de clasificare transformă o bază de date în câteva reguli „dacă–atunci" pentru țintire
+- [[INS-1305-importanta-unui-atribut-se-schimba-cu-etapa-de-viata|INS-1305]] _fundament_ — Importanța unui atribut se schimbă cu etapa de viață — „brandul de încredere" contează enorm la 4–8 ani și aproape deloc la preadolescenți
+- [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]] — Artificial Intelligence Marketing and Predicting Consumer Choice: An Overview of Tools and Techniques
+<!-- backlinks:end -->

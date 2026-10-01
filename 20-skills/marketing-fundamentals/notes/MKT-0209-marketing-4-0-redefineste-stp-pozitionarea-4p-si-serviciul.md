@@ -48,11 +48,21 @@ Google și MTV au sisteme de logo dinamice care se schimbă după context, dar r
 
 ## Legături
 
-- **fundament** [[MKT-0208]] — redefinirile răspund mutării puterii spre comunități.
-- **extinde** [[MKT-0203]] — co-crearea, comunitizarea și caracterul din 3.0 devin aici instrumente operaționale.
-- **aplicare** [[MKT-0210]] — calea 5A arată unde intervin tradiționalul și digitalul.
-- **vezi** [[BRD-0206]] — „caracterul" brandului e detaliat prin cele șase atribute umane.
+- **fundament** [[MKT-0208-puterea-trece-la-clientii-conectati-orizontal-inclusiv-social|MKT-0208]] — redefinirile răspund mutării puterii spre comunități.
+- **extinde** [[MKT-0203-marketingul-orizontal-co-creare-comunitizare-caracter|MKT-0203]] — co-crearea, comunitizarea și caracterul din 3.0 devin aici instrumente operaționale.
+- **aplicare** [[MKT-0210-calea-clientului-5a-aware-appeal-ask-act-advocate|MKT-0210]] — calea 5A arată unde intervin tradiționalul și digitalul.
+- **vezi** [[BRD-0206-brandurile-human-centric-au-sase-atribute-umane|BRD-0206]] — „caracterul" brandului e detaliat prin cele șase atribute umane.
 
 ## Surse
 
-- [[SRC-004]] Kotler, Kartajaya, Setiawan, *Marketing 4.0*, cap. 4 „Marketing 4.0 in the Digital Economy" (Fig. 4.1)
+- [[SRC-004-marketing-4-0-philip-kotler|SRC-004]] Kotler, Kartajaya, Setiawan, *Marketing 4.0*, cap. 4 „Marketing 4.0 in the Digital Economy" (Fig. 4.1)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0206-brandurile-human-centric-au-sase-atribute-umane|BRD-0206]] _vezi_ — Brandurile human-centric au șase atribute umane — fizicalitate, intelectualitate, sociabilitate, emoționalitate, personabilitate, moralitate
+- [[DIG-0204-marketingul-bazat-pe-date-segmentul-de-unu-si-ecosistemul-de-date|DIG-0204]] _contrazice_ — Marketingul bazat pe date țintește „segmentul de unu" și începe cu un obiectiv îngust, nu cu un proiect IT
+- [[MKT-0201-evolutia-marketingului-de-la-1-0-la-6-0|MKT-0201]] _vezi_ — Evoluția marketingului de la 1.0 la 6.0 — de la produs la client, la om, la digital, la tehnologie pentru umanitate și la imersiune
+- [[MKT-0208-puterea-trece-la-clientii-conectati-orizontal-inclusiv-social|MKT-0208]] _aplicare_ — Puterea a trecut la clienții conectați — de la vertical, exclusiv și individual la orizontal, inclusiv și social
+- [[SRC-004-marketing-4-0-philip-kotler|SRC-004]] — Marketing 4.0: Moving from Traditional to Digital
+<!-- backlinks:end -->

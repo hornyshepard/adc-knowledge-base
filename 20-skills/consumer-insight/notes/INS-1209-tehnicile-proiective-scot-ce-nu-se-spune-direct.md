@@ -48,10 +48,18 @@ Studiul lui Mason Haire (1950) despre Nescafé: cafeaua instant eșua pe piața 
 
 ## Legături
 
-- **vezi** [[INS-1210]] — tehnicile proiective fac parte din metodele experiențiale de cercetare, alături de etnografie.
-- **vezi** [[INS-1207]] — ambele caută sensuri tacite pe care oamenii nu le formulează direct.
-- **vezi** [[EXP-1218]] — cardurile cu emoții și puncte de contact folosesc aceeași logică a stimulului vizual.
+- **vezi** [[INS-1210-etnografia-experientiala-socializare-colaborare|INS-1210]] — tehnicile proiective fac parte din metodele experiențiale de cercetare, alături de etnografie.
+- **vezi** [[INS-1207-semiotica-decodeaza-sensul-cultural-al-consumului|INS-1207]] — ambele caută sensuri tacite pe care oamenii nu le formulează direct.
+- **vezi** [[EXP-1218-cardurile-emotional-touchpoints-atelier-in-sase-pasi|EXP-1218]] — cardurile cu emoții și puncte de contact folosesc aceeași logică a stimulului vizual.
 
 ## Surse
 
-- [[SRC-036]] Wided Batat, *Experiential Marketing*, cap. 13, secț. „Projective techniques" (Theory Box 13.1; mini-cazurile 13.1 Nescafé, 13.2 detergenți, 13.3 alimentație)
+- [[SRC-036-experiential-marketing|SRC-036]] Wided Batat, *Experiential Marketing*, cap. 13, secț. „Projective techniques" (Theory Box 13.1; mini-cazurile 13.1 Nescafé, 13.2 detergenți, 13.3 alimentație)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[EXP-1218-cardurile-emotional-touchpoints-atelier-in-sase-pasi|EXP-1218]] _vezi_ — Cardurile „emotional touchpoints" — un atelier în șase pași pentru a afla ce simte clientul la fiecare contact
+- [[INS-1210-etnografia-experientiala-socializare-colaborare|INS-1210]] _vezi_ — Etnografia experiențială lucrează cu consumatorii, nu asupra lor — socializare, colaborare, auto-confruntare
+- [[SRC-036-experiential-marketing|SRC-036]] — Experiential Marketing: Consumer Behavior, Customer Experience and the 7Es
+<!-- backlinks:end -->

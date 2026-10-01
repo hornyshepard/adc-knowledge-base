@@ -47,10 +47,20 @@ Un producător de blugi a investit peste 800.000 de dolari (la valoarea de azi) 
 
 ## Legături
 
-- **vezi** [[INS-1301]] — opusul: volum mare, cadru greșit.
-- **vezi** [[INS-1302]] — logica marjei de eroare și a semnificației.
-- **vezi** [[INS-1304]] — și întrebările directe în sondaje mari pot induce în eroare.
+- **vezi** [[INS-1301-literary-digest-volumul-nu-salveaza-un-cadru-gresit|INS-1301]] — opusul: volum mare, cadru greșit.
+- **vezi** [[INS-1302-semnificatia-statistica-nu-inseamna-importanta|INS-1302]] — logica marjei de eroare și a semnificației.
+- **vezi** [[INS-1304-ratingurile-de-importanta-spun-ca-totul-conteaza|INS-1304]] — și întrebările directe în sondaje mari pot induce în eroare.
 
 ## Surse
 
-- [[SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, cap. 2
+- [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, cap. 2
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-1312-checklist-pentru-un-studiu-de-alegere-bine-construit|AIM-1312]] _vezi_ — Un studiu de alegere bun se construiește înainte de chestionar — checklist în zece puncte
+- [[INS-1301-literary-digest-volumul-nu-salveaza-un-cadru-gresit|INS-1301]] _vezi_ — Literary Digest, 1936 — volumul de date nu salvează un cadru de eșantionare greșit
+- [[INS-1302-semnificatia-statistica-nu-inseamna-importanta|INS-1302]] _vezi_ — Semnificația statistică nu înseamnă importanță — cu date multe, aproape orice diferență devine „semnificativă"
+- [[INS-1304-ratingurile-de-importanta-spun-ca-totul-conteaza|INS-1304]] _vezi_ — Întrebați direct ce contează, oamenii spun „totul" — ratingurile de importanță nu prezic comportamentul
+- [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]] — Artificial Intelligence Marketing and Predicting Consumer Choice: An Overview of Tools and Techniques
+<!-- backlinks:end -->

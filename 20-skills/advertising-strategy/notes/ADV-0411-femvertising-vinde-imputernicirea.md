@@ -46,10 +46,18 @@ Always #LikeAGirl — o expresie peiorativă transformată într-un motiv de mâ
 
 ## Legături
 
-- **vezi** [[BRD-0402]] — peisajul de branduri moralizat și riscul de greenwashing.
-- **vezi** [[INS-0444]] — conținutul care provoacă emoții activatoare se distribuie.
-- **vezi** [[INS-0420]] — dezbaterea despre efectele sociale ale publicității.
+- **vezi** [[BRD-0402-peisajul-moralizat-cauze-si-greenwashing|BRD-0402]] — peisajul de branduri moralizat și riscul de greenwashing.
+- **vezi** [[INS-0444-continutul-se-distribuie-cand-activeaza-emotii|INS-0444]] — conținutul care provoacă emoții activatoare se distribuie.
+- **vezi** [[INS-0420-poate-publicitatea-crea-dorinte-si-materialism|INS-0420]] — dezbaterea despre efectele sociale ale publicității.
 
 ## Surse
 
-- [[SRC-013]] Parsons, Maclaran & Chatzidakis, *Contemporary Issues in Marketing and Consumer Behaviour*, cap. 4, p. 48-66
+- [[SRC-013-contemporary-issues-in-marketing-and-consumer-behaviour|SRC-013]] Parsons, Maclaran & Chatzidakis, *Contemporary Issues in Marketing and Consumer Behaviour*, cap. 4, p. 48-66
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0402-peisajul-moralizat-cauze-si-greenwashing|BRD-0402]] _vezi_ — Brandurile care adoptă cauze morale câștigă un halo, dar devin ținte pentru acuzația de greenwashing
+- [[INS-0420-poate-publicitatea-crea-dorinte-si-materialism|INS-0420]] _vezi_ — Publicitatea nu creează nevoi, dar poate cultiva dorințe și materialism, mai ales la copii
+- [[SRC-013-contemporary-issues-in-marketing-and-consumer-behaviour|SRC-013]] — Contemporary Issues in Marketing and Consumer Behaviour (2nd edition)
+<!-- backlinks:end -->

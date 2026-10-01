@@ -44,11 +44,22 @@ John Lewis (Marea Britanie) a transformat o categorie considerată plictisitoare
 
 ## Legături
 
-- **fundament** [[MKT-0116]] — USP-ul este propunerea de valoare prescurtată pentru reclamă.
-- **fundament** [[INS-0102]] — apelurile vizează nevoi funcționale sau psihologice.
-- **vezi** [[INS-0107]] — implicarea țintei decide ce tip de apel e procesat.
-- **vezi** [[ADV-0108]] — afirmațiile din mesaj au o limită legală (puffery vs. înșelăciune).
+- **fundament** [[MKT-0116-propunerea-de-valoare-cercuri-si-formula|MKT-0116]] — USP-ul este propunerea de valoare prescurtată pentru reclamă.
+- **fundament** [[INS-0102-nevoi-functionale-si-psihologice-in-proportii-diferite|INS-0102]] — apelurile vizează nevoi funcționale sau psihologice.
+- **vezi** [[INS-0107-implicarea-decide-procesarea-centrala-sau-periferica|INS-0107]] — implicarea țintei decide ce tip de apel e procesat.
+- **vezi** [[ADV-0108-puffery-exagerarea-e-legala-cifra-trebuie-dovedita|ADV-0108]] — afirmațiile din mesaj au o limită legală (puffery vs. înșelăciune).
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 19, p. 598-601 (Exhibit 19.2)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 19, p. 598-601 (Exhibit 19.2)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0104-campania-publicitara-in-sapte-pasi-de-la-tinta-la-masurare|ADV-0104]] _extinde_ — O campanie publicitară se planifică în șapte pași — de la publicul țintă la evaluarea impactului
+- [[ADV-0108-puffery-exagerarea-e-legala-cifra-trebuie-dovedita|ADV-0108]] _fundament_ — Exagerarea subiectivă (puffery) e legală, dar orice afirmație cuantificabilă trebuie dovedită
+- [[INS-0102-nevoi-functionale-si-psihologice-in-proportii-diferite|INS-0102]] _aplicare_ — Orice produs satisface nevoi funcționale și psihologice, în proporții diferite — iar dorința nu se mulțumește cu orice soluție
+- [[INS-0107-implicarea-decide-procesarea-centrala-sau-periferica|INS-0107]] _aplicare_ — Implicarea decide dacă mesajul e citit cu atenție sau doar „scanat" după indicii (modelul ELM)
+- [[MKT-0116-propunerea-de-valoare-cercuri-si-formula|MKT-0116]] _aplicare_ — Propunerea de valoare stă unde nevoile clientului se întâlnesc cu oferta ta, dar nu și cu a concurenței — și se scrie în patru elemente
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+<!-- backlinks:end -->

@@ -48,10 +48,20 @@ VW Phaeton (cap. 2, p. 75) — calitate de top, dar marca a tras percepția în 
 
 ## Legături
 
-- **fundament** [[INS-0406]] — prototipicitatea și categorizarea sunt baza ambelor efecte.
-- **extinde** [[INS-0414]] — priming-ul produce aceleași efecte de asimilare și contrast.
-- **vezi** [[INS-0413]] — rețeaua asociativă a brandului se actualizează cu fiecare extensie.
+- **fundament** [[INS-0406-pionierul-stabileste-agenda-atributelor|INS-0406]] — prototipicitatea și categorizarea sunt baza ambelor efecte.
+- **extinde** [[INS-0414-priming-ul-coloreaza-judecatile-ulterioare|INS-0414]] — priming-ul produce aceleași efecte de asimilare și contrast.
+- **vezi** [[INS-0413-accesibilitatea-decide-setul-de-consideratie|INS-0413]] — rețeaua asociativă a brandului se actualizează cu fiecare extensie.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 2, p. 69-75; cap. 3, p. 103-105
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 2, p. 69-75; cap. 3, p. 103-105
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[INS-0406-pionierul-stabileste-agenda-atributelor|INS-0406]] _vezi_ — Pionierul unei categorii câștigă pentru că stabilește atributele după care sunt judecați toți ceilalți
+- [[INS-0414-priming-ul-coloreaza-judecatile-ulterioare|INS-0414]] _vezi_ — Priming-ul — un concept activat incidental colorează judecăți ulterioare, dacă nu îi recunoaștem sursa
+- [[INS-0416-publicitatea-poate-rescrie-amintirea-experientei|INS-0416]] _vezi_ — Publicitatea poate rescrie amintirea experienței cu produsul, mai ales când experiența e ambiguă
+- [[INS-0424-brandul-tara-si-pretul-schimba-gustul|INS-0424]] _fundament_ — Brandul, țara de origine și prețul funcționează ca euristici care schimbă chiar experiența de consum
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

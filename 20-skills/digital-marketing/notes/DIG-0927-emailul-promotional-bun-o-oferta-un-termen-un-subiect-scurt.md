@@ -49,11 +49,21 @@ E-mailul de bun venit Shein (fig. 11.13) folosește preheaderul, pune oferta în
 
 ## Legături
 
-- **fundament** [[DIG-0903]] — oferta cu Ce/Până când/De ce vine din marketingul direct.
-- **fundament** [[DIG-0913]] — triunghiul de aur și above the fold se aplică și în e-mail.
-- **aplicare** [[DIG-0928]] — succesul e-mailului se citește în open rate, CTR și CTOR.
-- **vezi** [[DIG-0926]] — designul presupune o listă construită cu permisiune.
+- **fundament** [[DIG-0903-oferta-si-lista-cantaresc-mai-mult-decat-creatia-40-40-20|DIG-0903]] — oferta cu Ce/Până când/De ce vine din marketingul direct.
+- **fundament** [[DIG-0913-pagina-web-se-citeste-dupa-conventii-triunghiul-de-aur|DIG-0913]] — triunghiul de aur și above the fold se aplică și în e-mail.
+- **aplicare** [[DIG-0928-in-email-click-to-open-rate-spune-mai-mult-decat-open-rate|DIG-0928]] — succesul e-mailului se citește în open rate, CTR și CTOR.
+- **vezi** [[DIG-0926-permisiunea-in-email-are-patru-niveluri|DIG-0926]] — designul presupune o listă construită cu permisiune.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 11, p. 304-311, 318-320
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 11, p. 304-311, 318-320
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0903-oferta-si-lista-cantaresc-mai-mult-decat-creatia-40-40-20|DIG-0903]] _aplicare_ — În marketingul direct, oferta și lista cântăresc mai mult decât execuția creativă (regula 40/40/20)
+- [[DIG-0913-pagina-web-se-citeste-dupa-conventii-triunghiul-de-aur|DIG-0913]] _aplicare_ — Pagina web se citește după convenții — triunghiul de aur, above the fold, logo în stânga sus
+- [[DIG-0926-permisiunea-in-email-are-patru-niveluri|DIG-0926]] _aplicare_ — Permisiunea în e-mail marketing are patru niveluri, de la opt-out la double opt-in
+- [[DIG-0928-in-email-click-to-open-rate-spune-mai-mult-decat-open-rate|DIG-0928]] _aplicare_ — În e-mail, click-to-open rate spune mai mult decât open rate
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+<!-- backlinks:end -->

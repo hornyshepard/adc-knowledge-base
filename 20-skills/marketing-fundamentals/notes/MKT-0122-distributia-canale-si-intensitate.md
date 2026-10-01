@@ -55,11 +55,19 @@ Brown Betty Dessert Boutique a intrat în Walmart, într-un test în 300 de maga
 
 ## Legături
 
-- **fundament** [[MKT-0104]] — plasarea este al treilea P, cel care livrează valoarea.
-- **vezi** [[MKT-0117]] — tipul de produs (uz curent, comparație, specialitate) sugerează intensitatea distribuției.
-- **vezi** [[ADV-0101]] — IMC trebuie coordonat cu disponibilitatea produsului în canal.
+- **fundament** [[MKT-0104-mixul-4p-creeaza-capteaza-livreaza-comunica-valoarea|MKT-0104]] — plasarea este al treilea P, cel care livrează valoarea.
+- **vezi** [[MKT-0117-produsul-are-trei-straturi|MKT-0117]] — tipul de produs (uz curent, comparație, specialitate) sugerează intensitatea distribuției.
+- **vezi** [[ADV-0101-imc-integreaza-canalele-pentru-claritate-consecventa-impact|ADV-0101]] — IMC trebuie coordonat cu disponibilitatea produsului în canal.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 1, p. 9; cap. 16, p. 502-507; cap. 17, p. 534-535
-- [[SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 6, p. 161-171, 178-179 (§6.1-6.4, §6.7)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 1, p. 9; cap. 16, p. 502-507; cap. 17, p. 534-535
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 6, p. 161-171, 178-179 (§6.1-6.4, §6.7)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[MKT-0104-mixul-4p-creeaza-capteaza-livreaza-comunica-valoarea|MKT-0104]] _extinde_ — Mixul de marketing 4P — produsul creează, prețul captează, plasarea livrează, promovarea comunică valoarea
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] — Principles of Marketing
+<!-- backlinks:end -->

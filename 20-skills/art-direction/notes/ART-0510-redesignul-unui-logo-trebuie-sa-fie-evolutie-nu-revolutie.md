@@ -48,10 +48,18 @@ Logo-ul vechi al orașului Shoreview folosea patru culori și un degradeu imposi
 
 ## Legături
 
-- **vezi** [[ART-0503]] — cazul Tropicana arată costul ștergerii indiciilor de recunoaștere.
-- **vezi** [[BRD-0507]] — și poziționarea se reîmprospătează fără să fie abandonată.
-- **fundament** [[ART-0504]] — timpul e un pilon al logo-ului durabil; redesignul radical îl resetează.
+- **vezi** [[ART-0503-cazul-tropicana-redesignul-ambalajului-a-sters-indiciile-de|ART-0503]] — cazul Tropicana arată costul ștergerii indiciilor de recunoaștere.
+- **vezi** [[BRD-0507-o-pozitie-se-sustine-prin-instantiere-moderna-schimbarea|BRD-0507]] — și poziționarea se reîmprospătează fără să fie abandonată.
+- **fundament** [[ART-0504-un-logo-dureaza-prin-zece-piloni-dintre-care-designerul|ART-0504]] — timpul e un pilon al logo-ului durabil; redesignul radical îl resetează.
 
 ## Surse
 
-- [[SRC-017]] Allan Peters, *Logos That Last*, cap. 6 „Brand Evolution" (Heartland Technology, Urbane Coffee, Eagan Police, Rush Creek); cap. 8 „Case Studies" (City of Shoreview)
+- [[SRC-017-logos-that-last|SRC-017]] Allan Peters, *Logos That Last*, cap. 6 „Brand Evolution" (Heartland Technology, Urbane Coffee, Eagan Police, Rush Creek); cap. 8 „Case Studies" (City of Shoreview)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0504-un-logo-dureaza-prin-zece-piloni-dintre-care-designerul|ART-0504]] _vezi_ — Un logo durează prin zece piloni, dintre care designerul controlează șapte
+- [[ART-0511-brandul-are-hardware-iconic-de-pastrat-si-software-dinamic|ART-0511]] _vezi_ — Brandul are hardware iconic, de păstrat, și software dinamic, de schimbat
+- [[SRC-017-logos-that-last|SRC-017]] — Logos That Last: How to Create Iconic Visual Branding
+<!-- backlinks:end -->

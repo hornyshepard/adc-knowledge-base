@@ -48,10 +48,18 @@ Extensii din aceeași familie: **brand culture** (brandurile devin obiecte cultu
 
 ## Legături
 
-- **aplicare** [[CPY-0604]] — brand content-ul folosește în primul rând discursul narativ.
-- **vezi** [[ADV-0617]] — conținutul alimentează media deținute și câștigate.
-- **vezi** [[BRD-0606]] — brandurile iconice duc ideea de brand culture până la mit.
+- **aplicare** [[CPY-0604-patru-tipuri-de-discurs-publicitar-narativ-descriptiv-explicativ|CPY-0604]] — brand content-ul folosește în primul rând discursul narativ.
+- **vezi** [[ADV-0617-touchpoints-paid-owned-earned|ADV-0617]] — conținutul alimentează media deținute și câștigate.
+- **vezi** [[BRD-0606-brandurile-iconice-mitul-identitar-raspunde-unei-tensiuni-culturale|BRD-0606]] — brandurile iconice duc ideea de brand culture până la mit.
 
 ## Surse
 
-- [[SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 40 (p. 130–133), outil 41 (p. 134–135), outil 42 (p. 136–137), outil 24 (p. 88–89)
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 40 (p. 130–133), outil 41 (p. 134–135), outil 42 (p. 136–137), outil 24 (p. 88–89)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0617-touchpoints-paid-owned-earned|ADV-0617]] _vezi_ — Punctele de contact ale brandului sunt plătite, deținute sau câștigate (Paid–Owned–Earned) și trebuie combinate
+- [[CPY-0604-patru-tipuri-de-discurs-publicitar-narativ-descriptiv-explicativ|CPY-0604]] _vezi_ — Discursul publicitar are patru tipuri — narativ, descriptiv, explicativ, argumentativ — și se verifică după ce e scris
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] — La boîte à outils de la publicité
+<!-- backlinks:end -->

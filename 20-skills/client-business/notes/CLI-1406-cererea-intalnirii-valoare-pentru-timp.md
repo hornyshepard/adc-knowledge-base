@@ -48,10 +48,18 @@ Exemplul autorului către un CEO: o viziune mare („vreau să construiesc o com
 
 ## Legături
 
-- **fundament** [[CLI-1401]] — mesajul vinde doar pasul următor, întâlnirea.
-- **vezi** [[PIT-1405]] — „ce câștig eu?” e aceeași întrebare din mintea audienței unui pitch.
-- **vezi** [[PIT-1408]] — mesajul scurt și orientat pe beneficiu urmează logica headline-ului.
+- **fundament** [[CLI-1401-stage-selling-vinde-doar-pasul-urmator|CLI-1401]] — mesajul vinde doar pasul următor, întâlnirea.
+- **vezi** [[PIT-1405-cercetarea-audientei-fapte-vs-sentimente|PIT-1405]] — „ce câștig eu?” e aceeași întrebare din mintea audienței unui pitch.
+- **vezi** [[PIT-1408-headline-si-trei-mesaje-cheie|PIT-1408]] — mesajul scurt și orientat pe beneficiu urmează logica headline-ului.
 
 ## Surse
 
-- [[SRC-045]] Bharat Bhuval Nishad, *The Complete Guide to B2B Sales Success*, „All About the Angle”, „Using a Template”, „Case Study”, „Inviting”
+- [[SRC-045-b2b-sales-manual|SRC-045]] Bharat Bhuval Nishad, *The Complete Guide to B2B Sales Success*, „All About the Angle”, „Using a Template”, „Case Study”, „Inviting”
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CLI-1401-stage-selling-vinde-doar-pasul-urmator|CLI-1401]] _aplicare_ — Stage selling — fiecare etapă a vânzării vinde doar etapa următoare
+- [[CLI-1405-prospectarea-joc-de-consistenta|CLI-1405]] _aplicare_ — Prospectarea este un joc de consistență în care se numără activitatea, nu răspunsurile
+- [[SRC-045-b2b-sales-manual|SRC-045]] — The Complete Guide to B2B Sales Success: Effective Strategies for Lead Generation, Sales Processes, and Closing
+<!-- backlinks:end -->

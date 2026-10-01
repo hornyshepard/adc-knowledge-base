@@ -47,10 +47,21 @@ Alte reguli: evaluează *întregul* drum, nu doar o etapă; fă călătoria capt
 
 ## Legături
 
-- **vezi** [[SOC-1108]] — evaluarea campaniei urmărește drumul întreg, nu like-urile.
-- **aplicare** [[STO-1107]] — story journey-ul all-in-one oglindește acest customer journey.
-- **vezi** [[SOC-1103]] — drumul spre cumpărare e partea tranzacțională a relației.
+- **vezi** [[SOC-1108-like-urile-nu-sunt-succes-evaluezi-calatoria-nu-etapa|SOC-1108]] — evaluarea campaniei urmărește drumul întreg, nu like-urile.
+- **aplicare** [[STO-1107-strategia-all-in-one-produci-o-data-distribui-fragmentat-in|STO-1107]] — story journey-ul all-in-one oglindește acest customer journey.
+- **vezi** [[SOC-1103-conversational-vs-tranzactional-doua-tipuri-de-relatii-pe|SOC-1103]] — drumul spre cumpărare e partea tranzacțională a relației.
 
 ## Surse
 
-- [[SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 6.2.1, p. 268–272; cap. 6.2.2, p. 275; cap. 6.2.5, p. 280–282 (S. Gottschalk)
+- [[SRC-034-social-media-storytelling|SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 6.2.1, p. 268–272; cap. 6.2.2, p. 275; cap. 6.2.5, p. 280–282 (S. Gottschalk)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[SOC-1103-conversational-vs-tranzactional-doua-tipuri-de-relatii-pe|SOC-1103]] _vezi_ — Conversațional vs. tranzacțional: două tipuri de relații pe platforme
+- [[SOC-1108-like-urile-nu-sunt-succes-evaluezi-calatoria-nu-etapa|SOC-1108]] _extinde_ — Like-urile nu sunt succes: evaluezi călătoria, nu etapa
+- [[SOC-1109-fmd-influencerii-raporteaza-live-echipa-produce-formatele|SOC-1109]] _vezi_ — FMD: influencerii raportează live, echipa produce formatele lungi
+- [[SOC-1121-influencerii-pot-fi-folositi-pe-tot-ciclul-de-lansare-al|SOC-1121]] _vezi_ — Influencerii pot fi folosiți pe tot ciclul de lansare al unui produs
+- [[STO-1107-strategia-all-in-one-produci-o-data-distribui-fragmentat-in|STO-1107]] _vezi_ — Strategia all-in-one: produci o dată, distribui fragmentat în timp
+- [[SRC-034-social-media-storytelling|SRC-034]] — Social Media Storytelling
+<!-- backlinks:end -->

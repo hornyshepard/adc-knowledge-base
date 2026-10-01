@@ -53,10 +53,20 @@ Fructele-personaj Oasis (Ramon Tafraise, Mangue Debol) combină personificarea c
 
 ## Legături
 
-- **vezi** [[CPY-0603]] — conotația și umorul de „al doilea grad" sunt forme de captare a atenției.
-- **vezi** [[ADV-0606]] — selectivitatea percepției justifică repetiția și perseverența.
-- **vezi** [[ADV-0610]] — poziționarea pornește de la aceeași minte saturată și selectivă.
+- **vezi** [[CPY-0603-titlul-ancoreaza-conotatiile-imaginii|CPY-0603]] — conotația și umorul de „al doilea grad" sunt forme de captare a atenției.
+- **vezi** [[ADV-0606-schimbarea-prea-deasa-a-campaniei-distruge-penetrarea|ADV-0606]] — selectivitatea percepției justifică repetiția și perseverența.
+- **vezi** [[ADV-0610-pozitionarea-sprijinita-pe-noua-principii-cognitive|ADV-0610]] — poziționarea pornește de la aceeași minte saturată și selectivă.
 
 ## Surse
 
-- [[SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 16 (p. 58–59), outil 19 (p. 72), dosarul 3 (p. 52); Oasis la outil 40, p. 133
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 16 (p. 58–59), outil 19 (p. 72), dosarul 3 (p. 52); Oasis la outil 40, p. 133
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0602-cele-sase-functii-ale-lui-jakobson-aplicate-mesajului-publicitar|CPY-0602]] _vezi_ — Orice mesaj publicitar ierarhizează cele șase funcții ale limbajului (Jakobson) — și una trebuie să domine
+- [[CPY-0603-titlul-ancoreaza-conotatiile-imaginii|CPY-0603]] _vezi_ — Imaginea agață, titlul ancorează — denotația informează, conotația adaugă sensuri pe care ținta trebuie să le decodeze
+- [[CPY-0606-ideea-pe-hartie-trece-sase-teste-inainte-de-productie|CPY-0606]] _vezi_ — O idee de reclamă se verifică pe hârtie, înainte de producție — brand clar, provocatoare, clară, memorabilă, unică, accesibilă ca buget
+- [[INS-0605-publicitatea-vorbeste-creierului-rapid-portarul-atentiei|INS-0605]] _vezi_ — Publicitatea ajunge aproape doar la „creierul rapid", care e portarul atenției — mesajul trebuie să treacă întâi de el
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] — La boîte à outils de la publicité
+<!-- backlinks:end -->

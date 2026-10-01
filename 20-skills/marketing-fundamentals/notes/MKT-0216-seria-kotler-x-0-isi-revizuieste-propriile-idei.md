@@ -52,15 +52,27 @@ Aceeași generație Z apare în 5.0 ca fiind preocupată de schimbare socială �
 
 ## Legături
 
-- **fundament** [[MKT-0201]] — harta 1.0→6.0 e povestea pe care această notă o pune sub semnul întrebării.
-- **contrazice** [[MKT-0203]] — comunitizarea din 3.0 e abandonată în favoarea segmentului de unu.
-- **contrazice** [[DIG-0204]] — segmentarea de precizie din 5.0 contrazice relația „de egalitate" cerută în 4.0.
-- **contrazice** [[MKT-0213]] — purpose-ul ca factor de igienă (5.0) contrazice purpose-ul ca diferențiator (3.0).
-- **vezi** [[EXP-0203]] — întoarcerea la IRL din 6.0 nuanțează entuziasmul digital din 4.0 și 5.0.
+- **fundament** [[MKT-0201-evolutia-marketingului-de-la-1-0-la-6-0|MKT-0201]] — harta 1.0→6.0 e povestea pe care această notă o pune sub semnul întrebării.
+- **contrazice** [[MKT-0203-marketingul-orizontal-co-creare-comunitizare-caracter|MKT-0203]] — comunitizarea din 3.0 e abandonată în favoarea segmentului de unu.
+- **contrazice** [[DIG-0204-marketingul-bazat-pe-date-segmentul-de-unu-si-ecosistemul-de-date|DIG-0204]] — segmentarea de precizie din 5.0 contrazice relația „de egalitate" cerută în 4.0.
+- **contrazice** [[MKT-0213-polarizarea-prosperitatii-mijlocul-pietei-dispare|MKT-0213]] — purpose-ul ca factor de igienă (5.0) contrazice purpose-ul ca diferențiator (3.0).
+- **vezi** [[EXP-0203-al-treilea-loc-reinventat-realitati-extinse-in-spatiul-fizic|EXP-0203]] — întoarcerea la IRL din 6.0 nuanțează entuziasmul digital din 4.0 și 5.0.
 
 ## Surse
 
-- [[SRC-003]] Kotler, Kartajaya, Setiawan, *Marketing 3.0*, cap. 1 (Tabelul 1.1), cap. 2 (Tabelul 2.1), cap. 3, p. 69-71
-- [[SRC-004]] Kotler, Kartajaya, Setiawan, *Marketing 4.0*, Prolog; cap. 4 (Fig. 4.1); cap. 5
-- [[SRC-005]] Kotler, Kartajaya, Setiawan, *Marketing 5.0*, cap. 1; cap. 2 „Generation Gap and Marketing Evolution"; cap. 3 „The New Hygiene Factor"; cap. 8
-- [[SRC-006]] Kotler, Kartajaya, Setiawan, *Marketing 6.0*, cap. 1; cap. 2; cap. 6; cap. 8
+- [[SRC-003-marketing-3-0-philip-kotler|SRC-003]] Kotler, Kartajaya, Setiawan, *Marketing 3.0*, cap. 1 (Tabelul 1.1), cap. 2 (Tabelul 2.1), cap. 3, p. 69-71
+- [[SRC-004-marketing-4-0-philip-kotler|SRC-004]] Kotler, Kartajaya, Setiawan, *Marketing 4.0*, Prolog; cap. 4 (Fig. 4.1); cap. 5
+- [[SRC-005-marketing-5-0-philip-kotler|SRC-005]] Kotler, Kartajaya, Setiawan, *Marketing 5.0*, cap. 1; cap. 2 „Generation Gap and Marketing Evolution"; cap. 3 „The New Hygiene Factor"; cap. 8
+- [[SRC-006-marketing-6-0-philip-kotler|SRC-006]] Kotler, Kartajaya, Setiawan, *Marketing 6.0*, cap. 1; cap. 2; cap. 6; cap. 8
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0204-marketingul-bazat-pe-date-segmentul-de-unu-si-ecosistemul-de-date|DIG-0204]] _vezi_ — Marketingul bazat pe date țintește „segmentul de unu" și începe cu un obiectiv îngust, nu cu un proiect IT
+- [[MKT-0201-evolutia-marketingului-de-la-1-0-la-6-0|MKT-0201]] _contrazice_ — Evoluția marketingului de la 1.0 la 6.0 — de la produs la client, la om, la digital, la tehnologie pentru umanitate și la imersiune
+- [[MKT-0213-polarizarea-prosperitatii-mijlocul-pietei-dispare|MKT-0213]] _contrazice_ — Polarizarea prosperității golește mijlocul pieței — rămân doar poziționarea low-cost și cea premium prin experiență
+- [[SRC-003-marketing-3-0-philip-kotler|SRC-003]] — Marketing 3.0: From Products to Customers to the Human Spirit
+- [[SRC-004-marketing-4-0-philip-kotler|SRC-004]] — Marketing 4.0: Moving from Traditional to Digital
+- [[SRC-005-marketing-5-0-philip-kotler|SRC-005]] — Marketing 5.0: Technology for Humanity
+- [[SRC-006-marketing-6-0-philip-kotler|SRC-006]] — Marketing 6.0: The Future Is Immersive
+<!-- backlinks:end -->

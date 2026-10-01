@@ -45,10 +45,17 @@ Un student care pune în față proiectul de anul I (afișe de exercițiu) și a
 
 ## Legături
 
-- **aplicare** [[PIT-1413]] — aceeași structură în trei acte, aplicată ordinii proiectelor.
-- **vezi** [[PRT-1410]] — „sandvișul” lui Fenn (introducere–studii–completări) e o structură diferită de „sandvișul” în trei acte.
-- **fundament** [[PRT-1422]] — ritmul se construiește după ce ai selectat proiectele.
+- **aplicare** [[PIT-1413-formula-blockbuster-20-70-10|PIT-1413]] — aceeași structură în trei acte, aplicată ordinii proiectelor.
+- **vezi** [[PRT-1410-sandvisul-portofoliului-si-ce-nu-se-include|PRT-1410]] — „sandvișul” lui Fenn (introducere–studii–completări) e o structură diferită de „sandvișul” în trei acte.
+- **fundament** [[PRT-1422-curatoria-in-trei-gramezi-da-nu-poate|PRT-1422]] — ritmul se construiește după ce ai selectat proiectele.
 
 ## Surse
 
-- [[SRC-046]] Zuzana Kubišová, *The Architect's Pocket Guide to Portfolio Design*, Pasul 2, pp. 29–35; Pasul 8, pp. 217–218
+- [[SRC-046-architects-pocket-guide-to-portfolio-design|SRC-046]] Zuzana Kubišová, *The Architect's Pocket Guide to Portfolio Design*, Pasul 2, pp. 29–35; Pasul 8, pp. 217–218
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PRT-1422-curatoria-in-trei-gramezi-da-nu-poate|PRT-1422]] _extinde_ — Selecția pentru portofoliu se face în trei grămezi — DA, NU, POATE — cu cinci întrebări de control
+- [[SRC-046-architects-pocket-guide-to-portfolio-design|SRC-046]] — The Architect's Pocket Guide to Portfolio Design
+<!-- backlinks:end -->

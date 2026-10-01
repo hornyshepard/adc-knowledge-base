@@ -45,10 +45,20 @@ Autorii folosesc constant un producător de software de video cu AI pentru IMM-u
 
 ## Legături
 
-- **extinde** [[DIG-1007]] — MVP-ul e subsetul minim din cele cinci întrebări.
-- **aplicare** [[DIG-1026]] — fiecare grup de campanie pornește de la o persona minim viabilă.
-- **vezi** [[SOC-1007]] — pe social, persona se îmbogățește cu criteriile fiecărui ad manager.
+- **extinde** [[DIG-1007-persona-raspunde-la-cinci-intrebari|DIG-1007]] — MVP-ul e subsetul minim din cele cinci întrebări.
+- **aplicare** [[DIG-1026-grup-de-campanie-pe-persona-subcampanii-pe-etape|DIG-1026]] — fiecare grup de campanie pornește de la o persona minim viabilă.
+- **vezi** [[SOC-1007-platforma-sociala-potrivita-patru-intrebari|SOC-1007]] — pe social, persona se îmbogățește cu criteriile fiecărui ad manager.
 
 ## Surse
 
-- [[SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 2.2.2.2 (p. 53–55) și 2.4.2 (p. 89–91)
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 2.2.2.2 (p. 53–55) și 2.4.2 (p. 89–91)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-1006-buyer-persona-nu-este-grupul-tinta|DIG-1006]] _vezi_ — Buyer persona nu este grupul țintă — segmentarea spune pe cine alegi, persona spune cum decide și unde poate fi atins
+- [[DIG-1007-persona-raspunde-la-cinci-intrebari|DIG-1007]] _vezi_ — O persona utilă pentru campanii răspunde la cinci întrebări — de ce acum, ce așteaptă, ce o oprește, cine o influențează, unde o găsești
+- [[SOC-1006-ad-managerele-sociale-au-aceeasi-anatomie|SOC-1006]] _vezi_ — Ad managerele platformelor sociale au aceeași anatomie — obiectiv, format, previzualizare, public și persona, durată, buget zilnic, estimare de rezultate, cost
+- [[SOC-1007-platforma-sociala-potrivita-patru-intrebari|SOC-1007]] _fundament_ — Platforma socială potrivită trece testul a patru întrebări — persona e acolo, obiectivul se poate atinge, mesajul se potrivește, publicul e receptiv acolo
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] — Digital Advertising in the Post-cookie Era: Strategic Campaign Planning Across the Customer Journey
+<!-- backlinks:end -->

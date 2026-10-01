@@ -49,10 +49,18 @@ Pentru un vlog de călătorie la Wengen (Elveția), slăbiciunea poate fi un par
 
 ## Legături
 
-- **fundament** [[STO-1102]] — întrebările ajută la alegerea momentelor din anatomia poveștii.
-- **vezi** [[STO-1101]] — autorii resping matricea eroului, dar îi păstrează cotiturile.
-- **vezi** [[STO-1104]] — CTA-ul de la întrebarea 4 funcționează și ca story beat explicit.
+- **fundament** [[STO-1102-anatomia-povestii-alegi-momentul-dramatic-care-spune|STO-1102]] — întrebările ajută la alegerea momentelor din anatomia poveștii.
+- **vezi** [[STO-1101-pe-social-media-ghidul-inlocuieste-eroul-din-calatoria|STO-1101]] — autorii resping matricea eroului, dar îi păstrează cotiturile.
+- **vezi** [[STO-1104-story-beats-tin-ritmul-si-imping-atentia-spre-ce-urmeaza|STO-1104]] — CTA-ul de la întrebarea 4 funcționează și ca story beat explicit.
 
 ## Surse
 
-- [[SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 2.1.3, p. 64–65
+- [[SRC-034-social-media-storytelling|SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 2.1.3, p. 64–65
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[STO-1101-pe-social-media-ghidul-inlocuieste-eroul-din-calatoria|STO-1101]] _vezi_ — Pe social media, ghidul înlocuiește eroul din călătoria clasică
+- [[STO-1102-anatomia-povestii-alegi-momentul-dramatic-care-spune|STO-1102]] _extinde_ — Anatomia poveștii: alegi momentul dramatic care spune întregul
+- [[SRC-034-social-media-storytelling|SRC-034]] — Social Media Storytelling
+<!-- backlinks:end -->

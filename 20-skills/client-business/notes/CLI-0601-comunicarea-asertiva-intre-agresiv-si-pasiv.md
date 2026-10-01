@@ -52,9 +52,17 @@ Formularea propusă de carte pentru un conflict de termene: „Mă simt frustrat
 
 ## Legături
 
-- **vezi** [[PIT-0601]] — recomandarea cere același echilibru: convingere fără a forța mâna clientului.
-- **vezi** [[PIT-0602]] — tehnicile de voce susțin o poziție asertivă în fața unei săli.
+- **vezi** [[PIT-0601-recomandarea-de-agentie-arata-alegerea-nu-drumul|PIT-0601]] — recomandarea cere același echilibru: convingere fără a forța mâna clientului.
+- **vezi** [[PIT-0602-vorbirea-in-public-iesi-din-punctuatia-scrisa|PIT-0602]] — tehnicile de voce susțin o poziție asertivă în fața unei săli.
 
 ## Surse
 
-- [[SRC-020]] Jordan Muller, *La bible de la communication*, partea a II-a: „Les clés de la communication assertive", „Comment instaurer une communication bienveillante au travail ?"
+- [[SRC-020-la-bible-de-la-communication|SRC-020]] Jordan Muller, *La bible de la communication*, partea a II-a: „Les clés de la communication assertive", „Comment instaurer une communication bienveillante au travail ?"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0622-comunicarea-de-criza-recunoaste-masoara-nu-nega|ADV-0622]] _vezi_ — În comunicarea de criză, negarea e cea mai proastă opțiune — recunoaște primul, măsoară impactul, alege canalul, spune adevărul, învață
+- [[PIT-0602-vorbirea-in-public-iesi-din-punctuatia-scrisa|PIT-0602]] _vezi_ — Ca să vorbești viu în fața unei săli, ieși din „punctuația scrisă" — atacuri ferme, tăceri asumate, enjambament, scansiune, ritm contrastant
+- [[SRC-020-la-bible-de-la-communication|SRC-020]] — La bible de la communication
+<!-- backlinks:end -->

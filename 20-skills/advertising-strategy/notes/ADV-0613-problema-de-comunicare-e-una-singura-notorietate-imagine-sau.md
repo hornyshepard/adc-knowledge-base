@@ -50,10 +50,19 @@ Un brand de cosmetice bio, apreciat de cine îl cunoaște, dar cumpărat rar: SW
 
 ## Legături
 
-- **fundament** [[ADV-0612]] — veriga dintre analiză și strategie în planul de comunicare.
-- **vezi** [[ADV-0614]] — tipul problemei dictează obiectivul: cognitiv, afectiv sau conativ.
-- **vezi** [[BRF-0601]] — brief-ul clientului trebuie redus la această problemă.
+- **fundament** [[ADV-0612-planul-strategic-de-comunicare-e-un-lant-logic|ADV-0612]] — veriga dintre analiză și strategie în planul de comunicare.
+- **vezi** [[ADV-0614-obiectivele-de-comunicare-sunt-cognitive-afective-sau-conative|ADV-0614]] — tipul problemei dictează obiectivul: cognitiv, afectiv sau conativ.
+- **vezi** [[BRF-0601-din-brief-ul-clientului-in-brief-ul-creativ|BRF-0601]] — brief-ul clientului trebuie redus la această problemă.
 
 ## Surse
 
-- [[SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 6 (p. 30–31), outil 7 (p. 32–33)
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 6 (p. 30–31), outil 7 (p. 32–33)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0612-planul-strategic-de-comunicare-e-un-lant-logic|ADV-0612]] _vezi_ — Planul strategic de comunicare e un lanț în care fiecare verigă decurge din cea anterioară — de la SWOT la buget
+- [[ADV-0614-obiectivele-de-comunicare-sunt-cognitive-afective-sau-conative|ADV-0614]] _fundament_ — Obiectivele de comunicare sunt cognitive (a face cunoscut), afective (a face iubit) sau conative (a face să acționeze)
+- [[BRF-0601-din-brief-ul-clientului-in-brief-ul-creativ|BRF-0601]] _fundament_ — Brief-ul clientului pune întrebarea, brief-ul creativ o transformă într-o „problemă de rezolvat" pentru echipa de creație
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] — La boîte à outils de la publicité
+<!-- backlinks:end -->

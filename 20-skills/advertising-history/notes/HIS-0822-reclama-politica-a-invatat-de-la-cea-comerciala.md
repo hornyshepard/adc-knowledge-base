@@ -48,12 +48,21 @@ Reclama Willkie începea cu ora exactă a predării („Tonight, at Midnight…�
 
 ## Legături
 
-- **extinde** [[HIS-0809]] — propaganda de război a pregătit tehnicile campaniilor.
-- **vezi** [[HIS-0810]] — Reeves, autorul USP-ului, aplică aceeași logică în politică.
-- **vezi** [[CPY-0814]] — reclama Willkie este o reclamă instituțională folosită politic.
-- **vezi** [[CPY-0811]] — sloganurile politice ca tip aparte de slogan.
+- **extinde** [[HIS-0809-razboaiele-mondiale-au-facut-din-reclama-arma-de-opinie|HIS-0809]] — propaganda de război a pregătit tehnicile campaniilor.
+- **vezi** [[HIS-0810-genealogia-stilurilor-de-copy|HIS-0810]] — Reeves, autorul USP-ului, aplică aceeași logică în politică.
+- **vezi** [[CPY-0814-reclama-institutionala-vinde-incredere-prin-explicatie|CPY-0814]] — reclama Willkie este o reclamă instituțională folosită politic.
+- **vezi** [[CPY-0811-sloganul-bun-repetabil-diferentiator-durabil|CPY-0811]] — sloganurile politice ca tip aparte de slogan.
 
 ## Surse
 
-- [[SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 7, p. 121; cap. 16, p. 369, 374–376
-- [[SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrarea „Commonwealth & Southern — Tonight at Midnight”
+- [[SRC-027-a-history-of-advertising|SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 7, p. 121; cap. 16, p. 369, 374–376
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrarea „Commonwealth & Southern — Tonight at Midnight”
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0814-reclama-institutionala-vinde-incredere-prin-explicatie|CPY-0814]] _vezi_ — Reclama instituțională vinde încredere prin explicație răbdătoare, nu prin laudă
+- [[HIS-0809-razboaiele-mondiale-au-facut-din-reclama-arma-de-opinie|HIS-0809]] _vezi_ — Războaiele mondiale au transformat publicitatea dintr-un instrument de comerț într-o armă de opinie publică
+- [[SRC-027-a-history-of-advertising|SRC-027]] — A History of Advertising: The First 300,000 Years
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] — The 100 Greatest Advertisements 1852–1958: Who Wrote Them and What They Did
+<!-- backlinks:end -->

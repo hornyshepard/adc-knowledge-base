@@ -47,11 +47,23 @@ Formula seamănă cu modelele clasice de efect publicitar (cognitiv–afectiv–
 
 ## Legături
 
-- **extinde** [[PIT-1408]] — „Know” se concretizează în headline și trei mesaje cheie.
-- **extinde** [[PIT-1409]] — „Feel” devine o călătorie emoțională planificată.
-- **extinde** [[PIT-1410]] — „Do” devine cererea explicită.
-- **extinde** [[PIT-1411]] — „Why now” se construiește pe motivația towards / away from.
+- **extinde** [[PIT-1408-headline-si-trei-mesaje-cheie|PIT-1408]] — „Know” se concretizează în headline și trei mesaje cheie.
+- **extinde** [[PIT-1409-intentia-emotionala-prin-verbe-active|PIT-1409]] — „Feel” devine o călătorie emoțională planificată.
+- **extinde** [[PIT-1410-urmatorul-pas-logic-nu-da-ul-final|PIT-1410]] — „Do” devine cererea explicită.
+- **extinde** [[PIT-1411-motivatie-towards-vs-away-from|PIT-1411]] — „Why now” se construiește pe motivația towards / away from.
 
 ## Surse
 
-- [[SRC-043]] Dominic Colenso, *Cut-Through*, cap. 2 („Find the essence”)
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] Dominic Colenso, *Cut-Through*, cap. 2 („Find the essence”)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PIT-1406-see-it-feel-it-say-it-obiectivul-pitch-ului|PIT-1406]] _vezi_ — Obiectivul unui pitch se vizualizează, se simte și abia apoi se spune în sub zece cuvinte
+- [[PIT-1408-headline-si-trei-mesaje-cheie|PIT-1408]] _fundament_ — Un pitch se organizează ca un arbore — un headline, trei mesaje cheie și dovezile dedesubt
+- [[PIT-1409-intentia-emotionala-prin-verbe-active|PIT-1409]] _fundament_ — Călătoria emoțională a audienței se planifică prin verbe active
+- [[PIT-1410-urmatorul-pas-logic-nu-da-ul-final|PIT-1410]] _fundament_ — Cererea dintr-un pitch este „următorul pas logic”, nu „da”-ul final
+- [[PIT-1411-motivatie-towards-vs-away-from|PIT-1411]] _fundament_ — Urgența unui pitch se construiește pe motivația „towards” sau „away from”
+- [[PIT-1423-cele-cinci-r-ale-obiectiilor|PIT-1423]] _vezi_ — Obiecțiile se tratează în cinci pași — Reveal, Relate, Refine, Reduce, Redirect
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] — Cut-Through: The pitch and presentation playbook
+<!-- backlinks:end -->

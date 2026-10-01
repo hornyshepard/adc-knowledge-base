@@ -48,12 +48,26 @@ Curățătoria Very Clean a stricat un nasture la cămașa de 200 de dolari a lu
 
 ## Legături
 
-- **fundament** [[MKT-0102]] — relația e o formă de a livra valoare în timp.
-- **aplicare** [[MKT-0107]] — retenția clienților loiali este prima dintre cele patru macro-strategii de avantaj competitiv.
-- **vezi** [[BRD-0102]] — loialitatea față de brand e componenta capitalului de brand pe care CLV o monetizează.
-- **vezi** [[MKT-0126]] — CLV se calculează din date secundare interne (tranzacții).
+- **fundament** [[MKT-0102-valoarea-este-ce-primesti-raportat-la-ce-dai|MKT-0102]] — relația e o formă de a livra valoare în timp.
+- **aplicare** [[MKT-0107-strategia-tinta-mix-si-avantaj-competitiv-durabil|MKT-0107]] — retenția clienților loiali este prima dintre cele patru macro-strategii de avantaj competitiv.
+- **vezi** [[BRD-0102-capitalul-de-brand-notorietate-valoare-asocieri-loialitate|BRD-0102]] — loialitatea față de brand e componenta capitalului de brand pe care CLV o monetizează.
+- **vezi** [[MKT-0126-date-secundare-primare-calitativ-cantitativ|MKT-0126]] — CLV se calculează din date secundare interne (tranzacții).
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 1, p. 16; cap. 2, p. 31-33; anexa 10A, p. 349-351
-- [[SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 1, p. 16-17 (§1.3.4-1.3.5)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 1, p. 16; cap. 2, p. 31-33; anexa 10A, p. 349-351
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 1, p. 16-17 (§1.3.4-1.3.5)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0110-promotiile-aduc-vanzari-azi-dar-pot-fura-din-cele-de-maine|ADV-0110]] _vezi_ — Promoțiile de vânzări aduc vânzări azi, dar pot fura din cele de mâine și pot anula efectul unei campanii bune
+- [[BRD-0102-capitalul-de-brand-notorietate-valoare-asocieri-loialitate|BRD-0102]] _vezi_ — Capitalul de brand se măsoară prin patru componente — notorietate, valoare percepută, asocieri și loialitate
+- [[MKT-0103-evolutia-marketingului-productie-vanzari-piata-valoare|MKT-0103]] _vezi_ — Marketingul a evoluat de la orientarea pe producție la vânzări, piață și valoare
+- [[MKT-0107-strategia-tinta-mix-si-avantaj-competitiv-durabil|MKT-0107]] _aplicare_ — Strategia de marketing = piață țintă + mix + un avantaj competitiv durabil, construit ca un zid
+- [[MKT-0114-cinci-criterii-si-patru-strategii-de-targetare|MKT-0114]] _vezi_ — Un segment merită urmărit dacă trece cinci criterii; apoi alegi una dintre patru strategii de targetare
+- [[MKT-0126-date-secundare-primare-calitativ-cantitativ|MKT-0126]] _aplicare_ — Datele secundare sunt ieftine dar generale, cele primare sunt țintite dar scumpe; cercetarea calitativă deschide, cea cantitativă confirmă
+- [[MKT-0127-conceptul-de-marketing-vs-conceptul-de-vanzare|MKT-0127]] _vezi_ — Conceptul de vânzare împinge ce face fabrica, conceptul de marketing pornește de la ce vrea piața (cinci filozofii de management)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] — Principles of Marketing
+<!-- backlinks:end -->

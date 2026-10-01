@@ -56,11 +56,21 @@ Ferrari a pornit de la haine (fit acceptabil, aspirațional), apoi a licențiat 
 
 ## Legături
 
-- **fundament** [[BRD-0102]] — extensia valorifică (sau consumă) capitalul de brand.
-- **vezi** [[BRD-0103]] — arhitectura de brand decide dacă extensia poartă numele-mamă.
-- **aplicare** [[MKT-0111]] — dezvoltarea produsului și diversificarea înrudită se fac adesea prin extensii.
+- **fundament** [[BRD-0102-capitalul-de-brand-notorietate-valoare-asocieri-loialitate|BRD-0102]] — extensia valorifică (sau consumă) capitalul de brand.
+- **vezi** [[BRD-0103-proprietatea-si-denumirea-brandului|BRD-0103]] — arhitectura de brand decide dacă extensia poartă numele-mamă.
+- **aplicare** [[MKT-0111-patru-cai-de-crestere-matricea-ansoff|MKT-0111]] — dezvoltarea produsului și diversificarea înrudită se fac adesea prin extensii.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 11, p. 370-373 (Dilema 11.1); cap. 12, p. 393 (Exhibit 12.1)
-- [[SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 4, p. 121-122 (§4.6.3)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 11, p. 370-373 (Dilema 11.1); cap. 12, p. 393 (Exhibit 12.1)
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 4, p. 121-122 (§4.6.3)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0102-capitalul-de-brand-notorietate-valoare-asocieri-loialitate|BRD-0102]] _aplicare_ — Capitalul de brand se măsoară prin patru componente — notorietate, valoare percepută, asocieri și loialitate
+- [[BRD-0103-proprietatea-si-denumirea-brandului|BRD-0103]] _extinde_ — Două decizii de bază în strategia de brand — cine deține marca (producător sau retailer) și cum o numești (de familie sau individuală)
+- [[MKT-0111-patru-cai-de-crestere-matricea-ansoff|MKT-0111]] _aplicare_ — Există patru căi de creștere — piață actuală sau nouă × produs actual sau nou (matricea Ansoff)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] — Principles of Marketing
+<!-- backlinks:end -->

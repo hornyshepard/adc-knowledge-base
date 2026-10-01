@@ -33,7 +33,7 @@ Watkins oferă dovezi din practică, dinainte de revoluția creativă. Seria She
 
 ## Exemplu
 
-Burma-Shave a pariat pe umor și ireverență într-o epocă a textelor lungi și serioase de tip hard sell (vezi [[CPY-0815]]).
+Burma-Shave a pariat pe umor și ireverență într-o epocă a textelor lungi și serioase de tip hard sell (vezi [[CPY-0815-burma-shave-copy-serial-care-controleaza-ritmul|CPY-0815]]).
 
 ## Întrebări
 
@@ -42,12 +42,25 @@ Burma-Shave a pariat pe umor și ireverență într-o epocă a textelor lungi ș
 
 ## Legături
 
-- **fundament** [[HIS-0810]] — umorul ca fir roșu al genealogiei stilurilor.
-- **alternativa** [[CPY-0806]] — umorul și căldura în locul fricii.
-- **aplicare** [[CPY-0810]] — umorul transformă produsele banale.
-- **vezi** [[IDE-0801]] — Big Idea folosește surpriza și ironia ca recompensă.
+- **fundament** [[HIS-0810-genealogia-stilurilor-de-copy|HIS-0810]] — umorul ca fir roșu al genealogiei stilurilor.
+- **alternativa** [[CPY-0806-teama-sociala-vinde-dar-exista-calea-pozitiva|CPY-0806]] — umorul și căldura în locul fricii.
+- **aplicare** [[CPY-0810-nu-exista-produse-prozaice|CPY-0810]] — umorul transformă produsele banale.
+- **vezi** [[IDE-0801-big-idea-strategie-plus-surpriza|IDE-0801]] — Big Idea folosește surpriza și ironia ca recompensă.
 
 ## Surse
 
-- [[SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 10, p. 204, 207–208; cap. 13, p. 280
-- [[SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Shell Oil Company”, „Bruggner’s — White Elephant Sale”, „Arrow Collar”, „R. H. Macy”
+- [[SRC-027-a-history-of-advertising|SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 10, p. 204, 207–208; cap. 13, p. 280
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Shell Oil Company”, „Bruggner’s — White Elephant Sale”, „Arrow Collar”, „R. H. Macy”
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0806-teama-sociala-vinde-dar-exista-calea-pozitiva|CPY-0806]] _contrazice_ — Teama socială vinde — dar există și calea pozitivă
+- [[CPY-0810-nu-exista-produse-prozaice|CPY-0810]] _aplicare_ — Nu există produse prozaice — doar copywriteri care n-au găsit încă omul din produs
+- [[CPY-0812-vocea-personala-a-proprietarului|CPY-0812]] _vezi_ — Vocea personală a proprietarului bate tonul corporatist
+- [[CPY-0815-burma-shave-copy-serial-care-controleaza-ritmul|CPY-0815]] _exemplu_ — Burma-Shave — copy serial care controlează ritmul lecturii și transformă drumul în joc
+- [[HIS-0810-genealogia-stilurilor-de-copy|HIS-0810]] _vezi_ — Genealogia stilurilor de copy — știre, reason-why, imagine, USP, Big Idea
+- [[IDE-0801-big-idea-strategie-plus-surpriza|IDE-0801]] _vezi_ — Big Idea — conceptul care face o reclamă diferită de ale concurenților îmbină strategia cu surpriza
+- [[SRC-027-a-history-of-advertising|SRC-027]] — A History of Advertising: The First 300,000 Years
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] — The 100 Greatest Advertisements 1852–1958: Who Wrote Them and What They Did
+<!-- backlinks:end -->

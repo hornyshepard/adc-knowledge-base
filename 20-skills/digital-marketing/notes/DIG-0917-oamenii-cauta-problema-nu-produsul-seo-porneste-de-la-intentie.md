@@ -48,11 +48,19 @@ Spray-urile „Monster Spray", inspirate de cartea lui Cherith Clark și Kirstin
 
 ## Legături
 
-- **fundament** [[DIG-0915]] — intenția e punctul de plecare comun pentru SEO și PPC.
-- **aplicare** [[DIG-0916]] — conținutul și structura site-ului răspund intenției.
-- **vezi** [[DIG-0912]] — persona ajută la formularea întrebărilor pe care le caută ținta.
-- **vezi** [[STO-0902]] — tipul de conținut se alege după etapa și natura deciziei.
+- **fundament** [[DIG-0915-sem-are-doua-fete-seo-construieste-ppc-cumpara-vizibilitate|DIG-0915]] — intenția e punctul de plecare comun pentru SEO și PPC.
+- **aplicare** [[DIG-0916-seo-sta-pe-trei-piloni-tehnic-continut-off-site|DIG-0916]] — conținutul și structura site-ului răspund intenției.
+- **vezi** [[DIG-0912-persona-transforma-un-segment-statistic-intr-un-om|DIG-0912]] — persona ajută la formularea întrebărilor pe care le caută ținta.
+- **vezi** [[STO-0902-matricea-content-marketingului-entertain-inspire-educate-convince|STO-0902]] — tipul de conținut se alege după etapa și natura deciziei.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 7, p. 199-204, 209
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 7, p. 199-204, 209
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0915-sem-are-doua-fete-seo-construieste-ppc-cumpara-vizibilitate|DIG-0915]] _aplicare_ — SEM are două fețe — SEO construiește vizibilitate în timp, PPC o cumpără imediat — și funcționează cel mai bine împreună
+- [[DIG-0916-seo-sta-pe-trei-piloni-tehnic-continut-off-site|DIG-0916]] _fundament_ — SEO stă pe trei piloni — tehnic, conținut și off-site — iar Google cântărește cel mai mult conținutul, linkurile și RankBrain
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+<!-- backlinks:end -->

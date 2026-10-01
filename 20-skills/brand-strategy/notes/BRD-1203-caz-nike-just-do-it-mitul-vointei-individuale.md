@@ -43,10 +43,18 @@ Același mit e adaptat de la un sport la altul și de la o piață la alta (basc
 
 ## Legături
 
-- **exemplu** [[BRD-1202]] — aplicare completă a celor șase pași ai brandingului cultural.
-- **vezi** [[STO-1201]] — structura reclamelor Nike urmează arcul eroului care se transformă prin efort.
-- **vezi** [[BRD-1201]] — cultura mărcii depășește mediile care o transmit.
+- **exemplu** [[BRD-1202-branding-cultural-holt-mitul-rezolva-contradictii|BRD-1202]] — aplicare completă a celor șase pași ai brandingului cultural.
+- **vezi** [[STO-1201-povestea-de-brand-din-pozitionare-si-hero-journey|STO-1201]] — structura reclamelor Nike urmează arcul eroului care se transformă prin efort.
+- **vezi** [[BRD-1201-emphasis-de-la-brand-content-la-brand-culture|BRD-1201]] — cultura mărcii depășește mediile care o transmit.
 
 ## Surse
 
-- [[SRC-036]] Wided Batat, *Experiential Marketing*, cap. 7, mini-cazul 7.1 „Nike: the construction of the «Just Do It» myth" (după Holt & Cameron, *Cultural Strategy*, 2012)
+- [[SRC-036-experiential-marketing|SRC-036]] Wided Batat, *Experiential Marketing*, cap. 7, mini-cazul 7.1 „Nike: the construction of the «Just Do It» myth" (după Holt & Cameron, *Cultural Strategy*, 2012)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-1202-branding-cultural-holt-mitul-rezolva-contradictii|BRD-1202]] _vezi_ — Brandingul cultural (Holt) — o marcă devine iconică livrând un mit care rezolvă o contradicție culturală
+- [[STO-1201-povestea-de-brand-din-pozitionare-si-hero-journey|STO-1201]] _vezi_ — Povestea de brand se construiește din poziționare sau pe arcul eroului — și convinge prin transport narativ
+- [[SRC-036-experiential-marketing|SRC-036]] — Experiential Marketing: Consumer Behavior, Customer Experience and the 7Es
+<!-- backlinks:end -->

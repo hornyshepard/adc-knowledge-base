@@ -22,12 +22,12 @@ Autorii au distilat formatul din sute de brief-uri văzute la clienți și agen�
 
 | Componentă | Întrebarea la care răspunde | Notă detaliată |
 |---|---|---|
-| Obiectiv (*objective*) | Ce trebuie să schimbe comunicarea, cât și până când? | [[BRF-0703]] |
-| Țintă (*target*) | Cui vorbim, cu prioritate? | [[BRF-0704]] |
-| Insight | Ce adevăr uman despre țintă face mesajul relevant? | [[INS-0701]] |
-| Poziționare (*positioning*) | Ce mesaj principal trebuie să rămână? | [[BRF-0705]] |
-| Execuție (*execution*) | Personalitate, mandatories, timing și buget, media | [[BRF-0709]] |
-| Măsurare (*measurement*) | Cum știm dacă a funcționat; ce testăm și când? | [[BRF-0710]] |
+| Obiectiv (*objective*) | Ce trebuie să schimbe comunicarea, cât și până când? | [[BRF-0703-obiectivul-din-brief-este-unul-de-comunicare|BRF-0703]] |
+| Țintă (*target*) | Cui vorbim, cu prioritate? | [[BRF-0704-targetarea-inseamna-prioritizare-trei-erori-si-tinta-own-attract-accept|BRF-0704]] |
+| Insight | Ce adevăr uman despre țintă face mesajul relevant? | [[INS-0701-insight-ul-este-un-adevar-uman-semnificativ|INS-0701]] |
+| Poziționare (*positioning*) | Ce mesaj principal trebuie să rămână? | [[BRF-0705-declaratia-de-pozitionare-tinta-cadru-diferenta-motiv|BRF-0705]] |
+| Execuție (*execution*) | Personalitate, mandatories, timing și buget, media | [[BRF-0709-sectiunea-de-executie-patru-piloni|BRF-0709]] |
+| Măsurare (*measurement*) | Cum știm dacă a funcționat; ce testăm și când? | [[BRF-0710-masurarea-se-scrie-in-brief-inainte-de-campanie|BRF-0710]] |
 
 Componentele formează un lanț: obiectivul cere o țintă potrivită; insight-ul este „lipiciul" dintre țintă și poziționare; execuția livrează poziționarea; măsurarea se întoarce la obiectiv.
 
@@ -35,14 +35,14 @@ Al doilea principiu este **parcimonia**. „Brief" vine de la scurt, iar un brie
 
 ## Aplicare
 
-- Folosește cele șase întrebări ca listă de control pentru orice formular de agenție (vezi comparația din [[BRF-0720]]).
+- Folosește cele șase întrebări ca listă de control pentru orice formular de agenție (vezi comparația din [[BRF-0720-comparatie-intre-modelele-de-brief-de-agentie|BRF-0720]]).
 - În prima versiune păstrează etichetele (ex.: „cadru de referință", „motiv de a crede"), ca să verifici că fiecare element există; le poți scoate în versiunea finală.
 - Dacă nu ai un insight real, lasă căsuța goală: e mai cinstit decât unul inventat.
 - Detaliile (formularea întrebărilor de sondaj, planul media complet) stau în documente anexe, nu în brief.
 
 ## Exemplu
 
-Firma fictivă Stark Cloud Solutions trece prin toate cele șase secțiuni, de la un brief „bun" la unul excelent ([[BRF-0714]]).
+Firma fictivă Stark Cloud Solutions trece prin toate cele șase secțiuni, de la un brief „bun" la unul excelent ([[BRF-0714-cazul-stark-cloud-solutions-de-la-brief-bun-la-excelent|BRF-0714]]).
 
 ## Întrebări
 
@@ -51,10 +51,23 @@ Firma fictivă Stark Cloud Solutions trece prin toate cele șase secțiuni, de l
 
 ## Legături
 
-- **extinde** [[BRF-0701]] — detaliază conținutul „planului de arhitect".
-- **aplicare** [[BRF-0714]] — cazul Stark aplică modelul secțiune cu secțiune.
-- **vezi** [[BRF-0720]] — cele cinci formulare de agenție comparate cu acest model.
+- **extinde** [[BRF-0701-brief-ul-creativ-este-planul-de-arhitect-al-executiei|BRF-0701]] — detaliază conținutul „planului de arhitect".
+- **aplicare** [[BRF-0714-cazul-stark-cloud-solutions-de-la-brief-bun-la-excelent|BRF-0714]] — cazul Stark aplică modelul secțiune cu secțiune.
+- **vezi** [[BRF-0720-comparatie-intre-modelele-de-brief-de-agentie|BRF-0720]] — cele cinci formulare de agenție comparate cu acest model.
 
 ## Surse
 
-- [[SRC-022]] Kevin McTigue, Derek D. Rucker, *The Creative Brief Blueprint*, cap. 1 „Why" și Epilog
+- [[SRC-022-the-creative-brief-blueprint|SRC-022]] Kevin McTigue, Derek D. Rucker, *The Creative Brief Blueprint*, cap. 1 „Why" și Epilog
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRF-0701-brief-ul-creativ-este-planul-de-arhitect-al-executiei|BRF-0701]] _extinde_ — Brief-ul creativ este planul de arhitect al execuției — hartă pentru creație și criteriu de evaluare
+- [[BRF-0703-obiectivul-din-brief-este-unul-de-comunicare|BRF-0703]] _fundament_ — Obiectivul din brief este unul de comunicare — specific, falsificabil și legat de bariera principală
+- [[BRF-0705-declaratia-de-pozitionare-tinta-cadru-diferenta-motiv|BRF-0705]] _fundament_ — Declarația de poziționare din brief — țintă, cadru de referință, punct de diferență, motiv de a crede
+- [[BRF-0709-sectiunea-de-executie-patru-piloni|BRF-0709]] _fundament_ — Secțiunea de execuție a brief-ului are patru piloni — personalitate, mandatories, timing și buget, media
+- [[BRF-0714-cazul-stark-cloud-solutions-de-la-brief-bun-la-excelent|BRF-0714]] _exemplu_ — Cazul Stark Cloud Solutions — cum devine un brief „bun" unul excelent, secțiune cu secțiune
+- [[BRF-0720-comparatie-intre-modelele-de-brief-de-agentie|BRF-0720]] _fundament_ — Modelele de brief de agenție au același nucleu, dar fiecare optimizează altceva — inspirația, concizia, contextul, procesul sau dovada
+- [[INS-0701-insight-ul-este-un-adevar-uman-semnificativ|INS-0701]] _fundament_ — Insight-ul este un adevăr uman semnificativ — trebuie să treacă testul sensului, al omului și al adevărului
+- [[SRC-022-the-creative-brief-blueprint|SRC-022]] — The Creative Brief Blueprint
+<!-- backlinks:end -->

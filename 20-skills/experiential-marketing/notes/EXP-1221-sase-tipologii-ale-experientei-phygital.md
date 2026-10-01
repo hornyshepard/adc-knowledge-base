@@ -47,10 +47,19 @@ Stația de autobuz Pepsi Max e cazul de referință pentru ADC: o singură idee 
 
 ## Legături
 
-- **extinde** [[EXP-1220]] — detaliază formele concrete ale experienței phygital.
-- **aplicare** [[EXP-1210]] — experiența web traduce cele cinci semnături senzoriale în digital.
-- **vezi** [[EXP-1222]] — VR și video-ul live sunt principalele instrumente ale storyliving-ului.
+- **extinde** [[EXP-1220-experienta-phygital-fizic-plus-digital|EXP-1220]] — detaliază formele concrete ale experienței phygital.
+- **aplicare** [[EXP-1210-marketingul-senzorial-cinci-semnaturi|EXP-1210]] — experiența web traduce cele cinci semnături senzoriale în digital.
+- **vezi** [[EXP-1222-storyliving-povestea-traita-nu-doar-spusa|EXP-1222]] — VR și video-ul live sunt principalele instrumente ale storyliving-ului.
 
 ## Surse
 
-- [[SRC-036]] Wided Batat, *Experiential Marketing*, cap. 11 (Figurile 11.1–11.2; mini-cazurile 11.5 Fitbit, 11.6 Amazon Dash, 11.7 Pepsi Max, 11.8 Tipp-Ex, 11.9 Burberry; Theory Box 11.2)
+- [[SRC-036-experiential-marketing|SRC-036]] Wided Batat, *Experiential Marketing*, cap. 11 (Figurile 11.1–11.2; mini-cazurile 11.5 Fitbit, 11.6 Amazon Dash, 11.7 Pepsi Max, 11.8 Tipp-Ex, 11.9 Burberry; Theory Box 11.2)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[EXP-1210-marketingul-senzorial-cinci-semnaturi|EXP-1210]] _vezi_ — Marketingul senzorial construiește cinci semnături de brand — olfactivă, auditivă, tactilă, vizuală, gustativă
+- [[EXP-1220-experienta-phygital-fizic-plus-digital|EXP-1220]] _vezi_ — Experiența phygital îmbină siguranța contactului fizic cu interactivitatea digitalului, fără rupturi între canale
+- [[EXP-1222-storyliving-povestea-traita-nu-doar-spusa|EXP-1222]] _vezi_ — Storyliving — brandurile care își fac povestea trăită de client depășesc brandurile care doar o spun
+- [[SRC-036-experiential-marketing|SRC-036]] — Experiential Marketing: Consumer Behavior, Customer Experience and the 7Es
+<!-- backlinks:end -->

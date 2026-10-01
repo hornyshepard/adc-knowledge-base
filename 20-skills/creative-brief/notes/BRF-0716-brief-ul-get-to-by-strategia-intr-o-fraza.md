@@ -34,25 +34,33 @@ Ce lipsește intenționat: insight-ul, tonul, obligatoriile, bugetul, măsurarea
 ## Aplicare
 
 - Scrie fraza Get/To/By înainte de brief-ul complet. Dacă nu iese, întoarce-te la cercetare.
-- Folosește-o ca rezumat de un rând (asemenea rubricii „the brief in brief" din Naked, [[BRF-0717]]).
+- Folosește-o ca rezumat de un rând (asemenea rubricii „the brief in brief" din Naked, [[BRF-0717-naked-brief-informativ-si-inspirational|BRF-0717]]).
 - Ca exercițiu, cere fiecărui membru al echipei să scrie fraza separat și comparați: diferențele arată unde nu există aliniere.
 - Verifică veriga TO: e un singur răspuns? „Să afle, să iubească și să cumpere" sunt trei obiective.
 
 ## Exemplu
 
-Pentru Stark ([[BRF-0714]]): *Determină* managerii IMM-urilor cu servere vechi *să creadă* că datele lor sunt mai în siguranță în cloud decât în serverul propriu, *spunându-le* că Stark protejează mai bine decât orice stocare internă, *pentru că* folosește criptare de top în industrie.
+Pentru Stark ([[BRF-0714-cazul-stark-cloud-solutions-de-la-brief-bun-la-excelent|BRF-0714]]): *Determină* managerii IMM-urilor cu servere vechi *să creadă* că datele lor sunt mai în siguranță în cloud decât în serverul propriu, *spunându-le* că Stark protejează mai bine decât orice stocare internă, *pentru că* folosește criptare de top în industrie.
 
 ## Întrebări
 
 - Lipsa insight-ului din formulă e o slăbiciune sau o alegere? Unde ai scrie insight-ul?
-- Formula se potrivește ideilor care nu sunt mesaje (o activare, un serviciu util)? Vezi [[STO-0701]].
+- Formula se potrivește ideilor care nu sunt mesaje (o activare, un serviciu util)? Vezi [[STO-0701-o-poveste-e-shareworthy-cand-are-valoare-de-folosinta|STO-0701]].
 
 ## Legături
 
-- **vezi** [[BRF-0720]] — comparația cu celelalte formulare.
-- **vezi** [[BRF-0703]] — veriga TO e obiectivul de comunicare.
-- **vezi** [[BRF-0705]] — verigile BY și BECAUSE corespund punctului de diferență și motivului de a crede.
+- **vezi** [[BRF-0720-comparatie-intre-modelele-de-brief-de-agentie|BRF-0720]] — comparația cu celelalte formulare.
+- **vezi** [[BRF-0703-obiectivul-din-brief-este-unul-de-comunicare|BRF-0703]] — veriga TO e obiectivul de comunicare.
+- **vezi** [[BRF-0705-declaratia-de-pozitionare-tinta-cadru-diferenta-motiv|BRF-0705]] — verigile BY și BECAUSE corespund punctului de diferență și motivului de a crede.
 
 ## Surse
 
-- [[SRC-023]] Modele de brief de agenție — formularul Get/To/By
+- [[SRC-023-modele-de-brief-de-agentie|SRC-023]] Modele de brief de agenție — formularul Get/To/By
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRF-0717-naked-brief-informativ-si-inspirational|BRF-0717]] _vezi_ — Naked Brief — un brief „informativ și inspirațional", construit pe context, învățare și trei tipuri de măsuri
+- [[BRF-0720-comparatie-intre-modelele-de-brief-de-agentie|BRF-0720]] _extinde_ — Modelele de brief de agenție au același nucleu, dar fiecare optimizează altceva — inspirația, concizia, contextul, procesul sau dovada
+- [[SRC-023-modele-de-brief-de-agentie|SRC-023]] — Modele de brief de agenție (Euro RSCG, Get/To/By, Naked, Red Cell, Singleton Ogilvy & Mather)
+<!-- backlinks:end -->

@@ -49,10 +49,17 @@ Un producător de vin a testat nouă prețuri amestecate, trei mărimi de sticl�
 
 ## Legături
 
-- **fundament** [[AIM-1310]] — metoda pentru care e scris checklistul.
-- **vezi** [[INS-1303]] — cercetarea calitativă din pasul 1 și 2.
-- **aplicare** [[AIM-1316]] — întrebările de pornire ale oricărui proiect de predicție.
+- **fundament** [[AIM-1310-metodele-de-trade-off-cand-folosesti-fiecare|AIM-1310]] — metoda pentru care e scris checklistul.
+- **vezi** [[INS-1303-focus-grupul-e-pentru-limbaj-nu-pentru-decizii|INS-1303]] — cercetarea calitativă din pasul 1 și 2.
+- **aplicare** [[AIM-1316-ce-metoda-pentru-ce-intrebare-de-marketing|AIM-1316]] — întrebările de pornire ale oricărui proiect de predicție.
 
 ## Surse
 
-- [[SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, cap. 2 și cap. 4
+- [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, cap. 2 și cap. 4
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-1310-metodele-de-trade-off-cand-folosesti-fiecare|AIM-1310]] _vezi_ — Metodele de trade-off — alegere discretă, conjoint, MaxDiff, Q-Sort — răspund la întrebări diferite
+- [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]] — Artificial Intelligence Marketing and Predicting Consumer Choice: An Overview of Tools and Techniques
+<!-- backlinks:end -->

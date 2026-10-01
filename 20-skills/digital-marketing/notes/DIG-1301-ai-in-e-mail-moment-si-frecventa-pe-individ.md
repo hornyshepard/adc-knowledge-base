@@ -33,7 +33,7 @@ Cartea le aplică pe patru e-mailuri de ciclu de viață: **bun venit** (recoman
 
 Două avertismente: supra-personalizarea (mesajul pare că „știe prea mult") și pierderea vocii brandului în automatizare. Noil recomandă ca un om să verifice conținutul generat.
 
-Richards și McLean ([[SRC-040]]) adaugă stratul de reguli de deasupra algoritmului: o **strategie de contact** scrisă (frecvență maximă pe canal și pe produs, ferestre orare), care nu poate fi încălcată de managerii de produs dornici să-și trimită campaniile.
+Richards și McLean ([[SRC-040-intelligent-customer-engagement|SRC-040]]) adaugă stratul de reguli de deasupra algoritmului: o **strategie de contact** scrisă (frecvență maximă pe canal și pe produs, ferestre orare), care nu poate fi încălcată de managerii de produs dornici să-și trimită campaniile.
 
 ## Aplicare
 
@@ -52,11 +52,21 @@ Un serviciu de abonament fitness, în exemplul din carte, trimite planul săptă
 
 ## Legături
 
-- **aplicare** [[AIM-1302]] — fluxurile de e-mail activează segmentele dinamice.
-- **aplicare** [[AIM-1301]] — e-mailul combină registrele comportamental și predictiv.
-- **vezi** [[AIM-1324]] — strategia de contact și arbitrajul ofertelor în sistemele automate.
+- **aplicare** [[AIM-1302-segmentele-construite-cu-ai-sunt-dinamice|AIM-1302]] — fluxurile de e-mail activează segmentele dinamice.
+- **aplicare** [[AIM-1301-personalizarea-cu-ai-are-patru-registre|AIM-1301]] — e-mailul combină registrele comportamental și predictiv.
+- **vezi** [[AIM-1324-ofera-ce-accepta-clientul-nu-ce-aduce-marja-maxima|AIM-1324]] — strategia de contact și arbitrajul ofertelor în sistemele automate.
 
 ## Surse
 
-- [[SRC-037]] Karen Noil, *AI-Driven Marketing*, cap. 7 (7.2-7.6)
-- [[SRC-040]] Aly Richards & Scott McLean, *Intelligent Customer Engagement*, secț. 4, cap. 2
+- [[SRC-037-ai-driven-marketing|SRC-037]] Karen Noil, *AI-Driven Marketing*, cap. 7 (7.2-7.6)
+- [[SRC-040-intelligent-customer-engagement|SRC-040]] Aly Richards & Scott McLean, *Intelligent Customer Engagement*, secț. 4, cap. 2
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-1302-segmentele-construite-cu-ai-sunt-dinamice|AIM-1302]] _vezi_ — Segmentele construite cu AI sunt dinamice — clientul migrează între ele după comportament
+- [[AIM-1324-ofera-ce-accepta-clientul-nu-ce-aduce-marja-maxima|AIM-1324]] _vezi_ — Oferă ce e mai probabil să accepte clientul, nu ce aduce marja cea mai mare — un „da" aduce alt „da"
+- [[CPY-1301-vocea-brandului-in-continutul-generat-cu-ai|CPY-1301]] _vezi_ — Vocea brandului nu se obține din prompt, ci dintr-un ciclu exemple → ciornă → editare umană → feedback → control final
+- [[SRC-037-ai-driven-marketing|SRC-037]] — AI-Driven Marketing: Harnessing Artificial Intelligence to Personalize Customer Experiences
+- [[SRC-040-intelligent-customer-engagement|SRC-040]] — Intelligent Customer Engagement: The Future of Content Marketing
+<!-- backlinks:end -->

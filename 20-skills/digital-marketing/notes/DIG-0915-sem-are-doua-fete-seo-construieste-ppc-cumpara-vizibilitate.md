@@ -47,11 +47,20 @@ Pe mobil, primul rezultat contează și mai mult: pe desktop prima poziție ia 2
 
 ## Legături
 
-- **extinde** [[DIG-0916]] — cei trei piloni detaliază fața SEO.
-- **extinde** [[DIG-0918]] — Ad Rank și Quality Score detaliază fața PPC.
-- **aplicare** [[DIG-0917]] — ambele fețe pornesc de la intenția de căutare.
-- **vezi** [[DIG-0925]] — SEO ține de media owned/earned, PPC de media paid.
+- **extinde** [[DIG-0916-seo-sta-pe-trei-piloni-tehnic-continut-off-site|DIG-0916]] — cei trei piloni detaliază fața SEO.
+- **extinde** [[DIG-0918-ad-rank-si-quality-score-pozitia-se-castiga-cu-relevanta|DIG-0918]] — Ad Rank și Quality Score detaliază fața PPC.
+- **aplicare** [[DIG-0917-oamenii-cauta-problema-nu-produsul-seo-porneste-de-la-intentie|DIG-0917]] — ambele fețe pornesc de la intenția de căutare.
+- **vezi** [[DIG-0925-media-owned-earned-paid-control-credibilitate-acoperire|DIG-0925]] — SEO ține de media owned/earned, PPC de media paid.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 7, p. 191-195, 210-212
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 7, p. 191-195, 210-212
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0916-seo-sta-pe-trei-piloni-tehnic-continut-off-site|DIG-0916]] _extinde_ — SEO stă pe trei piloni — tehnic, conținut și off-site — iar Google cântărește cel mai mult conținutul, linkurile și RankBrain
+- [[DIG-0917-oamenii-cauta-problema-nu-produsul-seo-porneste-de-la-intentie|DIG-0917]] _fundament_ — Oamenii caută problema, nu produsul — de aceea SEO pornește de la intenția de căutare
+- [[DIG-0918-ad-rank-si-quality-score-pozitia-se-castiga-cu-relevanta|DIG-0918]] _extinde_ — În Google Ads poziția se câștigă cu relevanță, nu doar cu bani — Ad Rank combină licitația cu Quality Score
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+<!-- backlinks:end -->

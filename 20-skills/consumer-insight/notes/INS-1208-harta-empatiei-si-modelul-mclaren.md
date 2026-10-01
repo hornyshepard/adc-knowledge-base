@@ -54,10 +54,17 @@ IKEA „Retail Therapy" (2016) a redenumit produsele pe site după întrebări f
 
 ## Legături
 
-- **aplicare** [[EXP-1216]] — instrumentele formează capitalul de empatie descris ca al cincilea E.
-- **vezi** [[EXP-1218]] — atelierul cu carduri emoționale exersează aceleași abilități, direct cu clienții.
-- **vezi** [[INS-1210]] — cercetarea etnografică alimentează harta empatiei cu date reale.
+- **aplicare** [[EXP-1216-capitalul-de-empatie-inlocuieste-people|EXP-1216]] — instrumentele formează capitalul de empatie descris ca al cincilea E.
+- **vezi** [[EXP-1218-cardurile-emotional-touchpoints-atelier-in-sase-pasi|EXP-1218]] — atelierul cu carduri emoționale exersează aceleași abilități, direct cu clienții.
+- **vezi** [[INS-1210-etnografia-experientiala-socializare-colaborare|INS-1210]] — cercetarea etnografică alimentează harta empatiei cu date reale.
 
 ## Surse
 
-- [[SRC-036]] Wided Batat, *Experiential Marketing*, cap. 8, secț. „Empathy capital formation", „Empathy map", „McLaren's empathy model" (Figura 8.2; mini-cazurile 8.2 IKEA, 8.3 Always)
+- [[SRC-036-experiential-marketing|SRC-036]] Wided Batat, *Experiential Marketing*, cap. 8, secț. „Empathy capital formation", „Empathy map", „McLaren's empathy model" (Figura 8.2; mini-cazurile 8.2 IKEA, 8.3 Always)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[EXP-1216-capitalul-de-empatie-inlocuieste-people|EXP-1216]] _vezi_ — Capitalul de empatie înlocuiește „People" — angajații trebuie să gândească întâi ca clientul
+- [[SRC-036-experiential-marketing|SRC-036]] — Experiential Marketing: Consumer Behavior, Customer Experience and the 7Es
+<!-- backlinks:end -->

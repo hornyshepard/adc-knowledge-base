@@ -36,19 +36,27 @@ E singurul formular din set care se explică singur. Începe cu o instrucțiune:
 
 - Rubrica „brief-ul pe scurt" e un test excelent: scrie-o la final și verifică dacă restul o susține.
 - Completează mereu „istoric și învățare": e rubrica cea mai des sărită și cea mai utilă pentru creativi.
-- Definește cele trei tipuri de măsuri înainte de lansare (vezi [[BRF-0710]]).
+- Definește cele trei tipuri de măsuri înainte de lansare (vezi [[BRF-0710-masurarea-se-scrie-in-brief-inainte-de-campanie|BRF-0710]]).
 
 ## Întrebări
 
 - „Ask us to find some": cine e responsabil de insight, clientul sau agenția? McTigue și Rucker pun brief-ul în sarcina clientului, ajutat de account planner.
-- Lipsa rubricilor de buget și obligatorii e libertate sau risc de rundele inutile descrise în [[BRF-0709]]?
+- Lipsa rubricilor de buget și obligatorii e libertate sau risc de rundele inutile descrise în [[BRF-0709-sectiunea-de-executie-patru-piloni|BRF-0709]]?
 
 ## Legături
 
-- **vezi** [[BRF-0720]] — comparația cu celelalte formulare.
-- **vezi** [[BRF-0710]] — măsurarea scrisă înainte de campanie.
-- **vezi** [[BRF-0716]] — „brief-ul pe scurt" și fraza Get/To/By au același rol de test.
+- **vezi** [[BRF-0720-comparatie-intre-modelele-de-brief-de-agentie|BRF-0720]] — comparația cu celelalte formulare.
+- **vezi** [[BRF-0710-masurarea-se-scrie-in-brief-inainte-de-campanie|BRF-0710]] — măsurarea scrisă înainte de campanie.
+- **vezi** [[BRF-0716-brief-ul-get-to-by-strategia-intr-o-fraza|BRF-0716]] — „brief-ul pe scurt" și fraza Get/To/By au același rol de test.
 
 ## Surse
 
-- [[SRC-023]] Modele de brief de agenție — Naked Briefing Template, p. 1–2
+- [[SRC-023-modele-de-brief-de-agentie|SRC-023]] Modele de brief de agenție — Naked Briefing Template, p. 1–2
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRF-0716-brief-ul-get-to-by-strategia-intr-o-fraza|BRF-0716]] — Brief-ul Get/To/By pune toată strategia într-o frază cu patru verigi — țintă, răspuns, mesaj, motiv
+- [[BRF-0720-comparatie-intre-modelele-de-brief-de-agentie|BRF-0720]] _extinde_ — Modelele de brief de agenție au același nucleu, dar fiecare optimizează altceva — inspirația, concizia, contextul, procesul sau dovada
+- [[SRC-023-modele-de-brief-de-agentie|SRC-023]] — Modele de brief de agenție (Euro RSCG, Get/To/By, Naked, Red Cell, Singleton Ogilvy & Mather)
+<!-- backlinks:end -->

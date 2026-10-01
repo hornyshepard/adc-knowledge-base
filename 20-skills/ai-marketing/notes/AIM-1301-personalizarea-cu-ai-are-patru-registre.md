@@ -29,7 +29,7 @@ Karen Noil pornește de la ideea că personalizarea pe criterii demografice (vâ
 | Micro-segment (*hyper-segmentation*) | grupuri foarte înguste, cu trăsături comune | clientele care au cumpărat rochii de vară primesc noutăți în stilul lor |
 | Predictiv (*predictive personalization*) | probabilitatea următoarei acțiuni | librăria online care anticipează următorul roman polițist |
 
-Cartea numește și două limite: **supra-personalizarea** (*over-personalization*), când mesajul pare intruziv și erodează încrederea, și **silozurile de date** (*data silos*): dacă CRM-ul, magazinul online și social media nu sunt legate, profilul unificat nu există și personalizarea rămâne cosmetică. Iroegbu ([[SRC-042]], cap. 11) adaugă un cost social: supra-personalizarea poate închide oamenii în „bule de filtrare" (*filter bubbles*), care le reduc expunerea la idei noi.
+Cartea numește și două limite: **supra-personalizarea** (*over-personalization*), când mesajul pare intruziv și erodează încrederea, și **silozurile de date** (*data silos*): dacă CRM-ul, magazinul online și social media nu sunt legate, profilul unificat nu există și personalizarea rămâne cosmetică. Iroegbu ([[SRC-042-the-future-of-marketing|SRC-042]], cap. 11) adaugă un cost social: supra-personalizarea poate închide oamenii în „bule de filtrare" (*filter bubbles*), care le reduc expunerea la idei noi.
 
 ## Aplicare
 
@@ -39,7 +39,7 @@ Cartea numește și două limite: **supra-personalizarea** (*over-personalizatio
 
 ## Exemplu
 
-Amazon („Customers who bought this also bought…") și Netflix sunt exemplele-standard din carte: ambele combină registrul comportamental cu cel predictiv, folosind și ce au ales clienții asemănători. Najafov ([[SRC-039]], cap. 7) detaliază mecanica Spotify: semnale de comportament (melodii sărite, ascultate repetat, playlisturi), filtrare colaborativă (ce ascultă oamenii cu gusturi apropiate), analiza versurilor și a metadatelor, analiza audio (tempo, tonalitate).
+Amazon („Customers who bought this also bought…") și Netflix sunt exemplele-standard din carte: ambele combină registrul comportamental cu cel predictiv, folosind și ce au ales clienții asemănători. Najafov ([[SRC-039-chatgpt-for-marketing|SRC-039]], cap. 7) detaliază mecanica Spotify: semnale de comportament (melodii sărite, ascultate repetat, playlisturi), filtrare colaborativă (ce ascultă oamenii cu gusturi apropiate), analiza versurilor și a metadatelor, analiza audio (tempo, tonalitate).
 
 ## Întrebări
 
@@ -49,12 +49,27 @@ Amazon („Customers who bought this also bought…") și Netflix sunt exemplele
 
 ## Legături
 
-- **extinde** [[AIM-1302]] — registrul „micro-segment" e dezvoltat acolo ca segmentare dinamică.
-- **vezi** [[AIM-1303]] — registrul predictiv se sprijină pe ciclul analizei predictive.
-- **vezi** [[AIM-1305]] — supra-personalizarea e o problemă de etică a datelor, nu doar de gust.
+- **extinde** [[AIM-1302-segmentele-construite-cu-ai-sunt-dinamice|AIM-1302]] — registrul „micro-segment" e dezvoltat acolo ca segmentare dinamică.
+- **vezi** [[AIM-1303-analiza-predictiva-este-un-ciclu-nu-un-raport|AIM-1303]] — registrul predictiv se sprijină pe ciclul analizei predictive.
+- **vezi** [[AIM-1305-etica-datelor-consimtamant-acces-transparenta-minimizare|AIM-1305]] — supra-personalizarea e o problemă de etică a datelor, nu doar de gust.
 
 ## Surse
 
-- [[SRC-037]] Karen Noil, *AI-Driven Marketing*, cap. 2 (2.3-2.4), cap. 6 (6.2, 6.6)
-- [[SRC-039]] Eldar Najafov, *ChatGPT for Marketing*, cap. 7, p. 137–139
-- [[SRC-042]] Chidiebere Iroegbu, *The Future of Marketing*, cap. 11
+- [[SRC-037-ai-driven-marketing|SRC-037]] Karen Noil, *AI-Driven Marketing*, cap. 2 (2.3-2.4), cap. 6 (6.2, 6.6)
+- [[SRC-039-chatgpt-for-marketing|SRC-039]] Eldar Najafov, *ChatGPT for Marketing*, cap. 7, p. 137–139
+- [[SRC-042-the-future-of-marketing|SRC-042]] Chidiebere Iroegbu, *The Future of Marketing*, cap. 11
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-1302-segmentele-construite-cu-ai-sunt-dinamice|AIM-1302]] _fundament_ — Segmentele construite cu AI sunt dinamice — clientul migrează între ele după comportament
+- [[AIM-1303-analiza-predictiva-este-un-ciclu-nu-un-raport|AIM-1303]] _vezi_ — Analiza predictivă este un ciclu în cinci pași, nu un raport
+- [[AIM-1304-chatbotul-bun-stie-cand-sa-predea-unui-om|AIM-1304]] _vezi_ — Chatbotul bun știe când să predea conversația unui om
+- [[AIM-1305-etica-datelor-consimtamant-acces-transparenta-minimizare|AIM-1305]] _extinde_ — Etica datelor în marketingul cu AI are patru reguli de bază — consimțământ, acces și ștergere, transparență, minimizare
+- [[AIM-1308-datele-istorice-prezic-repetarea-nu-noutatea|AIM-1308]] _contrazice_ — Datele istorice prezic repetarea, nu noutatea — nu răspund la „ce-ar fi dacă" și nu arată percepțiile
+- [[AIM-1321-modelul-de-maturitate-ice-zece-principii-cinci-niveluri|AIM-1321]] _vezi_ — Modelul de maturitate ICE — zece principii și cinci niveluri, de la tranzacție la angajament inteligent
+- [[DIG-1301-ai-in-e-mail-moment-si-frecventa-pe-individ|DIG-1301]] _aplicare_ — În e-mailul cu AI, momentul și frecvența trimiterii se optimizează pe individ, nu pe listă
+- [[SRC-037-ai-driven-marketing|SRC-037]] — AI-Driven Marketing: Harnessing Artificial Intelligence to Personalize Customer Experiences
+- [[SRC-039-chatgpt-for-marketing|SRC-039]] — ChatGPT for Marketing: Learn Practical Applications of ChatGPT for Marketing
+- [[SRC-042-the-future-of-marketing|SRC-042]] — The Future of Marketing: Harnessing Artificial Intelligence for Success
+<!-- backlinks:end -->

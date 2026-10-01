@@ -48,10 +48,18 @@ Procter & Gamble a făcut un video YouTube despre Tide (un subiect „intrinsec 
 
 ## Legături
 
-- **aplicare** [[DIG-0907]] — metricile video se aleg tot din obiectiv și etapa journey-ului.
-- **vezi** [[STO-0905]] — o poveste bună trebuie totuși să prindă atenția devreme.
-- **vezi** [[SOC-0905]] — expunerea și engagementul sunt primele trepte și în Valid Metrics Framework.
+- **aplicare** [[DIG-0907-metricile-se-aleg-din-obiective-smart-si-etapa-journey-ului|DIG-0907]] — metricile video se aleg tot din obiectiv și etapa journey-ului.
+- **vezi** [[STO-0905-povestea-de-brand-buna-personaje-emotie-moment-detalii|STO-0905]] — o poveste bună trebuie totuși să prindă atenția devreme.
+- **vezi** [[SOC-0905-valid-metrics-framework-succesul-social-se-termina-in-advocacy|SOC-0905]] — expunerea și engagementul sunt primele trepte și în Valid Metrics Framework.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 5, p. 151-153
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 5, p. 151-153
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[SOC-0905-valid-metrics-framework-succesul-social-se-termina-in-advocacy|SOC-0905]] _vezi_ — Valid Metrics Framework — succesul pe social media se termină în advocacy, nu în cumpărare
+- [[STO-0905-povestea-de-brand-buna-personaje-emotie-moment-detalii|STO-0905]] _vezi_ — O poveste de brand bună are personaje identificabile, emoție autentică, un moment semnificativ și detalii concrete
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+<!-- backlinks:end -->

@@ -53,11 +53,22 @@ ModCloth construiește comuniune, spre exterior: comunitatea votează designuril
 
 ## Legături
 
-- **extinde** [[BRD-0518]] — principiile 2–4 și 7 ale lui Roese și Gardner despre momentele de instabilitate a sinelui.
-- **extinde** [[BRD-0519]] — principiul 5: comunitatea de brand și tensiunea agenție–comuniune.
-- **aplicare** [[ADV-0502]] — și potrivirea mesajului cu orientarea consumatorului pornește de la motivație.
-- **fundament** [[BRD-0501]] — conexiunea sine–brand e un tip special de asociere.
+- **extinde** [[BRD-0518-tranzitiile-de-viata-si-amenintarile-identitare-deschid|BRD-0518]] — principiile 2–4 și 7 ale lui Roese și Gardner despre momentele de instabilitate a sinelui.
+- **extinde** [[BRD-0519-comunitatea-de-brand-ideala-este-distincta-exclusiva-si-de|BRD-0519]] — principiul 5: comunitatea de brand și tensiunea agenție–comuniune.
+- **aplicare** [[ADV-0502-mesajul-trebuie-incadrat-dupa-orientarea-de-promovare-sau|ADV-0502]] — și potrivirea mesajului cu orientarea consumatorului pornește de la motivație.
+- **fundament** [[BRD-0501-brandul-este-un-set-de-asociatii-care-actioneaza-ca-o|BRD-0501]] — conexiunea sine–brand e un tip special de asociere.
 
 ## Surse
 
-- [[SRC-014]] Neal J. Roese & Wendi L. Gardner, „Building Strong Connections between Brands and the Self", cap. 9, p. 129–135; Brian Sternthal, cap. 10, p. 144–146, în *Kellogg on Branding in a Hyper-Connected World*
+- [[SRC-014-kellogg-on-branding|SRC-014]] Neal J. Roese & Wendi L. Gardner, „Building Strong Connections between Brands and the Self", cap. 9, p. 129–135; Brian Sternthal, cap. 10, p. 144–146, în *Kellogg on Branding in a Hyper-Connected World*
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0502-mesajul-trebuie-incadrat-dupa-orientarea-de-promovare-sau|ADV-0502]] _fundament_ — Mesajul trebuie încadrat după orientarea de promovare sau de prevenție
+- [[BRD-0518-tranzitiile-de-viata-si-amenintarile-identitare-deschid|BRD-0518]] _fundament_ — Tranzițiile de viață și amenințările identitare deschid oamenii spre branduri noi
+- [[BRD-0519-comunitatea-de-brand-ideala-este-distincta-exclusiva-si-de|BRD-0519]] _fundament_ — Comunitatea de brand ideală este distinctă, exclusivă și de mărime medie
+- [[BRD-0528-personalitatea-brandului-are-cinci-dimensiuni-in-modelul|BRD-0528]] _vezi_ — Personalitatea brandului are cinci dimensiuni în modelul Aaker
+- [[BRD-0531-arhetipul-potrivit-e-autentic-pentru-firma-si-atractiv|BRD-0531]] _vezi_ — Arhetipul potrivit e autentic pentru firmă și atractiv pentru client
+- [[SRC-014-kellogg-on-branding|SRC-014]] — Kellogg on Branding in a Hyper-Connected World
+<!-- backlinks:end -->

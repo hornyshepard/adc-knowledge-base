@@ -34,15 +34,23 @@ Braun și Landa oferă versiunea contemporană. „Icelandverse", parodia la anu
 ## Întrebări
 
 - Când devine estetica „făcută de mână" un clișeu de stil, imitat digital fără idee?
-- Bugetul mic e o constrângere creativă sau o scuză pentru clienți să nu investească? Vezi argumentul despre bugetul „nonworking" din [[BRF-0709]].
+- Bugetul mic e o constrângere creativă sau o scuză pentru clienți să nu investească? Vezi argumentul despre bugetul „nonworking" din [[BRF-0709-sectiunea-de-executie-patru-piloni|BRF-0709]].
 
 ## Legături
 
-- **vezi** [[BRF-0713]] — constrângerea ca motor creativ.
-- **aplicare** [[IDE-0708]] — inversarea lui „nu am buget".
-- **vezi** [[IDE-0711]] — ideile low-budget trăiesc adesea în locuri neașteptate.
+- **vezi** [[BRF-0713-brief-ul-ingradeste-curtea|BRF-0713]] — constrângerea ca motor creativ.
+- **aplicare** [[IDE-0708-inversarea-problemei-dezavantajul-devine-argumentul|IDE-0708]] — inversarea lui „nu am buget".
+- **vezi** [[IDE-0711-mesajul-care-nu-arata-a-reclama-locuri-si-formate-neasteptate|IDE-0711]] — ideile low-budget trăiesc adesea în locuri neașteptate.
 
 ## Surse
 
-- [[SRC-024]] John Ingledew, *The A–Z of Visual Ideas*, intrările „Garage genius", „Materials", „Happy accidents", „Colour"
-- [[SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 2 și cap. 5
+- [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] John Ingledew, *The A–Z of Visual Ideas*, intrările „Garage genius", „Materials", „Happy accidents", „Colour"
+- [[SRC-025-shareworthy|SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 2 și cap. 5
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRF-0713-brief-ul-ingradeste-curtea|BRF-0713]] _vezi_ — Brief-ul „îngrădește curtea" — constrângerea strategică le dă creativilor de unde să pornească
+- [[IDE-0708-inversarea-problemei-dezavantajul-devine-argumentul|IDE-0708]] _vezi_ — Inversarea problemei — dezavantajul devine argumentul
+- [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] — The A–Z of Visual Ideas: How to Solve Any Creative Brief
+<!-- backlinks:end -->

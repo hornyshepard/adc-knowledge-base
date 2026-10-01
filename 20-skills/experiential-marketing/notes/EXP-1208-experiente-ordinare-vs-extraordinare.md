@@ -41,10 +41,19 @@ status: seed
 
 ## Legături
 
-- **contrazice** [[EXP-1209]] — pune la îndoială ideea că doar un cadru tematizat spectaculos produce imersiune.
-- **vezi** [[EXP-1207]] — dezbaterea pornește din discuția despre condițiile imersiunii.
-- **extinde** [[EXP-1215]] — continuumul organizat-de-firmă / auto-organizat face parte din „Extension".
+- **contrazice** [[EXP-1209-tematizarea-unifica-decorul-experientei|EXP-1209]] — pune la îndoială ideea că doar un cadru tematizat spectaculos produce imersiune.
+- **vezi** [[EXP-1207-imersiunea-cinci-factori-servicescape|EXP-1207]] — dezbaterea pornește din discuția despre condițiile imersiunii.
+- **extinde** [[EXP-1215-extension-continuumul-experientei-pana-acasa|EXP-1215]] — continuumul organizat-de-firmă / auto-organizat face parte din „Extension".
 
 ## Surse
 
-- [[SRC-036]] Wided Batat, *Experiential Marketing*, cap. 3 (secț. despre imersiune); cap. 6 (secț. „Experience continuum", Theory Box 6.3); mini-cazul 4.6
+- [[SRC-036-experiential-marketing|SRC-036]] Wided Batat, *Experiential Marketing*, cap. 3 (secț. despre imersiune); cap. 6 (secț. „Experience continuum", Theory Box 6.3); mini-cazul 4.6
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[EXP-1207-imersiunea-cinci-factori-servicescape|EXP-1207]] _vezi_ — Imersiunea este calea de acces la o experiență plăcută și depinde de cinci factori
+- [[EXP-1215-extension-continuumul-experientei-pana-acasa|EXP-1215]] _vezi_ — Extension — experiența trebuie gândită ca un continuum fără rupturi, din magazin până acasă
+- [[EXP-1224-caz-badoit-express-masa-gastronomica-in-metrou|EXP-1224]] _exemplu_ — Caz — „Badoit Express" leagă o apă minerală de gastronomie printr-o cină surpriză în metroul din Paris
+- [[SRC-036-experiential-marketing|SRC-036]] — Experiential Marketing: Consumer Behavior, Customer Experience and the 7Es
+<!-- backlinks:end -->

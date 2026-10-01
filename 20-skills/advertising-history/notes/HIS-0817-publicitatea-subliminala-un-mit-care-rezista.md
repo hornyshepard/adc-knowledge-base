@@ -41,10 +41,17 @@ Richards observă că, deși ideea a fost „uitată” după scandalul din 1957
 
 ## Legături
 
-- **contrazice** [[HIS-0812]] — tabăra „știință” a fost acuzată că transformă psihologia în manipulare.
-- **vezi** [[CPY-0806]] — apelul la teama socială este o influență reală și vizibilă, deci discutabilă etic.
-- **vezi** [[INS]] — ce știm de fapt despre atenție și percepție.
+- **contrazice** [[HIS-0812-publicitatea-stiinta-sau-arta|HIS-0812]] — tabăra „știință” a fost acuzată că transformă psihologia în manipulare.
+- **vezi** [[CPY-0806-teama-sociala-vinde-dar-exista-calea-pozitiva|CPY-0806]] — apelul la teama socială este o influență reală și vizibilă, deci discutabilă etic.
+- **vezi** [[20-skills/consumer-insight/SKILL|INS]] — ce știm de fapt despre atenție și percepție.
 
 ## Surse
 
-- [[SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 11, p. 238–239; cap. 16, p. 401
+- [[SRC-027-a-history-of-advertising|SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 11, p. 238–239; cap. 16, p. 401
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0806-teama-sociala-vinde-dar-exista-calea-pozitiva|CPY-0806]] _vezi_ — Teama socială vinde — dar există și calea pozitivă
+- [[SRC-027-a-history-of-advertising|SRC-027]] — A History of Advertising: The First 300,000 Years
+<!-- backlinks:end -->

@@ -53,10 +53,18 @@ Cazul în sine este exemplul; de comparat cu West Edmonton Mall (imersiune prin 
 
 ## Legături
 
-- **exemplu** [[EXP-1209]] — un parcurs tematic complet, cu temă, structură și personaje.
-- **exemplu** [[EXP-1207]] — imersiune construită pe toți factorii, mai ales cel atmosferic și cel simbolic.
-- **vezi** [[EXP-1210]] — aplicarea simultană a celor cinci semnături senzoriale.
+- **exemplu** [[EXP-1209-tematizarea-unifica-decorul-experientei|EXP-1209]] — un parcurs tematic complet, cu temă, structură și personaje.
+- **exemplu** [[EXP-1207-imersiunea-cinci-factori-servicescape|EXP-1207]] — imersiune construită pe toți factorii, mai ales cel atmosferic și cel simbolic.
+- **vezi** [[EXP-1210-marketingul-senzorial-cinci-semnaturi|EXP-1210]] — aplicarea simultană a celor cinci semnături senzoriale.
 
 ## Surse
 
-- [[SRC-036]] Wided Batat, *Experiential Marketing*, cap. 3, mini-cazul 3.4 „Immersion in the Coca-Cola Pavilion at the Shanghai World Expo"
+- [[SRC-036-experiential-marketing|SRC-036]] Wided Batat, *Experiential Marketing*, cap. 3, mini-cazul 3.4 „Immersion in the Coca-Cola Pavilion at the Shanghai World Expo"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[EXP-1206-experienta-in-patru-etape-pre-consum-amintire|EXP-1206]] _vezi_ — Experiența se desfășoară în patru etape — pre-consum, cumpărare, nucleu, amintire — și fiecare se proiectează separat
+- [[EXP-1209-tematizarea-unifica-decorul-experientei|EXP-1209]] _vezi_ — Tematizarea unifică decorul și transformă o ofertă obișnuită într-o experiență
+- [[SRC-036-experiential-marketing|SRC-036]] — Experiential Marketing: Consumer Behavior, Customer Experience and the 7Es
+<!-- backlinks:end -->

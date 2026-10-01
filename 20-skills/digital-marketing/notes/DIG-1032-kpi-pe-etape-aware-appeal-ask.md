@@ -45,11 +45,22 @@ Firul roșu al capitolului, software-ul de video cu AI pentru IMM-uri: în Aware
 
 ## Legături
 
-- **extinde** [[DIG-1031]] — aplică distincția metrică–KPI pe etape.
-- **aplicare** [[DIG-1026]] — fiecare subcampanie primește setul ei de KPI.
-- **vezi** [[DIG-1033]] — de ce atribuirea vânzării pe etape rămâne dificilă.
-- **vezi** [[DIG-1012]] — modelul de plată potrivit fiecărei etape.
+- **extinde** [[DIG-1031-de-la-metrici-brute-la-kpi-scorul-de-engagement|DIG-1031]] — aplică distincția metrică–KPI pe etape.
+- **aplicare** [[DIG-1026-grup-de-campanie-pe-persona-subcampanii-pe-etape|DIG-1026]] — fiecare subcampanie primește setul ei de KPI.
+- **vezi** [[DIG-1033-atribuirea-devine-incerta-etapele-de-inceput-dezavantajate|DIG-1033]] — de ce atribuirea vânzării pe etape rămâne dificilă.
+- **vezi** [[DIG-1012-modelul-de-plata-media-urmeaza-obiectivul-si-etapa|DIG-1012]] — modelul de plată potrivit fiecărei etape.
 
 ## Surse
 
-- [[SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 2.4.1.2 (p. 84–90) și 5.2.1 (p. 172)
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 2.4.1.2 (p. 84–90) și 5.2.1 (p. 172)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-1003-obiectivul-digital-se-leaga-de-marketing-valoare-si-metrica|DIG-1003]] _vezi_ — Un obiectiv digital valid se leagă în lanț de un obiectiv de marketing, de o valoare pentru client și de o metrică
+- [[DIG-1024-campania-online-se-planifica-in-trei-pasi|DIG-1024]] _vezi_ — Campania online se planifică în trei pași — decizii fundamentale, subcampanii pe etapele customer journey, monitorizare și optimizare
+- [[DIG-1026-grup-de-campanie-pe-persona-subcampanii-pe-etape|DIG-1026]] _vezi_ — Fiecare buyer persona primește propriul grup de campanie, împărțit în subcampanii pentru Aware, Appeal și Ask, fiecare cu obiective și KPI separate
+- [[DIG-1031-de-la-metrici-brute-la-kpi-scorul-de-engagement|DIG-1031]] _vezi_ — Un KPI nu e orice metrică — metricile brute devin indicatori-cheie când sunt legate de un obiectiv, iar un KPI poate combina mai multe metrici ponderate
+- [[DIG-1033-atribuirea-devine-incerta-etapele-de-inceput-dezavantajate|DIG-1033]] _vezi_ — Atribuirea vânzării pe touchpoint-uri devine tot mai incertă după cookie-uri — modelele first-touch și last-touch simplifică, iar etapele de început ies dezavantajate
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] — Digital Advertising in the Post-cookie Era: Strategic Campaign Planning Across the Customer Journey
+<!-- backlinks:end -->

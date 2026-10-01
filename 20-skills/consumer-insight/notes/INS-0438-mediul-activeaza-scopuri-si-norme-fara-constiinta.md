@@ -46,11 +46,20 @@ Studiul cu vinul francez și german (p. 282): clienții nu au menționat muzica 
 
 ## Legături
 
-- **fundament** [[INS-0414]] — priming-ul ca mecanism general.
-- **vezi** [[INS-0421]] — sub control redus, atitudinile implicite decid.
-- **vezi** [[INS-0437]] — scopul activat declanșează automat obiceiul.
-- **vezi** [[INS-0439]] — varianta subliminală a acestei logici și limitele ei.
+- **fundament** [[INS-0414-priming-ul-coloreaza-judecatile-ulterioare|INS-0414]] — priming-ul ca mecanism general.
+- **vezi** [[INS-0421-atitudinile-implicite-prezic-alegerea-sub-presiune|INS-0421]] — sub control redus, atitudinile implicite decid.
+- **vezi** [[INS-0437-obiceiul-bate-intentia-in-contexte-stabile|INS-0437]] — scopul activat declanșează automat obiceiul.
+- **vezi** [[INS-0439-publicitatea-subliminala-functioneaza-doar-in-conditii-inguste|INS-0439]] — varianta subliminală a acestei logici și limitele ei.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 6, p. 275-284, 288-294
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 6, p. 275-284, 288-294
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[EXP-0401-experienta-de-retail-ca-rit-de-trecere|EXP-0401]] _vezi_ — Experiențele de retail memorabile funcționează ca ritualuri de trecere, iar locurile obișnuite devin „al treilea loc" prin senzația de acasă
+- [[INS-0437-obiceiul-bate-intentia-in-contexte-stabile|INS-0437]] _vezi_ — În contexte stabile și repetate, obiceiul bate intenția — de aceea consumatorii habituali aproape că nu pot fi „furați"
+- [[INS-0439-publicitatea-subliminala-functioneaza-doar-in-conditii-inguste|INS-0439]] _vezi_ — Publicitatea subliminală funcționează, dacă funcționează, doar în condiții foarte înguste
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

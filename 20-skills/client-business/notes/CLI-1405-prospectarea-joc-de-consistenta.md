@@ -47,10 +47,17 @@ Un student de la ADC care trimite o dată 40 de CV-uri și primește două răsp
 
 ## Legături
 
-- **vezi** [[PIT-1424]] — aceeași idee de „quick wins” care transformă frica în progres măsurabil.
-- **vezi** [[CLI-1402]] — Dream 100 dă direcție volumului de contacte.
-- **aplicare** [[CLI-1406]] — fiecare contact are nevoie de un mesaj care oferă valoare.
+- **vezi** [[PIT-1424-nervii-sunt-energie-respiratie|PIT-1424]] — aceeași idee de „quick wins” care transformă frica în progres măsurabil.
+- **vezi** [[CLI-1402-dream-100-lista-clientilor-tinta|CLI-1402]] — Dream 100 dă direcție volumului de contacte.
+- **aplicare** [[CLI-1406-cererea-intalnirii-valoare-pentru-timp|CLI-1406]] — fiecare contact are nevoie de un mesaj care oferă valoare.
 
 ## Surse
 
-- [[SRC-045]] Bharat Bhuval Nishad, *The Complete Guide to B2B Sales Success*, „Overcoming Call Reluctance”, „The B2B Prospecting System”, „Play the Prospecting Game”, „Goals”, „Consistency”
+- [[SRC-045-b2b-sales-manual|SRC-045]] Bharat Bhuval Nishad, *The Complete Guide to B2B Sales Success*, „Overcoming Call Reluctance”, „The B2B Prospecting System”, „Play the Prospecting Game”, „Goals”, „Consistency”
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CLI-1404-person-of-influence-cine-are-deja-clientii-tai|CLI-1404]] _vezi_ — Person of Influence — caută cine are deja clienții tăi în rețea
+- [[SRC-045-b2b-sales-manual|SRC-045]] — The Complete Guide to B2B Sales Success: Effective Strategies for Lead Generation, Sales Processes, and Closing
+<!-- backlinks:end -->

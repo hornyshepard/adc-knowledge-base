@@ -42,11 +42,23 @@ Cartea adaugă un **instrument de narațiune** cu spații de completat: ce crede
 
 ## Legături
 
-- **vezi** [[BRF-0705]] — construct-ul „revendică" o poziție, ca declarația de poziționare.
-- **extinde** [[STO-0708]] — manifestul e expresia emoțională a construct-ului.
-- **vezi** [[STO-0702]] — arhetipul decide rolul brandului în poveste: erou sau facilitator.
-- **vezi** [[STO-0705]] — autenticitatea față de brand se verifică pe construct.
+- **vezi** [[BRF-0705-declaratia-de-pozitionare-tinta-cadru-diferenta-motiv|BRF-0705]] — construct-ul „revendică" o poziție, ca declarația de poziționare.
+- **extinde** [[STO-0708-manifestul-de-brand-declaratie-aspirationala-de-intentie|STO-0708]] — manifestul e expresia emoțională a construct-ului.
+- **vezi** [[STO-0702-formula-cow-b-t-si-structura-in-trei-acte|STO-0702]] — arhetipul decide rolul brandului în poveste: erou sau facilitator.
+- **vezi** [[STO-0705-autenticitatea-are-cinci-directii|STO-0705]] — autenticitatea față de brand se verifică pe construct.
 
 ## Surse
 
-- [[SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 3 și cap. 5 („The Brand and Literary Archetypes")
+- [[SRC-025-shareworthy|SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 3 și cap. 5 („The Brand and Literary Archetypes")
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRF-0705-declaratia-de-pozitionare-tinta-cadru-diferenta-motiv|BRF-0705]] _vezi_ — Declarația de poziționare din brief — țintă, cadru de referință, punct de diferență, motiv de a crede
+- [[IDE-0714-reincadrarea-problemei-din-brief|IDE-0714]] — Reîncadrarea problemei din brief deschide soluții dintr-o altă categorie
+- [[IDE-0715-culture-surfing-ideea-se-agata-de-un-moment-cultural|IDE-0715]] _vezi_ — „Culture surfing" — ideea se agață de un moment cultural doar dacă valorile brandului îi dau voie
+- [[STO-0702-formula-cow-b-t-si-structura-in-trei-acte|STO-0702]] _vezi_ — Formula C.O.W. + B → T — protagonist, obstacol, dorință, plus brandul, duc la transformare, de obicei în trei acte
+- [[STO-0705-autenticitatea-are-cinci-directii|STO-0705]] _vezi_ — Autenticitatea are cinci direcții — față de public, de brand, de scop, de zeitgeist și de echipa care produce povestea
+- [[STO-0708-manifestul-de-brand-declaratie-aspirationala-de-intentie|STO-0708]] _fundament_ — Manifestul de brand este o declarație aspirațională de intenție, nu misiunea corporativă rescrisă
+- [[SRC-025-shareworthy|SRC-025]] — Shareworthy: Advertising That Creates Powerful Connections Through Storytelling
+<!-- backlinks:end -->

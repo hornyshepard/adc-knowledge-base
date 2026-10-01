@@ -43,10 +43,18 @@ Mennen „Listen — You Biggest City in the World!” (cca 1919) a vândut crem
 
 ## Legături
 
-- **alternativa** [[HIS-0814]] — drama inerentă a lui Burnett, aceeași intuiție formulată altfel.
-- **aplicare** [[CPY-0813]] — umorul ca instrument pentru produsele banale.
-- **vezi** [[CPY-0802]] — povestea fabricației este un reason-why narat.
+- **alternativa** [[HIS-0814-burnett-drama-inerenta-a-produsului|HIS-0814]] — drama inerentă a lui Burnett, aceeași intuiție formulată altfel.
+- **aplicare** [[CPY-0813-umorul-de-la-interzis-la-recompensa|CPY-0813]] — umorul ca instrument pentru produsele banale.
+- **vezi** [[CPY-0802-reason-why-vanzare-tiparita|CPY-0802]] — povestea fabricației este un reason-why narat.
 
 ## Surse
 
-- [[SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Big Ben”, „Weber & Heilbroner — We Traveled 2000 Miles to Save 65¢”, „Barre Granite — Aunt Meg Who Never Married”, „Arrow Collar — My Friend, Joe Holmes, Is Now a Horse”, „Shell Oil Company”, „R. H. Macy”, „Mennen’s Shaving Cream”
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Big Ben”, „Weber & Heilbroner — We Traveled 2000 Miles to Save 65¢”, „Barre Granite — Aunt Meg Who Never Married”, „Arrow Collar — My Friend, Joe Holmes, Is Now a Horse”, „Shell Oil Company”, „R. H. Macy”, „Mennen’s Shaving Cream”
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0813-umorul-de-la-interzis-la-recompensa|CPY-0813]] _aplicare_ — Umorul în reclamă — de la „cleverness" interzis la recompensa care cumpără atenția
+- [[HIS-0814-burnett-drama-inerenta-a-produsului|HIS-0814]] _alternativa_ — Leo Burnett — drama inerentă a produsului și personajele care o poartă
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] — The 100 Greatest Advertisements 1852–1958: Who Wrote Them and What They Did
+<!-- backlinks:end -->

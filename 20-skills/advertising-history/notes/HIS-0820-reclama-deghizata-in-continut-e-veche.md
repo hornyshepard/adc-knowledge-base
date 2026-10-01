@@ -49,10 +49,18 @@ Când *Omni* (1990) a decupat coperta ca să se vadă o hologramă Motorola de p
 
 ## Legături
 
-- **extinde** [[HIS-0804]] — tensiunea redacție–reclamă are rădăcini în primele ziare.
-- **vezi** [[HIS-0807]] — ghidurile ASME și ale industriei sunt autoreglementare.
-- **vezi** [[STO]] — strategia de conținut moștenește aceste forme.
+- **extinde** [[HIS-0804-publicitatea-motorul-financiar-al-presei|HIS-0804]] — tensiunea redacție–reclamă are rădăcini în primele ziare.
+- **vezi** [[HIS-0807-autoreglementarea-a-inceput-la-editori|HIS-0807]] — ghidurile ASME și ale industriei sunt autoreglementare.
+- **vezi** [[20-skills/storytelling-content/SKILL|STO]] — strategia de conținut moștenește aceste forme.
 
 ## Surse
 
-- [[SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 14, p. 305–306, 310, 336–340; cap. 15, p. 358; cap. 17, p. 413
+- [[SRC-027-a-history-of-advertising|SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 14, p. 305–306, 310, 336–340; cap. 15, p. 358; cap. 17, p. 413
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[HIS-0804-publicitatea-motorul-financiar-al-presei|HIS-0804]] _extinde_ — Publicitatea a devenit motorul financiar al presei — și presa a devenit a doua „stăpână" a reclamei
+- [[HIS-0807-autoreglementarea-a-inceput-la-editori|HIS-0807]] _vezi_ — Autoreglementarea publicității a început la editori, nu în agenții
+- [[SRC-027-a-history-of-advertising|SRC-027]] — A History of Advertising: The First 300,000 Years
+<!-- backlinks:end -->

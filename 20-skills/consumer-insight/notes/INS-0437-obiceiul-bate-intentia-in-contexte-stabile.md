@@ -50,11 +50,21 @@ Supermarketul obișnuit: știi unde e totul; mutarea la altul înseamnă căutar
 
 ## Legături
 
-- **contrazice** [[INS-0435]] — teoria comportamentului planificat funcționează slab pentru comportamente habituale.
-- **vezi** [[INS-0436]] — intențiile de implementare creează legături situație-răspuns asemănătoare obiceiului.
-- **vezi** [[INS-0438]] — scopurile activate de mediu declanșează obiceiul.
-- **vezi** [[ADV-0402]] — la implicare mică, acțiunea precede gândul.
+- **contrazice** [[INS-0435-gaseste-credinta-care-separa-cumparatorii|INS-0435]] — teoria comportamentului planificat funcționează slab pentru comportamente habituale.
+- **vezi** [[INS-0436-intentiile-de-implementare-daca-atunci|INS-0436]] — intențiile de implementare creează legături situație-răspuns asemănătoare obiceiului.
+- **vezi** [[INS-0438-mediul-activeaza-scopuri-si-norme-fara-constiinta|INS-0438]] — scopurile activate de mediu declanșează obiceiul.
+- **vezi** [[ADV-0402-grilele-fcb-si-rossiter-percy|ADV-0402]] — la implicare mică, acțiunea precede gândul.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 6, p. 284-288
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 6, p. 284-288
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[INS-0435-gaseste-credinta-care-separa-cumparatorii|INS-0435]] _contrazice_ — Înainte de a convinge, află dacă frâna e atitudinea, norma socială sau controlul perceput (teoria comportamentului planificat)
+- [[INS-0436-intentiile-de-implementare-daca-atunci|INS-0436]] _vezi_ — Planul „dacă situația X, atunci fac Y" transformă intenția în acțiune (intențiile de implementare)
+- [[INS-0438-mediul-activeaza-scopuri-si-norme-fara-constiinta|INS-0438]] _vezi_ — Mediul de cumpărare activează scopuri, norme și „mentalități" care ghidează alegerea fără ca omul să-și dea seama
+- [[INS-0447-decalajul-atitudine-comportament-in-consumul-etic|INS-0447]] _aplicare_ — Consumatorii declară valori etice, dar cumpără din obișnuință, comoditate și presiune socială (decalajul atitudine-comportament)
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

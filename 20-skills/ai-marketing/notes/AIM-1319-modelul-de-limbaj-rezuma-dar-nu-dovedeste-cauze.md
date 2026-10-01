@@ -50,11 +50,20 @@ Cazul anonim al producătorului de bunuri de consum care a „descoperit" cerere
 
 ## Legături
 
-- **contrazice** [[AIM-1308]] — Struhl: datele nu produc singure insight-uri sau idei noi.
-- **vezi** [[AIM-1306]] — validarea, pasul lipsă din fluxul propus de Najafov.
-- **vezi** [[AIM-1317]] — întrebările analitice ca tip de prompt.
+- **contrazice** [[AIM-1308-datele-istorice-prezic-repetarea-nu-noutatea|AIM-1308]] — Struhl: datele nu produc singure insight-uri sau idei noi.
+- **vezi** [[AIM-1306-validarea-pe-esantion-de-control-separa-tiparele-reale|AIM-1306]] — validarea, pasul lipsă din fluxul propus de Najafov.
+- **vezi** [[AIM-1317-promptul-de-marketing-e-un-mini-brief|AIM-1317]] — întrebările analitice ca tip de prompt.
 
 ## Surse
 
-- [[SRC-039]] Eldar Najafov, *ChatGPT for Marketing*, cap. 4, p. 94–95; cap. 5, p. 109–114
-- [[SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, cap. 2 și cap. 8
+- [[SRC-039-chatgpt-for-marketing|SRC-039]] Eldar Najafov, *ChatGPT for Marketing*, cap. 4, p. 94–95; cap. 5, p. 109–114
+- [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, cap. 2 și cap. 8
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-1317-promptul-de-marketing-e-un-mini-brief|AIM-1317]] _vezi_ — Promptul de marketing e un mini-brief, iar răspunsul modelului e o ciornă, nu un livrabil
+- [[AIM-1320-ipoteza-o-formuleaza-omul-ai-ul-o-ruleaza|AIM-1320]] _vezi_ — Ipoteza o formulează omul, AI-ul o rulează, omul o interpretează — împărțirea muncii în testare și lead-uri
+- [[AIM-1325-ascultarea-vizuala-gaseste-brandul-in-imagini|AIM-1325]] _vezi_ — Ascultarea vizuală găsește brandul în imagini, acolo unde nu e numit în text
+- [[SRC-039-chatgpt-for-marketing|SRC-039]] — ChatGPT for Marketing: Learn Practical Applications of ChatGPT for Marketing
+<!-- backlinks:end -->

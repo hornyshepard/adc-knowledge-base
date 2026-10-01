@@ -42,10 +42,19 @@ Evoluția apple.com în Wayback Machine (1997–2022): de la navigație în stâ
 
 ## Legături
 
-- **extinde** [[DIG-0911]] — convențiile intră în pasul de design al procesului site-ului.
-- **aplicare** [[DIG-0927]] — e-mailul promoțional folosește aceleași reguli de triunghi de aur și above the fold.
-- **vezi** [[DIG-0920]] — landing page-ul eficient e simplu și continuu cu reclama.
+- **extinde** [[DIG-0911-site-ul-se-construieste-in-sapte-pasi-marketingul-conduce|DIG-0911]] — convențiile intră în pasul de design al procesului site-ului.
+- **aplicare** [[DIG-0927-emailul-promotional-bun-o-oferta-un-termen-un-subiect-scurt|DIG-0927]] — e-mailul promoțional folosește aceleași reguli de triunghi de aur și above the fold.
+- **vezi** [[DIG-0920-reclama-e-doar-atat-de-buna-cat-landing-page-ul-ei|DIG-0920]] — landing page-ul eficient e simplu și continuu cu reclama.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 6, p. 173-178; cap. 11, p. 308
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 6, p. 173-178; cap. 11, p. 308
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0911-site-ul-se-construieste-in-sapte-pasi-marketingul-conduce|DIG-0911]] _aplicare_ — Site-ul se construiește în șapte pași, iar marketingul conduce primii — altfel iese tehnologie fără obiectiv
+- [[DIG-0920-reclama-e-doar-atat-de-buna-cat-landing-page-ul-ei|DIG-0920]] _vezi_ — Reclama e doar atât de bună cât landing page-ul ei — simplitate, continuitate, relevanță
+- [[DIG-0927-emailul-promotional-bun-o-oferta-un-termen-un-subiect-scurt|DIG-0927]] _fundament_ — E-mailul promoțional bun are o singură ofertă, un termen-limită și un subiect sub 50 de caractere
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+<!-- backlinks:end -->

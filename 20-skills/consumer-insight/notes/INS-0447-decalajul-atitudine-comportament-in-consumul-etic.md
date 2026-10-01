@@ -52,12 +52,21 @@ Nike în anii '90: boicoturi și presă negativă pentru condițiile din fabrici
 
 ## Legături
 
-- **aplicare** [[INS-0435]] — normele și controlul perceput explică distanța dintre intenție și cumpărare.
-- **aplicare** [[INS-0437]] — obiceiurile bat intenția în contexte stabile.
-- **vezi** [[BRD-0402]] — brandurile care se poziționează moral.
-- **vezi** [[INS-0421]] — atitudinile explicite și cele implicite pot diverge mai ales la teme dezirabile social.
+- **aplicare** [[INS-0435-gaseste-credinta-care-separa-cumparatorii|INS-0435]] — normele și controlul perceput explică distanța dintre intenție și cumpărare.
+- **aplicare** [[INS-0437-obiceiul-bate-intentia-in-contexte-stabile|INS-0437]] — obiceiurile bat intenția în contexte stabile.
+- **vezi** [[BRD-0402-peisajul-moralizat-cauze-si-greenwashing|BRD-0402]] — brandurile care se poziționează moral.
+- **vezi** [[INS-0421-atitudinile-implicite-prezic-alegerea-sub-presiune|INS-0421]] — atitudinile explicite și cele implicite pot diverge mai ales la teme dezirabile social.
 
 ## Surse
 
-- [[SRC-013]] Parsons, Maclaran & Chatzidakis, *Contemporary Issues in Marketing and Consumer Behaviour*, cap. 7, p. 106-126; cap. 8, p. 127-129; cap. 5, p. 79-81
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 6, p. 261-266, 284-288
+- [[SRC-013-contemporary-issues-in-marketing-and-consumer-behaviour|SRC-013]] Parsons, Maclaran & Chatzidakis, *Contemporary Issues in Marketing and Consumer Behaviour*, cap. 7, p. 106-126; cap. 8, p. 127-129; cap. 5, p. 79-81
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 6, p. 261-266, 284-288
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0402-peisajul-moralizat-cauze-si-greenwashing|BRD-0402]] _vezi_ — Brandurile care adoptă cauze morale câștigă un halo, dar devin ținte pentru acuzația de greenwashing
+- [[INS-0435-gaseste-credinta-care-separa-cumparatorii|INS-0435]] _aplicare_ — Înainte de a convinge, află dacă frâna e atitudinea, norma socială sau controlul perceput (teoria comportamentului planificat)
+- [[INS-0446-psihanaliza-in-marketing-tehnici-proiective|INS-0446]] _vezi_ — Psihanaliza nu poate fi dovedită, dar oferă tehnici proiective și concepte utile pentru insight — „permisiunea de a te bucura fără vinovăție"
+- [[SRC-013-contemporary-issues-in-marketing-and-consumer-behaviour|SRC-013]] — Contemporary Issues in Marketing and Consumer Behaviour (2nd edition)
+<!-- backlinks:end -->

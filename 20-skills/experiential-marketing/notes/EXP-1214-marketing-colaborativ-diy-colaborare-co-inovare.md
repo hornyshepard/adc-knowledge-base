@@ -49,10 +49,18 @@ Avantajele pentru firmă: beneficiază de potențialul creativ al clienților, �
 
 ## Legături
 
-- **extinde** [[EXP-1213]] — marketingul colaborativ e a doua cale de a genera valoare de schimb.
-- **vezi** [[INS-1205]] — nivelurile depind de competența consumatorului împuternicit.
-- **vezi** [[EXP-1222]] — storyliving-ul pune și el clientul în acțiune, nu doar în postura de spectator.
+- **extinde** [[EXP-1213-exchange-valoarea-co-creata-in-locul-pretului|EXP-1213]] — marketingul colaborativ e a doua cale de a genera valoare de schimb.
+- **vezi** [[INS-1205-consumatorul-imputernicit-patru-piloni|INS-1205]] — nivelurile depind de competența consumatorului împuternicit.
+- **vezi** [[EXP-1222-storyliving-povestea-traita-nu-doar-spusa|EXP-1222]] — storyliving-ul pune și el clientul în acțiune, nu doar în postura de spectator.
 
 ## Surse
 
-- [[SRC-036]] Wided Batat, *Experiential Marketing*, cap. 5, secț. „Collaborative marketing" (mini-cazurile 5.6 Finnair, 5.7 Lay's); cap. 1, mini-cazul 1.7 (LEGO, PepsiCo, DHL)
+- [[SRC-036-experiential-marketing|SRC-036]] Wided Batat, *Experiential Marketing*, cap. 5, secț. „Collaborative marketing" (mini-cazurile 5.6 Finnair, 5.7 Lay's); cap. 1, mini-cazul 1.7 (LEGO, PepsiCo, DHL)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[EXP-1213-exchange-valoarea-co-creata-in-locul-pretului|EXP-1213]] _vezi_ — Exchange — în mixul experiențial, prețul cedează locul valorii co-create cu clientul
+- [[INS-1205-consumatorul-imputernicit-patru-piloni|INS-1205]] _vezi_ — Consumatorul împuternicit stă pe patru piloni — competență, (re)creare, conștiința drepturilor, rezistență
+- [[SRC-036-experiential-marketing|SRC-036]] — Experiential Marketing: Consumer Behavior, Customer Experience and the 7Es
+<!-- backlinks:end -->

@@ -46,10 +46,17 @@ Cupa Mondială 2014: Adidas sponsor oficial, Nike „câștigător" în memoria 
 
 ## Legături
 
-- **vezi** [[ADV-0408]] — altă formă de comunicare care ocolește rezistența.
-- **fundament** [[INS-0426]] — transferul de afect și sens prin asociere.
-- **vezi** [[ADV-0404]] — interferența și indiciile distinctive de reamintire.
+- **vezi** [[ADV-0408-plasarea-de-produs-si-publicitatea-nativa|ADV-0408]] — altă formă de comunicare care ocolește rezistența.
+- **fundament** [[INS-0426-conditionarea-evaluativa-transfera-afect-si-sens|INS-0426]] — transferul de afect și sens prin asociere.
+- **vezi** [[ADV-0404-clutterul-produce-interferenta-competitiva|ADV-0404]] — interferența și indiciile distinctive de reamintire.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 5, p. 248-252; cap. 1, p. 29
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 5, p. 248-252; cap. 1, p. 29
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0408-plasarea-de-produs-si-publicitatea-nativa|ADV-0408]] _vezi_ — Plasarea de produs și publicitatea nativă ocolesc rezistența, dar se întorc împotriva brandului când sunt prea vizibile sau asociate cu ceva negativ
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

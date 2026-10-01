@@ -51,10 +51,17 @@ Iconițele și culorile se citesc cultural. Coșul de gunoi cilindric de pe Mac 
 
 ## Legături
 
-- **vezi** [[DIG-1011]] — consecvența reclamă–pagină e un caz particular de experiență bună.
-- **vezi** [[DIG-1001]] — DCX servește direct A-ul *Advance*.
-- **vezi** [[ART-1001]] — aceleași legi de atenție și încărcare cognitivă guvernează și bannerele.
+- **vezi** [[DIG-1011-reclama-si-pagina-de-destinatie-spun-acelasi-lucru|DIG-1011]] — consecvența reclamă–pagină e un caz particular de experiență bună.
+- **vezi** [[DIG-1001-cele-7a-ale-marketingului-digital-completeaza-cei-4p|DIG-1001]] — DCX servește direct A-ul *Advance*.
+- **vezi** [[ART-1001-bannerul-eficient-scurt-congruent-emotional-dozat|ART-1001]] — aceleași legi de atenție și încărcare cognitivă guvernează și bannerele.
 
 ## Surse
 
-- [[SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 3 (p. 97–104)
+- [[SRC-031-digital-marketing-manual|SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 3 (p. 97–104)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-1011-reclama-si-pagina-de-destinatie-spun-acelasi-lucru|DIG-1011]] _vezi_ — Reclama, pagina de destinație și contextul în care apare reclama trebuie să spună același lucru — incongruența rupe conversia și încrederea
+- [[SRC-031-digital-marketing-manual|SRC-031]] — Digital Marketing
+<!-- backlinks:end -->

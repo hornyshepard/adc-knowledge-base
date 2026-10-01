@@ -46,10 +46,20 @@ Narațiunea autorului: o asemenea introducere l-a dus direct la proprietarul une
 
 ## Legături
 
-- **vezi** [[CLI-1404]] — partenerii care au deja publicul tău sunt sursa sistematică de introduceri.
-- **aplicare** [[CLI-1402]] — introducerea e atingerea cea mai eficientă pentru clienții din Dream 100.
-- **vezi** [[PIT-1430]] — introducerea transferă credibilitate, la fel ca „autoritatea împrumutată” din pitch.
+- **vezi** [[CLI-1404-person-of-influence-cine-are-deja-clientii-tai|CLI-1404]] — partenerii care au deja publicul tău sunt sursa sistematică de introduceri.
+- **aplicare** [[CLI-1402-dream-100-lista-clientilor-tinta|CLI-1402]] — introducerea e atingerea cea mai eficientă pentru clienții din Dream 100.
+- **vezi** [[PIT-1430-unicitatea-prezentatorului-act-de-generozitate|PIT-1430]] — introducerea transferă credibilitate, la fel ca „autoritatea împrumutată” din pitch.
 
 ## Surse
 
-- [[SRC-045]] Bharat Bhuval Nishad, *The Complete Guide to B2B Sales Success*, „Sphere of Influence Selling”, „3-Way Introduction”
+- [[SRC-045-b2b-sales-manual|SRC-045]] Bharat Bhuval Nishad, *The Complete Guide to B2B Sales Success*, „Sphere of Influence Selling”, „3-Way Introduction”
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CLI-1402-dream-100-lista-clientilor-tinta|CLI-1402]] _extinde_ — Dream 100 — o listă scurtă de clienți-țintă, abordați repetat pe canale diferite
+- [[CLI-1404-person-of-influence-cine-are-deja-clientii-tai|CLI-1404]] _extinde_ — Person of Influence — caută cine are deja clienții tăi în rețea
+- [[PRT-1412-nda-ce-nu-functioneaza-si-ce-functioneaza|PRT-1412]] _vezi_ — Acordurile de confidențialitate nu se ocolesc prin încălcare, parolă sau anonimizare, ci se negociază din timp
+- [[PRT-1419-portofoliul-nu-se-gaseste-singur-targetare-si-doi-pasi|PRT-1419]] _vezi_ — Portofoliul nu se găsește singur — targetare proactivă, „cei doi pași” și măsurarea răspunsului
+- [[SRC-045-b2b-sales-manual|SRC-045]] — The Complete Guide to B2B Sales Success: Effective Strategies for Lead Generation, Sales Processes, and Closing
+<!-- backlinks:end -->

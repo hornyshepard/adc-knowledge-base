@@ -48,11 +48,22 @@ Cinci moduri de a spune o poveste puternică:
 
 ## Legături
 
-- **fundament** [[BRD-0509]] — povestea autentică pornește de la scopul trăit al brandului.
-- **extinde** [[STO-0502]] — povestirea transmedia distribuie povestea pe canale cu roluri diferite.
-- **contrazice** [[ADV-0503]] — Sternthal avertizează că brandul prezent prea târziu nu mai e ținut minte.
-- **vezi** [[BRD-0526]] — cazul Mexic arată puterea unei povești pozitive proprii.
+- **fundament** [[BRD-0509-purpose-path-to-growth-descopera-scopul-apoi-activeaza-l|BRD-0509]] — povestea autentică pornește de la scopul trăit al brandului.
+- **extinde** [[STO-0502-povestirea-transmedia-imparte-o-lume-narativa-intre-canale|STO-0502]] — povestirea transmedia distribuie povestea pe canale cu roluri diferite.
+- **contrazice** [[ADV-0503-strategia-creativa-in-trei-pasi-atentie-amplificare|ADV-0503]] — Sternthal avertizează că brandul prezent prea târziu nu mai e ținut minte.
+- **vezi** [[BRD-0526-cazul-mexic-a-contrazice-o-poveste-negativa-te-aduce-doar|BRD-0526]] — cazul Mexic arată puterea unei povești pozitive proprii.
 
 ## Surse
 
-- [[SRC-014]] Mohanbir Sawhney, „Digital Brand Storytelling", cap. 11 în *Kellogg on Branding in a Hyper-Connected World*, p. 161–171
+- [[SRC-014-kellogg-on-branding|SRC-014]] Mohanbir Sawhney, „Digital Brand Storytelling", cap. 11 în *Kellogg on Branding in a Hyper-Connected World*, p. 161–171
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0503-strategia-creativa-in-trei-pasi-atentie-amplificare|ADV-0503]] _alternativa_ — Strategia creativă în trei pași: atenție, amplificare, legătura cu brandul
+- [[ART-0511-brandul-are-hardware-iconic-de-pastrat-si-software-dinamic|ART-0511]] _vezi_ — Brandul are hardware iconic, de păstrat, și software dinamic, de schimbat
+- [[BRD-0509-purpose-path-to-growth-descopera-scopul-apoi-activeaza-l|BRD-0509]] _vezi_ — Purpose Path to Growth: descoperă scopul, apoi activează-l întâi în interior
+- [[BRD-0526-cazul-mexic-a-contrazice-o-poveste-negativa-te-aduce-doar|BRD-0526]] _aplicare_ — Cazul Mexic: a contrazice o poveste negativă te aduce doar la neutru
+- [[STO-0502-povestirea-transmedia-imparte-o-lume-narativa-intre-canale|STO-0502]] _fundament_ — Povestirea transmedia împarte o lume narativă între canale cu roluri diferite
+- [[SRC-014-kellogg-on-branding|SRC-014]] — Kellogg on Branding in a Hyper-Connected World
+<!-- backlinks:end -->

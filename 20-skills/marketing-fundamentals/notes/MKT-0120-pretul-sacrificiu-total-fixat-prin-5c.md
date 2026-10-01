@@ -57,12 +57,22 @@ Paradigm vinde boxe de la 219 dolari perechea până la 17.500. Puțini cumpăr�
 
 ## Legături
 
-- **fundament** [[MKT-0102]] — prețul este partea „ce dai" din ecuația valorii.
-- **extinde** [[MKT-0121]] — 5C alimentează strategiile concrete de preț.
-- **vezi** [[MKT-0104]] — prețul e singurul P care captează valoare.
-- **vezi** [[BRD-0102]] — valoarea percepută din capitalul de brand susține prețurile premium.
+- **fundament** [[MKT-0102-valoarea-este-ce-primesti-raportat-la-ce-dai|MKT-0102]] — prețul este partea „ce dai" din ecuația valorii.
+- **extinde** [[MKT-0121-strategii-de-pret-edlp-vs-high-low-si-skimming-vs-penetrare|MKT-0121]] — 5C alimentează strategiile concrete de preț.
+- **vezi** [[MKT-0104-mixul-4p-creeaza-capteaza-livreaza-comunica-valoarea|MKT-0104]] — prețul e singurul P care captează valoare.
+- **vezi** [[BRD-0102-capitalul-de-brand-notorietate-valoare-asocieri-loialitate|BRD-0102]] — valoarea percepută din capitalul de brand susține prețurile premium.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 14, p. 448-466 (Exhibit 14.1-14.6); cap. 15, p. 474-475
-- [[SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 5, p. 139-148 (§5.1-5.2), p. 153-155 (§5.4)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 14, p. 448-466 (Exhibit 14.1-14.6); cap. 15, p. 474-475
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 5, p. 139-148 (§5.1-5.2), p. 153-155 (§5.4)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[MKT-0102-valoarea-este-ce-primesti-raportat-la-ce-dai|MKT-0102]] _extinde_ — Valoarea este ce primești raportat la ce dai, nu prețul mic
+- [[MKT-0104-mixul-4p-creeaza-capteaza-livreaza-comunica-valoarea|MKT-0104]] _vezi_ — Mixul de marketing 4P — produsul creează, prețul captează, plasarea livrează, promovarea comunică valoarea
+- [[MKT-0121-strategii-de-pret-edlp-vs-high-low-si-skimming-vs-penetrare|MKT-0121]] _fundament_ — Două alegeri clasice de strategie de preț — EDLP sau high/low și, la lansare, skimming sau penetrare
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] — Principles of Marketing
+<!-- backlinks:end -->

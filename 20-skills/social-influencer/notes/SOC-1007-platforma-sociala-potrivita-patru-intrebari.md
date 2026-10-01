@@ -51,10 +51,20 @@ Autorii compară două campanii: un brand de modă care vrea să ajungă la oame
 
 ## Legături
 
-- **vezi** [[SOC-1006]] — după alegere, structura comună a ad managerelor.
-- **fundament** [[DIG-1008]] — persona minim viabilă e intrarea procesului.
-- **vezi** [[DIG-1034]] — formatele video de pe YouTube, pe obiective.
+- **vezi** [[SOC-1006-ad-managerele-sociale-au-aceeasi-anatomie|SOC-1006]] — după alegere, structura comună a ad managerelor.
+- **fundament** [[DIG-1008-minimum-viable-persona-pornesti-cu-minimul|DIG-1008]] — persona minim viabilă e intrarea procesului.
+- **vezi** [[DIG-1034-formatele-video-youtube-se-aleg-dupa-obiectiv|DIG-1034]] — formatele video de pe YouTube, pe obiective.
 
 ## Surse
 
-- [[SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 3.1–3.4 (p. 95–119)
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 3.1–3.4 (p. 95–119)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-1008-minimum-viable-persona-pornesti-cu-minimul|DIG-1008]] _vezi_ — Minimum viable persona — pornești campania cu informația minimă necesară și completezi persona din datele campaniei
+- [[DIG-1034-formatele-video-youtube-se-aleg-dupa-obiectiv|DIG-1034]] _vezi_ — Formatele video de pe YouTube se aleg după obiectiv — masthead și bumper de 6 secunde pentru reach, TrueView pentru considerare, Video Action pentru conversie
+- [[SOC-1006-ad-managerele-sociale-au-aceeasi-anatomie|SOC-1006]] _vezi_ — Ad managerele platformelor sociale au aceeași anatomie — obiectiv, format, previzualizare, public și persona, durată, buget zilnic, estimare de rezultate, cost
+- [[SOC-1008-orele-optime-de-postare-vs-datele-propriului-public|SOC-1008]] _vezi_ — „Orele optime de postare" universale sunt o scurtătură slabă — calendarul se construiește din datele propriului public și din teste
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] — Digital Advertising in the Post-cookie Era: Strategic Campaign Planning Across the Customer Journey
+<!-- backlinks:end -->

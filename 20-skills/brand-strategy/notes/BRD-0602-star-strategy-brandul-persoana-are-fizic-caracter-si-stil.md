@@ -49,11 +49,21 @@ Un brand care își schimbă mereu caracterul riscă să nu mai fie înțeles. S
 
 ## Legături
 
-- **extinde** [[ADV-0608]] — star strategy e o evoluție aspirațională a brand image-ului.
-- **contrazice** [[ADV-0603]] — numită explicit în opoziție cu copy strategy.
-- **vezi** [[BRD-0603]] — Lovemarks reia metafora relației de iubire dintre om și brand.
+- **extinde** [[ADV-0608-brand-image-fiecare-reclama-contribuie-la-simbolul-brandului|ADV-0608]] — star strategy e o evoluție aspirațională a brand image-ului.
+- **contrazice** [[ADV-0603-copy-strategy-fixeaza-beneficiul-dovada-si-tonul|ADV-0603]] — numită explicit în opoziție cu copy strategy.
+- **vezi** [[BRD-0603-lovemarks-iubire-plus-respect-mister-senzualitate-intimitate|BRD-0603]] — Lovemarks reia metafora relației de iubire dintre om și brand.
 
 ## Surse
 
-- [[SRC-018]] Jorge David Fernández Gómez, *Strategic Advertising Mechanisms*, cap. 5 §5.1–5.3
-- [[SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 23, p. 86
+- [[SRC-018-strategic-advertising-mechanisms|SRC-018]] Jorge David Fernández Gómez, *Strategic Advertising Mechanisms*, cap. 5 §5.1–5.3
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 23, p. 86
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0603-copy-strategy-fixeaza-beneficiul-dovada-si-tonul|ADV-0603]] _contrazice_ — Copy strategy (P&G) fixează în scris obiectivul, beneficiul cu dovada lui și tonul — nu execuția
+- [[ADV-0608-brand-image-fiecare-reclama-contribuie-la-simbolul-brandului|ADV-0608]] _vezi_ — Brand image (Ogilvy) — fiecare reclamă e o contribuție la simbolul complex care este imaginea brandului
+- [[BRD-0603-lovemarks-iubire-plus-respect-mister-senzualitate-intimitate|BRD-0603]] _vezi_ — Lovemarks (Roberts) — iubire peste respect, construită prin mister, senzualitate și intimitate
+- [[SRC-018-strategic-advertising-mechanisms|SRC-018]] — Strategic Advertising Mechanisms: From Copy Strategy to Iconic Brands
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] — La boîte à outils de la publicité
+<!-- backlinks:end -->

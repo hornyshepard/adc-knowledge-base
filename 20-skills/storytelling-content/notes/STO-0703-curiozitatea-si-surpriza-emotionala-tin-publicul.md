@@ -30,19 +30,27 @@ Logica e aceeași ca la Ingledew: privitorul se așteaptă la un tipar, iar rupe
 
 - Scrie întrebarea pe care o pune primul cadru. Dacă primul cadru nu pune nicio întrebare, publicul dă scroll.
 - Lucrează pe o curbă emoțională în două puncte: emoția de plecare și opusul ei la răsturnare.
-- Leagă surpriza de produs: o cotitură care nu are legătură cu brandul e reținută fără brand (vezi *linkage* în [[BRF-0712]]).
+- Leagă surpriza de produs: o cotitură care nu are legătură cu brandul e reținută fără brand (vezi *linkage* în [[BRF-0712-adplan-sase-intrebari-pentru-o-executie-on-brief|BRF-0712]]).
 
 ## Întrebări
 
 - Cât de des poate un brand să surprindă înainte ca surpriza să devină previzibilă?
-- Unde se termină surpriza și începe șocul (vezi [[IDE-0710]])?
+- Unde se termină surpriza și începe șocul (vezi [[IDE-0710-dezbatere-socul-arma-de-atentie-sau-risc|IDE-0710]])?
 
 ## Legături
 
-- **extinde** [[STO-0702]] — curiozitatea face primul act să funcționeze.
-- **vezi** [[STO-0704]] — surpriza e o pârghie a puterii emoționale.
-- **vezi** [[IDE-0706]] — tiparul familiar rupt, varianta vizuală a surprizei.
+- **extinde** [[STO-0702-formula-cow-b-t-si-structura-in-trei-acte|STO-0702]] — curiozitatea face primul act să funcționeze.
+- **vezi** [[STO-0704-checklistul-puterii-emotionale-in-storytelling|STO-0704]] — surpriza e o pârghie a puterii emoționale.
+- **vezi** [[IDE-0706-cliseul-conventia-si-formatul-familiar-folosite-pe-dos|IDE-0706]] — tiparul familiar rupt, varianta vizuală a surprizei.
 
 ## Surse
 
-- [[SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 5 („Make People Care", „Curiosity", „Surprise")
+- [[SRC-025-shareworthy|SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 5 („Make People Care", „Curiosity", „Surprise")
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[STO-0702-formula-cow-b-t-si-structura-in-trei-acte|STO-0702]] _extinde_ — Formula C.O.W. + B → T — protagonist, obstacol, dorință, plus brandul, duc la transformare, de obicei în trei acte
+- [[STO-0704-checklistul-puterii-emotionale-in-storytelling|STO-0704]] _vezi_ — Checklist-ul puterii emoționale — valori umane, arc narativ, o emoție dominantă și testul „aș distribui-o eu?"
+- [[SRC-025-shareworthy|SRC-025]] — Shareworthy: Advertising That Creates Powerful Connections Through Storytelling
+<!-- backlinks:end -->

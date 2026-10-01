@@ -38,21 +38,29 @@ Melissa Grady Dias (CMO Cadillac) face o distincție utilă. **Manifestul de bra
 
 ## Aplicare
 
-- Scrie manifestul după ce ai brand construct-ul și insight-ul publicului, nu înainte (vezi [[BRD-0701]]).
+- Scrie manifestul după ce ai brand construct-ul și insight-ul publicului, nu înainte (vezi [[BRD-0701-brand-construct-arhetip-personalitate-naratiune|BRD-0701]]).
 - Folosește-l ca test pentru briefuri: idee care contrazice manifestul = off-brand.
 - În copy: fraze scurte, ritm, convingeri la persoana întâi plural; fără jargon corporativ.
 
 ## Întrebări
 
-- Când devine un manifest public un exercițiu de autolaudă care cade sub „whack tax" ([[STO-0707]])?
+- Când devine un manifest public un exercițiu de autolaudă care cade sub „whack tax" ([[STO-0707-purpose-fara-washing-whack-tax|STO-0707]])?
 - Ce diferențiază un manifest de un tagline lung?
 
 ## Legături
 
-- **fundament** [[BRD-0701]] — manifestul exprimă emoțional brand construct-ul.
-- **vezi** [[IDE-0713]] — manifestul de brand funcționează ca „North Star" pentru idei.
-- **vezi** [[STO-0707]] — un manifest cu scop trebuie dublat de fapte.
+- **fundament** [[BRD-0701-brand-construct-arhetip-personalitate-naratiune|BRD-0701]] — manifestul exprimă emoțional brand construct-ul.
+- **vezi** [[IDE-0713-ideea-north-star-trei-g-si-alter|IDE-0713]] — manifestul de brand funcționează ca „North Star" pentru idei.
+- **vezi** [[STO-0707-purpose-fara-washing-whack-tax|STO-0707]] — un manifest cu scop trebuie dublat de fapte.
 
 ## Surse
 
-- [[SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 3 („Brand Manifesto", inclusiv interviul cu Melissa Grady Dias)
+- [[SRC-025-shareworthy|SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 3 („Brand Manifesto", inclusiv interviul cu Melissa Grady Dias)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0701-brand-construct-arhetip-personalitate-naratiune|BRD-0701]] _extinde_ — Brand construct-ul duce la arhetip, personalitate și narațiune, iar o idee e „on-brand" când se potrivește pe aceleași scale
+- [[IDE-0713-ideea-north-star-trei-g-si-alter|IDE-0713]] _vezi_ — Ideea North Star se cristalizează cu cei trei G (scop, gol, câștig) și se testează cu A.L.T.E.R.
+- [[SRC-025-shareworthy|SRC-025]] — Shareworthy: Advertising That Creates Powerful Connections Through Storytelling
+<!-- backlinks:end -->

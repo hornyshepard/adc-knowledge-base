@@ -41,11 +41,22 @@ Touchpoint-urile tipice: motoare de căutare, social media și influenceri, vizi
 
 ## Legături
 
-- **extinde** [[DIG-0902]] — journey-ul e forma comportamentală a celor patru strategii generice.
-- **aplicare** [[DIG-0907]] — metricile se aleg pe etapele journey-ului.
-- **vezi** [[EXP-0901]] — experiența clientului se construiește pe toate touchpoint-urile acestui traseu.
-- **vezi** [[DIG-0924]] — retargetingul se segmentează după stadiul din journey.
+- **extinde** [[DIG-0902-patru-strategii-generice-achizitie-conversie-retentie-valoare|DIG-0902]] — journey-ul e forma comportamentală a celor patru strategii generice.
+- **aplicare** [[DIG-0907-metricile-se-aleg-din-obiective-smart-si-etapa-journey-ului|DIG-0907]] — metricile se aleg pe etapele journey-ului.
+- **vezi** [[EXP-0901-customer-experience-suma-interactiunilor-nu-un-eveniment|EXP-0901]] — experiența clientului se construiește pe toate touchpoint-urile acestui traseu.
+- **vezi** [[DIG-0924-retargetingul-trebuie-segmentat-dupa-stadiul-din-journey|DIG-0924]] — retargetingul se segmentează după stadiul din journey.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 4, p. 101-107
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 4, p. 101-107
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0902-patru-strategii-generice-achizitie-conversie-retentie-valoare|DIG-0902]] _vezi_ — Orice program digital servește una dintre patru strategii generice — achiziție, conversie, retenție, creșterea valorii
+- [[DIG-0907-metricile-se-aleg-din-obiective-smart-si-etapa-journey-ului|DIG-0907]] _fundament_ — Metricile se aleg pornind de la obiective SMART și de la etapa journey-ului, nu de la ce oferă platforma
+- [[DIG-0924-retargetingul-trebuie-segmentat-dupa-stadiul-din-journey|DIG-0924]] _fundament_ — Retargetingul trebuie segmentat după stadiul din journey și dozat, altfel devine hărțuire
+- [[EXP-0901-customer-experience-suma-interactiunilor-nu-un-eveniment|EXP-0901]] _fundament_ — Customer experience este suma tuturor interacțiunilor cu brandul, nu un eveniment memorabil
+- [[STO-0902-matricea-content-marketingului-entertain-inspire-educate-convince|STO-0902]] _vezi_ — Matricea content marketingului — distrează, inspiră, educă, convinge — după emoție și etapa deciziei
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+<!-- backlinks:end -->

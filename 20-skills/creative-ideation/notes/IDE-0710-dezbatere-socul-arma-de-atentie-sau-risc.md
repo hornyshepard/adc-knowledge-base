@@ -32,7 +32,7 @@ status: seed
 
 - Întreabă: șocul servește insight-ul și beneficiul sau doar atenția?
 - Separă ținta de publicul secundar care va vedea oricum materialul; cine poate fi rănit?
-- Pentru idei-șoc, testarea e obligatorie (vezi [[BRF-0710]]), iar decizia de a jigni pe cineva trebuie scrisă și asumată.
+- Pentru idei-șoc, testarea e obligatorie (vezi [[BRF-0710-masurarea-se-scrie-in-brief-inainte-de-campanie|BRF-0710]]), iar decizia de a jigni pe cineva trebuie scrisă și asumată.
 
 ## Întrebări
 
@@ -41,12 +41,24 @@ status: seed
 
 ## Legături
 
-- **contrazice** [[BRF-0712]] — amplificarea negativă din ADPLAN e exact riscul șocului.
-- **vezi** [[STO-0709]] — lista de responsabilitate pentru reprezentări.
-- **vezi** [[IDE-0709]] — umorul ca alternativă la șoc pentru a trece de apărările privitorului.
+- **contrazice** [[BRF-0712-adplan-sase-intrebari-pentru-o-executie-on-brief|BRF-0712]] — amplificarea negativă din ADPLAN e exact riscul șocului.
+- **vezi** [[STO-0709-checklist-de-responsabilitate-dei-storiestelling|STO-0709]] — lista de responsabilitate pentru reprezentări.
+- **vezi** [[IDE-0709-umorul-ironia-si-satira-rastoarna-asteptarea|IDE-0709]] — umorul ca alternativă la șoc pentru a trece de apărările privitorului.
 
 ## Surse
 
-- [[SRC-024]] John Ingledew, *The A–Z of Visual Ideas*, intrările „Shock" și „Surprise"
-- [[SRC-022]] Kevin McTigue, Derek D. Rucker, *The Creative Brief Blueprint*, cap. 7 și cap. 8
-- [[SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 5 și cap. 7
+- [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] John Ingledew, *The A–Z of Visual Ideas*, intrările „Shock" și „Surprise"
+- [[SRC-022-the-creative-brief-blueprint|SRC-022]] Kevin McTigue, Derek D. Rucker, *The Creative Brief Blueprint*, cap. 7 și cap. 8
+- [[SRC-025-shareworthy|SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 5 și cap. 7
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRF-0712-adplan-sase-intrebari-pentru-o-executie-on-brief|BRF-0712]] _vezi_ — ADPLAN — șase întrebări pentru o execuție care e „on brief" dar tot poate eșua
+- [[IDE-0709-umorul-ironia-si-satira-rastoarna-asteptarea|IDE-0709]] _contrazice_ — Umorul, ironia și satira răstoarnă așteptarea și creează complicitate cu privitorul
+- [[STO-0703-curiozitatea-si-surpriza-emotionala-tin-publicul|STO-0703]] — Curiozitatea din prima secundă și surpriza emoțională țin publicul până la capăt
+- [[STO-0704-checklistul-puterii-emotionale-in-storytelling|STO-0704]] — Checklist-ul puterii emoționale — valori umane, arc narativ, o emoție dominantă și testul „aș distribui-o eu?"
+- [[STO-0709-checklist-de-responsabilitate-dei-storiestelling|STO-0709]] _vezi_ — Checklist-ul de responsabilitate pentru reprezentare — stereotipuri, putere, apropriere, decor și o echipă diversă în fiecare etapă
+- [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] — The A–Z of Visual Ideas: How to Solve Any Creative Brief
+- [[SRC-025-shareworthy|SRC-025]] — Shareworthy: Advertising That Creates Powerful Connections Through Storytelling
+<!-- backlinks:end -->

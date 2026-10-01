@@ -43,10 +43,19 @@ Studiul cu suc de portocale: 46% identificări corecte fără reclamă, față d
 
 ## Legături
 
-- **fundament** [[INS-0411]] — memoria reconstructivă se bazează pe procesele de reamintire.
-- **contrazice** [[INS-0405]] — nuanțează ideea că promisiunea exagerată duce automat la dezamăgire.
-- **vezi** [[INS-0407]] — și categoria brandului colorează evaluarea produsului.
+- **fundament** [[INS-0411-memoria-retine-ce-procesam-in-profunzime|INS-0411]] — memoria reconstructivă se bazează pe procesele de reamintire.
+- **contrazice** [[INS-0405-dilema-promisiunii-asteptari-si-satisfactie|INS-0405]] — nuanțează ideea că promisiunea exagerată duce automat la dezamăgire.
+- **vezi** [[INS-0407-asimilare-si-contrast-decid-soarta-extensiilor|INS-0407]] — și categoria brandului colorează evaluarea produsului.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 3, p. 125-128
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 3, p. 125-128
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[INS-0405-dilema-promisiunii-asteptari-si-satisfactie|INS-0405]] _contrazice_ — Promisiunea exagerată vinde o dată și dezamăgește după (modelul confirmării așteptărilor)
+- [[INS-0423-experienta-directa-bate-reclama|INS-0423]] _vezi_ — Atitudinile formate prin experiență directă prezic comportamentul mai bine decât cele formate din reclame
+- [[INS-0424-brandul-tara-si-pretul-schimba-gustul|INS-0424]] _vezi_ — Brandul, țara de origine și prețul funcționează ca euristici care schimbă chiar experiența de consum
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

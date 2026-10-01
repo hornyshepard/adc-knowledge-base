@@ -46,10 +46,18 @@ Studenții care negau orice influență au descoperit, numărând țările pe de
 
 ## Legături
 
-- **fundament** [[INS-0605]] — ancorarea e o scurtătură tipică a creierului rapid.
-- **vezi** [[INS-0601]] — exemplul arată de ce nu ai nevoie de mitul subliminalului ca să explici influența.
-- **vezi** [[ADV-0623]] — prețul e cea mai slabă promisiune din ierarhia lui Milavsky.
+- **fundament** [[INS-0605-publicitatea-vorbeste-creierului-rapid-portarul-atentiei|INS-0605]] — ancorarea e o scurtătură tipică a creierului rapid.
+- **vezi** [[INS-0601-cercetarea-motivationala-cauta-de-ce-ul-ascuns-al-cumpararii|INS-0601]] — exemplul arată de ce nu ai nevoie de mitul subliminalului ca să explici influența.
+- **vezi** [[ADV-0623-ierarhia-promisiunilor-senzorial-efect-comoditate-pret|ADV-0623]] — prețul e cea mai slabă promisiune din ierarhia lui Milavsky.
 
 ## Surse
 
-- [[SRC-021]] Barry Milavsky, *Overcome AD-versity*, anexa „Fast Brain Fallacy: How Many Countries in Africa?"; cap. 6 (p. 113–115)
+- [[SRC-021-overcome-ad-versity|SRC-021]] Barry Milavsky, *Overcome AD-versity*, anexa „Fast Brain Fallacy: How Many Countries in Africa?"; cap. 6 (p. 113–115)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0623-ierarhia-promisiunilor-senzorial-efect-comoditate-pret|ADV-0623]] _vezi_ — Promisiunile au o ierarhie de forță — senzorial, efect asupra corpului, comoditate, preț — iar cele de jos se copiază cel mai ușor
+- [[INS-0605-publicitatea-vorbeste-creierului-rapid-portarul-atentiei|INS-0605]] _vezi_ — Publicitatea ajunge aproape doar la „creierul rapid", care e portarul atenției — mesajul trebuie să treacă întâi de el
+- [[SRC-021-overcome-ad-versity|SRC-021]] — Overcome AD-versity: How to Put Persuasion Power in Advertising
+<!-- backlinks:end -->

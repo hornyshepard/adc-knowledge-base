@@ -48,11 +48,22 @@ Autorul repetă mergând pe stradă cu căștile în urechi: „oamenii cred că
 
 ## Legături
 
-- **fundament** [[PIT-1419]] — în repetiții, scriptul se reduce la cuvinte cheie.
-- **extinde** [[PIT-1421]] — în echipă, repetițiile se organizează pe scene și tranziții.
-- **extinde** [[PIT-1422]] — pregătirea Q&A se face în repetițiile publice.
-- **vezi** [[PIT-1425]] — repetiția se face la energia „nivel 8”.
+- **fundament** [[PIT-1419-framework-uri-nu-scripturi-memorate|PIT-1419]] — în repetiții, scriptul se reduce la cuvinte cheie.
+- **extinde** [[PIT-1421-echipa-de-pitch-abc-si-tranzitii|PIT-1421]] — în echipă, repetițiile se organizează pe scene și tranziții.
+- **extinde** [[PIT-1422-qa-in-cinci-pasi-si-formula-p-p|PIT-1422]] — pregătirea Q&A se face în repetițiile publice.
+- **vezi** [[PIT-1425-energia-nivel-8-si-incalzirea|PIT-1425]] — repetiția se face la energia „nivel 8”.
 
 ## Surse
 
-- [[SRC-043]] Dominic Colenso, *Cut-Through*, cap. 4 („Rehearse like a pro”, „Have a plan B and C”)
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] Dominic Colenso, *Cut-Through*, cap. 4 („Rehearse like a pro”, „Have a plan B and C”)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PIT-1419-framework-uri-nu-scripturi-memorate|PIT-1419]] _aplicare_ — Prezintă din framework-uri și cuvinte cheie, nu dintr-un script memorat
+- [[PIT-1421-echipa-de-pitch-abc-si-tranzitii|PIT-1421]] _fundament_ — Echipa de pitch se alege după ABC și se judecă după tranziții
+- [[PIT-1422-qa-in-cinci-pasi-si-formula-p-p|PIT-1422]] _fundament_ — Q&A se pregătește în cinci pași, iar răspunsul se dă cu formula P + + – P
+- [[PIT-1428-debrief-presentation-bank-learning-log|PIT-1428]] _vezi_ — Debrief-ul în 24 de ore, presentation bank-ul și learning log-ul transformă fiecare pitch în progres
+- [[PIT-1431-repetitia-pe-video-un-defect-pe-runda|PIT-1431]] _extinde_ — Repetiția pe video funcționează când corectezi un singur defect pe rundă, până îți place ce vezi
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] — Cut-Through: The pitch and presentation playbook
+<!-- backlinks:end -->

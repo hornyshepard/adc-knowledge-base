@@ -52,12 +52,22 @@ Un student aplică la două agenții: pentru agenția digitală pune în față 
 
 ## Legături
 
-- **vezi** [[PRT-1410]] — structura portofoliului diferă ușor între PDF și site.
-- **fundament** [[PRT-1404]] — personalizarea PDF-ului urmează analiza anunțului.
-- **vezi** [[PRT-1412]] — protecția prin parolă e o soluție proastă și pentru NDA.
-- **vezi** [[PRT-1423]] — mediul se combină cu tipul de portofoliu (sample, full, leave-behind).
+- **vezi** [[PRT-1410-sandvisul-portofoliului-si-ce-nu-se-include|PRT-1410]] — structura portofoliului diferă ușor între PDF și site.
+- **fundament** [[PRT-1404-analiza-anuntului-de-angajare-ghideaza-curatoria|PRT-1404]] — personalizarea PDF-ului urmează analiza anunțului.
+- **vezi** [[PRT-1412-nda-ce-nu-functioneaza-si-ce-functioneaza|PRT-1412]] — protecția prin parolă e o soluție proastă și pentru NDA.
+- **vezi** [[PRT-1423-trei-tipuri-de-portofoliu-sample-full-leave-behind|PRT-1423]] — mediul se combină cu tipul de portofoliu (sample, full, leave-behind).
 
 ## Surse
 
-- [[SRC-048]] Ian Fenn, *UX Portfolio Design*, cap. 5
-- [[SRC-046]] Zuzana Kubišová, *The Architect's Pocket Guide to Portfolio Design*, Pasul 3, pp. 42–76; Pasul 10, pp. 292–293
+- [[SRC-048-ux-portfolio-design|SRC-048]] Ian Fenn, *UX Portfolio Design*, cap. 5
+- [[SRC-046-architects-pocket-guide-to-portfolio-design|SRC-046]] Zuzana Kubišová, *The Architect's Pocket Guide to Portfolio Design*, Pasul 3, pp. 42–76; Pasul 10, pp. 292–293
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PRT-1412-nda-ce-nu-functioneaza-si-ce-functioneaza|PRT-1412]] _vezi_ — Acordurile de confidențialitate nu se ocolesc prin încălcare, parolă sau anonimizare, ci se negociază din timp
+- [[PRT-1414-cariera-ca-afacere-brand-personal-pe-platforma-proprie|PRT-1414]] _vezi_ — Candidatul își tratează cariera ca pe o afacere — un brand personal găzduit pe o platformă pe care o deține
+- [[PRT-1423-trei-tipuri-de-portofoliu-sample-full-leave-behind|PRT-1423]] _vezi_ — Un candidat are nevoie de trei tipuri de portofoliu — sample, full și leave-behind
+- [[SRC-046-architects-pocket-guide-to-portfolio-design|SRC-046]] — The Architect's Pocket Guide to Portfolio Design
+- [[SRC-048-ux-portfolio-design|SRC-048]] — UX Portfolio Design
+<!-- backlinks:end -->

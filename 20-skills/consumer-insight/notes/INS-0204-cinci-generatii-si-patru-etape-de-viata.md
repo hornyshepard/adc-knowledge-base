@@ -54,12 +54,22 @@ Google/Ipsos arată că 74% dintre părinții mileniști își implică copiii d
 
 ## Legături
 
-- **alternativa** [[INS-0202]] — Marketing 4.0 segmenta influența după tineri, femei și netizeni, nu după generații.
-- **fundament** [[MKT-0212]] — decalajul dintre generații e prima provocare care justifică Marketing 5.0.
-- **vezi** [[MKT-0201]] — cartea leagă fiecare etapă 1.0→5.0 de o generație.
-- **vezi** [[MKT-0215]] — nativii phygitali sunt publicul pentru care e gândit metamarketingul.
+- **alternativa** [[INS-0202-tinerii-femeile-netizenii-subculturile-influente|INS-0202]] — Marketing 4.0 segmenta influența după tineri, femei și netizeni, nu după generații.
+- **fundament** [[MKT-0212-marketing-5-0-tehnologie-pentru-umanitate-cinci-componente|MKT-0212]] — decalajul dintre generații e prima provocare care justifică Marketing 5.0.
+- **vezi** [[MKT-0201-evolutia-marketingului-de-la-1-0-la-6-0|MKT-0201]] — cartea leagă fiecare etapă 1.0→5.0 de o generație.
+- **vezi** [[MKT-0215-marketing-6-0-metamarketingul-de-la-multi-la-omni-la-meta|MKT-0215]] — nativii phygitali sunt publicul pentru care e gândit metamarketingul.
 
 ## Surse
 
-- [[SRC-005]] Kotler, Kartajaya, Setiawan, *Marketing 5.0*, cap. 2 „Generation Gap: Marketing to Baby Boomers, X, Y, Z, and Alpha" (Fig. 2.1-2.3)
-- [[SRC-006]] Kotler, Kartajaya, Setiawan, *Marketing 6.0*, cap. 2 „The Emergence of Phygital Natives" (Fig. 2.1-2.3)
+- [[SRC-005-marketing-5-0-philip-kotler|SRC-005]] Kotler, Kartajaya, Setiawan, *Marketing 5.0*, cap. 2 „Generation Gap: Marketing to Baby Boomers, X, Y, Z, and Alpha" (Fig. 2.1-2.3)
+- [[SRC-006-marketing-6-0-philip-kotler|SRC-006]] Kotler, Kartajaya, Setiawan, *Marketing 6.0*, cap. 2 „The Emergence of Phygital Natives" (Fig. 2.1-2.3)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[INS-0202-tinerii-femeile-netizenii-subculturile-influente|INS-0202]] _alternativa_ — Tinerii, femeile și netizenii (YWN) sunt subculturile cele mai influente din era digitală
+- [[MKT-0201-evolutia-marketingului-de-la-1-0-la-6-0|MKT-0201]] _vezi_ — Evoluția marketingului de la 1.0 la 6.0 — de la produs la client, la om, la digital, la tehnologie pentru umanitate și la imersiune
+- [[SOC-0202-marketingul-in-metavers-motivatii-si-patru-moduri-de-participare|SOC-0202]] _vezi_ — Marketingul în metavers pornește de la motivațiile utilizatorilor și are patru forme — colecții de brand, publicitate experiențială, comerț O2O și loialitate gamificată
+- [[SRC-005-marketing-5-0-philip-kotler|SRC-005]] — Marketing 5.0: Technology for Humanity
+- [[SRC-006-marketing-6-0-philip-kotler|SRC-006]] — Marketing 6.0: The Future Is Immersive
+<!-- backlinks:end -->

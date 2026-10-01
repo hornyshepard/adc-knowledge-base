@@ -45,10 +45,19 @@ Calkins observă că dacă un brand aduce un flux constant de numerar la nesfâr
 
 ## Legături
 
-- **vezi** [[BRD-0523]] — tratarea brandului ca activ, nu cheltuială, este răspunsul la presiunea „cash".
-- **vezi** [[BRD-0515]] — consecvența se obține prin guvernanță și cultură, nu doar prin ghiduri.
-- **fundament** [[BRD-0501]] — brandul ca set de asociații explică de ce promoțiile repetate îl erodează.
+- **vezi** [[BRD-0523-brandul-este-un-activ-nu-o-cheltuiala-iar-puterea-lui-nu-e|BRD-0523]] — tratarea brandului ca activ, nu cheltuială, este răspunsul la presiunea „cash".
+- **vezi** [[BRD-0515-implementarea-strategiei-de-brand-cere-sase-elemente-nu|BRD-0515]] — consecvența se obține prin guvernanță și cultură, nu doar prin ghiduri.
+- **fundament** [[BRD-0501-brandul-este-un-set-de-asociatii-care-actioneaza-ca-o|BRD-0501]] — brandul ca set de asociații explică de ce promoțiile repetate îl erodează.
 
 ## Surse
 
-- [[SRC-014]] Tim Calkins, Introducere „The Power and Challenge of Branding", în *Kellogg on Branding in a Hyper-Connected World*, p. xxiv–xxvii
+- [[SRC-014-kellogg-on-branding|SRC-014]] Tim Calkins, Introducere „The Power and Challenge of Branding", în *Kellogg on Branding in a Hyper-Connected World*, p. xxiv–xxvii
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0501-brandul-este-un-set-de-asociatii-care-actioneaza-ca-o|BRD-0501]] _vezi_ — Brandul este un set de asociații care acționează ca o prismă asupra produsului
+- [[BRD-0515-implementarea-strategiei-de-brand-cere-sase-elemente-nu|BRD-0515]] _vezi_ — Implementarea strategiei de brand cere șase elemente, nu doar o poziționare
+- [[BRD-0523-brandul-este-un-activ-nu-o-cheltuiala-iar-puterea-lui-nu-e|BRD-0523]] _vezi_ — Brandul este un activ, nu o cheltuială, iar puterea lui nu e performanța lui
+- [[SRC-014-kellogg-on-branding|SRC-014]] — Kellogg on Branding in a Hyper-Connected World
+<!-- backlinks:end -->

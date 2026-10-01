@@ -54,11 +54,22 @@ Harley-Davidson (cap. 2): metricile arătau declinul vânzărilor în SUA din ca
 
 ## Legături
 
-- **fundament** [[MKT-0107]] — planul formalizează strategia de marketing.
-- **extinde** [[MKT-0109]] — pasul 2 se face cu analiza SWOT.
-- **extinde** [[MKT-0112]] — pasul 3 este procesul STP.
-- **vezi** [[MKT-0111]] — strategiile de creștere sunt opțiunile evaluate după analiză.
+- **fundament** [[MKT-0107-strategia-tinta-mix-si-avantaj-competitiv-durabil|MKT-0107]] — planul formalizează strategia de marketing.
+- **extinde** [[MKT-0109-swot-separa-ce-tine-de-firma-de-ce-tine-de-piata|MKT-0109]] — pasul 2 se face cu analiza SWOT.
+- **extinde** [[MKT-0112-stp-in-cinci-pasi|MKT-0112]] — pasul 3 este procesul STP.
+- **vezi** [[MKT-0111-patru-cai-de-crestere-matricea-ansoff|MKT-0111]] — strategiile de creștere sunt opțiunile evaluate după analiză.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 2, p. 35-52 (Exhibit 2.2, 2.6); anexa 2A, p. 63-66
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 2, p. 35-52 (Exhibit 2.2, 2.6); anexa 2A, p. 63-66
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[MKT-0107-strategia-tinta-mix-si-avantaj-competitiv-durabil|MKT-0107]] _extinde_ — Strategia de marketing = piață țintă + mix + un avantaj competitiv durabil, construit ca un zid
+- [[MKT-0109-swot-separa-ce-tine-de-firma-de-ce-tine-de-piata|MKT-0109]] _fundament_ — Analiza SWOT separă ce ține de firmă (puncte tari și slabe) de ce ține de piață (oportunități și amenințări)
+- [[MKT-0111-patru-cai-de-crestere-matricea-ansoff|MKT-0111]] _fundament_ — Există patru căi de creștere — piață actuală sau nouă × produs actual sau nou (matricea Ansoff)
+- [[MKT-0112-stp-in-cinci-pasi|MKT-0112]] _fundament_ — STP se face în cinci pași — strategie, segmentare, atractivitate, alegerea țintei, poziționare
+- [[MKT-0118-ciclul-de-viata-al-produsului-si-capcana-lui|MKT-0118]] _vezi_ — Ciclul de viață al produsului are patru etape, dar folosit mecanic devine o profeție care se autoîmplinește
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+<!-- backlinks:end -->

@@ -46,11 +46,19 @@ Autorul povestește un CEO miliardar care repeta un discurs pentru o mie de agen
 
 ## Legături
 
-- **extinde** [[PIT-1420]] — detaliază cum se folosește filmarea în repetițiile private.
-- **vezi** [[PIT-1432]] — autorul susține că aceeași buclă elimină și tracul.
-- **vezi** [[PIT-1428]] — WWWEBI aplică aceeași logică „bine / mai bine dacă” după prezentare.
+- **extinde** [[PIT-1420-cinci-etape-de-repetitie-si-planul-b|PIT-1420]] — detaliază cum se folosește filmarea în repetițiile private.
+- **vezi** [[PIT-1432-dezbatere-tracul-calmare-sau-video|PIT-1432]] — autorul susține că aceeași buclă elimină și tracul.
+- **vezi** [[PIT-1428-debrief-presentation-bank-learning-log|PIT-1428]] — WWWEBI aplică aceeași logică „bine / mai bine dacă” după prezentare.
 
 ## Surse
 
-- [[SRC-044]] Bharat Bhuval Nishad, *The Art of Presentation*, „1st Rehearsal”
-- [[SRC-043]] Dominic Colenso, *Cut-Through*, cap. 4 și 6
+- [[SRC-044-art-of-presentation-and-public-speaking|SRC-044]] Bharat Bhuval Nishad, *The Art of Presentation*, „1st Rehearsal”
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] Dominic Colenso, *Cut-Through*, cap. 4 și 6
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PIT-1432-dezbatere-tracul-calmare-sau-video|PIT-1432]] _fundament_ — Tracul se tratează prin tehnici de calmare sau prin eliminarea necunoscutului? Două abordări în tensiune
+- [[PRT-1413-cere-critica-nu-feedback|PRT-1413]] _vezi_ — Pentru portofoliu cere critică structurată, nu „feedback” general, și verifică tonul înainte de a-l trimite
+- [[SRC-044-art-of-presentation-and-public-speaking|SRC-044]] — The Art of Presentation And Confident Public Speaking
+<!-- backlinks:end -->

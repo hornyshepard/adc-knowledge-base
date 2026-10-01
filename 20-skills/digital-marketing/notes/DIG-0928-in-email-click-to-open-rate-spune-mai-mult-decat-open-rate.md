@@ -50,10 +50,18 @@ Dashboard-ul MailChimp cu mai multe campanii (fig. 11.16) compară segmente care
 
 ## Legături
 
-- **aplicare** [[DIG-0927]] — elementele de design se evaluează prin aceste metrici.
-- **fundament** [[DIG-0906]] — metricile devin KPI doar legate de un obiectiv.
-- **aplicare** [[DIG-0933]] — subiectul și oferta se compară prin teste A/B.
+- **aplicare** [[DIG-0927-emailul-promotional-bun-o-oferta-un-termen-un-subiect-scurt|DIG-0927]] — elementele de design se evaluează prin aceste metrici.
+- **fundament** [[DIG-0906-un-metric-e-un-numar-un-kpi-arata-progresul-fata-de-obiectiv|DIG-0906]] — metricile devin KPI doar legate de un obiectiv.
+- **aplicare** [[DIG-0933-testul-ab-o-singura-variabila-si-semnificatie-statistica|DIG-0933]] — subiectul și oferta se compară prin teste A/B.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 11, p. 299, 312-315, 317
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 11, p. 299, 312-315, 317
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0927-emailul-promotional-bun-o-oferta-un-termen-un-subiect-scurt|DIG-0927]] _aplicare_ — E-mailul promoțional bun are o singură ofertă, un termen-limită și un subiect sub 50 de caractere
+- [[DIG-0933-testul-ab-o-singura-variabila-si-semnificatie-statistica|DIG-0933]] _vezi_ — Testul A/B schimbă o singură variabilă, pornește de la o ipoteză și așteaptă semnificația statistică
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+<!-- backlinks:end -->

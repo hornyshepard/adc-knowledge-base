@@ -54,12 +54,24 @@ Aflac (Adding Value 18.2) avea notorietate (rața), dar nu și interes: oamenii 
 
 ## Legături
 
-- **fundament** [[ADV-0101]] — AIDA descrie efectul IMC asupra consumatorului.
-- **vezi** [[INS-0106]] — gândește-simte-acționează corespunde componentelor cognitivă, afectivă și comportamentală ale atitudinii.
-- **vezi** [[INS-0104]] — notorietatea spontană ajută brandul să intre în setul evocat.
-- **aplicare** [[ADV-0103]] — fiecare stadiu are metrici proprii în evaluarea IMC.
+- **fundament** [[ADV-0101-imc-integreaza-canalele-pentru-claritate-consecventa-impact|ADV-0101]] — AIDA descrie efectul IMC asupra consumatorului.
+- **vezi** [[INS-0106-atitudinea-cognitiva-afectiva-comportamentala|INS-0106]] — gândește-simte-acționează corespunde componentelor cognitivă, afectivă și comportamentală ale atitudinii.
+- **vezi** [[INS-0104-setul-evocat-si-atributul-determinant|INS-0104]] — notorietatea spontană ajută brandul să intre în setul evocat.
+- **aplicare** [[ADV-0103-bugetul-din-obiective-si-sarcini-eficienta-prin-grp-ctr-romi|ADV-0103]] — fiecare stadiu are metrici proprii în evaluarea IMC.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 18, p. 563-570 (Exhibit 18.1, 18.2, Adding Value 18.2)
-- [[SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 1, p. 31 (§1.6.4); cap. 3, p. 92 (§3.6.2)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 18, p. 563-570 (Exhibit 18.1, 18.2, Adding Value 18.2)
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 1, p. 31 (§1.6.4); cap. 3, p. 92 (§3.6.2)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0101-imc-integreaza-canalele-pentru-claritate-consecventa-impact|ADV-0101]] _extinde_ — Comunicarea integrată de marketing (IMC) tratează toate canalele ca pe un întreg — pentru claritate, consecvență și impact maxim
+- [[ADV-0103-bugetul-din-obiective-si-sarcini-eficienta-prin-grp-ctr-romi|ADV-0103]] _vezi_ — Bugetul IMC se construiește din obiective și sarcini, iar eficiența se măsoară cu reach × frecvență (GRP), CTR și ROMI
+- [[DIG-0101-cadrul-4e-entuziasmeaza-educa-experienta-implica|DIG-0101]] _vezi_ — Cadrul 4E — marketingul digital trebuie să entuziasmeze, să educe, să ofere experiența produsului și să implice
+- [[INS-0104-setul-evocat-si-atributul-determinant|INS-0104]] _aplicare_ — Consumatorul alege dintr-un set evocat mic, după atributul determinant — cel important și diferit între branduri
+- [[INS-0106-atitudinea-cognitiva-afectiva-comportamentala|INS-0106]] _vezi_ — Atitudinea are trei componente — ce crezi, ce simți, ce faci — iar comunicarea le poate schimba pe primele două
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] — Principles of Marketing
+<!-- backlinks:end -->

@@ -45,10 +45,18 @@ La un curs la Wharton, studenții au ales un produs „plictisitor": detergentul
 
 ## Legături
 
-- **vezi** [[ADV-0623]] — beneficiul ales devine promisiune, iar promisiunile au o ierarhie de forță.
-- **vezi** [[CPY-0601]] — reason-why-ul lui Hopkins pornea tot de la cercetarea produsului.
-- **vezi** [[INS-0602]] — beneficiul final-final răspunde adesea unei tensiuni psihologice, ca un insight.
+- **vezi** [[ADV-0623-ierarhia-promisiunilor-senzorial-efect-comoditate-pret|ADV-0623]] — beneficiul ales devine promisiune, iar promisiunile au o ierarhie de forță.
+- **vezi** [[CPY-0601-reason-why-reclama-ca-vanzare-tiparita-cu-motive|CPY-0601]] — reason-why-ul lui Hopkins pornea tot de la cercetarea produsului.
+- **vezi** [[INS-0602-insight-ul-e-o-dilema-a-consumatorului-pe-care-brandul-o-rezolva|INS-0602]] — beneficiul final-final răspunde adesea unei tensiuni psihologice, ca un insight.
 
 ## Surse
 
-- [[SRC-021]] Barry Milavsky, *Overcome AD-versity*, cap. 2 (p. 11–24); anexa „Five Easy Pieces for Retailers", partea I (p. 175–177)
+- [[SRC-021-overcome-ad-versity|SRC-021]] Barry Milavsky, *Overcome AD-versity*, cap. 2 (p. 11–24); anexa „Five Easy Pieces for Retailers", partea I (p. 175–177)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0623-ierarhia-promisiunilor-senzorial-efect-comoditate-pret|ADV-0623]] _fundament_ — Promisiunile au o ierarhie de forță — senzorial, efect asupra corpului, comoditate, preț — iar cele de jos se copiază cel mai ușor
+- [[ART-0601-strategy-visual-demonstratia-vizuala-a-promisiunii|ART-0601]] _vezi_ — „Strategy visual" — demonstrația vizuală a promisiunii e Graalul reclamei, pentru că ce vezi crezi fără să decodezi
+- [[SRC-021-overcome-ad-versity|SRC-021]] — Overcome AD-versity: How to Put Persuasion Power in Advertising
+<!-- backlinks:end -->

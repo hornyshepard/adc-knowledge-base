@@ -47,10 +47,20 @@ Pentru o companie care ajută oamenii să slăbească, metafora *echilibrului* (
 
 ## Legături
 
-- **fundament** [[BRD-0203]] — povestea e al doilea ingredient al unei misiuni bune de brand.
-- **vezi** [[BRD-0205]] — „personajul" lui Holt e teoria brandurilor culturale aplicată poveștii.
-- **vezi** [[BRD-0204]] — aceeași abordare narativă se folosește și cu angajații, unde e mai greu de susținut.
+- **fundament** [[BRD-0203-misiunea-buna-business-as-unusual-poveste-consumatori-imputerniciti|BRD-0203]] — povestea e al doilea ingredient al unei misiuni bune de brand.
+- **vezi** [[BRD-0205-brandurile-culturale-rezolva-paradoxurile-si-anxietatile-colective|BRD-0205]] — „personajul" lui Holt e teoria brandurilor culturale aplicată poveștii.
+- **vezi** [[BRD-0204-valorile-devin-brand-doar-ca-valori-comune-traite-de-angajati|BRD-0204]] — aceeași abordare narativă se folosește și cu angajații, unde e mai greu de susținut.
 
 ## Surse
 
-- [[SRC-003]] Kotler, Kartajaya, Setiawan, *Marketing 3.0*, cap. 3 „Story that Moves People", p. 77-81
+- [[SRC-003-marketing-3-0-philip-kotler|SRC-003]] Kotler, Kartajaya, Setiawan, *Marketing 3.0*, cap. 3 „Story that Moves People", p. 77-81
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0203-misiunea-buna-business-as-unusual-poveste-consumatori-imputerniciti|BRD-0203]] _extinde_ — O misiune bună de brand are trei ingrediente — business as unusual, o poveste care mișcă și consumatori împuterniciți
+- [[BRD-0205-brandurile-culturale-rezolva-paradoxurile-si-anxietatile-colective|BRD-0205]] _vezi_ — Brandurile culturale câștigă rezolvând paradoxurile și anxietățile colective ale societății
+- [[INS-0203-antropologia-digitala-social-listening-netnografie-cercetare-empatica|INS-0203]] _vezi_ — Antropologia digitală descoperă anxietățile ascunse prin social listening, netnografie și cercetare empatică
+- [[STO-0202-content-marketing-in-opt-pasi-continutul-e-noua-reclama|STO-0202]] _extinde_ — Content marketingul are opt pași, iar conținutul e despre obiectivele clientului, nu despre ce vrea brandul să spună
+- [[SRC-003-marketing-3-0-philip-kotler|SRC-003]] — Marketing 3.0: From Products to Customers to the Human Spirit
+<!-- backlinks:end -->

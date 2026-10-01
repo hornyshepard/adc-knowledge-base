@@ -43,10 +43,18 @@ Bertolli folosește „mame italiene" care gătesc sosul în sate italiene (p. 1
 
 ## Legături
 
-- **vezi** [[INS-0423]] — fără experiență directă, euristicile umplu golul.
-- **fundament** [[INS-0407]] — brandul ca categorie care colorează judecata membrilor ei.
-- **vezi** [[INS-0416]] — și reclama văzută după consum poate schimba evaluarea experienței.
+- **vezi** [[INS-0423-experienta-directa-bate-reclama|INS-0423]] — fără experiență directă, euristicile umplu golul.
+- **fundament** [[INS-0407-asimilare-si-contrast-decid-soarta-extensiilor|INS-0407]] — brandul ca categorie care colorează judecata membrilor ei.
+- **vezi** [[INS-0416-publicitatea-poate-rescrie-amintirea-experientei|INS-0416]] — și reclama văzută după consum poate schimba evaluarea experienței.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 4, p. 156-160
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 4, p. 156-160
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[INS-0423-experienta-directa-bate-reclama|INS-0423]] _vezi_ — Atitudinile formate prin experiență directă prezic comportamentul mai bine decât cele formate din reclame
+- [[INS-0431-unimodelul-indiciile-si-argumentele-sunt-dovezi|INS-0431]] _vezi_ — Unimodelul — indiciile și argumentele nu sunt două rute, ci două tipuri de dovezi judecate după aceeași regulă
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

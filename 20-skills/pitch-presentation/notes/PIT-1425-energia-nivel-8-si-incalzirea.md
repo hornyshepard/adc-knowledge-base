@@ -48,10 +48,20 @@ Un pitch la 9 dimineața, cu un client obosit, începe cu o conversație caldă 
 
 ## Legături
 
-- **vezi** [[PIT-1401]] — energia este al treilea ingredient al cut-through.
-- **fundament** [[PIT-1424]] — încălzirea vine după gestionarea nervilor.
-- **aplicare** [[PIT-1426]] — online, energia urcă la 8,5.
+- **vezi** [[PIT-1401-cut-through-emotie-simplitate-energie|PIT-1401]] — energia este al treilea ingredient al cut-through.
+- **fundament** [[PIT-1424-nervii-sunt-energie-respiratie|PIT-1424]] — încălzirea vine după gestionarea nervilor.
+- **aplicare** [[PIT-1426-prezentarea-virtuala-si-hibrida|PIT-1426]] — online, energia urcă la 8,5.
 
 ## Surse
 
-- [[SRC-043]] Dominic Colenso, *Cut-Through*, cap. 4–5
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] Dominic Colenso, *Cut-Through*, cap. 4–5
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PIT-1401-cut-through-emotie-simplitate-energie|PIT-1401]] _vezi_ — Cut-through apare la intersecția dintre emoție, simplitate și energie
+- [[PIT-1420-cinci-etape-de-repetitie-si-planul-b|PIT-1420]] _vezi_ — Repetiția trece prin cinci etape, de la „car crash” la repetiția generală
+- [[PIT-1424-nervii-sunt-energie-respiratie|PIT-1424]] _vezi_ — Nervii sunt energie — se reîncadrează, se fragmentează în „quick wins” și se calmează prin respirație
+- [[PIT-1426-prezentarea-virtuala-si-hibrida|PIT-1426]] _fundament_ — Prezentarea virtuală cere gândire de editor TV — privire în cameră, cadru strâns, schimbări de „plan”
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] — Cut-Through: The pitch and presentation playbook
+<!-- backlinks:end -->

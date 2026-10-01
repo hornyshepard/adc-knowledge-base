@@ -45,11 +45,21 @@ Reclama-test BMW (Wänke et al., 1997): „zece motive să cumperi" a lucrat mai
 
 ## Legături
 
-- **extinde** [[INS-0403]] — ușurința reamintirii este o formă de fluență.
-- **vezi** [[INS-0409]] — ambele sunt forme ale raționamentului elaborativ.
-- **fundament** [[INS-0401]] — meta-cogniția se petrece în ultima etapă de procesare.
-- **extinde** [[INS-0430]] — auto-validarea amplifică gândurile generate pe ruta centrală.
+- **extinde** [[INS-0403-fluenta-procesarii-se-simte-ca-placere|INS-0403]] — ușurința reamintirii este o formă de fluență.
+- **vezi** [[INS-0409-mesajul-potrivit-cu-schema-de-sine-e-citit-atent|INS-0409]] — ambele sunt forme ale raționamentului elaborativ.
+- **fundament** [[INS-0401-procesarea-reclamei-are-patru-etape|INS-0401]] — meta-cogniția se petrece în ultima etapă de procesare.
+- **extinde** [[INS-0430-persuasiunea-pe-ruta-centrala-sau-periferica|INS-0430]] — auto-validarea amplifică gândurile generate pe ruta centrală.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 2, p. 83-85; cap. 5, p. 221-223
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 2, p. 83-85; cap. 5, p. 221-223
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[INS-0403-fluenta-procesarii-se-simte-ca-placere|INS-0403]] _vezi_ — Fluența procesării se simte ca plăcere și e atribuită greșit brandului
+- [[INS-0409-mesajul-potrivit-cu-schema-de-sine-e-citit-atent|INS-0409]] _vezi_ — Un mesaj încadrat pe măsura imaginii de sine a cititorului e procesat mai atent
+- [[INS-0422-atitudinile-puternice-rezista-cele-slabe-se-construiesc|INS-0422]] _vezi_ — Atitudinile puternice rezistă și ghidează comportamentul, cele slabe se construiesc din context și din propriul comportament
+- [[INS-0430-persuasiunea-pe-ruta-centrala-sau-periferica|INS-0430]] _vezi_ — Persuasiunea urmează ruta centrală sau periferică, în funcție de motivația și capacitatea de a procesa (ELM și HSM)
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

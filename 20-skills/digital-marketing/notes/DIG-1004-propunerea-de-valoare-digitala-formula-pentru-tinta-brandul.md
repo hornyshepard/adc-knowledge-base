@@ -43,11 +43,21 @@ Peloton, în parafraza cărții: pentru oamenii care vor sau trebuie să facă s
 
 ## Legături
 
-- **fundament** [[DIG-1003]] — propunerea se scrie după ce obiectivele sunt clare.
-- **aplicare** [[DIG-1011]] — landing page-ul trebuie să confirme propunerea promisă de reclamă.
-- **vezi** [[BRF-1001]] — propunerea alimentează blocul de obiective și mesaj central din brief.
-- **vezi** [[BRD-1002]] — propunerea de valoare e primul pas în construcția brandului digital.
+- **fundament** [[DIG-1003-obiectivul-digital-se-leaga-de-marketing-valoare-si-metrica|DIG-1003]] — propunerea se scrie după ce obiectivele sunt clare.
+- **aplicare** [[DIG-1011-reclama-si-pagina-de-destinatie-spun-acelasi-lucru|DIG-1011]] — landing page-ul trebuie să confirme propunerea promisă de reclamă.
+- **vezi** [[BRF-1001-briefingul-campaniei-digitale-patru-blocuri|BRF-1001]] — propunerea alimentează blocul de obiective și mesaj central din brief.
+- **vezi** [[BRD-1002-brandul-digital-identitate-vizibilitate-credibilitate|BRD-1002]] — propunerea de valoare e primul pas în construcția brandului digital.
 
 ## Surse
 
-- [[SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 2 (p. 64–68)
+- [[SRC-031-digital-marketing-manual|SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 2 (p. 64–68)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-1002-brandul-digital-identitate-vizibilitate-credibilitate|BRD-1002]] _fundament_ — Brandul digital are trei componente care lucrează împreună — identitate, vizibilitate și credibilitate
+- [[BRF-1001-briefingul-campaniei-digitale-patru-blocuri|BRF-1001]] _vezi_ — Brief-ul pentru o campanie digitală are patru blocuri — situația de pornire, problema și obiectivele, ținta (cu persona și journey), bugetul și calendarul
+- [[DIG-1002-planul-strategic-digital-trei-etape-opt-sectiuni|DIG-1002]] _vezi_ — Planul strategic de marketing digital se face în trei etape și se scrie în opt secțiuni, cu una dedicată legalității și confidențialității
+- [[DIG-1011-reclama-si-pagina-de-destinatie-spun-acelasi-lucru|DIG-1011]] _fundament_ — Reclama, pagina de destinație și contextul în care apare reclama trebuie să spună același lucru — incongruența rupe conversia și încrederea
+- [[SRC-031-digital-marketing-manual|SRC-031]] — Digital Marketing
+<!-- backlinks:end -->

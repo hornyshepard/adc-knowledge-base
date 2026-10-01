@@ -52,11 +52,19 @@ Nike „Just Do It": mitul eroului anonim care reușește prin voință, constru
 
 ## Legături
 
-- **extinde** [[BRD-1201]] — teoria lui Holt e baza conceptului de brand culture.
-- **vezi** [[BRD-1203]] — Nike, cazul-școală al brandingului cultural.
-- **vezi** [[INS-1207]] — decodarea codurilor culturale cere instrumente semiotice.
-- **vezi** [[STO-1201]] — mitul se construiește apoi ca poveste.
+- **extinde** [[BRD-1201-emphasis-de-la-brand-content-la-brand-culture|BRD-1201]] — teoria lui Holt e baza conceptului de brand culture.
+- **vezi** [[BRD-1203-caz-nike-just-do-it-mitul-vointei-individuale|BRD-1203]] — Nike, cazul-școală al brandingului cultural.
+- **vezi** [[INS-1207-semiotica-decodeaza-sensul-cultural-al-consumului|INS-1207]] — decodarea codurilor culturale cere instrumente semiotice.
+- **vezi** [[STO-1201-povestea-de-brand-din-pozitionare-si-hero-journey|STO-1201]] — mitul se construiește apoi ca poveste.
 
 ## Surse
 
-- [[SRC-036]] Wided Batat, *Experiential Marketing*, cap. 7, Theory Box 7.1 „Douglas Holt's cultural branding theory" și Tabelul 7.2 „Six steps for implementing a brand culture strategy"
+- [[SRC-036-experiential-marketing|SRC-036]] Wided Batat, *Experiential Marketing*, cap. 7, Theory Box 7.1 „Douglas Holt's cultural branding theory" și Tabelul 7.2 „Six steps for implementing a brand culture strategy"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-1201-emphasis-de-la-brand-content-la-brand-culture|BRD-1201]] _vezi_ — Emphasis — comunicarea experiențială trece de la brand content la brand culture
+- [[BRD-1203-caz-nike-just-do-it-mitul-vointei-individuale|BRD-1203]] _exemplu_ — Caz — Nike „Just Do It" a construit mitul eroului solitar care învinge prin voință, pe o tensiune culturală a Americii
+- [[SRC-036-experiential-marketing|SRC-036]] — Experiential Marketing: Consumer Behavior, Customer Experience and the 7Es
+<!-- backlinks:end -->

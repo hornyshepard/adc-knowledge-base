@@ -48,11 +48,21 @@ Comandarea unei Coca-Cola și refuzul unei Pepsi oferite în loc (exemplul folos
 
 ## Legături
 
-- **fundament** [[ADV-0608]] — brand image-ul lui Ogilvy e strămoșul direct al modelului.
-- **alternativa** [[BRD-0604]] — Passionbrands, contemporan, mai riguros, dar ignorat comercial.
-- **exemplu** [[HIS-0601]] — Lovemarks e cazul-școală al „invenției recurente".
-- **vezi** [[BRD-0602]] — metafora relației amoroase apare deja la Chevron.
+- **fundament** [[ADV-0608-brand-image-fiecare-reclama-contribuie-la-simbolul-brandului|ADV-0608]] — brand image-ul lui Ogilvy e strămoșul direct al modelului.
+- **alternativa** [[BRD-0604-passionbrands-brandul-conduce-consumatorul-nu-e-condus|BRD-0604]] — Passionbrands, contemporan, mai riguros, dar ignorat comercial.
+- **exemplu** [[HIS-0601-inventia-recurenta-mecanismele-strategice-se-reambaleaza|HIS-0601]] — Lovemarks e cazul-școală al „invenției recurente".
+- **vezi** [[BRD-0602-star-strategy-brandul-persoana-are-fizic-caracter-si-stil|BRD-0602]] — metafora relației amoroase apare deja la Chevron.
 
 ## Surse
 
-- [[SRC-018]] Jorge David Fernández Gómez, *Strategic Advertising Mechanisms*, cap. 6 §6.1–6.3
+- [[SRC-018-strategic-advertising-mechanisms|SRC-018]] Jorge David Fernández Gómez, *Strategic Advertising Mechanisms*, cap. 6 §6.1–6.3
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0602-star-strategy-brandul-persoana-are-fizic-caracter-si-stil|BRD-0602]] _vezi_ — Star strategy (Séguéla) — brandul-persoană are fizic, caracter și stil
+- [[BRD-0604-passionbrands-brandul-conduce-consumatorul-nu-e-condus|BRD-0604]] _alternativa_ — Passionbrands — la nucleu, un brand puternic conduce consumatorul, nu se lasă condus de el
+- [[BRD-0606-brandurile-iconice-mitul-identitar-raspunde-unei-tensiuni-culturale|BRD-0606]] _vezi_ — Brandurile iconice (Holt) devin icoane oferind un mit identitar care răspunde unei tensiuni culturale
+- [[HIS-0601-inventia-recurenta-mecanismele-strategice-se-reambaleaza|HIS-0601]] _exemplu_ — „Invenția recurentă" — publicitatea își reinventează periodic mecanismele strategice sub nume noi
+- [[SRC-018-strategic-advertising-mechanisms|SRC-018]] — Strategic Advertising Mechanisms: From Copy Strategy to Iconic Brands
+<!-- backlinks:end -->

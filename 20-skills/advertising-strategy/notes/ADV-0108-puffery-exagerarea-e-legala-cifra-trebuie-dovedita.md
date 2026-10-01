@@ -49,11 +49,20 @@ Mailingul Wrigley din jurul anului 1938 (Dilema 19.2) trimitea gumă copiilor de
 
 ## Legături
 
-- **fundament** [[ADV-0106]] — afirmațiile din mesaj sunt supuse acestui test.
-- **vezi** [[MKT-0124]] — promisiunea exagerată lărgește decalajul de comunicare dintre reclamă și experiență.
-- **vezi** [[MKT-0106]] — etica de marketing este unul dintre principiile marketingului conștient.
+- **fundament** [[ADV-0106-mesajul-usp-si-apelul-informational-sau-emotional|ADV-0106]] — afirmațiile din mesaj sunt supuse acestui test.
+- **vezi** [[MKT-0124-patru-decalaje-de-serviciu-si-promisiunea-reclamei|MKT-0124]] — promisiunea exagerată lărgește decalajul de comunicare dintre reclamă și experiență.
+- **vezi** [[MKT-0106-conscious-marketing-pune-scopul-in-centru-csr-il-adauga|MKT-0106]] — etica de marketing este unul dintre principiile marketingului conștient.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 19, p. 608-610 (Exhibit 19.5, Dilema 19.2, 19.4)
-- [[SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 2, p. 57-60 (§2.8)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 19, p. 608-610 (Exhibit 19.5, Dilema 19.2, 19.4)
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 2, p. 57-60 (§2.8)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0106-mesajul-usp-si-apelul-informational-sau-emotional|ADV-0106]] _vezi_ — Mesajul condensează propunerea de valoare într-un USP unic, relevant și durabil, transmis printr-un apel informațional sau emoțional
+- [[MKT-0124-patru-decalaje-de-serviciu-si-promisiunea-reclamei|MKT-0124]] _vezi_ — Calitatea serviciului se pierde în patru decalaje, iar ultimul — cel de comunicare — îl creează publicitatea care promite prea mult
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] — Principles of Marketing
+<!-- backlinks:end -->

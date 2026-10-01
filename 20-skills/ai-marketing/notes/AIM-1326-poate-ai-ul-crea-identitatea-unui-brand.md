@@ -53,14 +53,23 @@ Niciuna dintre cele două cărți subțiri nu dă un caz real de identitate crea
 
 ## Legături
 
-- **vezi** [[CPY-1301]] — vocea de brand cere ciclu de supraveghere umană.
-- **vezi** [[AIM-1308]] — datele istorice nu produc noutate.
-- **contrazice** [[AIM-1325]] — „optimizarea identității vizuale" după date, propusă de aceeași sursă.
+- **vezi** [[CPY-1301-vocea-brandului-in-continutul-generat-cu-ai|CPY-1301]] — vocea de brand cere ciclu de supraveghere umană.
+- **vezi** [[AIM-1308-datele-istorice-prezic-repetarea-nu-noutatea|AIM-1308]] — datele istorice nu produc noutate.
+- **contrazice** [[AIM-1325-ascultarea-vizuala-gaseste-brandul-in-imagini|AIM-1325]] — „optimizarea identității vizuale" după date, propusă de aceeași sursă.
 
 ## Surse
 
-- [[SRC-041]] Elle James, *Digital Alchemy*, cap. 1, 4, 5, Concluzie
-- [[SRC-042]] Chidiebere Iroegbu, *The Future of Marketing*, cap. 6, 15, Concluzie
-- [[SRC-039]] Eldar Najafov, *ChatGPT for Marketing*, cap. 4, p. 80
-- [[SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, cap. 8
-- [[SRC-037]] Karen Noil, *AI-Driven Marketing*, cap. 13
+- [[SRC-041-transforming-brands-with-ai|SRC-041]] Elle James, *Digital Alchemy*, cap. 1, 4, 5, Concluzie
+- [[SRC-042-the-future-of-marketing|SRC-042]] Chidiebere Iroegbu, *The Future of Marketing*, cap. 6, 15, Concluzie
+- [[SRC-039-chatgpt-for-marketing|SRC-039]] Eldar Najafov, *ChatGPT for Marketing*, cap. 4, p. 80
+- [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, cap. 8
+- [[SRC-037-ai-driven-marketing|SRC-037]] Karen Noil, *AI-Driven Marketing*, cap. 13
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-1314-precizie-sau-transparenta-ansamblurile-si-retelele-neuronale|AIM-1314]] _vezi_ — Precizie sau transparență — ansamblurile și rețelele neuronale prezic, dar nu explică
+- [[CPY-1301-vocea-brandului-in-continutul-generat-cu-ai|CPY-1301]] _vezi_ — Vocea brandului nu se obține din prompt, ci dintr-un ciclu exemple → ciornă → editare umană → feedback → control final
+- [[SRC-041-transforming-brands-with-ai|SRC-041]] — Digital Alchemy: Transforming Brands with AI
+- [[SRC-042-the-future-of-marketing|SRC-042]] — The Future of Marketing: Harnessing Artificial Intelligence for Success
+<!-- backlinks:end -->

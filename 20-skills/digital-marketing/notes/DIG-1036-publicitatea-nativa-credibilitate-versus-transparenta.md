@@ -42,12 +42,22 @@ Același articol despre e-bike-uri ar putea purta mențiunea „în parteneriat 
 
 ## Legături
 
-- **vezi** [[SOC-1002]] — aceeași obligație de dezvăluire, aplicată influencerilor.
-- **vezi** [[DIG-1019]] — parcursul XXXL Sports e o formă de targetare contextuală.
-- **vezi** [[MKT-1001]] — reclama nativă e una dintre opțiunile digitale de „Promotion".
-- **vezi** [[DIG-1016]] — și aici judecă „impresia netă" lăsată publicului.
+- **vezi** [[SOC-1002-relatia-materiala-cu-influencerul-se-dezvaluie-clar|SOC-1002]] — aceeași obligație de dezvăluire, aplicată influencerilor.
+- **vezi** [[DIG-1019-targetarea-contextuala-si-semantica|DIG-1019]] — parcursul XXXL Sports e o formă de targetare contextuală.
+- **vezi** [[MKT-1001-cei-4p-in-digital-patru-seturi-de-decizii|MKT-1001]] — reclama nativă e una dintre opțiunile digitale de „Promotion".
+- **vezi** [[DIG-1016-promisiunea-de-confidentialitate-este-un-claim-publicitar|DIG-1016]] — și aici judecă „impresia netă" lăsată publicului.
 
 ## Surse
 
-- [[SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 1.3.1 (p. 22–23) și 2.3.2.3 (p. 70–71)
-- [[SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 2 (p. 55) și cap. 11 (p. 369)
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 1.3.1 (p. 22–23) și 2.3.2.3 (p. 70–71)
+- [[SRC-031-digital-marketing-manual|SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 2 (p. 55) și cap. 11 (p. 369)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-1019-targetarea-contextuala-si-semantica|DIG-1019]] _vezi_ — Targetarea contextuală pune reclama lângă subiectul deja prezent în mintea cititorului, iar versiunea semantică citește și sentimentul contextului
+- [[MKT-1001-cei-4p-in-digital-patru-seturi-de-decizii|MKT-1001]] _vezi_ — Cei 4P în digital devin patru seturi de decizii — dovada valorii produsului, modelul de preț, canalul (omnichannel sau dezintermediere) și activele digitale de promovare
+- [[SOC-1002-relatia-materiala-cu-influencerul-se-dezvaluie-clar|SOC-1002]] _vezi_ — Relația materială dintre brand și influencer trebuie dezvăluită clar și vizibil, chiar în conținut, nu ascunsă după un click
+- [[SRC-031-digital-marketing-manual|SRC-031]] — Digital Marketing
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] — Digital Advertising in the Post-cookie Era: Strategic Campaign Planning Across the Customer Journey
+<!-- backlinks:end -->

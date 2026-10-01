@@ -46,10 +46,17 @@ Sephora Digital Makeover Guide: clienta face o programare, alege inspirație din
 
 ## Legături
 
-- **fundament** [[AIM-0203]] — se bazează pe diviziunea muncii om–mașină din noul CX.
-- **vezi** [[DIG-0202]] — social CRM-ul din 4.0 folosea deja comunitatea și gamificarea în service.
-- **aplicare** [[MKT-0212]] — marketingul augmentat e a treia aplicație a Marketingului 5.0.
+- **fundament** [[AIM-0203-masinile-sunt-cool-oamenii-sunt-calzi-noul-cx|AIM-0203]] — se bazează pe diviziunea muncii om–mașină din noul CX.
+- **vezi** [[DIG-0202-engagement-aplicatii-mobile-social-crm-gamificare|DIG-0202]] — social CRM-ul din 4.0 folosea deja comunitatea și gamificarea în service.
+- **aplicare** [[MKT-0212-marketing-5-0-tehnologie-pentru-umanitate-cinci-componente|MKT-0212]] — marketingul augmentat e a treia aplicație a Marketingului 5.0.
 
 ## Surse
 
-- [[SRC-005]] Kotler, Kartajaya, Setiawan, *Marketing 5.0*, cap. 11 „Augmented Marketing: Delivering Tech-Empowered Human Interaction" (Fig. 11.1, 11.2)
+- [[SRC-005-marketing-5-0-philip-kotler|SRC-005]] Kotler, Kartajaya, Setiawan, *Marketing 5.0*, cap. 11 „Augmented Marketing: Delivering Tech-Empowered Human Interaction" (Fig. 11.1, 11.2)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-0203-masinile-sunt-cool-oamenii-sunt-calzi-noul-cx|AIM-0203]] _aplicare_ — În noul CX mașinile sunt „cool", dar oamenii sunt „calzi" — AI preia datele și convergența, omul păstrează insight-ul, înțelepciunea și empatia
+- [[SRC-005-marketing-5-0-philip-kotler|SRC-005]] — Marketing 5.0: Technology for Humanity
+<!-- backlinks:end -->

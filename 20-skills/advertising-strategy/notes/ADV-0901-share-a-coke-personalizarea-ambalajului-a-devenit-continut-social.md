@@ -42,12 +42,21 @@ Mecanica e o rudă a celor 5C: oamenii consumă (caută numele), se conectează 
 
 ## Legături
 
-- **exemplu** [[DIG-0925]] — un caz clasic de lanț owned → paid → earned.
-- **vezi** [[SOC-0902]] — campania atinge simultan mai multe motivații din cei 5C.
-- **vezi** [[DIG-0935]] — Spotify Wrapped aplică aceeași logică pe date, nu pe ambalaj.
-- **vezi** [[DIG-0929]] — personalizarea pe nume e dorită pentru că e transparentă și controlată de om.
+- **exemplu** [[DIG-0925-media-owned-earned-paid-control-credibilitate-acoperire|DIG-0925]] — un caz clasic de lanț owned → paid → earned.
+- **vezi** [[SOC-0902-cei-5c-ai-motivatiei-pe-social-media|SOC-0902]] — campania atinge simultan mai multe motivații din cei 5C.
+- **vezi** [[DIG-0935-spotify-wrapped-datele-clientului-devin-continut-distribuit|DIG-0935]] — Spotify Wrapped aplică aceeași logică pe date, nu pe ambalaj.
+- **vezi** [[DIG-0929-personalizarea-relevanta-respect-control-reactanta|DIG-0929]] — personalizarea pe nume e dorită pentru că e transparentă și controlată de om.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 10, p. 288-289
-- [[SRC-030]] K. Connors, *Advanced Digital Marketing Strategies*, cap. 8
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 10, p. 288-289
+- [[SRC-030-digital-marketing-strategies|SRC-030]] K. Connors, *Advanced Digital Marketing Strategies*, cap. 8
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0925-media-owned-earned-paid-control-credibilitate-acoperire|DIG-0925]] _vezi_ — Media owned, earned și paid se completează — control, credibilitate și acoperire
+- [[DIG-0935-spotify-wrapped-datele-clientului-devin-continut-distribuit|DIG-0935]] _vezi_ — Spotify Wrapped — datele clientului devin un cadou personal pe care el însuși îl distribuie
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+- [[SRC-030-digital-marketing-strategies|SRC-030]] — Advanced Digital Marketing Strategies: Mastering SEO, Social Media, Content Marketing, and AI for Maximum Online Growth
+<!-- backlinks:end -->

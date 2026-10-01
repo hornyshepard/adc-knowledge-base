@@ -51,10 +51,19 @@ Lauren reduce riscul social și psihologic citind reviste de modă și cerând p
 
 ## Legături
 
-- **fundament** [[INS-0101]] — riscul perceput dictează intensitatea etapei de căutare.
-- **vezi** [[INS-0107]] — riscul mare duce la rezolvarea extinsă a problemei și la implicare ridicată.
-- **vezi** [[MKT-0119]] — majoritatea timpurie așteaptă recenziile tocmai pentru că evită riscul.
+- **fundament** [[INS-0101-decizia-de-cumparare-cinci-etape-si-dupa-cumparare|INS-0101]] — riscul perceput dictează intensitatea etapei de căutare.
+- **vezi** [[INS-0107-implicarea-decide-procesarea-centrala-sau-periferica|INS-0107]] — riscul mare duce la rezolvarea extinsă a problemei și la implicare ridicată.
+- **vezi** [[MKT-0119-inovatia-se-raspandeste-in-cinci-grupuri-de-adoptatori|MKT-0119]] — majoritatea timpurie așteaptă recenziile tocmai pentru că evită riscul.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 6, p. 190-194
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 6, p. 190-194
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[INS-0101-decizia-de-cumparare-cinci-etape-si-dupa-cumparare|INS-0101]] _extinde_ — Decizia de cumpărare are cinci etape și nu se încheie la casă — satisfacția, disonanța și loialitatea vin după
+- [[INS-0107-implicarea-decide-procesarea-centrala-sau-periferica|INS-0107]] _vezi_ — Implicarea decide dacă mesajul e citit cu atenție sau doar „scanat" după indicii (modelul ELM)
+- [[MKT-0119-inovatia-se-raspandeste-in-cinci-grupuri-de-adoptatori|MKT-0119]] _vezi_ — O inovație se răspândește prin cinci grupuri de adoptatori, iar viteza depinde de cinci caracteristici ale produsului
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+<!-- backlinks:end -->

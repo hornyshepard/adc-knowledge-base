@@ -45,10 +45,19 @@ Contractul lui Cosby (1974): 100.000 de dolari pe an, cu creșteri de 10%, exclu
 
 ## Legături
 
-- **exemplu** [[ADV-0606]] — perseverența și răbdarea au făcut campania să lucreze.
-- **exemplu** [[INS-0606]] — credibilitatea purtătorului de cuvânt vine din expertiza percepută și din încredere.
-- **contrazice** [[ADV-0618]] — un scor de memorare slab nu a prezis eficiența.
+- **exemplu** [[ADV-0606-schimbarea-prea-deasa-a-campaniei-distruge-penetrarea|ADV-0606]] — perseverența și răbdarea au făcut campania să lucreze.
+- **exemplu** [[INS-0606-credibilitatea-sursei-expertiza-incredere-motivatie|INS-0606]] — credibilitatea purtătorului de cuvânt vine din expertiza percepută și din încredere.
+- **contrazice** [[ADV-0618-post-testul-masoara-urma-reclamei-prin-cinci-scoruri|ADV-0618]] — un scor de memorare slab nu a prezis eficiența.
 
 ## Surse
 
-- [[SRC-021]] Barry Milavsky, *Overcome AD-versity*, cap. 12, p. 162–173
+- [[SRC-021-overcome-ad-versity|SRC-021]] Barry Milavsky, *Overcome AD-versity*, cap. 12, p. 162–173
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0606-schimbarea-prea-deasa-a-campaniei-distruge-penetrarea|ADV-0606]] _exemplu_ — Schimbarea prea deasă a campaniei distruge penetrarea — principiul perseverenței
+- [[CLI-0602-ideile-se-erodeaza-in-circuitul-de-aprobare|CLI-0602]] _vezi_ — Ideile se erodează în circuitul de aprobare — fiecare nivel care cere „o mică schimbare" scade riscul și, odată cu el, forța reclamei
+- [[INS-0606-credibilitatea-sursei-expertiza-incredere-motivatie|INS-0606]] _vezi_ — Credibilitatea unei surse se judecă pe trei criterii, în ordine — expertiză, încredere, motivație — și o acordă receptorul, nu emițătorul
+- [[SRC-021-overcome-ad-versity|SRC-021]] — Overcome AD-versity: How to Put Persuasion Power in Advertising
+<!-- backlinks:end -->

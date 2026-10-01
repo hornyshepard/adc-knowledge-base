@@ -50,12 +50,20 @@ Henry Ford și Model T-ul „în orice culoare, numai negru" (SRC-001) ilustreaz
 
 ## Legături
 
-- **alternativa** [[MKT-0103]] — erele Grewal-Levy descriu istoric aceeași trecere de la producție la valoare.
-- **fundament** [[MKT-0101]] — conceptul de marketing e baza definiției moderne a marketingului.
-- **vezi** [[MKT-0106]] — conceptul societal anticipează marketingul conștient.
-- **vezi** [[MKT-0105]] — orientarea pe relație e consecința practică a conceptului de marketing.
+- **alternativa** [[MKT-0103-evolutia-marketingului-productie-vanzari-piata-valoare|MKT-0103]] — erele Grewal-Levy descriu istoric aceeași trecere de la producție la valoare.
+- **fundament** [[MKT-0101-marketingul-creeaza-capteaza-comunica-si-livreaza-valoare|MKT-0101]] — conceptul de marketing e baza definiției moderne a marketingului.
+- **vezi** [[MKT-0106-conscious-marketing-pune-scopul-in-centru-csr-il-adauga|MKT-0106]] — conceptul societal anticipează marketingul conștient.
+- **vezi** [[MKT-0105-clientul-valoreaza-cat-relatia-nu-cat-tranzactia-clv|MKT-0105]] — orientarea pe relație e consecința practică a conceptului de marketing.
 
 ## Surse
 
-- [[SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 1, p. 14-20 (§1.3.2, §1.4); cap. 7, p. 218-222 (§7.7)
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 1, p. 13-14
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 1, p. 14-20 (§1.3.2, §1.4); cap. 7, p. 218-222 (§7.7)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 1, p. 13-14
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[MKT-0101-marketingul-creeaza-capteaza-comunica-si-livreaza-valoare|MKT-0101]] _vezi_ — Marketingul creează, captează, comunică și livrează valoare (definiția AMA)
+- [[MKT-0103-evolutia-marketingului-productie-vanzari-piata-valoare|MKT-0103]] _alternativa_ — Marketingul a evoluat de la orientarea pe producție la vânzări, piață și valoare
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] — Principles of Marketing
+<!-- backlinks:end -->

@@ -51,12 +51,26 @@ Richemont a răscumpărat stocuri de ceasuri de la retaileri ca să evite reduce
 
 ## Legături
 
-- **vezi** [[BRD-0502]] — consecvența e una dintre cele trei mari provocări ale branding-ului.
-- **aplicare** [[BRD-0520]] — la servicii, implementarea înseamnă standarde și angajați implicați.
-- **vezi** [[BRD-0516]] — guvernanța glocală e aceeași problemă la scară globală.
-- **aplicare** [[BRD-0509]] — activarea internă a scopului folosește aceleași pârghii.
+- **vezi** [[BRD-0502-cele-trei-c-ale-branding-ului-si-bucla-fatala-a-promotiilor|BRD-0502]] — consecvența e una dintre cele trei mari provocări ale branding-ului.
+- **aplicare** [[BRD-0520-brandul-de-servicii-se-castiga-sau-se-pierde-in-momentul|BRD-0520]] — la servicii, implementarea înseamnă standarde și angajați implicați.
+- **vezi** [[BRD-0516-brandurile-globale-cu-suflet-firul-comun-echilibrul-glocal|BRD-0516]] — guvernanța glocală e aceeași problemă la scară globală.
+- **aplicare** [[BRD-0509-purpose-path-to-growth-descopera-scopul-apoi-activeaza-l|BRD-0509]] — activarea internă a scopului folosește aceleași pârghii.
 
 ## Surse
 
-- [[SRC-014]] Eric Leininger, „Leading the Brand", cap. 5, p. 67–77; Mary Dillon & Dave Kimbell, „Ulta Beauty Gets a Branding Makeover", cap. 18, p. 256–262, în *Kellogg on Branding in a Hyper-Connected World*
-- [[SRC-015]] Carl J. Damgaard, *The Unbeatable Brand Blueprint*, cap. 6 „Building Brand Consistency"
+- [[SRC-014-kellogg-on-branding|SRC-014]] Eric Leininger, „Leading the Brand", cap. 5, p. 67–77; Mary Dillon & Dave Kimbell, „Ulta Beauty Gets a Branding Makeover", cap. 18, p. 256–262, în *Kellogg on Branding in a Hyper-Connected World*
+- [[SRC-015-the-brand-blueprint|SRC-015]] Carl J. Damgaard, *The Unbeatable Brand Blueprint*, cap. 6 „Building Brand Consistency"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0502-cele-trei-c-ale-branding-ului-si-bucla-fatala-a-promotiilor|BRD-0502]] _vezi_ — Cele trei C ale branding-ului și bucla fatală a promoțiilor
+- [[BRD-0509-purpose-path-to-growth-descopera-scopul-apoi-activeaza-l|BRD-0509]] _aplicare_ — Purpose Path to Growth: descoperă scopul, apoi activează-l întâi în interior
+- [[BRD-0513-un-portofoliu-puternic-se-construieste-si-prin-eliminarea|BRD-0513]] _vezi_ — Un portofoliu puternic se construiește și prin eliminarea brandurilor slabe
+- [[BRD-0516-brandurile-globale-cu-suflet-firul-comun-echilibrul-glocal|BRD-0516]] _vezi_ — Brandurile globale cu suflet: firul comun, echilibrul glocal, lansarea agilă
+- [[BRD-0520-brandul-de-servicii-se-castiga-sau-se-pierde-in-momentul|BRD-0520]] _aplicare_ — Brandul de servicii se câștigă sau se pierde în momentul interacțiunii
+- [[BRD-0527-cazul-john-deere-esenta-brandului-ramane-orientarea|BRD-0527]] _vezi_ — Cazul John Deere: esența brandului rămâne, orientarea companiei se schimbă
+- [[BRD-0529-misiunea-spune-de-ce-exista-brandul-acum-viziunea-unde-vrea|BRD-0529]] _aplicare_ — Misiunea spune de ce există brandul acum, viziunea unde vrea să ajungă
+- [[SRC-014-kellogg-on-branding|SRC-014]] — Kellogg on Branding in a Hyper-Connected World
+- [[SRC-015-the-brand-blueprint|SRC-015]] — The Unbeatable Brand Blueprint: The Ultimate Guide for Branding
+<!-- backlinks:end -->

@@ -46,11 +46,22 @@ Pentru City of Eagan, revizia cerută de client (litere lizibile pe un turn de a
 
 ## Legături
 
-- **fundament** [[ART-0505]] — procesul începe cu lista de substantive.
-- **extinde** [[ART-0506]] — tehnicile de combinare produc schițele.
-- **aplicare** [[PIT-0501]] — prezentarea și vânzarea semnelor către client.
-- **vezi** [[ART-0508]] — faza finală produce un sistem modular, nu un singur logo.
+- **fundament** [[ART-0505-lista-de-substantive-de-brand-stabileste-subiectul-logo|ART-0505]] — procesul începe cu lista de substantive.
+- **extinde** [[ART-0506-cinci-tehnici-de-a-combina-doua-substantive-intr-un-semn|ART-0506]] — tehnicile de combinare produc schițele.
+- **aplicare** [[PIT-0501-logo-ul-puternic-se-vinde-condus-de-designer-nu-dictat-de|PIT-0501]] — prezentarea și vânzarea semnelor către client.
+- **vezi** [[ART-0508-un-sistem-de-identitate-modular-are-semn-logo-orizontal|ART-0508]] — faza finală produce un sistem modular, nu un singur logo.
 
 ## Surse
 
-- [[SRC-017]] Allan Peters, *Logos That Last*, cap. 2 „Brand Mark Process" (secțiunile „Fifty Sketches", „Vectorizing & Gridding", „The First-Round Brand Mark Presentation", „Revisions & Client Guidance")
+- [[SRC-017-logos-that-last|SRC-017]] Allan Peters, *Logos That Last*, cap. 2 „Brand Mark Process" (secțiunile „Fifty Sketches", „Vectorizing & Gridding", „The First-Round Brand Mark Presentation", „Revisions & Client Guidance")
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0504-un-logo-dureaza-prin-zece-piloni-dintre-care-designerul|ART-0504]] _aplicare_ — Un logo durează prin zece piloni, dintre care designerul controlează șapte
+- [[ART-0505-lista-de-substantive-de-brand-stabileste-subiectul-logo|ART-0505]] _aplicare_ — Lista de substantive de brand stabilește subiectul logo-ului înainte de schițe
+- [[ART-0506-cinci-tehnici-de-a-combina-doua-substantive-intr-un-semn|ART-0506]] _aplicare_ — Cinci tehnici de a combina două substantive într-un semn original
+- [[ART-0508-un-sistem-de-identitate-modular-are-semn-logo-orizontal|ART-0508]] _extinde_ — Un sistem de identitate modular are semn, logo orizontal, vertical și badge
+- [[PIT-0501-logo-ul-puternic-se-vinde-condus-de-designer-nu-dictat-de|PIT-0501]] _fundament_ — Logo-ul puternic se vinde condus de designer, nu dictat de client
+- [[SRC-017-logos-that-last|SRC-017]] — Logos That Last: How to Create Iconic Visual Branding
+<!-- backlinks:end -->

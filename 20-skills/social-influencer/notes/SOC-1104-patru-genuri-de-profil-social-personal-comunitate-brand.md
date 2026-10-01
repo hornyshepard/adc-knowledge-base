@@ -48,11 +48,19 @@ Lego folosește un profil de brand clasic, dar câștigă mult din UGC bazat pe 
 
 ## Legături
 
-- **vezi** [[STO-1101]] — fiecare gen de profil îl prezintă pe povestitor ca ghid credibil.
-- **vezi** [[SOC-1112]] — hashtag-urile la care te alături trebuie să se potrivească cu genul și valorile profilului.
-- **vezi** [[SOC-1102]] — profilul de comunitate trăiește din interacțiunile membrilor.
-- **vezi** [[SOC-1124]] — profilul „profersonal" e baza influenței B2B a experților și angajaților.
+- **vezi** [[STO-1101-pe-social-media-ghidul-inlocuieste-eroul-din-calatoria|STO-1101]] — fiecare gen de profil îl prezintă pe povestitor ca ghid credibil.
+- **vezi** [[SOC-1112-lipirea-de-un-hashtag-viral-fara-potrivire-de-valori|SOC-1112]] — hashtag-urile la care te alături trebuie să se potrivească cu genul și valorile profilului.
+- **vezi** [[SOC-1102-comunitatea-nu-este-audienta-membrii-ei-interactioneaza|SOC-1102]] — profilul de comunitate trăiește din interacțiunile membrilor.
+- **vezi** [[SOC-1124-in-b2b-influenta-vine-din-angajati-si-thought-leaders|SOC-1124]] — profilul „profersonal" e baza influenței B2B a experților și angajaților.
 
 ## Surse
 
-- [[SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 1.4, p. 44–53; cap. 1.2.4, p. 35–37
+- [[SRC-034-social-media-storytelling|SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 1.4, p. 44–53; cap. 1.2.4, p. 35–37
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[SOC-1112-lipirea-de-un-hashtag-viral-fara-potrivire-de-valori|SOC-1112]] _vezi_ — Lipirea de un hashtag viral fără potrivire de valori produce shitstorm
+- [[SOC-1124-in-b2b-influenta-vine-din-angajati-si-thought-leaders|SOC-1124]] _vezi_ — În B2B influența vine din angajați și thought leaders
+- [[SRC-034-social-media-storytelling|SRC-034]] — Social Media Storytelling
+<!-- backlinks:end -->

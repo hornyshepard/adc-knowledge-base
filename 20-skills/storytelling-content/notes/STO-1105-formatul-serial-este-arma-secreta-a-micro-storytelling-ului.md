@@ -42,11 +42,21 @@ Tim Hendrik Walter (@HerrAnwalt) a ajuns la peste două milioane de urmăritori 
 
 ## Legături
 
-- **fundament** [[STO-1106]] — nevoile utilizatorilor stabilesc ce serial să construiești.
-- **vezi** [[STO-1104]] — formulele fixe și abaterile lor funcționează ca story beats.
-- **vezi** [[SOC-1101]] — toks favorizează formate seriale de tip „one-minute".
-- **exemplu** [[SOC-1111]] — FAQ YOU și-a construit comunitatea pe formate seriale educative.
+- **fundament** [[STO-1106-sase-nevoi-ale-utilizatorilor-ghideaza-planificarea|STO-1106]] — nevoile utilizatorilor stabilesc ce serial să construiești.
+- **vezi** [[STO-1104-story-beats-tin-ritmul-si-imping-atentia-spre-ce-urmeaza|STO-1104]] — formulele fixe și abaterile lor funcționează ca story beats.
+- **vezi** [[SOC-1101-stories-si-toks-doua-genuri-native-de-smartphone-cu-logici|SOC-1101]] — toks favorizează formate seriale de tip „one-minute".
+- **exemplu** [[SOC-1111-faq-you-comunitate-construita-doar-din-continut-adaptat|SOC-1111]] — FAQ YOU și-a construit comunitatea pe formate seriale educative.
 
 ## Surse
 
-- [[SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 2.4, p. 76–80; cap. 3.7.1, p. 113; cap. 4.2.4.2, p. 177–178; cap. 5.4.2, p. 254
+- [[SRC-034-social-media-storytelling|SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 2.4, p. 76–80; cap. 3.7.1, p. 113; cap. 4.2.4.2, p. 177–178; cap. 5.4.2, p. 254
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[SOC-1101-stories-si-toks-doua-genuri-native-de-smartphone-cu-logici|SOC-1101]] _vezi_ — Stories și toks: două genuri native de smartphone cu logici diferite
+- [[STO-1104-story-beats-tin-ritmul-si-imping-atentia-spre-ce-urmeaza|STO-1104]] _vezi_ — Story beats țin ritmul și împing atenția spre ce urmează
+- [[STO-1106-sase-nevoi-ale-utilizatorilor-ghideaza-planificarea|STO-1106]] _aplicare_ — Șase nevoi ale utilizatorilor ghidează planificarea formatelor sociale
+- [[STO-1111-sabloane-simple-de-micro-poveste-pentru-social-media|STO-1111]] _vezi_ — Șabloane simple de micro-poveste pentru social media
+- [[SRC-034-social-media-storytelling|SRC-034]] — Social Media Storytelling
+<!-- backlinks:end -->

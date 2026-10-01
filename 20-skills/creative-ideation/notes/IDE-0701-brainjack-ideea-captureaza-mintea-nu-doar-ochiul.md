@@ -36,23 +36,37 @@ Toată cartea e construită pe acest concept: fiecare intrare se încheie cu o r
 
 - Când evaluezi o idee, întreabă: ce face privitorul în minte? Dacă nu face nimic (nu completează, nu descifrează, nu compară), nu e brainjack, e doar decor.
 - Lasă un mic gol pe care privitorul să-l umple; prea mult explicat înseamnă fără „aha".
-- Verifică dacă legătura pe care o face privitorul e aceeași cu cea pe care ai intenționat-o (vezi amplificarea în [[BRF-0712]]).
+- Verifică dacă legătura pe care o face privitorul e aceeași cu cea pe care ai intenționat-o (vezi amplificarea în [[BRF-0712-adplan-sase-intrebari-pentru-o-executie-on-brief|BRF-0712]]).
 
 ## Exemplu
 
-Ingledew deschide cartea cu „ideile sunt conținutul, execuția e stilul" și cu imaginea popicelor: o idee care conectează e ca un „strike" la bowling. Intrările despre juxtapunere ([[IDE-0705]]) sau siluete arată același mecanism: privitorul face el ultimul pas.
+Ingledew deschide cartea cu „ideile sunt conținutul, execuția e stilul" și cu imaginea popicelor: o idee care conectează e ca un „strike" la bowling. Intrările despre juxtapunere ([[IDE-0705-juxtapunerea-doua-imagini-alaturate|IDE-0705]]) sau siluete arată același mecanism: privitorul face el ultimul pas.
 
 ## Întrebări
 
 - Cât de mult poate privitorul să „lucreze" într-un feed de social media unde stă două secunde?
-- Ce se întâmplă când legătura e prea ușoară? Dar când e prea grea (vezi rebusul din [[CPY-0701]])?
+- Ce se întâmplă când legătura e prea ușoară? Dar când e prea grea (vezi rebusul din [[CPY-0701-jocul-de-cuvinte-vizual-calambur-expresie-rebus|CPY-0701]])?
 
 ## Legături
 
-- **extinde** [[IDE-0702]] — procesul în 16 etape prin care ajungi la idei de tip brainjack.
-- **vezi** [[IDE-0704]] — Koestler: legătura dintre două cadre de referință e chiar momentul „aha".
-- **vezi** [[BRF-0712]] — atenția și amplificarea din ADPLAN sunt fața măsurabilă a brainjack-ului.
+- **extinde** [[IDE-0702-cele-16-etape-ingledew-de-rezolvare-a-unui-brief|IDE-0702]] — procesul în 16 etape prin care ajungi la idei de tip brainjack.
+- **vezi** [[IDE-0704-ideile-noi-sunt-combinatii-bisociatia-lui-koestler|IDE-0704]] — Koestler: legătura dintre două cadre de referință e chiar momentul „aha".
+- **vezi** [[BRF-0712-adplan-sase-intrebari-pentru-o-executie-on-brief|BRF-0712]] — atenția și amplificarea din ADPLAN sunt fața măsurabilă a brainjack-ului.
 
 ## Surse
 
-- [[SRC-024]] John Ingledew, *The A–Z of Visual Ideas*, Introducere „What's the big idea?"
+- [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] John Ingledew, *The A–Z of Visual Ideas*, Introducere „What's the big idea?"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0704-dezvaluirea-umbra-radiografia-imaginea-rupta-silueta|ART-0704]] _fundament_ — Dezvăluirea — umbra, radiografia, imaginea ruptă, silueta și mesajul ascuns îl lasă pe privitor să descopere singur
+- [[CPY-0701-jocul-de-cuvinte-vizual-calambur-expresie-rebus|CPY-0701]] _vezi_ — Jocul de cuvinte vizual — calamburul, expresia vizualizată, rebusul și întrebarea
+- [[IDE-0702-cele-16-etape-ingledew-de-rezolvare-a-unui-brief|IDE-0702]] _extinde_ — Cele 16 etape Ingledew de rezolvare a unui brief creativ — simplifică la fiecare pas
+- [[IDE-0704-ideile-noi-sunt-combinatii-bisociatia-lui-koestler|IDE-0704]] _fundament_ — Ideile noi sunt combinații — bisociația lui Koestler și gândirea combinatorie
+- [[IDE-0705-juxtapunerea-doua-imagini-alaturate|IDE-0705]] _fundament_ — Juxtapunerea — două imagini puse alături îl obligă pe privitor să construiască singur legătura
+- [[IDE-0706-cliseul-conventia-si-formatul-familiar-folosite-pe-dos|IDE-0706]] _fundament_ — Clișeul, convenția și formatul familiar devin idei când sunt folosite pe dos
+- [[IDE-0709-umorul-ironia-si-satira-rastoarna-asteptarea|IDE-0709]] _fundament_ — Umorul, ironia și satira răstoarnă așteptarea și creează complicitate cu privitorul
+- [[IDE-0711-mesajul-care-nu-arata-a-reclama-locuri-si-formate-neasteptate|IDE-0711]] _fundament_ — Singurul spațiu care merită cumpărat e cel din capul publicului — mesaje în locuri și formate care nu arată a reclamă
+- [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] — The A–Z of Visual Ideas: How to Solve Any Creative Brief
+<!-- backlinks:end -->

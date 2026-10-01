@@ -48,10 +48,20 @@ Patru biasuri explică eșecul:
 
 ## Legături
 
-- **extinde** [[AIM-1310]] — metodele de trade-off sunt răspunsul la această problemă.
-- **vezi** [[INS-1303]] — și focus grupurile produc opinii, nu alegeri.
-- **vezi** [[EXP-1301]] — conjoint-ul de servicii evită ratingul fiecărui serviciu separat.
+- **extinde** [[AIM-1310-metodele-de-trade-off-cand-folosesti-fiecare|AIM-1310]] — metodele de trade-off sunt răspunsul la această problemă.
+- **vezi** [[INS-1303-focus-grupul-e-pentru-limbaj-nu-pentru-decizii|INS-1303]] — și focus grupurile produc opinii, nu alegeri.
+- **vezi** [[EXP-1301-conjoint-ul-de-servicii-arata-supra-si-sub-livrarea|EXP-1301]] — conjoint-ul de servicii evită ratingul fiecărui serviciu separat.
 
 ## Surse
 
-- [[SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, cap. 3 și cap. 4
+- [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, cap. 3 și cap. 4
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-1301-testarea-conjoint-a-mesajelor-bate-testul-a-b|ADV-1301]] _vezi_ — Elementele unei reclame se pot testa ca un experiment — conjoint-ul de mesaj bate testul A/B
+- [[AIM-1310-metodele-de-trade-off-cand-folosesti-fiecare|AIM-1310]] _fundament_ — Metodele de trade-off — alegere discretă, conjoint, MaxDiff, Q-Sort — răspund la întrebări diferite
+- [[EXP-1301-conjoint-ul-de-servicii-arata-supra-si-sub-livrarea|EXP-1301]] _fundament_ — Optimizarea conjoint a serviciilor arată unde supra-livrezi și unde sub-livrezi
+- [[INS-1303-focus-grupul-e-pentru-limbaj-nu-pentru-decizii|INS-1303]] _vezi_ — Focus grupul e bun pentru limbaj și pentru detectarea dezastrelor, nu pentru decizia finală
+- [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]] — Artificial Intelligence Marketing and Predicting Consumer Choice: An Overview of Tools and Techniques
+<!-- backlinks:end -->

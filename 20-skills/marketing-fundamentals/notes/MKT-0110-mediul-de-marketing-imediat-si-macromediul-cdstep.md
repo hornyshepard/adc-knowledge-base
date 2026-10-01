@@ -55,12 +55,23 @@ iRobot (deschiderea capitolului 5) urmărește demografia (populație care îmb�
 
 ## Legături
 
-- **extinde** [[MKT-0109]] — CDSTEP alimentează oportunitățile și amenințările din SWOT.
-- **aplicare** [[MKT-0113]] — demografia și cultura devin baze de segmentare.
-- **vezi** [[MKT-0106]] — mediul fizic și sustenabilitatea împing spre conscious marketing.
-- **vezi** [[INS-0108]] — cultura reapare ca factor social în decizia individuală de cumpărare.
+- **extinde** [[MKT-0109-swot-separa-ce-tine-de-firma-de-ce-tine-de-piata|MKT-0109]] — CDSTEP alimentează oportunitățile și amenințările din SWOT.
+- **aplicare** [[MKT-0113-bazele-segmentarii-gasesti-tinta-apoi-o-convingi|MKT-0113]] — demografia și cultura devin baze de segmentare.
+- **vezi** [[MKT-0106-conscious-marketing-pune-scopul-in-centru-csr-il-adauga|MKT-0106]] — mediul fizic și sustenabilitatea împing spre conscious marketing.
+- **vezi** [[INS-0108-factori-psihologici-sociali-situationali-si-mix|INS-0108]] — cultura reapare ca factor social în decizia individuală de cumpărare.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 2, p. 38; cap. 5, p. 154-177 (Exhibit 5.1, 5.2, 5.4, 5.5)
-- [[SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 1, p. 21-29 (§1.5)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 2, p. 38; cap. 5, p. 154-177 (Exhibit 5.1, 5.2, 5.4, 5.5)
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 1, p. 21-29 (§1.5)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[INS-0108-factori-psihologici-sociali-situationali-si-mix|INS-0108]] _vezi_ — Decizia de cumpărare e modelată de patru familii de factori — psihologici, sociali, situaționali și mixul de marketing
+- [[MKT-0106-conscious-marketing-pune-scopul-in-centru-csr-il-adauga|MKT-0106]] _vezi_ — Conscious marketing pune scopul superior în centrul afacerii, CSR doar îl adaugă pe margine
+- [[MKT-0109-swot-separa-ce-tine-de-firma-de-ce-tine-de-piata|MKT-0109]] _extinde_ — Analiza SWOT separă ce ține de firmă (puncte tari și slabe) de ce ține de piață (oportunități și amenințări)
+- [[MKT-0113-bazele-segmentarii-gasesti-tinta-apoi-o-convingi|MKT-0113]] _vezi_ — Demografia și geografia te ajută să găsești ținta, beneficiile și stilul de viață te ajută s-o convingi
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] — Principles of Marketing
+<!-- backlinks:end -->

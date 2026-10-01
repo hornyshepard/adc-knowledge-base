@@ -44,10 +44,18 @@ Aceeași campanie de relansare poate fi vândută unui client „towards” ca �
 
 ## Legături
 
-- **fundament** [[PIT-1407]] — este răspunsul la „Why now”.
-- **aplicare** [[PIT-1415]] — secțiunea „Problems” din POP exploatează motivația „away from”.
-- **vezi** [[PIT-1404]] — oamenii „picioare” tind să răspundă la rezultat, cei „inimă” la impact.
+- **fundament** [[PIT-1407-know-feel-do-why-now|PIT-1407]] — este răspunsul la „Why now”.
+- **aplicare** [[PIT-1415-mijlocul-1-2-3-pop-ppf-si-zece-formule|PIT-1415]] — secțiunea „Problems” din POP exploatează motivația „away from”.
+- **vezi** [[PIT-1404-centrele-de-energie-cap-inima-instinct-picioare|PIT-1404]] — oamenii „picioare” tind să răspundă la rezultat, cei „inimă” la impact.
 
 ## Surse
 
-- [[SRC-043]] Dominic Colenso, *Cut-Through*, cap. 2 („Make it ‘towards' or ‘away from'”)
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] Dominic Colenso, *Cut-Through*, cap. 2 („Make it ‘towards' or ‘away from'”)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PIT-1407-know-feel-do-why-now|PIT-1407]] _extinde_ — Intenția unei prezentări răspunde la patru întrebări — Know, Feel, Do și Why now
+- [[PIT-1415-mijlocul-1-2-3-pop-ppf-si-zece-formule|PIT-1415]] _vezi_ — Mijlocul prezentării se organizează în trei părți — POP, PPF și alte zece formule
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] — Cut-Through: The pitch and presentation playbook
+<!-- backlinks:end -->

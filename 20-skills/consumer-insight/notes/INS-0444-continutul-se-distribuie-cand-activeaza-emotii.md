@@ -45,10 +45,19 @@ Studiul *New York Times* (Berger & Milkman, 2012): articolele care provocau uimi
 
 ## Legături
 
-- **vezi** [[CPY-0404]] — umorul, una dintre emoțiile activatoare folosite în reclame.
-- **vezi** [[INS-0443]] — dovada socială și recenziile ca euristici online.
-- **vezi** [[INS-0433]] — anxietatea, emoție negativă activatoare și în apelurile la frică.
+- **vezi** [[CPY-0404-umorul-atrage-atentia-dar-fura-brandul|CPY-0404]] — umorul, una dintre emoțiile activatoare folosite în reclame.
+- **vezi** [[INS-0443-online-procesarea-e-euristica-si-memoria-externa|INS-0443]] — dovada socială și recenziile ca euristici online.
+- **vezi** [[INS-0433-apelurile-la-frica-mai-multa-frica-mai-multa-persuasiune|INS-0433]] — anxietatea, emoție negativă activatoare și în apelurile la frică.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 8, p. 376-380
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 8, p. 376-380
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0411-femvertising-vinde-imputernicirea|ADV-0411]] _vezi_ — Femvertising-ul vinde împuternicirea — câștigă premii și distribuiri, dar rămâne suspect de a revinde aceleași idealuri
+- [[CPY-0404-umorul-atrage-atentia-dar-fura-brandul|CPY-0404]] _vezi_ — Umorul atrage atenția și simpatia, dar fură memoria brandului — funcționează mai ales pentru produse ieftine cumpărate fără gândire
+- [[INS-0443-online-procesarea-e-euristica-si-memoria-externa|INS-0443]] _vezi_ — Online, consumatorul procesează euristic și își mută memoria pe Google — lupta se mută din setul de considerație la locul căutării
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

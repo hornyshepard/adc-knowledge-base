@@ -33,7 +33,7 @@ Revoluția s-a propagat prin oameni: Lois a fondat Papert Koenig Lois (1960), a 
 
 ## Exemplu
 
-Când FTC a interzis reclama Xerox în care o fetiță făcea copii (concurența susținea că un copil nu poate opera aparatul), Lois a refilmat-o cu un cimpanzeu, în fața inspectorilor FTC (vezi [[HIS-0825]]).
+Când FTC a interzis reclama Xerox în care o fetiță făcea copii (concurența susținea că un copil nu poate opera aparatul), Lois a refilmat-o cu un cimpanzeu, în fața inspectorilor FTC (vezi [[HIS-0825-demonstratia-trebuie-sa-fie-reala|HIS-0825]]).
 
 ## Întrebări
 
@@ -42,13 +42,26 @@ Când FTC a interzis reclama Xerox în care o fetiță făcea copii (concurența
 
 ## Legături
 
-- **exemplu** [[HIS-0812]] — Bernbach ca vârf al taberei „publicitatea e artă”.
-- **extinde** [[HIS-0810]] — revoluția închide genealogia stilurilor.
-- **aplicare** [[IDE-0801]] — *Lemon* ca exemplu de Big Idea.
-- **contrazice** [[IDE-0802]] — creația în pereche vs. scriitorul solitar al anilor '20.
-- **vezi** [[ART]] — art directorul devine coautor.
+- **exemplu** [[HIS-0812-publicitatea-stiinta-sau-arta|HIS-0812]] — Bernbach ca vârf al taberei „publicitatea e artă”.
+- **extinde** [[HIS-0810-genealogia-stilurilor-de-copy|HIS-0810]] — revoluția închide genealogia stilurilor.
+- **aplicare** [[IDE-0801-big-idea-strategie-plus-surpriza|IDE-0801]] — *Lemon* ca exemplu de Big Idea.
+- **contrazice** [[IDE-0802-ideea-solitudine-sau-sedinta|IDE-0802]] — creația în pereche vs. scriitorul solitar al anilor '20.
+- **vezi** [[20-skills/art-direction/SKILL|ART]] — art directorul devine coautor.
 
 ## Surse
 
-- [[SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 10, p. 202–210
-- [[SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „El Al Israel” și „Polaroid — Simply Terrific!”
+- [[SRC-027-a-history-of-advertising|SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 10, p. 202–210
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „El Al Israel” și „Polaroid — Simply Terrific!”
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0816-challengerul-castiga-schimband-jocul|CPY-0816]] — Challengerul câștigă schimbând jocul — comparație sportivă, autoironie și refuzul superlativelor
+- [[HIS-0805-plata-agentiei-ii-decide-loialitatea|HIS-0805]] _vezi_ — Felul în care e plătită agenția îi decide loialitatea — de la broker de spațiu la partener plătit pe onorariu
+- [[HIS-0812-publicitatea-stiinta-sau-arta|HIS-0812]] _vezi_ — Publicitatea este știință sau artă? — dezbaterea care a împărțit secolul XX
+- [[HIS-0825-demonstratia-trebuie-sa-fie-reala|HIS-0825]] _exemplu_ — Demonstrația trebuie să fie reală — Xerox cu cimpanzeul vs. Volvo și camionul-monstru
+- [[IDE-0801-big-idea-strategie-plus-surpriza|IDE-0801]] _fundament_ — Big Idea — conceptul care face o reclamă diferită de ale concurenților îmbină strategia cu surpriza
+- [[IDE-0802-ideea-solitudine-sau-sedinta|IDE-0802]] _contrazice_ — Ideea se naște în solitudine, în pereche sau în ședință? Clasicii nu sunt de acord
+- [[SRC-027-a-history-of-advertising|SRC-027]] — A History of Advertising: The First 300,000 Years
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] — The 100 Greatest Advertisements 1852–1958: Who Wrote Them and What They Did
+<!-- backlinks:end -->

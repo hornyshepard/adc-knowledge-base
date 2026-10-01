@@ -49,10 +49,18 @@ Matt și Lisa voiau inițial să vadă Fast and Furious. Recenziile bune pentru 
 
 ## Legături
 
-- **extinde** [[INS-0108]] — atitudinile sunt unul dintre factorii psihologici ai deciziei.
-- **vezi** [[ADV-0102]] — modelul AIDA urmează aceeași succesiune: gândește, simte, acționează.
-- **vezi** [[INS-0101]] — disonanța cognitivă reapare după cumpărare.
+- **extinde** [[INS-0108-factori-psihologici-sociali-situationali-si-mix|INS-0108]] — atitudinile sunt unul dintre factorii psihologici ai deciziei.
+- **vezi** [[ADV-0102-aida-gandeste-simte-actioneaza-si-efectul-intarziat|ADV-0102]] — modelul AIDA urmează aceeași succesiune: gândește, simte, acționează.
+- **vezi** [[INS-0101-decizia-de-cumparare-cinci-etape-si-dupa-cumparare|INS-0101]] — disonanța cognitivă reapare după cumpărare.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 6, p. 204-206
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 6, p. 204-206
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0102-aida-gandeste-simte-actioneaza-si-efectul-intarziat|ADV-0102]] _vezi_ — Modelul AIDA descrie trecerea de la a gândi la a simți și a acționa — cu un efect întârziat care complică măsurarea
+- [[INS-0108-factori-psihologici-sociali-situationali-si-mix|INS-0108]] _extinde_ — Decizia de cumpărare e modelată de patru familii de factori — psihologici, sociali, situaționali și mixul de marketing
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+<!-- backlinks:end -->

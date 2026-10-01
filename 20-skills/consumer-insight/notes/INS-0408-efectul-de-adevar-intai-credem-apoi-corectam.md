@@ -45,11 +45,22 @@ Programele de teleshopping repetă aceleași afirmații de zeci de ori într-o j
 
 ## Legături
 
-- **fundament** [[INS-0401]] — efectul aparține etapei de înțelegere.
-- **vezi** [[INS-0403]] — familiaritatea produce fluență, iar fluența e luată drept adevăr.
-- **aplicare** [[INS-0418]] — cazul McDonald's arată cum dezmințirea poate întări asocierea negativă.
-- **vezi** [[CPY-0401]] — inferențele induse de formulări literal adevărate.
+- **fundament** [[INS-0401-procesarea-reclamei-are-patru-etape|INS-0401]] — efectul aparține etapei de înțelegere.
+- **vezi** [[INS-0403-fluenta-procesarii-se-simte-ca-placere|INS-0403]] — familiaritatea produce fluență, iar fluența e luată drept adevăr.
+- **aplicare** [[INS-0418-mcdonalds-viermi-dezmintirea-intareste-asocierea|INS-0418]] — cazul McDonald's arată cum dezmințirea poate întări asocierea negativă.
+- **vezi** [[CPY-0401-sloganurile-literal-adevarate-pot-induce-in-eroare|CPY-0401]] — inferențele induse de formulări literal adevărate.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 2, p. 77-79
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 2, p. 77-79
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0401-sloganurile-literal-adevarate-pot-induce-in-eroare|CPY-0401]] _fundament_ — Sloganurile literal adevărate pot induce în eroare prin inferențele pe care le lasă publicului
+- [[INS-0401-procesarea-reclamei-are-patru-etape|INS-0401]] _vezi_ — Procesarea unei reclame trece prin patru etape, de la scanarea preatentivă la raționamentul elaborativ
+- [[INS-0403-fluenta-procesarii-se-simte-ca-placere|INS-0403]] _vezi_ — Fluența procesării se simte ca plăcere și e atribuită greșit brandului
+- [[INS-0418-mcdonalds-viermi-dezmintirea-intareste-asocierea|INS-0418]] _vezi_ — McDonald's și zvonul cu viermi — dezmințirea întărește asocierea, iar soluția e diluarea ei cu alte asocieri
+- [[INS-0443-online-procesarea-e-euristica-si-memoria-externa|INS-0443]] _extinde_ — Online, consumatorul procesează euristic și își mută memoria pe Google — lupta se mută din setul de considerație la locul căutării
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

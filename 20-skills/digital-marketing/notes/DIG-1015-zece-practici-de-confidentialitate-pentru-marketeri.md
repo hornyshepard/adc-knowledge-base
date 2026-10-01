@@ -49,11 +49,21 @@ Cele zece practici:
 
 ## Legături
 
-- **aplicare** [[DIG-1002]] — lista completează secțiunea 6 a planului strategic.
-- **extinde** [[DIG-1001]] — operaționalizează A-ul *Abide*.
-- **vezi** [[DIG-1022]] — detaliile unui consimțământ valid.
-- **vezi** [[DIG-1016]] — de ce promisiunile despre date trebuie formulate atent.
+- **aplicare** [[DIG-1002-planul-strategic-digital-trei-etape-opt-sectiuni|DIG-1002]] — lista completează secțiunea 6 a planului strategic.
+- **extinde** [[DIG-1001-cele-7a-ale-marketingului-digital-completeaza-cei-4p|DIG-1001]] — operaționalizează A-ul *Abide*.
+- **vezi** [[DIG-1022-consimtamantul-valid-activ-retras-la-fel-de-usor|DIG-1022]] — detaliile unui consimțământ valid.
+- **vezi** [[DIG-1016-promisiunea-de-confidentialitate-este-un-claim-publicitar|DIG-1016]] — de ce promisiunile despre date trebuie formulate atent.
 
 ## Surse
 
-- [[SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 11 (p. 382–396)
+- [[SRC-031-digital-marketing-manual|SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 11 (p. 382–396)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-1001-cele-7a-ale-marketingului-digital-completeaza-cei-4p|DIG-1001]] _vezi_ — Cele 7A ale marketingului digital (Add, Allure, Advance, Adapt, Associate, Abide, Analyze) completează cei 4P
+- [[DIG-1016-promisiunea-de-confidentialitate-este-un-claim-publicitar|DIG-1016]] _extinde_ — Orice promisiune despre confidențialitate este un claim publicitar — poate diferenția brandul, dar se judecă și se sancționează ca orice afirmație
+- [[DIG-1020-targetarea-predictiva-si-declansatorii-de-context|DIG-1020]] _contrazice_ — Targetarea predictivă mută întrebarea de la „cine a fost omul" la „ce va face probabil" și poate folosi declanșatori de context precum vremea, locul și ora
+- [[DIG-1022-consimtamantul-valid-activ-retras-la-fel-de-usor|DIG-1022]] _vezi_ — Consimțământul valid se cere activ și se poate retrage la fel de ușor — butoane egale, căsuțe nebifate, scopuri explicate, dovadă păstrată
+- [[SRC-031-digital-marketing-manual|SRC-031]] — Digital Marketing
+<!-- backlinks:end -->

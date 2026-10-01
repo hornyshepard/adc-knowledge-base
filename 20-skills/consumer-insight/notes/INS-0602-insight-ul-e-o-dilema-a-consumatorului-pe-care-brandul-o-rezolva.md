@@ -52,10 +52,20 @@ Materia primă sunt **motivațiile și frânele** (Joannis, Haas), **nevoile** (
 
 ## Legături
 
-- **fundament** [[ADV-0609]] — motivațiile și frânele sunt materia primă a dilemei.
-- **vezi** [[ADV-0620]] — insight-ul e produsul principal al planning-ului strategic.
-- **vezi** [[INS-0601]] — tradiția cercetării motivaționale a căutat același „de ce" ascuns.
+- **fundament** [[ADV-0609-axa-psihologica-joannis-stimulezi-o-motivatie-sau-slabesti-o-frana|ADV-0609]] — motivațiile și frânele sunt materia primă a dilemei.
+- **vezi** [[ADV-0620-planning-strategic-transforma-informatia-intr-un-unghi|ADV-0620]] — insight-ul e produsul principal al planning-ului strategic.
+- **vezi** [[INS-0601-cercetarea-motivationala-cauta-de-ce-ul-ascuns-al-cumpararii|INS-0601]] — tradiția cercetării motivaționale a căutat același „de ce" ascuns.
 
 ## Surse
 
-- [[SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 19 (p. 70–73), outil 1 (p. 14)
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 19 (p. 70–73), outil 1 (p. 14)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0609-axa-psihologica-joannis-stimulezi-o-motivatie-sau-slabesti-o-frana|ADV-0609]] _vezi_ — Axa psihologică (Joannis) — campania alege fie să stimuleze o motivație, fie să slăbească o frână
+- [[ADV-0620-planning-strategic-transforma-informatia-intr-un-unghi|ADV-0620]] _vezi_ — Planning-ul strategic transformă o compilație de informații într-un unghi de vedere — veghe, semnale slabe, sinteză
+- [[ADV-0624-de-la-atribut-la-beneficiul-final-si-final-final|ADV-0624]] _vezi_ — De la atribut la beneficiu final și „final-final" — inventar complet, testul „și ce dacă?" și eliminarea beneficiilor de categorie
+- [[INS-0603-chestionarul-cantitativ-si-focus-grupul-au-reguli-diferite|INS-0603]] _vezi_ — Chestionarul cantitativ măsoară „cât", interviul și focus grupul explică „de ce" — fiecare cu regulile lui
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] — La boîte à outils de la publicité
+<!-- backlinks:end -->

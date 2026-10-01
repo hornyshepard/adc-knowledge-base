@@ -46,10 +46,18 @@ Apple bifează toate patru: un ecosistem care răsplătește fidelitatea, comand
 
 ## Legături
 
-- **extinde** [[BRD-1002]] — MACE explică cum durează un brand digital construit pe identitate, vizibilitate și credibilitate.
-- **vezi** [[SOC-1003]] — comunitățile mici sunt un instrument de „captivare".
-- **vezi** [[DIG-1014]] — încrederea e condiția ca durabilitatea să nu devină doar dependență.
+- **extinde** [[BRD-1002-brandul-digital-identitate-vizibilitate-credibilitate|BRD-1002]] — MACE explică cum durează un brand digital construit pe identitate, vizibilitate și credibilitate.
+- **vezi** [[SOC-1003-focurile-de-tabara-digitale-comunitati-mici-private|SOC-1003]] — comunitățile mici sunt un instrument de „captivare".
+- **vezi** [[DIG-1014-increderea-digitala-cinci-parghii|DIG-1014]] — încrederea e condiția ca durabilitatea să nu devină doar dependență.
 
 ## Surse
 
-- [[SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 10 (p. 346, 349), după Collis & Collis, HBS Working Paper 21-013
+- [[SRC-031-digital-marketing-manual|SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 10 (p. 346, 349), după Collis & Collis, HBS Working Paper 21-013
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-1002-brandul-digital-identitate-vizibilitate-credibilitate|BRD-1002]] _vezi_ — Brandul digital are trei componente care lucrează împreună — identitate, vizibilitate și credibilitate
+- [[SOC-1003-focurile-de-tabara-digitale-comunitati-mici-private|SOC-1003]] _vezi_ — Conversația se mută în „focuri de tabără digitale", comunități mici și private, iar brandul intră în ele ca gazdă utilă, nu ca vânzător
+- [[SRC-031-digital-marketing-manual|SRC-031]] — Digital Marketing
+<!-- backlinks:end -->

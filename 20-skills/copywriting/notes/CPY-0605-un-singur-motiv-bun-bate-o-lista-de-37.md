@@ -45,10 +45,17 @@ Analizând reclama de presă a unui mare dealer auto, Milavsky și echipa s-au o
 
 ## Legături
 
-- **fundament** [[INS-0605]] — limita de trei vine din felul în care funcționează creierul rapid.
-- **vezi** [[ADV-0604]] — Reeves cerea aceeași concentrare pe o singură propunere.
-- **vezi** [[ADV-0603]] — suportul din strategia de creație se limitează la trei puncte.
+- **fundament** [[INS-0605-publicitatea-vorbeste-creierului-rapid-portarul-atentiei|INS-0605]] — limita de trei vine din felul în care funcționează creierul rapid.
+- **vezi** [[ADV-0604-usp-are-trei-conditii-propunere-unica-care-vinde|ADV-0604]] — Reeves cerea aceeași concentrare pe o singură propunere.
+- **vezi** [[ADV-0603-copy-strategy-fixeaza-beneficiul-dovada-si-tonul|ADV-0603]] — suportul din strategia de creație se limitează la trei puncte.
 
 ## Surse
 
-- [[SRC-021]] Barry Milavsky, *Overcome AD-versity*, anexa „The Nobel Prize Winning Creative Strategy" (p. 193–194); cap. 3 (p. 41–43); anexa „Five Easy Pieces for Retailers", partea a III-a
+- [[SRC-021-overcome-ad-versity|SRC-021]] Barry Milavsky, *Overcome AD-versity*, anexa „The Nobel Prize Winning Creative Strategy" (p. 193–194); cap. 3 (p. 41–43); anexa „Five Easy Pieces for Retailers", partea a III-a
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[INS-0605-publicitatea-vorbeste-creierului-rapid-portarul-atentiei|INS-0605]] _vezi_ — Publicitatea ajunge aproape doar la „creierul rapid", care e portarul atenției — mesajul trebuie să treacă întâi de el
+- [[SRC-021-overcome-ad-versity|SRC-021]] — Overcome AD-versity: How to Put Persuasion Power in Advertising
+<!-- backlinks:end -->

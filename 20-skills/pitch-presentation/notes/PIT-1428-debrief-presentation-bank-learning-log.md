@@ -52,11 +52,21 @@ O agenție care pierde un pitch și află la debrief că deschiderea a durat 12 
 
 ## Legături
 
-- **fundament** [[PIT-1402]] — Debrief-ul închide bucla celor șase D.
-- **vezi** [[PIT-1420]] — feedback-ul cerut specific e același ca la repetiția publică.
-- **vezi** [[PIT-1416]] — poveștile și cazurile care au funcționat intră în presentation bank.
-- **vezi** [[PRT-1413]] — Fenn aplică aceeași cerere de feedback specific la critica portofoliului.
+- **fundament** [[PIT-1402-metoda-celor-sase-d|PIT-1402]] — Debrief-ul închide bucla celor șase D.
+- **vezi** [[PIT-1420-cinci-etape-de-repetitie-si-planul-b|PIT-1420]] — feedback-ul cerut specific e același ca la repetiția publică.
+- **vezi** [[PIT-1416-povesti-sell-si-solve-clientul-e-eroul|PIT-1416]] — poveștile și cazurile care au funcționat intră în presentation bank.
+- **vezi** [[PRT-1413-cere-critica-nu-feedback|PRT-1413]] — Fenn aplică aceeași cerere de feedback specific la critica portofoliului.
 
 ## Surse
 
-- [[SRC-043]] Dominic Colenso, *Cut-Through*, cap. 6 („Debrief”)
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] Dominic Colenso, *Cut-Through*, cap. 6 („Debrief”)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PIT-1402-metoda-celor-sase-d|PIT-1402]] _vezi_ — Un pitch se construiește în șase pași — Discover, Distil, Design, Drill, Deliver, Debrief
+- [[PIT-1431-repetitia-pe-video-un-defect-pe-runda|PIT-1431]] _vezi_ — Repetiția pe video funcționează când corectezi un singur defect pe rundă, până îți place ce vezi
+- [[PRT-1403-jurnalul-de-lucru-povestile-se-colecteaza-in-timp-real|PRT-1403]] _vezi_ — Poveștile de portofoliu se colectează în timpul proiectelor, cu un jurnal de lucru indexat
+- [[PRT-1413-cere-critica-nu-feedback|PRT-1413]] _vezi_ — Pentru portofoliu cere critică structurată, nu „feedback” general, și verifică tonul înainte de a-l trimite
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] — Cut-Through: The pitch and presentation playbook
+<!-- backlinks:end -->

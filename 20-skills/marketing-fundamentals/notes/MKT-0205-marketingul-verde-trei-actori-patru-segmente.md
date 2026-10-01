@@ -49,10 +49,17 @@ Tide Coldwater (detergent formulat pentru apă rece) arată cum marile companii 
 
 ## Legături
 
-- **fundament** [[MKT-0204]] — marketingul verde e o formă de transformare socio-culturală.
-- **vezi** [[MKT-0202]] — trendsetterii verzi sunt exact consumatorii „spirituali" ai Marketingului 3.0.
-- **vezi** [[BRD-0201]] — „eticheta nutrițională" Timberland e o dovadă de integritate de brand.
+- **fundament** [[MKT-0204-filantropie-cause-marketing-transformare-socio-culturala|MKT-0204]] — marketingul verde e o formă de transformare socio-culturală.
+- **vezi** [[MKT-0202-marketing-3-0-trateaza-clientul-ca-om-intreg-minte-inima-spirit|MKT-0202]] — trendsetterii verzi sunt exact consumatorii „spirituali" ai Marketingului 3.0.
+- **vezi** [[BRD-0201-modelul-3i-identitate-integritate-imagine-de-brand|BRD-0201]] — „eticheta nutrițională" Timberland e o dovadă de integritate de brand.
 
 ## Surse
 
-- [[SRC-003]] Kotler, Kartajaya, Setiawan, *Marketing 3.0*, cap. 9 „Striving for Environmental Sustainability", p. 171-185 (Fig. 9.1-9.4, Tabelul 9.1)
+- [[SRC-003-marketing-3-0-philip-kotler|SRC-003]] Kotler, Kartajaya, Setiawan, *Marketing 3.0*, cap. 9 „Striving for Environmental Sustainability", p. 171-185 (Fig. 9.1-9.4, Tabelul 9.1)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[MKT-0204-filantropie-cause-marketing-transformare-socio-culturala|MKT-0204]] _extinde_ — Problemele sociale se abordează în trei trepte — filantropie, cause marketing, transformare socio-culturală
+- [[SRC-003-marketing-3-0-philip-kotler|SRC-003]] — Marketing 3.0: From Products to Customers to the Human Spirit
+<!-- backlinks:end -->

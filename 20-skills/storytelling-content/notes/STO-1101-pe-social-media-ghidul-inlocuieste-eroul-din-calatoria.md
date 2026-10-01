@@ -48,11 +48,22 @@ Avocatul Tim Hendrik Walter (@HerrAnwalt) nu e un erou: e un ghid care răspunde
 
 ## Legături
 
-- **extinde** [[STO-1102]] — anatomia poveștii este metoda prin care ghidul extrage momente din arcul lung.
-- **vezi** [[STO-1103]] — autorii păstrează cotiturile eroului, dar le transformă în întrebări de brand.
-- **vezi** [[STO-1114]] — ghidul trebuie să ofere utilizatorului o valoare percepută (purpose).
-- **vezi** [[SOC-1102]] — ghidul se adresează unei comunități active, nu unei audiențe pasive.
+- **extinde** [[STO-1102-anatomia-povestii-alegi-momentul-dramatic-care-spune|STO-1102]] — anatomia poveștii este metoda prin care ghidul extrage momente din arcul lung.
+- **vezi** [[STO-1103-cele-sapte-cotituri-ale-calatoriei-eroului-devin-sapte|STO-1103]] — autorii păstrează cotiturile eroului, dar le transformă în întrebări de brand.
+- **vezi** [[STO-1114-purpose-in-social-storytelling-valoare-perceputa-nu-misiune|STO-1114]] — ghidul trebuie să ofere utilizatorului o valoare percepută (purpose).
+- **vezi** [[SOC-1102-comunitatea-nu-este-audienta-membrii-ei-interactioneaza|SOC-1102]] — ghidul se adresează unei comunități active, nu unei audiențe pasive.
 
 ## Surse
 
-- [[SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 1.3.3, p. 43–44; cap. 2.1.1–2.1.2, p. 55–61
+- [[SRC-034-social-media-storytelling|SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 1.3.3, p. 43–44; cap. 2.1.1–2.1.2, p. 55–61
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[SOC-1104-patru-genuri-de-profil-social-personal-comunitate-brand|SOC-1104]] _vezi_ — Patru genuri de profil social: personal, comunitate, brand, jurnalist
+- [[STO-1102-anatomia-povestii-alegi-momentul-dramatic-care-spune|STO-1102]] _fundament_ — Anatomia poveștii: alegi momentul dramatic care spune întregul
+- [[STO-1103-cele-sapte-cotituri-ale-calatoriei-eroului-devin-sapte|STO-1103]] _vezi_ — Cele șapte cotituri ale călătoriei eroului devin șapte întrebări de brand
+- [[STO-1113-un-produs-nou-se-povesteste-prin-ceva-familiar|STO-1113]] _vezi_ — Un produs nou se povestește prin ceva familiar
+- [[STO-1114-purpose-in-social-storytelling-valoare-perceputa-nu-misiune|STO-1114]] _vezi_ — Purpose în social storytelling: valoare percepută, nu misiune declarată
+- [[SRC-034-social-media-storytelling|SRC-034]] — Social Media Storytelling
+<!-- backlinks:end -->

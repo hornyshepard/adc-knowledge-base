@@ -43,11 +43,23 @@ Bannerul „neobservat" din studiul Yoo: zero recunoaștere peste control, dar a
 
 ## Legături
 
-- **fundament** [[INS-0411]] — distincția între memoria explicită și cea implicită.
-- **fundament** [[INS-0402]] — expunerea incidentală produce efecte preatentive.
-- **contrazice** [[ADV-0401]] — ierarhiile de efecte presupun că notorietatea precedă atitudinea.
-- **vezi** [[INS-0419]] — doar experimentul arată cauzalitatea.
+- **fundament** [[INS-0411-memoria-retine-ce-procesam-in-profunzime|INS-0411]] — distincția între memoria explicită și cea implicită.
+- **fundament** [[INS-0402-expunerea-incidentala-influenteaza-fara-atentie|INS-0402]] — expunerea incidentală produce efecte preatentive.
+- **contrazice** [[ADV-0401-ierarhiile-de-efecte-nu-au-suport-empiric|ADV-0401]] — ierarhiile de efecte presupun că notorietatea precedă atitudinea.
+- **vezi** [[INS-0419-cauzalitatea-se-dovedeste-prin-experiment|INS-0419]] — doar experimentul arată cauzalitatea.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 3, p. 99-113; cap. 1, p. 40
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 3, p. 99-113; cap. 1, p. 40
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0401-ierarhiile-de-efecte-nu-au-suport-empiric|ADV-0401]] _contrazice_ — Ierarhiile de efecte (AIDA, Lavidge-Steiner, DAGMAR) sunt liste utile, dar nu descriu cum funcționează publicitatea
+- [[INS-0402-expunerea-incidentala-influenteaza-fara-atentie|INS-0402]] _aplicare_ — Expunerea incidentală la reclame influențează preferința chiar fără atenție conștientă
+- [[INS-0411-memoria-retine-ce-procesam-in-profunzime|INS-0411]] _extinde_ — Memoria reține ce procesăm în profunzime, nu ce vedem des
+- [[INS-0419-cauzalitatea-se-dovedeste-prin-experiment|INS-0419]] _vezi_ — Efectul unei reclame se dovedește prin experiment, nu prin sondajul „înainte și după"
+- [[INS-0421-atitudinile-implicite-prezic-alegerea-sub-presiune|INS-0421]] _vezi_ — Atitudinile implicite prezic alegerea când omul e grăbit sau obosit, cele explicite când are timp să se controleze
+- [[INS-0430-persuasiunea-pe-ruta-centrala-sau-periferica|INS-0430]] _vezi_ — Persuasiunea urmează ruta centrală sau periferică, în funcție de motivația și capacitatea de a procesa (ELM și HSM)
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

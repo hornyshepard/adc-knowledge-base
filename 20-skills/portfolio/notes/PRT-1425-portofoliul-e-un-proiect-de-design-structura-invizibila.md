@@ -44,10 +44,17 @@ Un portofoliu cu fundal alb, o grilă pe 12 coloane, un singur font sans-serif �
 
 ## Legături
 
-- **vezi** [[PRT-1406]] — designul pentru cititori grăbiți cere aceeași claritate a ierarhiei.
-- **vezi** [[PIT-1418]] — principiile de slide-uri (o idee pe ecran, fără decor) au aceeași logică.
-- **contrazice** [[PRT-1408]] — Fenn vrea numele în față, Kubišová îl vrea subordonat imaginii pe copertă.
+- **vezi** [[PRT-1406-portofoliul-proiectat-pentru-30-de-secunde|PRT-1406]] — designul pentru cititori grăbiți cere aceeași claritate a ierarhiei.
+- **vezi** [[PIT-1418-sase-principii-pentru-slide-uri|PIT-1418]] — principiile de slide-uri (o idee pe ecran, fără decor) au aceeași logică.
+- **contrazice** [[PRT-1408-introducerea-si-titlurile-vand-relevanta|PRT-1408]] — Fenn vrea numele în față, Kubišová îl vrea subordonat imaginii pe copertă.
 
 ## Surse
 
-- [[SRC-046]] Zuzana Kubišová, *The Architect's Pocket Guide to Portfolio Design*, p. 1; Pașii 4–8, pp. 87–231
+- [[SRC-046-architects-pocket-guide-to-portfolio-design|SRC-046]] Zuzana Kubišová, *The Architect's Pocket Guide to Portfolio Design*, p. 1; Pașii 4–8, pp. 87–231
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PRT-1406-portofoliul-proiectat-pentru-30-de-secunde|PRT-1406]] _vezi_ — Portofoliul se proiectează pentru 30 de secunde — un fast track și un slow track
+- [[SRC-046-architects-pocket-guide-to-portfolio-design|SRC-046]] — The Architect's Pocket Guide to Portfolio Design
+<!-- backlinks:end -->

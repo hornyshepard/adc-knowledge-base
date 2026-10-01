@@ -51,10 +51,19 @@ Jack Daniel's a recuperat individualismul „dur" al Vestului sălbatic ca răsp
 
 ## Legături
 
-- **extinde** [[ADV-0601]] — brandurile iconice sunt cel mai dezvoltat mecanism al paradigmei consumer branding.
-- **contrazice** [[ADV-0606]] — contextualismul mitului se opune perseverenței și permanenței.
-- **vezi** [[BRD-0603]] — și Lovemarks mizează pe mister și povești, dar fără analiza culturală.
+- **extinde** [[ADV-0601-trei-paradigme-de-brand-management-produs-personalitate|ADV-0601]] — brandurile iconice sunt cel mai dezvoltat mecanism al paradigmei consumer branding.
+- **contrazice** [[ADV-0606-schimbarea-prea-deasa-a-campaniei-distruge-penetrarea|ADV-0606]] — contextualismul mitului se opune perseverenței și permanenței.
+- **vezi** [[BRD-0603-lovemarks-iubire-plus-respect-mister-senzualitate-intimitate|BRD-0603]] — și Lovemarks mizează pe mister și povești, dar fără analiza culturală.
 
 ## Surse
 
-- [[SRC-018]] Jorge David Fernández Gómez, *Strategic Advertising Mechanisms*, cap. 8 §8.1–8.4
+- [[SRC-018-strategic-advertising-mechanisms|SRC-018]] Jorge David Fernández Gómez, *Strategic Advertising Mechanisms*, cap. 8 §8.1–8.4
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0601-trei-paradigme-de-brand-management-produs-personalitate|ADV-0601]] _vezi_ — Mecanismele strategice ale publicității se ordonează în trei paradigme — product, personality și consumer branding
+- [[ADV-0606-schimbarea-prea-deasa-a-campaniei-distruge-penetrarea|ADV-0606]] _contrazice_ — Schimbarea prea deasă a campaniei distruge penetrarea — principiul perseverenței
+- [[STO-0601-brand-content-aduce-consumatorul-la-brand|STO-0601]] _vezi_ — Brand content-ul inversează sensul publicității — consumatorul vine la brand pentru informație, utilitate sau divertisment
+- [[SRC-018-strategic-advertising-mechanisms|SRC-018]] — Strategic Advertising Mechanisms: From Copy Strategy to Iconic Brands
+<!-- backlinks:end -->

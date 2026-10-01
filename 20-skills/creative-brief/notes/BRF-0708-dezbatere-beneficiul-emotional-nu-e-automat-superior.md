@@ -29,7 +29,7 @@ status: seed
 
 - Alege treapta după patru variabile: maturitatea brandului, cât de bine cunoaște ținta produsul, tipul de obiectiv (lansare sau construcție de brand) și cât de ușor copiază concurența.
 - Pentru produse noi, începe funcțional și urcă treptat; pentru branduri mature din categorii-paritate, emoționalul devine diferențiatorul.
-- Chiar și într-un spot emoțional, verifică dacă beneficiul rămâne legat de brand (*linkage*, [[BRF-0712]]).
+- Chiar și într-un spot emoțional, verifică dacă beneficiul rămâne legat de brand (*linkage*, [[BRF-0712-adplan-sase-intrebari-pentru-o-executie-on-brief|BRF-0712]]).
 
 ## Întrebări
 
@@ -38,11 +38,21 @@ status: seed
 
 ## Legături
 
-- **extinde** [[BRF-0706]] — dezbaterea privește alegerea treptei pe scara beneficiilor.
-- **contrazice** [[STO-0704]] — checklist-ul lui Braun & Landa pornește de la puterea emoției.
-- **vezi** [[STO-0707]] — scopul (*purpose*) e altceva decât beneficiul emoțional.
+- **extinde** [[BRF-0706-scara-beneficiilor-si-cele-patru-criterii-ale-beneficiului|BRF-0706]] — dezbaterea privește alegerea treptei pe scara beneficiilor.
+- **contrazice** [[STO-0704-checklistul-puterii-emotionale-in-storytelling|STO-0704]] — checklist-ul lui Braun & Landa pornește de la puterea emoției.
+- **vezi** [[STO-0707-purpose-fara-washing-whack-tax|STO-0707]] — scopul (*purpose*) e altceva decât beneficiul emoțional.
 
 ## Surse
 
-- [[SRC-022]] Kevin McTigue, Derek D. Rucker, *The Creative Brief Blueprint*, cap. 5 „Positioning", secțiunea Myths
-- [[SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 2 și cap. 4
+- [[SRC-022-the-creative-brief-blueprint|SRC-022]] Kevin McTigue, Derek D. Rucker, *The Creative Brief Blueprint*, cap. 5 „Positioning", secțiunea Myths
+- [[SRC-025-shareworthy|SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 2 și cap. 4
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRF-0706-scara-beneficiilor-si-cele-patru-criterii-ale-beneficiului|BRF-0706]] _vezi_ — Scara beneficiilor urcă de la atribute la beneficii emoționale, iar beneficiul ales trebuie să treacă patru teste
+- [[STO-0704-checklistul-puterii-emotionale-in-storytelling|STO-0704]] _contrazice_ — Checklist-ul puterii emoționale — valori umane, arc narativ, o emoție dominantă și testul „aș distribui-o eu?"
+- [[STO-0707-purpose-fara-washing-whack-tax|STO-0707]] _vezi_ — Purpose fără „washing" — brandul plătește „whack tax" când spune mai mult decât face
+- [[SRC-022-the-creative-brief-blueprint|SRC-022]] — The Creative Brief Blueprint
+- [[SRC-025-shareworthy|SRC-025]] — Shareworthy: Advertising That Creates Powerful Connections Through Storytelling
+<!-- backlinks:end -->

@@ -46,18 +46,31 @@ Blackberry, Super Bowl 2013: un om se aprinde, îi cresc picioare de elefant, un
 ## Întrebări
 
 - Când un produs chiar are mai multe beneficii egale, cum le împarți în timp și pe canale fără să pierzi coerența?
-- Gândul unic este o constrângere pentru creație sau o eliberare? Vezi [[BRF-0713]].
+- Gândul unic este o constrângere pentru creație sau o eliberare? Vezi [[BRF-0713-brief-ul-ingradeste-curtea|BRF-0713]].
 
 ## Legături
 
-- **fundament** [[BRF-0705]] — punctul de diferență din declarația de poziționare.
-- **vezi** [[BRF-0720]] — formularele de agenție converg spre o singură propunere.
-- **vezi** [[IDE-0702]] — Ingledew: simplifică la fiecare etapă a rezolvării brief-ului.
-- **vezi** [[STO-0704]] — echivalentul narativ: o emoție dominantă, nu mai multe egale.
+- **fundament** [[BRF-0705-declaratia-de-pozitionare-tinta-cadru-diferenta-motiv|BRF-0705]] — punctul de diferență din declarația de poziționare.
+- **vezi** [[BRF-0720-comparatie-intre-modelele-de-brief-de-agentie|BRF-0720]] — formularele de agenție converg spre o singură propunere.
+- **vezi** [[IDE-0702-cele-16-etape-ingledew-de-rezolvare-a-unui-brief|IDE-0702]] — Ingledew: simplifică la fiecare etapă a rezolvării brief-ului.
+- **vezi** [[STO-0704-checklistul-puterii-emotionale-in-storytelling|STO-0704]] — echivalentul narativ: o emoție dominantă, nu mai multe egale.
 
 ## Surse
 
-- [[SRC-022]] Kevin McTigue, Derek D. Rucker, *The Creative Brief Blueprint*, cap. 5 „Positioning"
-- [[SRC-023]] Modele de brief de agenție: Euro RSCG Australia, Singleton Ogilvy & Mather, Red Cell
-- [[SRC-024]] John Ingledew, *The A–Z of Visual Ideas*, „Strategies for solving a creative brief"
-- [[SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 3 și cap. 7
+- [[SRC-022-the-creative-brief-blueprint|SRC-022]] Kevin McTigue, Derek D. Rucker, *The Creative Brief Blueprint*, cap. 5 „Positioning"
+- [[SRC-023-modele-de-brief-de-agentie|SRC-023]] Modele de brief de agenție: Euro RSCG Australia, Singleton Ogilvy & Mather, Red Cell
+- [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] John Ingledew, *The A–Z of Visual Ideas*, „Strategies for solving a creative brief"
+- [[SRC-025-shareworthy|SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 3 și cap. 7
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRF-0705-declaratia-de-pozitionare-tinta-cadru-diferenta-motiv|BRF-0705]] _vezi_ — Declarația de poziționare din brief — țintă, cadru de referință, punct de diferență, motiv de a crede
+- [[BRF-0713-brief-ul-ingradeste-curtea|BRF-0713]] _vezi_ — Brief-ul „îngrădește curtea" — constrângerea strategică le dă creativilor de unde să pornească
+- [[BRF-0715-modelul-euro-rscg-australia-sarcina-trei-insighturi-creatia|BRF-0715]] _vezi_ — Modelul de brief Euro RSCG Australia — sarcina, trei insight-uri triangulate, creația și un lanț de aprobări
+- [[BRF-0720-comparatie-intre-modelele-de-brief-de-agentie|BRF-0720]] _vezi_ — Modelele de brief de agenție au același nucleu, dar fiecare optimizează altceva — inspirația, concizia, contextul, procesul sau dovada
+- [[IDE-0702-cele-16-etape-ingledew-de-rezolvare-a-unui-brief|IDE-0702]] _vezi_ — Cele 16 etape Ingledew de rezolvare a unui brief creativ — simplifică la fiecare pas
+- [[STO-0704-checklistul-puterii-emotionale-in-storytelling|STO-0704]] _vezi_ — Checklist-ul puterii emoționale — valori umane, arc narativ, o emoție dominantă și testul „aș distribui-o eu?"
+- [[SRC-022-the-creative-brief-blueprint|SRC-022]] — The Creative Brief Blueprint
+- [[SRC-023-modele-de-brief-de-agentie|SRC-023]] — Modele de brief de agenție (Euro RSCG, Get/To/By, Naked, Red Cell, Singleton Ogilvy & Mather)
+<!-- backlinks:end -->

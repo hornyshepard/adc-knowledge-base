@@ -19,7 +19,7 @@ status: seed
 
 ## Explicație
 
-Richards rezumă traseul: vânzător de sobe AGA în Scoția, autorul unui manual de vânzări remarcat de Mather & Crowther, stagiu la Audience Research Institute al lui George Gallup, serviciu în informațiile britanice. În 1948 deschide în New York, cu 6.000 de dolari și numele împrumutat de la Mather, agenția care va deveni Ogilvy & Mather. A fost vicepreședinte de cercetare înainte de a fi starul creativ. Tot el a spart sistemul comisionului, câștigând Shell în 1960 cu un onorariu fix (vezi [[HIS-0805]]).
+Richards rezumă traseul: vânzător de sobe AGA în Scoția, autorul unui manual de vânzări remarcat de Mather & Crowther, stagiu la Audience Research Institute al lui George Gallup, serviciu în informațiile britanice. În 1948 deschide în New York, cu 6.000 de dolari și numele împrumutat de la Mather, agenția care va deveni Ogilvy & Mather. A fost vicepreședinte de cercetare înainte de a fi starul creativ. Tot el a spart sistemul comisionului, câștigând Shell în 1960 cu un onorariu fix (vezi [[HIS-0805-plata-agentiei-ii-decide-loialitatea|HIS-0805]]).
 
 Două cazuri din Watkins arată metoda:
 
@@ -34,7 +34,7 @@ Două cazuri din Watkins arată metoda:
 
 ## Exemplu
 
-Clientul Hathaway, Ellerton Jette, i-a promis lui Ogilvy că nu-l va concedia niciodată și nu-i va schimba niciun cuvânt. Ambele promisiuni au fost ținute, iar Watkins vede aici o condiție a campaniei: consecvența clientului (vezi [[CPY-0817]]).
+Clientul Hathaway, Ellerton Jette, i-a promis lui Ogilvy că nu-l va concedia niciodată și nu-i va schimba niciun cuvânt. Ambele promisiuni au fost ținute, iar Watkins vede aici o condiție a campaniei: consecvența clientului (vezi [[CPY-0817-consecventa-bate-noutatea|CPY-0817]]).
 
 ## Întrebări
 
@@ -43,11 +43,21 @@ Clientul Hathaway, Ellerton Jette, i-a promis lui Ogilvy că nu-l va concedia ni
 
 ## Legături
 
-- **exemplu** [[HIS-0812]] — Ogilvy stă între tabere: cercetare plus imagine.
-- **contrazice** [[ART-0803]] — Ogilvy refuză ideea că imaginea dominantă poate vinde fără copy.
-- **vezi** [[CPY-0802]] — copy-ul lui factual continuă tradiția reason-why.
+- **exemplu** [[HIS-0812-publicitatea-stiinta-sau-arta|HIS-0812]] — Ogilvy stă între tabere: cercetare plus imagine.
+- **contrazice** [[ART-0803-o-imagine-dominanta-poate-spune-povestea|ART-0803]] — Ogilvy refuză ideea că imaginea dominantă poate vinde fără copy.
+- **vezi** [[CPY-0802-reason-why-vanzare-tiparita|CPY-0802]] — copy-ul lui factual continuă tradiția reason-why.
 
 ## Surse
 
-- [[SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 10, p. 201–202, 217–218
-- [[SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Hathaway — But Don’t Forget the Copy” și „Rolls-Royce 1958”
+- [[SRC-027-a-history-of-advertising|SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 10, p. 201–202, 217–218
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Hathaway — But Don’t Forget the Copy” și „Rolls-Royce 1958”
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0803-o-imagine-dominanta-poate-spune-povestea|ART-0803]] _contrazice_ — O singură imagine dominantă poate spune povestea — dacă textul o susține, nu o repetă
+- [[CPY-0817-consecventa-bate-noutatea|CPY-0817]] _exemplu_ — Consecvența bate noutatea — nu schimba o reclamă care încă funcționează
+- [[HIS-0805-plata-agentiei-ii-decide-loialitatea|HIS-0805]] _exemplu_ — Felul în care e plătită agenția îi decide loialitatea — de la broker de spațiu la partener plătit pe onorariu
+- [[SRC-027-a-history-of-advertising|SRC-027]] — A History of Advertising: The First 300,000 Years
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] — The 100 Greatest Advertisements 1852–1958: Who Wrote Them and What They Did
+<!-- backlinks:end -->

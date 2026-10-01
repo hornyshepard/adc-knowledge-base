@@ -50,11 +50,22 @@ Autorii insistă că digitalul nu e comunicare unu-la-mulți, ci în ambele sens
 
 ## Legături
 
-- **extinde** [[SOC-0901]] — dezvoltă pasul „People" din POST.
-- **aplicare** [[SOC-0904]] — conținutul care atinge mai mulți C generează engagement, semnalul preferat de algoritmi.
-- **vezi** [[STO-0902]] — matricea conținutului alege tipul de conținut după etapă și emoție.
-- **vezi** [[DIG-0935]] — Spotify Wrapped combină Consume, Connect și Create.
+- **extinde** [[SOC-0901-metodologia-post-oamenii-intai-tehnologia-la-urma|SOC-0901]] — dezvoltă pasul „People" din POST.
+- **aplicare** [[SOC-0904-algoritmii-sociali-relatie-engagement-tip-continut-timp|SOC-0904]] — conținutul care atinge mai mulți C generează engagement, semnalul preferat de algoritmi.
+- **vezi** [[STO-0902-matricea-content-marketingului-entertain-inspire-educate-convince|STO-0902]] — matricea conținutului alege tipul de conținut după etapă și emoție.
+- **vezi** [[DIG-0935-spotify-wrapped-datele-clientului-devin-continut-distribuit|DIG-0935]] — Spotify Wrapped combină Consume, Connect și Create.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 9, p. 246-252
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 9, p. 246-252
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0901-share-a-coke-personalizarea-ambalajului-a-devenit-continut-social|ADV-0901]] _vezi_ — Share a Coke — personalizarea ambalajului a devenit conținut social, susținut de o comunicare integrată
+- [[DIG-0935-spotify-wrapped-datele-clientului-devin-continut-distribuit|DIG-0935]] _vezi_ — Spotify Wrapped — datele clientului devin un cadou personal pe care el însuși îl distribuie
+- [[SOC-0901-metodologia-post-oamenii-intai-tehnologia-la-urma|SOC-0901]] _extinde_ — Metodologia POST — oamenii întâi, obiectivele, strategia, iar tehnologia la urmă
+- [[SOC-0904-algoritmii-sociali-relatie-engagement-tip-continut-timp|SOC-0904]] _aplicare_ — Algoritmii sociali ordonează feed-ul după relație, engagement, tipul conținutului și timp
+- [[STO-0902-matricea-content-marketingului-entertain-inspire-educate-convince|STO-0902]] _vezi_ — Matricea content marketingului — distrează, inspiră, educă, convinge — după emoție și etapa deciziei
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+<!-- backlinks:end -->

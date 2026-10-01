@@ -47,10 +47,20 @@ Sala de fitness din carte observă scăderea frecvenței de vizite la unii membr
 
 ## Legături
 
-- **extinde** [[AIM-1306]] — Struhl arată de ce un model trebuie validat pe date pe care nu le-a văzut.
-- **aplicare** [[AIM-1302]] — segmentarea predictivă folosește direct aceste modele.
-- **vezi** [[AIM-1301]] — personalizarea predictivă e consumatorul final al predicțiilor.
+- **extinde** [[AIM-1306-validarea-pe-esantion-de-control-separa-tiparele-reale|AIM-1306]] — Struhl arată de ce un model trebuie validat pe date pe care nu le-a văzut.
+- **aplicare** [[AIM-1302-segmentele-construite-cu-ai-sunt-dinamice|AIM-1302]] — segmentarea predictivă folosește direct aceste modele.
+- **vezi** [[AIM-1301-personalizarea-cu-ai-are-patru-registre|AIM-1301]] — personalizarea predictivă e consumatorul final al predicțiilor.
 
 ## Surse
 
-- [[SRC-037]] Karen Noil, *AI-Driven Marketing*, cap. 5 (5.1-5.6)
+- [[SRC-037-ai-driven-marketing|SRC-037]] Karen Noil, *AI-Driven Marketing*, cap. 5 (5.1-5.6)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-1301-personalizarea-cu-ai-are-patru-registre|AIM-1301]] _vezi_ — Personalizarea cu AI lucrează în patru registre — în timp real, comportamental, micro-segment și predictiv
+- [[AIM-1302-segmentele-construite-cu-ai-sunt-dinamice|AIM-1302]] _aplicare_ — Segmentele construite cu AI sunt dinamice — clientul migrează între ele după comportament
+- [[AIM-1306-validarea-pe-esantion-de-control-separa-tiparele-reale|AIM-1306]] _fundament_ — Validarea pe un eșantion de control separă tiparele reale de supra-ajustare
+- [[AIM-1323-modelarea-uplift-cauta-persuadabilii|AIM-1323]] _contrazice_ — Modelarea uplift caută persuadabilii — un model de răspuns își atribuie și vânzările care ar fi venit oricum
+- [[SRC-037-ai-driven-marketing|SRC-037]] — AI-Driven Marketing: Harnessing Artificial Intelligence to Personalize Customer Experiences
+<!-- backlinks:end -->

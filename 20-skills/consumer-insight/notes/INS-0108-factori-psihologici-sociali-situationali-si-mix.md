@@ -56,12 +56,23 @@ Dylan's Candy Bar atrage peste 2 milioane de vizitatori pe an, în mare parte pr
 
 ## Legături
 
-- **fundament** [[INS-0101]] — factorii acționează asupra fiecărei etape a deciziei.
-- **extinde** [[INS-0106]] — atitudinile sunt detaliate într-o notă separată.
-- **vezi** [[MKT-0113]] — stilul de viață și imaginea de sine devin baze de segmentare psihografică.
-- **vezi** [[MKT-0110]] — cultura apare și ca forță a macromediului.
+- **fundament** [[INS-0101-decizia-de-cumparare-cinci-etape-si-dupa-cumparare|INS-0101]] — factorii acționează asupra fiecărei etape a deciziei.
+- **extinde** [[INS-0106-atitudinea-cognitiva-afectiva-comportamentala|INS-0106]] — atitudinile sunt detaliate într-o notă separată.
+- **vezi** [[MKT-0113-bazele-segmentarii-gasesti-tinta-apoi-o-convingi|MKT-0113]] — stilul de viață și imaginea de sine devin baze de segmentare psihografică.
+- **vezi** [[MKT-0110-mediul-de-marketing-imediat-si-macromediul-cdstep|MKT-0110]] — cultura apare și ca forță a macromediului.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 6, p. 202-210 (Exhibit 6.4, 6.5)
-- [[SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 2, p. 52-57 (§2.6-2.7)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 6, p. 202-210 (Exhibit 6.4, 6.5)
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 2, p. 52-57 (§2.6-2.7)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[INS-0102-nevoi-functionale-si-psihologice-in-proportii-diferite|INS-0102]] _vezi_ — Orice produs satisface nevoi funcționale și psihologice, în proporții diferite — iar dorința nu se mulțumește cu orice soluție
+- [[INS-0106-atitudinea-cognitiva-afectiva-comportamentala|INS-0106]] _extinde_ — Atitudinea are trei componente — ce crezi, ce simți, ce faci — iar comunicarea le poate schimba pe primele două
+- [[MKT-0110-mediul-de-marketing-imediat-si-macromediul-cdstep|MKT-0110]] _vezi_ — Mediul de marketing are două cercuri — mediul imediat și macromediul CDSTEP (varianta Grewal-Levy a PESTEL)
+- [[MKT-0113-bazele-segmentarii-gasesti-tinta-apoi-o-convingi|MKT-0113]] _vezi_ — Demografia și geografia te ajută să găsești ținta, beneficiile și stilul de viață te ajută s-o convingi
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] — Principles of Marketing
+<!-- backlinks:end -->

@@ -40,15 +40,28 @@ Incluziunea trebuie construită în **tot procesul**: ideație (echipe, personaj
 ## Întrebări
 
 - Lista e scrisă din perspectivă americană. Ce întrebări ai adăuga pentru România (etnie, regiune, religie, clasă socială)?
-- Cum aplici lista la umor fără să ucizi gluma (vezi [[IDE-0709]])?
+- Cum aplici lista la umor fără să ucizi gluma (vezi [[IDE-0709-umorul-ironia-si-satira-rastoarna-asteptarea|IDE-0709]])?
 
 ## Legături
 
-- **extinde** [[STO-0705]] — autenticitatea în creație și producție.
-- **exemplu** [[STO-0710]] — Channel 4 și stereotipul creat chiar de propria campanie.
-- **vezi** [[ART-0702]] — simbolurile și gesturile au sensuri diferite de la o cultură la alta.
-- **vezi** [[IDE-0710]] — șocul și riscul de a jigni.
+- **extinde** [[STO-0705-autenticitatea-are-cinci-directii|STO-0705]] — autenticitatea în creație și producție.
+- **exemplu** [[STO-0710-cazul-channel-4-superhumans-super-human|STO-0710]] — Channel 4 și stereotipul creat chiar de propria campanie.
+- **vezi** [[ART-0702-simbolurile-icoanele-si-gesturile-comunica-instant|ART-0702]] — simbolurile și gesturile au sensuri diferite de la o cultură la alta.
+- **vezi** [[IDE-0710-dezbatere-socul-arma-de-atentie-sau-risc|IDE-0710]] — șocul și riscul de a jigni.
 
 ## Surse
 
-- [[SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 7 („Responsibility Checklist", „Building Inclusion into the Creative Process")
+- [[SRC-025-shareworthy|SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 7 („Responsibility Checklist", „Building Inclusion into the Creative Process")
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0702-simbolurile-icoanele-si-gesturile-comunica-instant|ART-0702]] _vezi_ — Simbolurile, icoanele și gesturile comunică instant pentru că sensul lor e deja instalat în mintea privitorului
+- [[IDE-0709-umorul-ironia-si-satira-rastoarna-asteptarea|IDE-0709]] — Umorul, ironia și satira răstoarnă așteptarea și creează complicitate cu privitorul
+- [[IDE-0710-dezbatere-socul-arma-de-atentie-sau-risc|IDE-0710]] _vezi_ — Dezbatere — șocul este cea mai puternică armă de atenție sau cel mai mare risc de reacție negativă?
+- [[STO-0705-autenticitatea-are-cinci-directii|STO-0705]] _vezi_ — Autenticitatea are cinci direcții — față de public, de brand, de scop, de zeitgeist și de echipa care produce povestea
+- [[STO-0707-purpose-fara-washing-whack-tax|STO-0707]] _vezi_ — Purpose fără „washing" — brandul plătește „whack tax" când spune mai mult decât face
+- [[STO-0710-cazul-channel-4-superhumans-super-human|STO-0710]] _exemplu_ — Cazul Channel 4 „Superhumans" → „Super. Human" — când propria idee de succes creează un stereotip nou
+- [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] — The A–Z of Visual Ideas: How to Solve Any Creative Brief
+- [[SRC-025-shareworthy|SRC-025]] — Shareworthy: Advertising That Creates Powerful Connections Through Storytelling
+<!-- backlinks:end -->

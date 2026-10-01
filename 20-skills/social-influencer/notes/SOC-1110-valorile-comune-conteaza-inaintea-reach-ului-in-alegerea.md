@@ -44,13 +44,29 @@ FAQ YOU (Youth Against AIDS) lucrează doar cu influenceri care împărtășesc 
 
 ## Legături
 
-- **vezi** [[SOC-1107]] — potrivirea de valori crește șansa ca atenția să ajungă la produs.
-- **vezi** [[SOC-1112]] — aceeași logică se aplică hashtag-urilor și meme-urilor la care se alătură brandul.
-- **fundament** [[STO-1114]] — purpose-ul comun e baza colaborării.
-- **vezi** [[SOC-1117]] — modelul Mission–Cast–Create formalizează potrivirea de valori.
-- **vezi** [[SOC-1115]] — cei 4R completează criteriul calitativ cu unul cantitativ.
+- **vezi** [[SOC-1107-atentia-la-un-post-de-influencer-se-imparte-pe-trei-niveluri|SOC-1107]] — potrivirea de valori crește șansa ca atenția să ajungă la produs.
+- **vezi** [[SOC-1112-lipirea-de-un-hashtag-viral-fara-potrivire-de-valori|SOC-1112]] — aceeași logică se aplică hashtag-urilor și meme-urilor la care se alătură brandul.
+- **fundament** [[STO-1114-purpose-in-social-storytelling-valoare-perceputa-nu-misiune|STO-1114]] — purpose-ul comun e baza colaborării.
+- **vezi** [[SOC-1117-mission-cast-create-misiunea-inaintea-castingului-de|SOC-1117]] — modelul Mission–Cast–Create formalizează potrivirea de valori.
+- **vezi** [[SOC-1115-cei-patru-r-ai-influentei-relevanta-rezonanta-referinta|SOC-1115]] — cei 4R completează criteriul calitativ cu unul cantitativ.
 
 ## Surse
 
-- [[SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 1.2 (pro tip A. Sbai), p. 25–26; cap. 1.2.2 (M. Wolf), p. 31; cap. 1.4.3, p. 50; cap. 5.3.1 (T. H. Walter), p. 246; cap. 6.2.1 (M. Wolf), p. 272–273
-- [[SRC-035]] Glenister, *Influencer Marketing Strategy*, cap. 1, p. 45–47, 49; cap. 3, p. 109; cap. 5, p. 186
+- [[SRC-034-social-media-storytelling|SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 1.2 (pro tip A. Sbai), p. 25–26; cap. 1.2.2 (M. Wolf), p. 31; cap. 1.4.3, p. 50; cap. 5.3.1 (T. H. Walter), p. 246; cap. 6.2.1 (M. Wolf), p. 272–273
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] Glenister, *Influencer Marketing Strategy*, cap. 1, p. 45–47, 49; cap. 3, p. 109; cap. 5, p. 186
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[SOC-1107-atentia-la-un-post-de-influencer-se-imparte-pe-trei-niveluri|SOC-1107]] _vezi_ — Atenția la un post de influencer se împarte pe trei niveluri
+- [[SOC-1109-fmd-influencerii-raporteaza-live-echipa-produce-formatele|SOC-1109]] _vezi_ — FMD: influencerii raportează live, echipa produce formatele lungi
+- [[SOC-1111-faq-you-comunitate-construita-doar-din-continut-adaptat|SOC-1111]] _vezi_ — FAQ YOU: comunitate construită doar din conținut adaptat platformei
+- [[SOC-1112-lipirea-de-un-hashtag-viral-fara-potrivire-de-valori|SOC-1112]] _extinde_ — Lipirea de un hashtag viral fără potrivire de valori produce shitstorm
+- [[SOC-1115-cei-patru-r-ai-influentei-relevanta-rezonanta-referinta|SOC-1115]] _vezi_ — Cei patru R ai influenței: relevanță, rezonanță, referință, reach
+- [[SOC-1117-mission-cast-create-misiunea-inaintea-castingului-de|SOC-1117]] _extinde_ — Mission, Cast, Create: misiunea înaintea castingului de creatori
+- [[SOC-1122-parteneriatele-lungi-cu-creatori-bat-campaniile-punctuale|SOC-1122]] _extinde_ — Parteneriatele lungi cu creatori bat campaniile punctuale
+- [[SOC-1131-brave-bison-mecanica-greseala-dezvaluire-pentru-o-cauza|SOC-1131]] _vezi_ — Brave Bison: mecanica greșeală-dezvăluire pentru o cauză sensibilă
+- [[STO-1114-purpose-in-social-storytelling-valoare-perceputa-nu-misiune|STO-1114]] _vezi_ — Purpose în social storytelling: valoare percepută, nu misiune declarată
+- [[SRC-034-social-media-storytelling|SRC-034]] — Social Media Storytelling
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] — Influencer Marketing Strategy: How influencers can help grow your business
+<!-- backlinks:end -->

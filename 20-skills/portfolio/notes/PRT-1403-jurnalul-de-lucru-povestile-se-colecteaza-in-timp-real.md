@@ -49,11 +49,20 @@ Un copywriter care a notat la timp că „clientul a respins ruta A pentru că t
 
 ## Legături
 
-- **vezi** [[PRT-1409]] — jurnalul furnizează materia primă a studiului de caz.
-- **vezi** [[PIT-1428]] — learning log-ul lui Colenso aplică aceeași idee prezentărilor.
-- **vezi** [[PRT-1412]] — documentarea trebuie să respecte acordurile de confidențialitate.
+- **vezi** [[PRT-1409-studiul-de-caz-brief-ce-am-facut-rezultate|PRT-1409]] — jurnalul furnizează materia primă a studiului de caz.
+- **vezi** [[PIT-1428-debrief-presentation-bank-learning-log|PIT-1428]] — learning log-ul lui Colenso aplică aceeași idee prezentărilor.
+- **vezi** [[PRT-1412-nda-ce-nu-functioneaza-si-ce-functioneaza|PRT-1412]] — documentarea trebuie să respecte acordurile de confidențialitate.
 
 ## Surse
 
-- [[SRC-048]] Ian Fenn, *UX Portfolio Design*, cap. 2
-- [[SRC-046]] Zuzana Kubišová, *The Architect's Pocket Guide to Portfolio Design*, Pasul 2, pp. 17–24
+- [[SRC-048-ux-portfolio-design|SRC-048]] Ian Fenn, *UX Portfolio Design*, cap. 2
+- [[SRC-046-architects-pocket-guide-to-portfolio-design|SRC-046]] Zuzana Kubišová, *The Architect's Pocket Guide to Portfolio Design*, Pasul 2, pp. 17–24
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PRT-1409-studiul-de-caz-brief-ce-am-facut-rezultate|PRT-1409]] _fundament_ — Studiul de caz se scrie în patru părți — Brief, Ce am făcut, Rezultate, Instrumente — plus highlights
+- [[PRT-1412-nda-ce-nu-functioneaza-si-ce-functioneaza|PRT-1412]] _vezi_ — Acordurile de confidențialitate nu se ocolesc prin încălcare, parolă sau anonimizare, ci se negociază din timp
+- [[SRC-046-architects-pocket-guide-to-portfolio-design|SRC-046]] — The Architect's Pocket Guide to Portfolio Design
+- [[SRC-048-ux-portfolio-design|SRC-048]] — UX Portfolio Design
+<!-- backlinks:end -->

@@ -47,10 +47,19 @@ Două observații: la fiecare treaptă există metrici calitative și cantitativ
 
 ## Legături
 
-- **fundament** [[DIG-0906]] — treptele devin KPI doar legate de obiective.
-- **aplicare** [[SOC-0903]] — fiecare obiectiv social se poziționează pe o treaptă a cadrului.
-- **vezi** [[DIG-0909]] — expunerea și engagementul se măsoară și la video.
+- **fundament** [[DIG-0906-un-metric-e-un-numar-un-kpi-arata-progresul-fata-de-obiectiv|DIG-0906]] — treptele devin KPI doar legate de obiective.
+- **aplicare** [[SOC-0903-social-media-serveste-sase-obiective-fiecare-cu-alt-kpi|SOC-0903]] — fiecare obiectiv social se poziționează pe o treaptă a cadrului.
+- **vezi** [[DIG-0909-metricile-video-masoara-timpul-brandul-trebuie-sa-apara-devreme|DIG-0909]] — expunerea și engagementul se măsoară și la video.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 5, p. 149-151
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 5, p. 149-151
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0909-metricile-video-masoara-timpul-brandul-trebuie-sa-apara-devreme|DIG-0909]] _vezi_ — Metricile video măsoară timpul — brandul trebuie să apară înainte ca privitorul să plece
+- [[DIG-0934-modelele-de-atribuire-decid-ce-canal-primeste-meritul|DIG-0934]] _vezi_ — Modelele de atribuire decid ce canal primește meritul conversiei — și schimbă astfel bugetul
+- [[SOC-0903-social-media-serveste-sase-obiective-fiecare-cu-alt-kpi|SOC-0903]] _vezi_ — Social media servește șase obiective distincte, iar fiecare cere alt KPI
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+<!-- backlinks:end -->

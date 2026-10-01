@@ -51,11 +51,21 @@ Starbucks își protejează mirosul de cafea: nu se fumează în interior, baris
 
 ## Legături
 
-- **fundament** [[EXP-0202]] — spațiul augmentat aplică cele cinci elemente ale imersiunii.
-- **extinde** [[DIG-0205]] — marketingul spațial reia marketingul contextual din 5.0 în spațiul fizic.
-- **vezi** [[EXP-0204]] — dovezile fizice includ stimulii multisenzoriali.
-- **vezi** [[BRD-0204]] — oamenii din prima linie sunt purtătorii valorilor brandului.
+- **fundament** [[EXP-0202-experienta-imersiva-cinci-elemente-si-patru-scenarii-om-digital|EXP-0202]] — spațiul augmentat aplică cele cinci elemente ale imersiunii.
+- **extinde** [[DIG-0205-marketingul-contextual-senzori-declansatori-trei-niveluri|DIG-0205]] — marketingul spațial reia marketingul contextual din 5.0 în spațiul fizic.
+- **vezi** [[EXP-0204-marketingul-multisenzorial-antidot-la-oboseala-digitala|EXP-0204]] — dovezile fizice includ stimulii multisenzoriali.
+- **vezi** [[BRD-0204-valorile-devin-brand-doar-ca-valori-comune-traite-de-angajati|BRD-0204]] — oamenii din prima linie sunt purtătorii valorilor brandului.
 
 ## Surse
 
-- [[SRC-006]] Kotler, Kartajaya, Setiawan, *Marketing 6.0*, cap. 6 „Building Extended Realities: The Immersive Experience in Real Life" (Fig. 6.1-6.3); cap. 9 „Spatial Marketing" (Fig. 9.2, 9.3)
+- [[SRC-006-marketing-6-0-philip-kotler|SRC-006]] Kotler, Kartajaya, Setiawan, *Marketing 6.0*, cap. 6 „Building Extended Realities: The Immersive Experience in Real Life" (Fig. 6.1-6.3); cap. 9 „Spatial Marketing" (Fig. 9.2, 9.3)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0205-marketingul-contextual-senzori-declansatori-trei-niveluri|DIG-0205]] _vezi_ — Marketingul contextual aduce personalizarea digitală în spațiul fizic — senzori, declanșatori și trei niveluri, informativ, interactiv, imersiv
+- [[EXP-0202-experienta-imersiva-cinci-elemente-si-patru-scenarii-om-digital|EXP-0202]] _aplicare_ — Experiența viitorului e imersivă și hibridă — cinci elemente ale imersiunii și patru scenarii pentru cât din om poate înlocui digitalul
+- [[EXP-0204-marketingul-multisenzorial-antidot-la-oboseala-digitala|EXP-0204]] _vezi_ — Marketingul multisenzorial e antidotul la oboseala digitală — fiecare simț are un rol diferit, iar stimulii trebuie să spună aceeași poveste
+- [[MKT-0216-seria-kotler-x-0-isi-revizuieste-propriile-idei|MKT-0216]] _vezi_ — Seria Kotler X.0 își revizuiește propriile idei — segmentarea, rolul purpose-ului și raportul online–offline se schimbă de la o carte la alta
+- [[SRC-006-marketing-6-0-philip-kotler|SRC-006]] — Marketing 6.0: The Future Is Immersive
+<!-- backlinks:end -->

@@ -51,11 +51,20 @@ Soft Scrubs Co.: zeița Demeter; inima „să avem grijă de cei care au grijă 
 
 ## Legături
 
-- **fundament** [[BRD-0530]] — zeița e stratul de bază.
-- **alternativa** [[BRD-0507]] — Brand Planet seamănă cu laddering-ul în sus de la atribut la emoție.
-- **alternativa** [[BRD-0509]] — cadrul Cine–De ce–Ce–Cum al lui Stengel acoperă aceleași întrebări.
-- **aplicare** [[ART-0511]] — stilul se împarte în elemente iconice și povestire dinamică.
+- **fundament** [[BRD-0530-opt-arhetipuri-zeite-ofera-o-alternativa-feminina-la-cele|BRD-0530]] — zeița e stratul de bază.
+- **alternativa** [[BRD-0507-o-pozitie-se-sustine-prin-instantiere-moderna-schimbarea|BRD-0507]] — Brand Planet seamănă cu laddering-ul în sus de la atribut la emoție.
+- **alternativa** [[BRD-0509-purpose-path-to-growth-descopera-scopul-apoi-activeaza-l|BRD-0509]] — cadrul Cine–De ce–Ce–Cum al lui Stengel acoperă aceleași întrebări.
+- **aplicare** [[ART-0511-brandul-are-hardware-iconic-de-pastrat-si-software-dinamic|ART-0511]] — stilul se împarte în elemente iconice și povestire dinamică.
 
 ## Surse
 
-- [[SRC-016]] Jane McCarthy & Kate McAndrew, *Goddess Guide to Branding*, cap. 3 „Your Brand Blueprint"; cap. 5 „Finding Your Heart" (interviul cu Lori Boccato); cap. 6 „Finding Your Gift" (interviul cu Katie Conway); cap. 7 „Finding Your Style"; „Fictional Case Study: Soft Scrubs Co."
+- [[SRC-016-the-goddess-guide-to-branding-jane-mccarthy|SRC-016]] Jane McCarthy & Kate McAndrew, *Goddess Guide to Branding*, cap. 3 „Your Brand Blueprint"; cap. 5 „Finding Your Heart" (interviul cu Lori Boccato); cap. 6 „Finding Your Gift" (interviul cu Katie Conway); cap. 7 „Finding Your Style"; „Fictional Case Study: Soft Scrubs Co."
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0511-brandul-are-hardware-iconic-de-pastrat-si-software-dinamic|ART-0511]] _fundament_ — Brandul are hardware iconic, de păstrat, și software dinamic, de schimbat
+- [[BRD-0530-opt-arhetipuri-zeite-ofera-o-alternativa-feminina-la-cele|BRD-0530]] _extinde_ — Opt arhetipuri-zeițe oferă o alternativă feminină la cele 12 arhetipuri jungiene
+- [[BRD-0531-arhetipul-potrivit-e-autentic-pentru-firma-si-atractiv|BRD-0531]] _aplicare_ — Arhetipul potrivit e autentic pentru firmă și atractiv pentru client
+- [[SRC-016-the-goddess-guide-to-branding-jane-mccarthy|SRC-016]] — Goddess Guide to Branding
+<!-- backlinks:end -->

@@ -43,10 +43,20 @@ Contrastul Snapchat–Apple: același teritoriu de mesaj (controlul asupra datel
 
 ## Legături
 
-- **extinde** [[DIG-1015]] — practica „fără promisiuni exagerate" explicată pe cazuri.
-- **vezi** [[DIG-1014]] — simbolurile de securitate sunt pârghii de încredere.
-- **vezi** [[BRD-1002]] — confidențialitatea devine parte din credibilitatea brandului digital.
+- **extinde** [[DIG-1015-zece-practici-de-confidentialitate-pentru-marketeri|DIG-1015]] — practica „fără promisiuni exagerate" explicată pe cazuri.
+- **vezi** [[DIG-1014-increderea-digitala-cinci-parghii|DIG-1014]] — simbolurile de securitate sunt pârghii de încredere.
+- **vezi** [[BRD-1002-brandul-digital-identitate-vizibilitate-credibilitate|BRD-1002]] — confidențialitatea devine parte din credibilitatea brandului digital.
 
 ## Surse
 
-- [[SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 11 (p. 385–387, 394–395)
+- [[SRC-031-digital-marketing-manual|SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 11 (p. 385–387, 394–395)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-1014-increderea-digitala-cinci-parghii|DIG-1014]] _vezi_ — Încrederea digitală se construiește cu cinci pârghii — angajament credibil, consecvență, transparență, validare de la terți și simboluri de încredere
+- [[DIG-1015-zece-practici-de-confidentialitate-pentru-marketeri|DIG-1015]] _vezi_ — Zece practici de confidențialitate pentru marketeri, de la consimțământul cu valoare arătată până la minimizarea datelor
+- [[DIG-1036-publicitatea-nativa-credibilitate-versus-transparenta|DIG-1036]] _vezi_ — Publicitatea nativă își ia credibilitatea din faptul că seamănă cu conținutul editorial — exact lucrul pe care regulile de transparență îl limitează
+- [[SOC-1002-relatia-materiala-cu-influencerul-se-dezvaluie-clar|SOC-1002]] _vezi_ — Relația materială dintre brand și influencer trebuie dezvăluită clar și vizibil, chiar în conținut, nu ascunsă după un click
+- [[SRC-031-digital-marketing-manual|SRC-031]] — Digital Marketing
+<!-- backlinks:end -->

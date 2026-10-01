@@ -44,10 +44,17 @@ Stimulul din studiul Sajjacholapunt și Ball (fig. 8.3): aceeași femeie, acela�
 
 ## Legături
 
-- **fundament** [[INS-0402]] — procesarea preatentivă și activarea complementară.
-- **vezi** [[INS-0404]] — saliența și noutatea care captează atenția.
-- **vezi** [[ART]] — hub-ul de direcție artistică.
+- **fundament** [[INS-0402-expunerea-incidentala-influenteaza-fara-atentie|INS-0402]] — procesarea preatentivă și activarea complementară.
+- **vezi** [[INS-0404-salienta-vividness-noutate-capteaza-atentia|INS-0404]] — saliența și noutatea care captează atenția.
+- **vezi** [[20-skills/art-direction/SKILL|ART]] — hub-ul de direcție artistică.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 8, p. 359-362; cap. 2, p. 58-62; cap. 7, p. 327
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 8, p. 359-362; cap. 2, p. 58-62; cap. 7, p. 327
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[INS-0402-expunerea-incidentala-influenteaza-fara-atentie|INS-0402]] _aplicare_ — Expunerea incidentală la reclame influențează preferința chiar fără atenție conștientă
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

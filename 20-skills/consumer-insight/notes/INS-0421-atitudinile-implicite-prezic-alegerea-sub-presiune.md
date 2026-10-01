@@ -44,10 +44,21 @@ Studiul Friese et al. (2006), branduri vs. produse generice — aceeași persoan
 
 ## Legături
 
-- **vezi** [[INS-0422]] — ambivalența este una dintre dimensiunile puterii atitudinii.
-- **vezi** [[INS-0412]] — și memoria are o latură implicită pe care testele clasice o ratează.
-- **aplicare** [[INS-0426]] — condiționarea evaluativă poate schimba atitudinea implicită chiar și pentru branduri cunoscute.
+- **vezi** [[INS-0422-atitudinile-puternice-rezista-cele-slabe-se-construiesc|INS-0422]] — ambivalența este una dintre dimensiunile puterii atitudinii.
+- **vezi** [[INS-0412-recall-ul-e-o-masura-slaba-a-eficientei|INS-0412]] — și memoria are o latură implicită pe care testele clasice o ratează.
+- **aplicare** [[INS-0426-conditionarea-evaluativa-transfera-afect-si-sens|INS-0426]] — condiționarea evaluativă poate schimba atitudinea implicită chiar și pentru branduri cunoscute.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 4, p. 132-143
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 4, p. 132-143
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0404-umorul-atrage-atentia-dar-fura-brandul|CPY-0404]] _vezi_ — Umorul atrage atenția și simpatia, dar fură memoria brandului — funcționează mai ales pentru produse ieftine cumpărate fără gândire
+- [[INS-0422-atitudinile-puternice-rezista-cele-slabe-se-construiesc|INS-0422]] _extinde_ — Atitudinile puternice rezistă și ghidează comportamentul, cele slabe se construiesc din context și din propriul comportament
+- [[INS-0426-conditionarea-evaluativa-transfera-afect-si-sens|INS-0426]] _vezi_ — Asocierea brandului cu o vedetă transferă nu doar plăcere, ci și sens — inclusiv sensuri nedorite
+- [[INS-0438-mediul-activeaza-scopuri-si-norme-fara-constiinta|INS-0438]] _vezi_ — Mediul de cumpărare activează scopuri, norme și „mentalități" care ghidează alegerea fără ca omul să-și dea seama
+- [[INS-0447-decalajul-atitudine-comportament-in-consumul-etic|INS-0447]] _vezi_ — Consumatorii declară valori etice, dar cumpără din obișnuință, comoditate și presiune socială (decalajul atitudine-comportament)
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

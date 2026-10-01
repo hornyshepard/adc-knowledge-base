@@ -51,10 +51,17 @@ Harley-Davidson (robustețe) și Apple (rafinament) apar și la Roese și Gardne
 
 ## Legături
 
-- **vezi** [[BRD-0517]] — personalitatea servește motivele prin care oamenii se identifică cu brandul.
-- **vezi** [[BRD-0509]] — personalitatea e componenta „Cum" din cadrul de scop Stengel.
-- **aplicare** [[ART-0501]] — personalitatea se traduce în asocieri-țintă pentru design.
+- **vezi** [[BRD-0517-matricea-motivelor-coerenta-agentie-si-comuniune-spre-sine|BRD-0517]] — personalitatea servește motivele prin care oamenii se identifică cu brandul.
+- **vezi** [[BRD-0509-purpose-path-to-growth-descopera-scopul-apoi-activeaza-l|BRD-0509]] — personalitatea e componenta „Cum" din cadrul de scop Stengel.
+- **aplicare** [[ART-0501-designul-de-brand-lucreaza-in-sistemul-1-si-porneste-de-la|ART-0501]] — personalitatea se traduce în asocieri-țintă pentru design.
 
 ## Surse
 
-- [[SRC-015]] Carl J. Damgaard, *The Unbeatable Brand Blueprint*, cap. 2 „The Foundation of Branding – The Basics of Brand Identity", secțiunea „What Is Brand Personality?"
+- [[SRC-015-the-brand-blueprint|SRC-015]] Carl J. Damgaard, *The Unbeatable Brand Blueprint*, cap. 2 „The Foundation of Branding – The Basics of Brand Identity", secțiunea „What Is Brand Personality?"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0530-opt-arhetipuri-zeite-ofera-o-alternativa-feminina-la-cele|BRD-0530]] _alternativa_ — Opt arhetipuri-zeițe oferă o alternativă feminină la cele 12 arhetipuri jungiene
+- [[SRC-015-the-brand-blueprint|SRC-015]] — The Unbeatable Brand Blueprint: The Ultimate Guide for Branding
+<!-- backlinks:end -->

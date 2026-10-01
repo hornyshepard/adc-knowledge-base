@@ -19,6 +19,8 @@ KB root: `/Users/dumitrubabara/Downloads/Books for ADC School/ADC-Knowledge-Base
 - You may create, edit and delete files **only inside your own skill folders** (`20-skills/<your-slug>/…`) and write your report `_meta/reports/P2-<CODE>.md` and your merge list `_meta/reports/merges-<CODE>.txt`.
 - You may READ anything in the KB. Do not edit source notes, other skills' notes, or files in `_meta/` other than the two above.
 - Do NOT run `kb.py build`, `renumber`, `merge` or `redirect`. You MAY run `kb.py check` and `kb.py suggest --skill <slug>`.
+- If you write helper scripts or scratch files, put them in a folder named after your agent (e.g. `…/scratchpad/P2-DIG/`) — the scratchpad is shared with other agents running in parallel.
+- `kb.py check` also writes `_meta/health.md`, which other agents overwrite; read it right after your own run.
 
 ## 2. Deduplicate inside your skill
 

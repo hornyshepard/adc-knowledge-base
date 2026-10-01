@@ -49,10 +49,18 @@ Decapotabila ca „amantă" (Dichter, 1979): o interpretare imposibil de verific
 
 ## Legături
 
-- **contrazice** [[INS-0419]] — interpretarea calitativă vs. experimentul ca dovadă.
-- **vezi** [[INS-0439]] — mitul Vicary și efectele subliminale reale, condiționate de scopuri.
-- **vezi** [[INS-0447]] — decalajul atitudine-comportament în consumul etic.
+- **contrazice** [[INS-0419-cauzalitatea-se-dovedeste-prin-experiment|INS-0419]] — interpretarea calitativă vs. experimentul ca dovadă.
+- **vezi** [[INS-0439-publicitatea-subliminala-functioneaza-doar-in-conditii-inguste|INS-0439]] — mitul Vicary și efectele subliminale reale, condiționate de scopuri.
+- **vezi** [[INS-0447-decalajul-atitudine-comportament-in-consumul-etic|INS-0447]] — decalajul atitudine-comportament în consumul etic.
 
 ## Surse
 
-- [[SRC-013]] Parsons, Maclaran & Chatzidakis, *Contemporary Issues in Marketing and Consumer Behaviour*, cap. 5, p. 67-84
+- [[SRC-013-contemporary-issues-in-marketing-and-consumer-behaviour|SRC-013]] Parsons, Maclaran & Chatzidakis, *Contemporary Issues in Marketing and Consumer Behaviour*, cap. 5, p. 67-84
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[INS-0419-cauzalitatea-se-dovedeste-prin-experiment|INS-0419]] _contrazice_ — Efectul unei reclame se dovedește prin experiment, nu prin sondajul „înainte și după"
+- [[INS-0439-publicitatea-subliminala-functioneaza-doar-in-conditii-inguste|INS-0439]] _vezi_ — Publicitatea subliminală funcționează, dacă funcționează, doar în condiții foarte înguste
+- [[SRC-013-contemporary-issues-in-marketing-and-consumer-behaviour|SRC-013]] — Contemporary Issues in Marketing and Consumer Behaviour (2nd edition)
+<!-- backlinks:end -->

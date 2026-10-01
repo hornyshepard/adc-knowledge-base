@@ -45,11 +45,21 @@ Coca-Cola asociază de decenii brandul cu muzică și oameni fericiți; atitudin
 
 ## Legături
 
-- **extinde** [[INS-0403]] — fluența este mecanismul expunerii simple.
-- **extinde** [[INS-0426]] — detaliază mecanismele condiționării evaluative.
-- **vezi** [[INS-0414]] — atribuirea greșită e comună priming-ului și afectului ca informație.
-- **vezi** [[ADV-0406]] — atitudinea față de reclamă se transferă asupra brandului.
+- **extinde** [[INS-0403-fluenta-procesarii-se-simte-ca-placere|INS-0403]] — fluența este mecanismul expunerii simple.
+- **extinde** [[INS-0426-conditionarea-evaluativa-transfera-afect-si-sens|INS-0426]] — detaliază mecanismele condiționării evaluative.
+- **vezi** [[INS-0414-priming-ul-coloreaza-judecatile-ulterioare|INS-0414]] — atribuirea greșită e comună priming-ului și afectului ca informație.
+- **vezi** [[ADV-0406-placerea-fata-de-reclama-se-transfera-asupra-brandului|ADV-0406]] — atitudinea față de reclamă se transferă asupra brandului.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 4, p. 153, 160-169
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 4, p. 153, 160-169
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0406-placerea-fata-de-reclama-se-transfera-asupra-brandului|ADV-0406]] _fundament_ — Plăcerea față de reclamă se transferă asupra brandului pe două căi (ipoteza dublei medieri)
+- [[ADV-0407-repetitia-creste-apoi-uzeaza-variatia-amana-uzura|ADV-0407]] _vezi_ — Repetiția crește atitudinea până la un vârf, apoi o uzează — iar variația substanțială amână uzura mai bine decât cea cosmetică
+- [[INS-0426-conditionarea-evaluativa-transfera-afect-si-sens|INS-0426]] _extinde_ — Asocierea brandului cu o vedetă transferă nu doar plăcere, ci și sens — inclusiv sensuri nedorite
+- [[INS-0427-atitudinea-ca-suma-convingeri-ori-evaluari|INS-0427]] _alternativa_ — Atitudinea față de brand este suma câtorva convingeri salente înmulțite cu valoarea lor (modelul expectanță-valoare)
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

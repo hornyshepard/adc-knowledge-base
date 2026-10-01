@@ -40,11 +40,19 @@ Când Nissan a oferit în 1987 doar 8% din buget pentru un cont de 150 de milioa
 
 ## Legături
 
-- **fundament** [[HIS-0804]] — agenția s-a născut ca intermediar al presei finanțate din reclame.
-- **exemplu** [[HIS-0813]] — Ogilvy și trecerea la onorariu.
-- **vezi** [[HIS-0811]] — agențiile de creație din anii '60 au trăit tot din comision.
-- **vezi** [[CLI]] — relația agenție–client și modelele de business.
+- **fundament** [[HIS-0804-publicitatea-motorul-financiar-al-presei|HIS-0804]] — agenția s-a născut ca intermediar al presei finanțate din reclame.
+- **exemplu** [[HIS-0813-ogilvy-fapte-fara-adjective-si-o-imagine-care-intreaba|HIS-0813]] — Ogilvy și trecerea la onorariu.
+- **vezi** [[HIS-0811-revolutia-creativa-copywriter-si-art-director-impreuna|HIS-0811]] — agențiile de creație din anii '60 au trăit tot din comision.
+- **vezi** [[20-skills/client-business/SKILL|CLI]] — relația agenție–client și modelele de business.
 
 ## Surse
 
-- [[SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 7, p. 113–125; cap. 10, p. 210–218
+- [[SRC-027-a-history-of-advertising|SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 7, p. 113–125; cap. 10, p. 210–218
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[HIS-0804-publicitatea-motorul-financiar-al-presei|HIS-0804]] _vezi_ — Publicitatea a devenit motorul financiar al presei — și presa a devenit a doua „stăpână" a reclamei
+- [[HIS-0813-ogilvy-fapte-fara-adjective-si-o-imagine-care-intreaba|HIS-0813]] — David Ogilvy — cercetare, fapte fără adjective și o imagine care pune o întrebare
+- [[SRC-027-a-history-of-advertising|SRC-027]] — A History of Advertising: The First 300,000 Years
+<!-- backlinks:end -->

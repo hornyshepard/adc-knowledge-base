@@ -42,10 +42,20 @@ Amazon Books (mini-cazul 4.1) e citat ca exemplu de centrare pe client: magazinu
 
 ## Legături
 
-- **vezi** [[EXP-1205]] — trecerea de la CRM la CX e echivalentul ei la nivel de practică.
-- **vezi** [[EXP-1213]] — Exchange aplică logica SDL/CDL: valoarea apare în schimb și în folosire.
-- **vezi** [[EXP-1211]] — axa customer-centricity din ETM măsoară cât de departe a ajuns firma pe acest drum.
+- **vezi** [[EXP-1205-de-la-crm-la-customer-experience|EXP-1205]] — trecerea de la CRM la CX e echivalentul ei la nivel de practică.
+- **vezi** [[EXP-1213-exchange-valoarea-co-creata-in-locul-pretului|EXP-1213]] — Exchange aplică logica SDL/CDL: valoarea apare în schimb și în folosire.
+- **vezi** [[EXP-1211-experience-territory-matrix-respect-centricity|EXP-1211]] — axa customer-centricity din ETM măsoară cât de departe a ajuns firma pe acest drum.
 
 ## Surse
 
-- [[SRC-036]] Wided Batat, *Experiential Marketing*, cap. 2 (Figurile 2.4, 2.5; mini-cazul 2.1); cap. 4, mini-cazul 4.1; cap. 5, secț. „From service-dominant logic to experience-dominant logic"
+- [[SRC-036-experiential-marketing|SRC-036]] Wided Batat, *Experiential Marketing*, cap. 2 (Figurile 2.4, 2.5; mini-cazul 2.1); cap. 4, mini-cazul 4.1; cap. 5, secț. „From service-dominant logic to experience-dominant logic"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[EXP-1201-mixul-experiential-7e-inlocuieste-cei-7p|EXP-1201]] _fundament_ — Mixul de marketing experiențial (7E) înlocuiește cei 7P cu decizii centrate pe experiența clientului
+- [[EXP-1205-de-la-crm-la-customer-experience|EXP-1205]] _vezi_ — Customer experience a depășit CRM-ul — marketingul trece de la „a cumpăra" la „a trăi" consumul
+- [[EXP-1211-experience-territory-matrix-respect-centricity|EXP-1211]] _vezi_ — Experience Territory Matrix încrucișează respectul perceput de client cu customer-centricity-ul firmei
+- [[EXP-1213-exchange-valoarea-co-creata-in-locul-pretului|EXP-1213]] _fundament_ — Exchange — în mixul experiențial, prețul cedează locul valorii co-create cu clientul
+- [[SRC-036-experiential-marketing|SRC-036]] — Experiential Marketing: Consumer Behavior, Customer Experience and the 7Es
+<!-- backlinks:end -->

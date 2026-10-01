@@ -48,10 +48,17 @@ Calendarul de conținut HubSpot (fig. 9.15) amestecă pe o lună o campanie de s
 
 ## Legături
 
-- **aplicare** [[SOC-0902]] — conținutul construit pe 5C produce engagementul pe care îl caută algoritmii.
-- **vezi** [[SOC-0903]] — reach-ul organic redus afectează în special obiectivul de notorietate.
-- **vezi** [[DIG-0919]] — când reach-ul organic scade, paid social preia rolul.
+- **aplicare** [[SOC-0902-cei-5c-ai-motivatiei-pe-social-media|SOC-0902]] — conținutul construit pe 5C produce engagementul pe care îl caută algoritmii.
+- **vezi** [[SOC-0903-social-media-serveste-sase-obiective-fiecare-cu-alt-kpi|SOC-0903]] — reach-ul organic redus afectează în special obiectivul de notorietate.
+- **vezi** [[DIG-0919-campania-de-paid-search-si-paid-social-are-cinci-etape|DIG-0919]] — când reach-ul organic scade, paid social preia rolul.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 9, p. 260-262
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 9, p. 260-262
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[SOC-0902-cei-5c-ai-motivatiei-pe-social-media|SOC-0902]] _aplicare_ — Cei 5C — oamenii folosesc social media ca să consume, să se conecteze, să controleze, să concureze și să creeze
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+<!-- backlinks:end -->

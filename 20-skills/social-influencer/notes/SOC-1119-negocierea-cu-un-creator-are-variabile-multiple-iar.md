@@ -44,10 +44,21 @@ Jim Tobin (Carusele) povestește că o altă divizie a aceluiași brand i-a ofer
 
 ## Legături
 
-- **fundament** [[BRF-1101]] — livrabilele din brief devin clauze contractuale.
-- **vezi** [[SOC-1120]] — compensarea corectă e baza negocierii.
-- **vezi** [[SOC-1118]] — contractul trebuie să impună disclosure-ul.
+- **fundament** [[BRF-1101-brief-ul-pentru-influenceri-da-directie-dar-lasa-loc|BRF-1101]] — livrabilele din brief devin clauze contractuale.
+- **vezi** [[SOC-1120-creatorul-este-o-casa-de-productie-intr-un-om-gifting-ul-nu|SOC-1120]] — compensarea corectă e baza negocierii.
+- **vezi** [[SOC-1118-colaborarea-platita-se-declara-clar-la-inceput-in-fiecare|SOC-1118]] — contractul trebuie să impună disclosure-ul.
 
 ## Surse
 
-- [[SRC-035]] Glenister, *Influencer Marketing Strategy*, cap. 1, p. 66; cap. 3, p. 115–117; cap. 4, p. 143–144; cap. 5, p. 173–176; cap. 6, p. 196–199, 210
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] Glenister, *Influencer Marketing Strategy*, cap. 1, p. 66; cap. 3, p. 115–117; cap. 4, p. 143–144; cap. 5, p. 173–176; cap. 6, p. 196–199, 210
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRF-1101-brief-ul-pentru-influenceri-da-directie-dar-lasa-loc|BRF-1101]] _vezi_ — Brief-ul pentru influenceri dă direcție, dar lasă loc interpretării creatorului
+- [[SOC-1116-semnalele-de-frauda-se-verifica-inainte-de-orice-contract|SOC-1116]] _aplicare_ — Semnalele de fraudă se verifică înainte de orice contract cu un influencer
+- [[SOC-1118-colaborarea-platita-se-declara-clar-la-inceput-in-fiecare|SOC-1118]] _aplicare_ — Colaborarea plătită se declară clar, la început, în fiecare format
+- [[SOC-1120-creatorul-este-o-casa-de-productie-intr-un-om-gifting-ul-nu|SOC-1120]] _vezi_ — Creatorul este o casă de producție într-un om: gifting-ul nu ține loc de plată
+- [[SOC-1127-continutul-creatorilor-se-amplifica-platit-dupa-ce-isi|SOC-1127]] _vezi_ — Conținutul creatorilor se amplifică plătit după ce își dovedește performanța
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] — Influencer Marketing Strategy: How influencers can help grow your business
+<!-- backlinks:end -->

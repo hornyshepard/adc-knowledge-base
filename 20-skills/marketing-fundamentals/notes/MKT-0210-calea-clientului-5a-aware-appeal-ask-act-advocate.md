@@ -47,12 +47,27 @@ La primele cumpărări dintr-o categorie, clienții trec prin toate cele cinci e
 
 ## Legături
 
-- **fundament** [[MKT-0208]] — modelul răspunde trecerii la decizii sociale, orizontale.
-- **extinde** [[ADV-0201]] — zona O3 arată cine influențează fiecare etapă.
-- **extinde** [[ADV-0202]] — PAR și BAR măsoară conversia de-a lungul celor 5A.
-- **aplicare** [[MKT-0211]] — forma căii 5A definește arhetipurile de industrie.
-- **vezi** [[MKT-0201]] — 5A reapare în Marketing 5.0 și 6.0, cu tehnologie adăugată.
+- **fundament** [[MKT-0208-puterea-trece-la-clientii-conectati-orizontal-inclusiv-social|MKT-0208]] — modelul răspunde trecerii la decizii sociale, orizontale.
+- **extinde** [[ADV-0201-zona-o3-influenta-proprie-a-celorlalti-exterioara|ADV-0201]] — zona O3 arată cine influențează fiecare etapă.
+- **extinde** [[ADV-0202-par-si-bar-masoara-conversia-notorietatii-in-cumparare-si-recomandare|ADV-0202]] — PAR și BAR măsoară conversia de-a lungul celor 5A.
+- **aplicare** [[MKT-0211-arhetipurile-de-industrie-dupa-forma-caii-5a|MKT-0211]] — forma căii 5A definește arhetipurile de industrie.
+- **vezi** [[MKT-0201-evolutia-marketingului-de-la-1-0-la-6-0|MKT-0201]] — 5A reapare în Marketing 5.0 și 6.0, cu tehnologie adăugată.
 
 ## Surse
 
-- [[SRC-004]] Kotler, Kartajaya, Setiawan, *Marketing 4.0*, cap. 5 „The New Customer Path" (Fig. 5.1, 5.2)
+- [[SRC-004-marketing-4-0-philip-kotler|SRC-004]] Kotler, Kartajaya, Setiawan, *Marketing 4.0*, cap. 5 „The New Customer Path" (Fig. 5.1, 5.2)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0201-zona-o3-influenta-proprie-a-celorlalti-exterioara|ADV-0201]] _fundament_ — Zona O3 — influența proprie, a celorlalți și cea exterioară decid unde investești efortul de marketing
+- [[ADV-0202-par-si-bar-masoara-conversia-notorietatii-in-cumparare-si-recomandare|ADV-0202]] _fundament_ — PAR și BAR măsoară productivitatea marketingului — cât din notorietate devine cumpărare și recomandare
+- [[AIM-0203-masinile-sunt-cool-oamenii-sunt-calzi-noul-cx|AIM-0203]] _extinde_ — În noul CX mașinile sunt „cool", dar oamenii sunt „calzi" — AI preia datele și convergența, omul păstrează insight-ul, înțelepciunea și empatia
+- [[EXP-0201-wow-ul-e-surprinzator-personal-contagios-si-se-proiecteaza|EXP-0201]] _fundament_ — Momentul WOW e surprinzător, personal și contagios — și poate fi proiectat, nu lăsat la voia întâmplării
+- [[INS-0201-paradoxurile-clientului-conectat|INS-0201]] _aplicare_ — Clientul conectat trăiește trei paradoxuri — online vs. offline, informat vs. distras, advocacy negativă vs. pozitivă
+- [[MKT-0201-evolutia-marketingului-de-la-1-0-la-6-0|MKT-0201]] _vezi_ — Evoluția marketingului de la 1.0 la 6.0 — de la produs la client, la om, la digital, la tehnologie pentru umanitate și la imersiune
+- [[MKT-0209-marketing-4-0-redefineste-stp-pozitionarea-4p-si-serviciul|MKT-0209]] _aplicare_ — Marketing 4.0 redefinește conceptele clasice — comunități în loc de segmente, caracter în loc de poziționare, 4C în loc de 4P
+- [[MKT-0211-arhetipurile-de-industrie-dupa-forma-caii-5a|MKT-0211]] _fundament_ — Forma căii 5A definește patru arhetipuri de industrie — clanța, peștișorul auriu, trompeta și pâlnia — cu papionul ca ideal
+- [[MKT-0212-marketing-5-0-tehnologie-pentru-umanitate-cinci-componente|MKT-0212]] _extinde_ — Marketing 5.0 folosește tehnologii care imită omul pe toată călătoria clientului, prin două discipline și trei aplicații
+- [[SRC-004-marketing-4-0-philip-kotler|SRC-004]] — Marketing 4.0: Moving from Traditional to Digital
+<!-- backlinks:end -->

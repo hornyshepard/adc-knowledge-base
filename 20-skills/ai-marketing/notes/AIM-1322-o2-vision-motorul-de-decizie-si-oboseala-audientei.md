@@ -47,10 +47,18 @@ Cazul însuși e exemplul. Pentru un brand din România, analogul ar fi operator
 
 ## Legături
 
-- **exemplu** [[AIM-1321]] — saltul de la nivelul 2 la 4 în modelul de maturitate.
-- **extinde** [[AIM-1323]] — de ce motorul de decizie își supraestimează meritul.
-- **vezi** [[AIM-1304]] — tot inbound: conversația bot–om în suport.
+- **exemplu** [[AIM-1321-modelul-de-maturitate-ice-zece-principii-cinci-niveluri|AIM-1321]] — saltul de la nivelul 2 la 4 în modelul de maturitate.
+- **extinde** [[AIM-1323-modelarea-uplift-cauta-persuadabilii|AIM-1323]] — de ce motorul de decizie își supraestimează meritul.
+- **vezi** [[AIM-1304-chatbotul-bun-stie-cand-sa-predea-unui-om|AIM-1304]] — tot inbound: conversația bot–om în suport.
 
 ## Surse
 
-- [[SRC-040]] Aly Richards & Scott McLean, *Intelligent Customer Engagement*, Foreword; secț. 2, cap. 3
+- [[SRC-040-intelligent-customer-engagement|SRC-040]] Aly Richards & Scott McLean, *Intelligent Customer Engagement*, Foreword; secț. 2, cap. 3
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-1321-modelul-de-maturitate-ice-zece-principii-cinci-niveluri|AIM-1321]] _exemplu_ — Modelul de maturitate ICE — zece principii și cinci niveluri, de la tranzacție la angajament inteligent
+- [[AIM-1323-modelarea-uplift-cauta-persuadabilii|AIM-1323]] _vezi_ — Modelarea uplift caută persuadabilii — un model de răspuns își atribuie și vânzările care ar fi venit oricum
+- [[SRC-040-intelligent-customer-engagement|SRC-040]] — Intelligent Customer Engagement: The Future of Content Marketing
+<!-- backlinks:end -->

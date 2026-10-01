@@ -44,12 +44,21 @@ Watkins arată varianta cinstită și monumentală: Ford „The Longest Left Tur
 
 ## Legături
 
-- **aplicare** [[HIS-0808]] — substanțierea și omisiunea materială în practică.
-- **exemplu** [[HIS-0811]] — Lois, om al revoluției creative, a transformat o interdicție într-un spot mai bun.
-- **vezi** [[CPY-0802]] — reason-why trăiește din dovezi verificabile.
-- **vezi** [[CPY-0804]] — Ford a folosit text lung pentru a povesti testul.
+- **aplicare** [[HIS-0808-standardul-ftc-dovada-inaintea-afirmatiei|HIS-0808]] — substanțierea și omisiunea materială în practică.
+- **exemplu** [[HIS-0811-revolutia-creativa-copywriter-si-art-director-impreuna|HIS-0811]] — Lois, om al revoluției creative, a transformat o interdicție într-un spot mai bun.
+- **vezi** [[CPY-0802-reason-why-vanzare-tiparita|CPY-0802]] — reason-why trăiește din dovezi verificabile.
+- **vezi** [[CPY-0804-text-lung-sau-scurt-lungimea-depinde-de-interes|CPY-0804]] — Ford a folosit text lung pentru a povesti testul.
 
 ## Surse
 
-- [[SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 10, p. 204; cap. 12, p. 271–273
-- [[SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrarea „Ford — All the Earmarks of a Great Ad”
+- [[SRC-027-a-history-of-advertising|SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 10, p. 204; cap. 12, p. 271–273
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrarea „Ford — All the Earmarks of a Great Ad”
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0804-text-lung-sau-scurt-lungimea-depinde-de-interes|CPY-0804]] _exemplu_ — Text lung sau text scurt? Lungimea depinde de interes, nu de o regulă
+- [[HIS-0808-standardul-ftc-dovada-inaintea-afirmatiei|HIS-0808]] _aplicare_ — Standardul american al înșelăciunii — afirmația trebuie dovedită înainte să fie publicată
+- [[HIS-0811-revolutia-creativa-copywriter-si-art-director-impreuna|HIS-0811]] — Revoluția creativă din 1959 a pus copywriterul și art directorul în aceeași cameră
+- [[SRC-027-a-history-of-advertising|SRC-027]] — A History of Advertising: The First 300,000 Years
+<!-- backlinks:end -->

@@ -43,10 +43,19 @@ Cazul însuși; în același spirit, Mercedes Clasa A a rămas asociată cu „i
 
 ## Legături
 
-- **fundament** [[INS-0413]] — modelul rețelei asociative explică persistența zvonului.
-- **vezi** [[INS-0408]] — și avertismentele „e fals" pot fi amintite, în timp, ca adevăr.
-- **aplicare** [[INS-0417]] — e un exemplu de strategie omega eșuată (contraargumentarea directă).
+- **fundament** [[INS-0413-accesibilitatea-decide-setul-de-consideratie|INS-0413]] — modelul rețelei asociative explică persistența zvonului.
+- **vezi** [[INS-0408-efectul-de-adevar-intai-credem-apoi-corectam|INS-0408]] — și avertismentele „e fals" pot fi amintite, în timp, ca adevăr.
+- **aplicare** [[INS-0417-strategii-alfa-si-omega-ale-persuasiunii|INS-0417]] — e un exemplu de strategie omega eșuată (contraargumentarea directă).
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 1, p. 11-13
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 1, p. 11-13
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0402-peisajul-moralizat-cauze-si-greenwashing|BRD-0402]] _vezi_ — Brandurile care adoptă cauze morale câștigă un halo, dar devin ținte pentru acuzația de greenwashing
+- [[INS-0408-efectul-de-adevar-intai-credem-apoi-corectam|INS-0408]] _aplicare_ — Efectul de adevăr — mai întâi credem, abia apoi (poate) corectăm
+- [[INS-0417-strategii-alfa-si-omega-ale-persuasiunii|INS-0417]] _exemplu_ — Poți convinge crescând atracția ofertei (strategii alfa) sau reducând rezistența la ea (strategii omega)
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

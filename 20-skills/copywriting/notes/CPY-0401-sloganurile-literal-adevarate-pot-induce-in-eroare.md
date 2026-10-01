@@ -50,12 +50,21 @@ Sloganul parafrazat după Carlsberg („probabil cea mai bună bere din lume") �
 
 ## Legături
 
-- **fundament** [[INS-0408]] — efectul de adevăr face ca inferențele să fie rar corectate.
-- **vezi** [[INS-0405]] — promisiunea exagerată duce la dezamăgire după cumpărare.
-- **vezi** [[CPY]] — hub-ul de copywriting.
-- **vezi** [[BRD-0402]] — afirmațiile „verzi" vagi sunt o formă de greenwashing.
+- **fundament** [[INS-0408-efectul-de-adevar-intai-credem-apoi-corectam|INS-0408]] — efectul de adevăr face ca inferențele să fie rar corectate.
+- **vezi** [[INS-0405-dilema-promisiunii-asteptari-si-satisfactie|INS-0405]] — promisiunea exagerată duce la dezamăgire după cumpărare.
+- **vezi** [[20-skills/copywriting/SKILL|CPY]] — hub-ul de copywriting.
+- **vezi** [[BRD-0402-peisajul-moralizat-cauze-si-greenwashing|BRD-0402]] — afirmațiile „verzi" vagi sunt o formă de greenwashing.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 2, p. 77, 80
-- [[SRC-013]] Parsons, Maclaran & Chatzidakis, *Contemporary Issues in Marketing and Consumer Behaviour*, cap. 6, p. 96, 99-101
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 2, p. 77, 80
+- [[SRC-013-contemporary-issues-in-marketing-and-consumer-behaviour|SRC-013]] Parsons, Maclaran & Chatzidakis, *Contemporary Issues in Marketing and Consumer Behaviour*, cap. 6, p. 96, 99-101
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[INS-0405-dilema-promisiunii-asteptari-si-satisfactie|INS-0405]] _vezi_ — Promisiunea exagerată vinde o dată și dezamăgește după (modelul confirmării așteptărilor)
+- [[INS-0408-efectul-de-adevar-intai-credem-apoi-corectam|INS-0408]] _vezi_ — Efectul de adevăr — mai întâi credem, abia apoi (poate) corectăm
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+- [[SRC-013-contemporary-issues-in-marketing-and-consumer-behaviour|SRC-013]] — Contemporary Issues in Marketing and Consumer Behaviour (2nd edition)
+<!-- backlinks:end -->

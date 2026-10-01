@@ -49,10 +49,21 @@ Bancnota de 5 lei: o vezi zilnic, dar nu o poți desena — exemplul cărții (b
 
 ## Legături
 
-- **extinde** [[INS-0412]] — distincția explicit/implicit schimbă felul în care măsurăm eficiența.
-- **vezi** [[INS-0413]] — memoria pe termen lung ca rețea asociativă.
-- **aplicare** [[ADV-0405]] — poziția serială în calupul publicitar.
+- **extinde** [[INS-0412-recall-ul-e-o-masura-slaba-a-eficientei|INS-0412]] — distincția explicit/implicit schimbă felul în care măsurăm eficiența.
+- **vezi** [[INS-0413-accesibilitatea-decide-setul-de-consideratie|INS-0413]] — memoria pe termen lung ca rețea asociativă.
+- **aplicare** [[ADV-0405-repetitia-spatiata-si-pozitia-in-calup|ADV-0405]] — poziția serială în calupul publicitar.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 3, p. 89-99
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 3, p. 89-99
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0404-clutterul-produce-interferenta-competitiva|ADV-0404]] _fundament_ — Clutter-ul produce interferență competitivă, iar antidotul e un indiciu de reamintire distinctiv la punctul de cumpărare
+- [[ADV-0405-repetitia-spatiata-si-pozitia-in-calup|ADV-0405]] _fundament_ — Repetiția spațiată bate repetiția masivă, iar primul spot din calup e cel mai bine reținut
+- [[INS-0412-recall-ul-e-o-masura-slaba-a-eficientei|INS-0412]] _fundament_ — Recall-ul și recunoașterea sunt măsuri slabe ale eficienței unei reclame
+- [[INS-0413-accesibilitatea-decide-setul-de-consideratie|INS-0413]] _fundament_ — Accesibilitatea în memorie decide ce branduri intră în setul de considerație, nu neapărat ce se cumpără
+- [[INS-0416-publicitatea-poate-rescrie-amintirea-experientei|INS-0416]] _fundament_ — Publicitatea poate rescrie amintirea experienței cu produsul, mai ales când experiența e ambiguă
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

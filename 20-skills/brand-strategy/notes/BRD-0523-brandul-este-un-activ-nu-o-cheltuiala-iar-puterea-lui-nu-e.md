@@ -48,11 +48,19 @@ Nestlé a plătit 7,2 miliarde $ doar pentru licența brandului Starbucks pe caf
 
 ## Legături
 
-- **vezi** [[BRD-0502]] — presiunea „cash" vine din tratarea brandului ca o cheltuială.
-- **vezi** [[BRD-0521]] — metricile de sănătate a brandului măsoară puterea, nu încă performanța.
-- **fundament** [[BRD-0501]] — valoarea pentru consumator stă în asocieri.
+- **vezi** [[BRD-0502-cele-trei-c-ale-branding-ului-si-bucla-fatala-a-promotiilor|BRD-0502]] — presiunea „cash" vine din tratarea brandului ca o cheltuială.
+- **vezi** [[BRD-0521-modelul-notorietate-simpatie-cota-de-piata-indica-strategia|BRD-0521]] — metricile de sănătate a brandului măsoară puterea, nu încă performanța.
+- **fundament** [[BRD-0501-brandul-este-un-set-de-asociatii-care-actioneaza-ca-o|BRD-0501]] — valoarea pentru consumator stă în asocieri.
 
 ## Surse
 
-- [[SRC-014]] Bobby J. Calder, „Connecting Marketing and Finance via Brand Value", cap. 16 în *Kellogg on Branding in a Hyper-Connected World*, p. 234–246
-- [[SRC-016]] Jane McCarthy & Kate McAndrew, *Goddess Guide to Branding*, cap. 7, interviul „Abundance” (Denise Beckles)
+- [[SRC-014-kellogg-on-branding|SRC-014]] Bobby J. Calder, „Connecting Marketing and Finance via Brand Value", cap. 16 în *Kellogg on Branding in a Hyper-Connected World*, p. 234–246
+- [[SRC-016-the-goddess-guide-to-branding-jane-mccarthy|SRC-016]] Jane McCarthy & Kate McAndrew, *Goddess Guide to Branding*, cap. 7, interviul „Abundance” (Denise Beckles)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0502-cele-trei-c-ale-branding-ului-si-bucla-fatala-a-promotiilor|BRD-0502]] _vezi_ — Cele trei C ale branding-ului și bucla fatală a promoțiilor
+- [[SRC-014-kellogg-on-branding|SRC-014]] — Kellogg on Branding in a Hyper-Connected World
+- [[SRC-016-the-goddess-guide-to-branding-jane-mccarthy|SRC-016]] — Goddess Guide to Branding
+<!-- backlinks:end -->

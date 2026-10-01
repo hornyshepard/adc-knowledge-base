@@ -52,12 +52,25 @@ Hydro Flask (cap. 1, deschidere): un produs mai bun (sticle izoterme colorate), 
 
 ## Legături
 
-- **extinde** [[MKT-0102]] — definiția se sprijină pe noțiunea de valoare, detaliată acolo.
-- **extinde** [[MKT-0104]] — cele 4P sunt instrumentele prin care se creează, captează, livrează și comunică valoarea.
-- **vezi** [[MKT-0103]] — definiția actuală e rezultatul trecerii de la orientarea pe producție la cea pe valoare.
-- **vezi** [[MKT-0127]] — conceptul de marketing, opus conceptului de vânzare, e filozofia din spatele definiției.
+- **extinde** [[MKT-0102-valoarea-este-ce-primesti-raportat-la-ce-dai|MKT-0102]] — definiția se sprijină pe noțiunea de valoare, detaliată acolo.
+- **extinde** [[MKT-0104-mixul-4p-creeaza-capteaza-livreaza-comunica-valoarea|MKT-0104]] — cele 4P sunt instrumentele prin care se creează, captează, livrează și comunică valoarea.
+- **vezi** [[MKT-0103-evolutia-marketingului-productie-vanzari-piata-valoare|MKT-0103]] — definiția actuală e rezultatul trecerii de la orientarea pe producție la cea pe valoare.
+- **vezi** [[MKT-0127-conceptul-de-marketing-vs-conceptul-de-vanzare|MKT-0127]] — conceptul de marketing, opus conceptului de vânzare, e filozofia din spatele definiției.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 1, p. 4-12 (Exhibit 1.1, 1.2, 1.4)
-- [[SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 1, p. 3-4, 12-17 (§1.1, §1.3)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 1, p. 4-12 (Exhibit 1.1, 1.2, 1.4)
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 1, p. 3-4, 12-17 (§1.1, §1.3)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[MKT-0102-valoarea-este-ce-primesti-raportat-la-ce-dai|MKT-0102]] _fundament_ — Valoarea este ce primești raportat la ce dai, nu prețul mic
+- [[MKT-0103-evolutia-marketingului-productie-vanzari-piata-valoare|MKT-0103]] _fundament_ — Marketingul a evoluat de la orientarea pe producție la vânzări, piață și valoare
+- [[MKT-0104-mixul-4p-creeaza-capteaza-livreaza-comunica-valoarea|MKT-0104]] _fundament_ — Mixul de marketing 4P — produsul creează, prețul captează, plasarea livrează, promovarea comunică valoarea
+- [[MKT-0106-conscious-marketing-pune-scopul-in-centru-csr-il-adauga|MKT-0106]] _fundament_ — Conscious marketing pune scopul superior în centrul afacerii, CSR doar îl adaugă pe margine
+- [[MKT-0127-conceptul-de-marketing-vs-conceptul-de-vanzare|MKT-0127]] _fundament_ — Conceptul de vânzare împinge ce face fabrica, conceptul de marketing pornește de la ce vrea piața (cinci filozofii de management)
+- [[MKT-0129-marketingul-social-vinde-comportamente-nu-produse|MKT-0129]] _fundament_ — Marketingul social vinde comportamente, nu produse — și nu e același lucru cu marketingul pe social media
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] — Principles of Marketing
+<!-- backlinks:end -->

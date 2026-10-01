@@ -53,10 +53,19 @@ Echipele de agenție petrec adesea majoritatea timpului producând materiale, ad
 
 ## Legături
 
-- **vezi** [[MKT-0301]] — conținutul fazei de alegeri.
-- **vezi** [[MKT-0304]] — detaliază faza de poziționare (outside-in și inside-out).
-- **vezi** [[MKT-0303]] — de ce ciclul se rupe adesea între formulare și execuție.
+- **vezi** [[MKT-0301-strategia-inseamna-trei-alegeri-in-ordine|MKT-0301]] — conținutul fazei de alegeri.
+- **vezi** [[MKT-0304-pozitionarea-strategica-outside-in-si-inside-out|MKT-0304]] — detaliază faza de poziționare (outside-in și inside-out).
+- **vezi** [[MKT-0303-strategiile-esueaza-din-cauza-biasurilor|MKT-0303]] — de ce ciclul se rupe adesea între formulare și execuție.
 
 ## Surse
 
-- [[SRC-007]] H. von Scheel et al., *Strategy in the Age of Disruption*, cap. 1, p. 43; cap. 2, p. 57–61; cap. 6, p. 228–231
+- [[SRC-007-strategy-in-the-age-of-disruption|SRC-007]] H. von Scheel et al., *Strategy in the Age of Disruption*, cap. 1, p. 43; cap. 2, p. 57–61; cap. 6, p. 228–231
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[MKT-0301-strategia-inseamna-trei-alegeri-in-ordine|MKT-0301]] _extinde_ — Strategia înseamnă trei alegeri, în ordine: ce nu faci, unde ești diferit, pe ce te concentrezi
+- [[MKT-0303-strategiile-esueaza-din-cauza-biasurilor|MKT-0303]] _fundament_ — Cele mai multe strategii eșuează din cauza biasurilor decidenților, nu a lipsei de idei
+- [[MKT-0304-pozitionarea-strategica-outside-in-si-inside-out|MKT-0304]] _extinde_ — Poziționarea strategică pornește din două priviri asupra lanțului valoric: din afară spre interior și din interior spre afară
+- [[SRC-007-strategy-in-the-age-of-disruption|SRC-007]] — Strategy in the Age of Disruption: A Handbook to Anticipate Change and Make Smart Decisions
+<!-- backlinks:end -->

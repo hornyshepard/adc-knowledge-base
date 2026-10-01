@@ -48,12 +48,25 @@ Analizând conversațiile despre „robot vacuum", iRobot poate afla că roboți
 
 ## Legături
 
-- **extinde** [[SOC-0901]] — dezvoltă pasul „Objectives" din POST.
-- **fundament** [[DIG-0906]] — fiecare obiectiv își primește KPI-ul.
-- **aplicare** [[DIG-0925]] — notorietatea se obține prin owned, earned și paid.
-- **aplicare** [[SOC-0906]] — obiectivul de reputație cere un plan de răspuns la crize.
-- **vezi** [[SOC-0905]] — Valid Metrics Framework măsoară progresul spre aceste obiective.
+- **extinde** [[SOC-0901-metodologia-post-oamenii-intai-tehnologia-la-urma|SOC-0901]] — dezvoltă pasul „Objectives" din POST.
+- **fundament** [[DIG-0906-un-metric-e-un-numar-un-kpi-arata-progresul-fata-de-obiectiv|DIG-0906]] — fiecare obiectiv își primește KPI-ul.
+- **aplicare** [[DIG-0925-media-owned-earned-paid-control-credibilitate-acoperire|DIG-0925]] — notorietatea se obține prin owned, earned și paid.
+- **aplicare** [[SOC-0906-criza-pe-social-media-cere-plan-de-raspuns-pregatit|SOC-0906]] — obiectivul de reputație cere un plan de răspuns la crize.
+- **vezi** [[SOC-0905-valid-metrics-framework-succesul-social-se-termina-in-advocacy|SOC-0905]] — Valid Metrics Framework măsoară progresul spre aceste obiective.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 9, p. 253-258, 262
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 9, p. 253-258, 262
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0906-un-metric-e-un-numar-un-kpi-arata-progresul-fata-de-obiectiv|DIG-0906]] _aplicare_ — Un metric e doar un număr; un KPI arată cât de aproape ești de obiectiv
+- [[DIG-0916-seo-sta-pe-trei-piloni-tehnic-continut-off-site|DIG-0916]] _vezi_ — SEO stă pe trei piloni — tehnic, conținut și off-site — iar Google cântărește cel mai mult conținutul, linkurile și RankBrain
+- [[DIG-0925-media-owned-earned-paid-control-credibilitate-acoperire|DIG-0925]] _vezi_ — Media owned, earned și paid se completează — control, credibilitate și acoperire
+- [[SOC-0901-metodologia-post-oamenii-intai-tehnologia-la-urma|SOC-0901]] _extinde_ — Metodologia POST — oamenii întâi, obiectivele, strategia, iar tehnologia la urmă
+- [[SOC-0904-algoritmii-sociali-relatie-engagement-tip-continut-timp|SOC-0904]] _vezi_ — Algoritmii sociali ordonează feed-ul după relație, engagement, tipul conținutului și timp
+- [[SOC-0905-valid-metrics-framework-succesul-social-se-termina-in-advocacy|SOC-0905]] _aplicare_ — Valid Metrics Framework — succesul pe social media se termină în advocacy, nu în cumpărare
+- [[SOC-0906-criza-pe-social-media-cere-plan-de-raspuns-pregatit|SOC-0906]] _aplicare_ — O criză pe social media se gestionează cu un plan de răspuns pregătit dinainte, nu cu improvizație
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+<!-- backlinks:end -->

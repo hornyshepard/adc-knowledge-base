@@ -46,11 +46,24 @@ Privit din 2026, cazul Harley-Davidson „No Cages" anticipa platformele de crow
 
 ## Legături
 
-- **vezi** [[MKT-0316]] — echipa think / do / feel ca model intern similar.
-- **vezi** [[SOC-0301]] — Threadless arată „oamenii ca producători".
-- **vezi** [[IDE-0301]] — „ideile pot veni de oriunde" e și un argument împotriva mitului expertului.
-- **vezi** [[MKT-0317]] — când creația se comoditizează, valoarea se mută în generative.
+- **vezi** [[MKT-0316-echipa-de-marketing-think-do-feel-si-orchestratorul|MKT-0316]] — echipa think / do / feel ca model intern similar.
+- **vezi** [[SOC-0301-threadless-clientul-este-compania|SOC-0301]] — Threadless arată „oamenii ca producători".
+- **vezi** [[IDE-0301-geniul-e-un-sport-de-echipa-trei-mituri-ale-creativitatii|IDE-0301]] — „ideile pot veni de oriunde" e și un argument împotriva mitului expertului.
+- **vezi** [[MKT-0317-cand-copia-e-gratuita-valoarea-se-muta-generativele-lui-kelly|MKT-0317]] — când creația se comoditizează, valoarea se mută în generative.
 
 ## Surse
 
-- [[SRC-008]] Jon Wuebben, *Future Marketing: Winning in the Prosumer Age*, cap. 11
+- [[SRC-008-future-marketing|SRC-008]] Jon Wuebben, *Future Marketing: Winning in the Prosumer Age*, cap. 11
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0301-continut-in-loc-de-reclame-teza-si-limitele-ei|ADV-0301]] _vezi_ — Conținut în locul reclamei? Teza că reclamele nu construiesc relații și limitele ei
+- [[EXP-0301-experienta-ca-oferta-economica-patru-taramuri-pine-gilmore|EXP-0301]] _vezi_ — Experiența e o ofertă economică distinctă: progresia valorii și cele patru tărâmuri ale lui Pine & Gilmore
+- [[IDE-0301-geniul-e-un-sport-de-echipa-trei-mituri-ale-creativitatii|IDE-0301]] _vezi_ — Geniul e un sport de echipă: trei mituri ale creativității care blochează colaborarea
+- [[MKT-0313-prosumatorul-clientul-care-produce-o-parte-din-valoare|MKT-0313]] _vezi_ — Prosumatorul: clientul care produce o parte din valoare — pe care Kotler îl vedea, încă din 1986, ca segment de piață
+- [[MKT-0316-echipa-de-marketing-think-do-feel-si-orchestratorul|MKT-0316]] _vezi_ — Echipa de marketing se compune din trei tipuri de talente — think, do, feel — coordonate de un orchestrator
+- [[MKT-0317-cand-copia-e-gratuita-valoarea-se-muta-generativele-lui-kelly|MKT-0317]] _vezi_ — Când copia e gratuită, valoarea se mută în ce nu poate fi copiat: generativele lui Kevin Kelly
+- [[SOC-0301-threadless-clientul-este-compania|SOC-0301]] _vezi_ — Threadless: comunitatea propune, votează și cumpără — clientul devine compania
+- [[SRC-008-future-marketing|SRC-008]] — Future Marketing: Winning in the Prosumer Age
+<!-- backlinks:end -->

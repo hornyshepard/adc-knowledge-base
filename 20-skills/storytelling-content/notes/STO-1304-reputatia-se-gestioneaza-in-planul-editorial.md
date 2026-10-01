@@ -54,9 +54,16 @@ Autorii amintesc de topurile anuale cu campanii sociale care au dat greș și de
 
 ## Legături
 
-- **fundament** [[STO-1302]] — auditul de risc se face pe pilonii de conținut.
-- **vezi** [[AIM-1318]] — transparența despre AI, o altă sursă de risc reputațional.
+- **fundament** [[STO-1302-pilonii-de-continut-trei-teste-patru-functii|STO-1302]] — auditul de risc se face pe pilonii de conținut.
+- **vezi** [[AIM-1318-declara-cand-folosesti-ai-trusa-de-transparenta|AIM-1318]] — transparența despre AI, o altă sursă de risc reputațional.
 
 ## Surse
 
-- [[SRC-040]] Aly Richards & Scott McLean, *Intelligent Customer Engagement*, secț. 3, cap. 4
+- [[SRC-040-intelligent-customer-engagement|SRC-040]] Aly Richards & Scott McLean, *Intelligent Customer Engagement*, secț. 3, cap. 4
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[STO-1302-pilonii-de-continut-trei-teste-patru-functii|STO-1302]] _vezi_ — Pilonii de conținut trec trei teste — interes editorial, acționabil, sustenabil — și combină patru funcții
+- [[SRC-040-intelligent-customer-engagement|SRC-040]] — Intelligent Customer Engagement: The Future of Content Marketing
+<!-- backlinks:end -->

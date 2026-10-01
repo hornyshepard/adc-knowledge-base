@@ -46,11 +46,21 @@ James Bond care trece de la Aston Martin la BMW — exemplul cu care autorii des
 
 ## Legături
 
-- **aplicare** [[INS-0417]] — exemple de strategii omega.
-- **fundament** [[INS-0434]] — cunoașterea persuasiunii explică efectul dezvăluirii.
-- **vezi** [[INS-0426]] — afectul și sensul personajului se transferă asupra brandului.
-- **vezi** [[ADV-0409]] — sponsorizarea, altă formă de asociere indirectă.
+- **aplicare** [[INS-0417-strategii-alfa-si-omega-ale-persuasiunii|INS-0417]] — exemple de strategii omega.
+- **fundament** [[INS-0434-cunoasterea-persuasiunii-declanseaza-reactanta|INS-0434]] — cunoașterea persuasiunii explică efectul dezvăluirii.
+- **vezi** [[INS-0426-conditionarea-evaluativa-transfera-afect-si-sens|INS-0426]] — afectul și sensul personajului se transferă asupra brandului.
+- **vezi** [[ADV-0409-sponsorizarea-congruenta-avantajeaza-liderul|ADV-0409]] — sponsorizarea, altă formă de asociere indirectă.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 5, p. 239-248
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 5, p. 239-248
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0409-sponsorizarea-congruenta-avantajeaza-liderul|ADV-0409]] _vezi_ — Sponsorizarea congruentă e ținută minte mai bine, dar poate fi atribuită greșit liderului categoriei
+- [[INS-0417-strategii-alfa-si-omega-ale-persuasiunii|INS-0417]] _aplicare_ — Poți convinge crescând atracția ofertei (strategii alfa) sau reducând rezistența la ea (strategii omega)
+- [[INS-0434-cunoasterea-persuasiunii-declanseaza-reactanta|INS-0434]] _vezi_ — Când publicul vede intenția de a-l convinge, poate face exact opusul (cunoașterea persuasiunii și reactanța)
+- [[SOC-0401-comunitatea-de-brand-trei-marcaje-patru-tipuri-de-membri|SOC-0401]] _vezi_ — Comunitatea de brand se recunoaște după trei marcaje și are patru tipuri de membri, cu roluri diferite pentru marketeri
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

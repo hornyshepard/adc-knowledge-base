@@ -48,11 +48,22 @@ Cele două axe ale ETM:
 
 ## Legături
 
-- **extinde** [[EXP-1201]] — ETM e instrumentul primului E din mixul experiențial.
-- **vezi** [[EXP-1212]] — instrumentul-pereche din același capitol, pentru măsurarea calității.
-- **vezi** [[EXP-1216]] — empatia angajaților determină în mare parte respectul perceput.
-- **vezi** [[MKT-1201]] — axa customer-centricity derivă din logica dominată de client.
+- **extinde** [[EXP-1201-mixul-experiential-7e-inlocuieste-cei-7p|EXP-1201]] — ETM e instrumentul primului E din mixul experiențial.
+- **vezi** [[EXP-1212-masurarea-experientei-exqual-dincolo-de-satisfactie|EXP-1212]] — instrumentul-pereche din același capitol, pentru măsurarea calității.
+- **vezi** [[EXP-1216-capitalul-de-empatie-inlocuieste-people|EXP-1216]] — empatia angajaților determină în mare parte respectul perceput.
+- **vezi** [[MKT-1201-logica-dominata-de-client-cdl|MKT-1201]] — axa customer-centricity derivă din logica dominată de client.
 
 ## Surse
 
-- [[SRC-036]] Wided Batat, *Experiential Marketing*, cap. 4, secț. „Experience Territory Matrix" (Figura 4.1, Theory Box 4.1, mini-cazurile 4.1 Amazon, 4.2 Sprite, 4.3 SNCF, 4.4 H&M, 4.5 Epson)
+- [[SRC-036-experiential-marketing|SRC-036]] Wided Batat, *Experiential Marketing*, cap. 4, secț. „Experience Territory Matrix" (Figura 4.1, Theory Box 4.1, mini-cazurile 4.1 Amazon, 4.2 Sprite, 4.3 SNCF, 4.4 H&M, 4.5 Epson)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[EXP-1201-mixul-experiential-7e-inlocuieste-cei-7p|EXP-1201]] _vezi_ — Mixul de marketing experiențial (7E) înlocuiește cei 7P cu decizii centrate pe experiența clientului
+- [[EXP-1212-masurarea-experientei-exqual-dincolo-de-satisfactie|EXP-1212]] _vezi_ — Calitatea experienței se măsoară dincolo de satisfacție — EXQUAL extinde logica SERVQUAL
+- [[EXP-1216-capitalul-de-empatie-inlocuieste-people|EXP-1216]] _vezi_ — Capitalul de empatie înlocuiește „People" — angajații trebuie să gândească întâi ca clientul
+- [[EXP-1224-caz-badoit-express-masa-gastronomica-in-metrou|EXP-1224]] _vezi_ — Caz — „Badoit Express" leagă o apă minerală de gastronomie printr-o cină surpriză în metroul din Paris
+- [[MKT-1201-logica-dominata-de-client-cdl|MKT-1201]] _vezi_ — Logica dominată de client (CDL) pune clientul la începutul lanțului valoric, nu la capătul lui
+- [[SRC-036-experiential-marketing|SRC-036]] — Experiential Marketing: Consumer Behavior, Customer Experience and the 7Es
+<!-- backlinks:end -->

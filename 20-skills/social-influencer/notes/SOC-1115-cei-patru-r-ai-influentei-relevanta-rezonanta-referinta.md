@@ -48,10 +48,20 @@ Pentru Sage, agenția OST a identificat peste 100 de influenceri în șase țăr
 
 ## Legături
 
-- **extinde** [[SOC-1114]] — reach-ul e doar una dintre cele patru dimensiuni.
-- **vezi** [[SOC-1116]] — rezonanța trebuie verificată împotriva fraudei.
-- **vezi** [[SOC-1110]] — potrivirea de valori e criteriul calitativ care completează scoringul.
+- **extinde** [[SOC-1114-nivelurile-de-influenceri-dupa-reach-nano-micro-mid-tier|SOC-1114]] — reach-ul e doar una dintre cele patru dimensiuni.
+- **vezi** [[SOC-1116-semnalele-de-frauda-se-verifica-inainte-de-orice-contract|SOC-1116]] — rezonanța trebuie verificată împotriva fraudei.
+- **vezi** [[SOC-1110-valorile-comune-conteaza-inaintea-reach-ului-in-alegerea|SOC-1110]] — potrivirea de valori e criteriul calitativ care completează scoringul.
 
 ## Surse
 
-- [[SRC-035]] Glenister, *Influencer Marketing Strategy*, cap. 3, p. 129–131; cap. 5, p. 171–173, 186; cap. 11, p. 308–309
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] Glenister, *Influencer Marketing Strategy*, cap. 3, p. 129–131; cap. 5, p. 171–173, 186; cap. 11, p. 308–309
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[SOC-1110-valorile-comune-conteaza-inaintea-reach-ului-in-alegerea|SOC-1110]] _vezi_ — Valorile comune contează înaintea reach-ului în alegerea creatorului
+- [[SOC-1114-nivelurile-de-influenceri-dupa-reach-nano-micro-mid-tier|SOC-1114]] _vezi_ — Nivelurile de influenceri după reach: nano, micro, mid-tier, macro, mega
+- [[SOC-1116-semnalele-de-frauda-se-verifica-inainte-de-orice-contract|SOC-1116]] _vezi_ — Semnalele de fraudă se verifică înainte de orice contract cu un influencer
+- [[SOC-1124-in-b2b-influenta-vine-din-angajati-si-thought-leaders|SOC-1124]] _extinde_ — În B2B influența vine din angajați și thought leaders
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] — Influencer Marketing Strategy: How influencers can help grow your business
+<!-- backlinks:end -->

@@ -58,11 +58,20 @@ Jocurile video (Far Cry 6) se lansează prin skimming: fanii plătesc prețul ma
 
 ## Legături
 
-- **fundament** [[MKT-0120]] — strategiile concrete pornesc din analiza celor 5C.
-- **fundament** [[MKT-0119]] — skimming-ul exploatează disponibilitatea inovatorilor de a plăti mai mult.
-- **vezi** [[ADV-0110]] — promoțiile de vânzări sunt motorul strategiei high/low.
+- **fundament** [[MKT-0120-pretul-sacrificiu-total-fixat-prin-5c|MKT-0120]] — strategiile concrete pornesc din analiza celor 5C.
+- **fundament** [[MKT-0119-inovatia-se-raspandeste-in-cinci-grupuri-de-adoptatori|MKT-0119]] — skimming-ul exploatează disponibilitatea inovatorilor de a plăti mai mult.
+- **vezi** [[ADV-0110-promotiile-aduc-vanzari-azi-dar-pot-fura-din-cele-de-maine|ADV-0110]] — promoțiile de vânzări sunt motorul strategiei high/low.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 15, p. 478-482
-- [[SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 5, p. 148-152 (§5.3)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 15, p. 478-482
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 5, p. 148-152 (§5.3)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0110-promotiile-aduc-vanzari-azi-dar-pot-fura-din-cele-de-maine|ADV-0110]] _vezi_ — Promoțiile de vânzări aduc vânzări azi, dar pot fura din cele de mâine și pot anula efectul unei campanii bune
+- [[MKT-0120-pretul-sacrificiu-total-fixat-prin-5c|MKT-0120]] _extinde_ — Prețul este sacrificiul total al clientului și se fixează prin cele 5C — obiective, clienți, costuri, concurență, canal
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] — Principles of Marketing
+<!-- backlinks:end -->

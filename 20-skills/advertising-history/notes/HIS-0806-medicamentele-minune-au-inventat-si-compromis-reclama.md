@@ -44,10 +44,18 @@ Radithor, apă cu radiu vândută legal în anii 1920 pentru că eticheta spunea
 
 ## Legături
 
-- **exemplu** [[HIS-0807]] — reacția editorilor la aceste reclame a pornit autoreglementarea.
-- **vezi** [[HIS-0808]] — standardul legal american a fost construit în mare parte ca răspuns.
-- **contrazice** [[CPY-0801]] — „promisiunea mare” dusă la extrem devine fraudă.
+- **exemplu** [[HIS-0807-autoreglementarea-a-inceput-la-editori|HIS-0807]] — reacția editorilor la aceste reclame a pornit autoreglementarea.
+- **vezi** [[HIS-0808-standardul-ftc-dovada-inaintea-afirmatiei|HIS-0808]] — standardul legal american a fost construit în mare parte ca răspuns.
+- **contrazice** [[CPY-0801-promisiunea-este-sufletul-reclamei|CPY-0801]] — „promisiunea mare” dusă la extrem devine fraudă.
 
 ## Surse
 
-- [[SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 5, p. 90–94; cap. 8, p. 152–157; cap. 9, p. 184–185; cap. 12, p. 255–257
+- [[SRC-027-a-history-of-advertising|SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 5, p. 90–94; cap. 8, p. 152–157; cap. 9, p. 184–185; cap. 12, p. 255–257
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0801-promisiunea-este-sufletul-reclamei|CPY-0801]] _contrazice_ — Promisiunea este sufletul reclamei — de la Samuel Johnson (1759) la titlurile mail-order
+- [[HIS-0807-autoreglementarea-a-inceput-la-editori|HIS-0807]] _fundament_ — Autoreglementarea publicității a început la editori, nu în agenții
+- [[SRC-027-a-history-of-advertising|SRC-027]] — A History of Advertising: The First 300,000 Years
+<!-- backlinks:end -->

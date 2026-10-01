@@ -53,11 +53,21 @@ Un restaurant vegetarian londonez cu buget mic a oferit unor influenceri vegetar
 
 ## Legături
 
-- **fundament** [[SOC-1113]] — definiția influencerului precede tipologia.
-- **aplicare** [[SOC-1121]] — nivelurile capătă roluri diferite pe ciclul de lansare.
-- **vezi** [[SOC-1125]] — engagement rate-ul scade natural odată cu creșterea reach-ului.
-- **vezi** [[SOC-1115]] — reach-ul e doar unul dintre cei patru R ai influenței.
+- **fundament** [[SOC-1113-influencer-marketingul-nu-este-endorsement-de-celebritate|SOC-1113]] — definiția influencerului precede tipologia.
+- **aplicare** [[SOC-1121-influencerii-pot-fi-folositi-pe-tot-ciclul-de-lansare-al|SOC-1121]] — nivelurile capătă roluri diferite pe ciclul de lansare.
+- **vezi** [[SOC-1125-engagement-rate-cpe-si-cpm-aritmetica-de-baza-a-unei|SOC-1125]] — engagement rate-ul scade natural odată cu creșterea reach-ului.
+- **vezi** [[SOC-1115-cei-patru-r-ai-influentei-relevanta-rezonanta-referinta|SOC-1115]] — reach-ul e doar unul dintre cei patru R ai influenței.
 
 ## Surse
 
-- [[SRC-035]] Glenister, *Influencer Marketing Strategy*, Introducere, p. 28; cap. 1, p. 59; cap. 3, p. 116; cap. 5, p. 177–183; cap. 8, p. 237; cap. 10, p. 270
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] Glenister, *Influencer Marketing Strategy*, Introducere, p. 28; cap. 1, p. 59; cap. 3, p. 116; cap. 5, p. 177–183; cap. 8, p. 237; cap. 10, p. 270
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[SOC-1113-influencer-marketingul-nu-este-endorsement-de-celebritate|SOC-1113]] _vezi_ — Influencer marketingul nu este endorsement de celebritate, afiliere sau direct marketing
+- [[SOC-1115-cei-patru-r-ai-influentei-relevanta-rezonanta-referinta|SOC-1115]] _extinde_ — Cei patru R ai influenței: relevanță, rezonanță, referință, reach
+- [[SOC-1121-influencerii-pot-fi-folositi-pe-tot-ciclul-de-lansare-al|SOC-1121]] _aplicare_ — Influencerii pot fi folosiți pe tot ciclul de lansare al unui produs
+- [[SOC-1125-engagement-rate-cpe-si-cpm-aritmetica-de-baza-a-unei|SOC-1125]] _vezi_ — Engagement rate, CPE și CPM: aritmetica de bază a unei campanii cu influenceri
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] — Influencer Marketing Strategy: How influencers can help grow your business
+<!-- backlinks:end -->

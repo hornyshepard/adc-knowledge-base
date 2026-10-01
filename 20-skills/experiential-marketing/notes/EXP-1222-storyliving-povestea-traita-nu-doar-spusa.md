@@ -51,10 +51,19 @@ Nescafé „Hello Bench" (Publicis, Italia): o bancă se strânge treptat când 
 
 ## Legături
 
-- **extinde** [[STO-1201]] — storyliving-ul pornește de la povestea construită din poziționare.
-- **vezi** [[BRD-1201]] — e continuarea firească a componentei Emphasis: de la conținut la cultură trăită.
-- **vezi** [[EXP-1221]] — VR, AR și video-ul live sunt instrumentele tehnologice ale storyliving-ului.
+- **extinde** [[STO-1201-povestea-de-brand-din-pozitionare-si-hero-journey|STO-1201]] — storyliving-ul pornește de la povestea construită din poziționare.
+- **vezi** [[BRD-1201-emphasis-de-la-brand-content-la-brand-culture|BRD-1201]] — e continuarea firească a componentei Emphasis: de la conținut la cultură trăită.
+- **vezi** [[EXP-1221-sase-tipologii-ale-experientei-phygital|EXP-1221]] — VR, AR și video-ul live sunt instrumentele tehnologice ale storyliving-ului.
 
 ## Surse
 
-- [[SRC-036]] Wided Batat, *Experiential Marketing*, cap. 12 (secț. „From story to action", „Storyliving strategies"; mini-cazurile 12.1–12.6)
+- [[SRC-036-experiential-marketing|SRC-036]] Wided Batat, *Experiential Marketing*, cap. 12 (secț. „From story to action", „Storyliving strategies"; mini-cazurile 12.1–12.6)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[EXP-1214-marketing-colaborativ-diy-colaborare-co-inovare|EXP-1214]] _vezi_ — Marketingul colaborativ are trei niveluri de implicare — DIY, colaborare, co-inovare
+- [[EXP-1221-sase-tipologii-ale-experientei-phygital|EXP-1221]] _vezi_ — Experiențele phygital au șase tipologii — conectată, web, VR/AR, socio-digitală, re-creativă, cyborg
+- [[STO-1201-povestea-de-brand-din-pozitionare-si-hero-journey|STO-1201]] _vezi_ — Povestea de brand se construiește din poziționare sau pe arcul eroului — și convinge prin transport narativ
+- [[SRC-036-experiential-marketing|SRC-036]] — Experiential Marketing: Consumer Behavior, Customer Experience and the 7Es
+<!-- backlinks:end -->

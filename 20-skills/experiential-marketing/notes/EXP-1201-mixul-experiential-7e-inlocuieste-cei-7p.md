@@ -49,16 +49,29 @@ Nespresso (mini-cazul 2.3) atinge mai multe E simultan: magazinul-concept cu deg
 
 ## Legături
 
-- **fundament** [[EXP-1202]] — cadrul drivere–markeri–rezultate e baza conceptuală pe care e construit mixul.
-- **fundament** [[MKT-1201]] — trecerea la logica dominată de client justifică înlocuirea lui P cu E.
-- **vezi** [[EXP-1211]] — primul E (Experience) și instrumentul lui, Experience Territory Matrix.
-- **vezi** [[EXP-1213]] — al doilea E (Exchange): valoarea co-creată în locul prețului.
-- **vezi** [[EXP-1215]] — al treilea E (Extension): continuumul experienței.
-- **vezi** [[BRD-1201]] — al patrulea E (Emphasis): de la brand content la brand culture.
-- **vezi** [[EXP-1216]] — al cincilea E (Empathy capital).
-- **vezi** [[EXP-1217]] — al șaselea E (Emotional touchpoints).
-- **vezi** [[EXP-1219]] — al șaptelea E (Emic/etic process).
+- **fundament** [[EXP-1202-cadrul-cx-drivere-markeri-rezultate|EXP-1202]] — cadrul drivere–markeri–rezultate e baza conceptuală pe care e construit mixul.
+- **fundament** [[MKT-1201-logica-dominata-de-client-cdl|MKT-1201]] — trecerea la logica dominată de client justifică înlocuirea lui P cu E.
+- **vezi** [[EXP-1211-experience-territory-matrix-respect-centricity|EXP-1211]] — primul E (Experience) și instrumentul lui, Experience Territory Matrix.
+- **vezi** [[EXP-1213-exchange-valoarea-co-creata-in-locul-pretului|EXP-1213]] — al doilea E (Exchange): valoarea co-creată în locul prețului.
+- **vezi** [[EXP-1215-extension-continuumul-experientei-pana-acasa|EXP-1215]] — al treilea E (Extension): continuumul experienței.
+- **vezi** [[BRD-1201-emphasis-de-la-brand-content-la-brand-culture|BRD-1201]] — al patrulea E (Emphasis): de la brand content la brand culture.
+- **vezi** [[EXP-1216-capitalul-de-empatie-inlocuieste-people|EXP-1216]] — al cincilea E (Empathy capital).
+- **vezi** [[EXP-1217-emotional-touchpoints-emotia-defineste-contactul|EXP-1217]] — al șaselea E (Emotional touchpoints).
+- **vezi** [[EXP-1219-procesul-emic-etic-maparea-socioculturala|EXP-1219]] — al șaptelea E (Emic/etic process).
 
 ## Surse
 
-- [[SRC-036]] Wided Batat, *Experiential Marketing*, Introducere; cap. 4–10 (rezumatele de final ale fiecărui capitol); Concluzie
+- [[SRC-036-experiential-marketing|SRC-036]] Wided Batat, *Experiential Marketing*, Introducere; cap. 4–10 (rezumatele de final ale fiecărui capitol); Concluzie
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-1201-emphasis-de-la-brand-content-la-brand-culture|BRD-1201]] _extinde_ — Emphasis — comunicarea experiențială trece de la brand content la brand culture
+- [[EXP-1211-experience-territory-matrix-respect-centricity|EXP-1211]] _extinde_ — Experience Territory Matrix încrucișează respectul perceput de client cu customer-centricity-ul firmei
+- [[EXP-1213-exchange-valoarea-co-creata-in-locul-pretului|EXP-1213]] _extinde_ — Exchange — în mixul experiențial, prețul cedează locul valorii co-create cu clientul
+- [[EXP-1215-extension-continuumul-experientei-pana-acasa|EXP-1215]] _extinde_ — Extension — experiența trebuie gândită ca un continuum fără rupturi, din magazin până acasă
+- [[EXP-1216-capitalul-de-empatie-inlocuieste-people|EXP-1216]] _extinde_ — Capitalul de empatie înlocuiește „People" — angajații trebuie să gândească întâi ca clientul
+- [[EXP-1217-emotional-touchpoints-emotia-defineste-contactul|EXP-1217]] _extinde_ — Emotional touchpoints — punctul de contact se definește prin emoția pe care o produce, nu prin canal
+- [[EXP-1219-procesul-emic-etic-maparea-socioculturala|EXP-1219]] _extinde_ — Procesul emic/etic — experiența se proiectează privind cultura de consum din interior și din exterior
+- [[SRC-036-experiential-marketing|SRC-036]] — Experiential Marketing: Consumer Behavior, Customer Experience and the 7Es
+<!-- backlinks:end -->

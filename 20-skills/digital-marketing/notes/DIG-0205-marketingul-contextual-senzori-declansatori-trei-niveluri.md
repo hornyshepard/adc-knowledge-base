@@ -54,13 +54,22 @@ Răcitoarele inteligente Walgreens (Cooler Screens) estimează vârsta, genul ș
 
 ## Legături
 
-- **fundament** [[AIM-0202]] — senzorii, IoT și AI sunt infrastructura contextualizării.
-- **extinde** [[DIG-0201]] — webrooming-ul adus în magazin, din 4.0, devine aici personalizare automată.
-- **vezi** [[EXP-0201]] — nivelul imersiv e o formă de a proiecta experiențe memorabile.
-- **aplicare** [[MKT-0212]] — marketingul contextual e a doua aplicație a Marketingului 5.0.
-- **vezi** [[EXP-0203]] — în 6.0, contextualizarea devine parte din spațiul fizic augmentat.
+- **fundament** [[AIM-0202-next-tech-tehnologiile-care-imita-omul|AIM-0202]] — senzorii, IoT și AI sunt infrastructura contextualizării.
+- **extinde** [[DIG-0201-omnichannel-harta-touchpoint-scenarii-critice-silozuri|DIG-0201]] — webrooming-ul adus în magazin, din 4.0, devine aici personalizare automată.
+- **vezi** [[EXP-0201-wow-ul-e-surprinzator-personal-contagios-si-se-proiecteaza|EXP-0201]] — nivelul imersiv e o formă de a proiecta experiențe memorabile.
+- **aplicare** [[MKT-0212-marketing-5-0-tehnologie-pentru-umanitate-cinci-componente|MKT-0212]] — marketingul contextual e a doua aplicație a Marketingului 5.0.
+- **vezi** [[EXP-0203-al-treilea-loc-reinventat-realitati-extinse-in-spatiul-fizic|EXP-0203]] — în 6.0, contextualizarea devine parte din spațiul fizic augmentat.
 
 ## Surse
 
-- [[SRC-005]] Kotler, Kartajaya, Setiawan, *Marketing 5.0*, cap. 10 „Contextual Marketing: Making a Personalized Sense-and-Respond Experience" (Fig. 10.1, 10.2)
-- [[SRC-006]] Kotler, Kartajaya, Setiawan, *Marketing 6.0*, cap. 9 „Spatial Marketing" (Fig. 9.2)
+- [[SRC-005-marketing-5-0-philip-kotler|SRC-005]] Kotler, Kartajaya, Setiawan, *Marketing 5.0*, cap. 10 „Contextual Marketing: Making a Personalized Sense-and-Respond Experience" (Fig. 10.1, 10.2)
+- [[SRC-006-marketing-6-0-philip-kotler|SRC-006]] Kotler, Kartajaya, Setiawan, *Marketing 6.0*, cap. 9 „Spatial Marketing" (Fig. 9.2)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-0202-next-tech-tehnologiile-care-imita-omul|AIM-0202]] _vezi_ — Next tech sunt tehnologiile care imită capacitățile umane — AI, NLP, senzori, robotică, realitate mixtă, IoT și blockchain
+- [[EXP-0203-al-treilea-loc-reinventat-realitati-extinse-in-spatiul-fizic|EXP-0203]] _extinde_ — Al treilea loc trebuie reinventat ca realitate extinsă — spațiul fizic augmentat digital, construit din dovezi fizice, proces și oameni
+- [[SRC-005-marketing-5-0-philip-kotler|SRC-005]] — Marketing 5.0: Technology for Humanity
+- [[SRC-006-marketing-6-0-philip-kotler|SRC-006]] — Marketing 6.0: The Future Is Immersive
+<!-- backlinks:end -->

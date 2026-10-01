@@ -48,10 +48,18 @@ Cei **4P ai transmedia**:
 
 ## Legături
 
-- **fundament** [[STO-0501]] — principiile povestirii de brand, din care transmedia preia omniprezența și persistența.
-- **vezi** [[ADV-0504]] — un nucleu de fani funcționează ca o comunitate care difuzează povestea.
-- **vezi** [[BRD-0519]] — comunitatea și sentimentul de apartenență alimentează participarea.
+- **fundament** [[STO-0501-in-povestea-de-brand-brandul-e-oxigen-peste-tot-dar|STO-0501]] — principiile povestirii de brand, din care transmedia preia omniprezența și persistența.
+- **vezi** [[ADV-0504-mesajele-devin-virale-prin-difuzare-de-masa-nu-din-om-in-om|ADV-0504]] — un nucleu de fani funcționează ca o comunitate care difuzează povestea.
+- **vezi** [[BRD-0519-comunitatea-de-brand-ideala-este-distincta-exclusiva-si-de|BRD-0519]] — comunitatea și sentimentul de apartenență alimentează participarea.
 
 ## Surse
 
-- [[SRC-014]] Mohanbir Sawhney, „Digital Brand Storytelling", cap. 11 în *Kellogg on Branding in a Hyper-Connected World*, p. 172–175
+- [[SRC-014-kellogg-on-branding|SRC-014]] Mohanbir Sawhney, „Digital Brand Storytelling", cap. 11 în *Kellogg on Branding in a Hyper-Connected World*, p. 172–175
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0504-mesajele-devin-virale-prin-difuzare-de-masa-nu-din-om-in-om|ADV-0504]] _vezi_ — Mesajele devin virale prin difuzare de masă, nu din om în om
+- [[STO-0501-in-povestea-de-brand-brandul-e-oxigen-peste-tot-dar|STO-0501]] _extinde_ — În povestea de brand, brandul e oxigen: peste tot, dar niciodată protagonist
+- [[SRC-014-kellogg-on-branding|SRC-014]] — Kellogg on Branding in a Hyper-Connected World
+<!-- backlinks:end -->

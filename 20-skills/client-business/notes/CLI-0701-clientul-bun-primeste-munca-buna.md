@@ -41,11 +41,21 @@ Interviurile din *Shareworthy* confirmă din partea agenției: Kevin Koller dă 
 
 ## Legături
 
-- **vezi** [[BRF-0711]] — felul în care dai feedback construiește sau erodează încrederea.
-- **fundament** [[BRF-0701]] — brief-ul aprobat de toți e baza relației.
-- **vezi** [[BRF-0710]] — strategia de măsurare se împarte cu agenția.
+- **vezi** [[BRF-0711-feedback-la-creatie-in-patru-categorii|BRF-0711]] — felul în care dai feedback construiește sau erodează încrederea.
+- **fundament** [[BRF-0701-brief-ul-creativ-este-planul-de-arhitect-al-executiei|BRF-0701]] — brief-ul aprobat de toți e baza relației.
+- **vezi** [[BRF-0710-masurarea-se-scrie-in-brief-inainte-de-campanie|BRF-0710]] — strategia de măsurare se împarte cu agenția.
 
 ## Surse
 
-- [[SRC-022]] Kevin McTigue, Derek D. Rucker, *The Creative Brief Blueprint*, cap. 1, cap. 6 și cap. 8
-- [[SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, interviurile din cap. 1, 5 și 6
+- [[SRC-022-the-creative-brief-blueprint|SRC-022]] Kevin McTigue, Derek D. Rucker, *The Creative Brief Blueprint*, cap. 1, cap. 6 și cap. 8
+- [[SRC-025-shareworthy|SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, interviurile din cap. 1, 5 și 6
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRF-0701-brief-ul-creativ-este-planul-de-arhitect-al-executiei|BRF-0701]] _vezi_ — Brief-ul creativ este planul de arhitect al execuției — hartă pentru creație și criteriu de evaluare
+- [[BRF-0711-feedback-la-creatie-in-patru-categorii|BRF-0711]] _vezi_ — Feedback-ul la creație se organizează în patru categorii — iubesc, îmi place, întrebări, semnale roșii
+- [[BRF-0718-brief-ul-red-cell-opt-cerinte-si-calendar|BRF-0718]] _vezi_ — Brief-ul Red Cell — opt cerințe, „indicii de execuție" și un calendar de aprobări pe o singură pagină
+- [[IDE-0717-trusa-scamper-sase-palarii-matrice-de-decizie|IDE-0717]] — Trusa de generare și selecție — SCAMPER, cele șase pălării și matricea de decizie ponderată
+- [[SRC-022-the-creative-brief-blueprint|SRC-022]] — The Creative Brief Blueprint
+<!-- backlinks:end -->

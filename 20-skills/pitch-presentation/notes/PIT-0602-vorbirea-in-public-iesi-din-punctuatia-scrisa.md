@@ -49,10 +49,18 @@ Fraza „Am testat trei direcții. Una singură a funcționat." spusă cu tăcer
 
 ## Legături
 
-- **aplicare** [[PIT-0601]] — recomandarea de agenție se câștigă și prin felul în care e spusă.
-- **vezi** [[CPY-0602]] — tăcerea și atacul țin de funcția fatică: captează și mențin contactul.
-- **vezi** [[CLI-0601]] — comunicarea asertivă continuă discuția cu clientul după prezentare.
+- **aplicare** [[PIT-0601-recomandarea-de-agentie-arata-alegerea-nu-drumul|PIT-0601]] — recomandarea de agenție se câștigă și prin felul în care e spusă.
+- **vezi** [[CPY-0602-cele-sase-functii-ale-lui-jakobson-aplicate-mesajului-publicitar|CPY-0602]] — tăcerea și atacul țin de funcția fatică: captează și mențin contactul.
+- **vezi** [[CLI-0601-comunicarea-asertiva-intre-agresiv-si-pasiv|CLI-0601]] — comunicarea asertivă continuă discuția cu clientul după prezentare.
 
 ## Surse
 
-- [[SRC-020]] Jordan Muller, *La bible de la communication*, partea I: „Maîtriser l'art de la prise de parole", „Comment réussir sa présentation orale", „La communication verbale, non verbale et le paraverbal"
+- [[SRC-020-la-bible-de-la-communication|SRC-020]] Jordan Muller, *La bible de la communication*, partea I: „Maîtriser l'art de la prise de parole", „Comment réussir sa présentation orale", „La communication verbale, non verbale et le paraverbal"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CLI-0601-comunicarea-asertiva-intre-agresiv-si-pasiv|CLI-0601]] _vezi_ — Comunicarea asertivă stă între agresiv și pasiv — spui direct ce gândești și ce ai nevoie, respectând dreptul celuilalt de a gândi altfel
+- [[CPY-0602-cele-sase-functii-ale-lui-jakobson-aplicate-mesajului-publicitar|CPY-0602]] _vezi_ — Orice mesaj publicitar ierarhizează cele șase funcții ale limbajului (Jakobson) — și una trebuie să domine
+- [[SRC-020-la-bible-de-la-communication|SRC-020]] — La bible de la communication
+<!-- backlinks:end -->

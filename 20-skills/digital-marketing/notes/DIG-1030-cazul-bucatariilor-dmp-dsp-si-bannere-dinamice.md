@@ -44,11 +44,20 @@ Cazul însuși e exemplul; rezultatele numerice nu sunt date în carte, ceea ce 
 
 ## Legături
 
-- **exemplu** [[DIG-1029]] — un caz complet de programmatic.
-- **exemplu** [[DIG-1020]] — predicția nevoii din date de context.
-- **vezi** [[ART-1001]] — principiile de design pentru bannere aplicate la scară.
-- **vezi** [[DIG-1035]] — retargetingul pe pagina personalizată.
+- **exemplu** [[DIG-1029-publicitatea-programatica-licitatie-in-timp-real|DIG-1029]] — un caz complet de programmatic.
+- **exemplu** [[DIG-1020-targetarea-predictiva-si-declansatorii-de-context|DIG-1020]] — predicția nevoii din date de context.
+- **vezi** [[ART-1001-bannerul-eficient-scurt-congruent-emotional-dozat|ART-1001]] — principiile de design pentru bannere aplicate la scară.
+- **vezi** [[DIG-1035-retargetingul-eficient-in-era-cookie-expus-dupa|DIG-1035]] — retargetingul pe pagina personalizată.
 
 ## Surse
 
-- [[SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 5.1.2 (p. 168–170)
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 5.1.2 (p. 168–170)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-1001-bannerul-eficient-scurt-congruent-emotional-dozat|ART-1001]] _vezi_ — Bannerul eficient e scurt, congruent cu pagina, emoțional plus un stimulent concret, cu animație dozată — iar formatul se alege după dispozitiv și loc
+- [[DIG-1020-targetarea-predictiva-si-declansatorii-de-context|DIG-1020]] _vezi_ — Targetarea predictivă mută întrebarea de la „cine a fost omul" la „ce va face probabil" și poate folosi declanșatori de context precum vremea, locul și ora
+- [[DIG-1029-publicitatea-programatica-licitatie-in-timp-real|DIG-1029]] _vezi_ — Publicitatea programatică cumpără fiecare impresie automat, prin licitație în timp real — câștigă eficiență, pierde control și are nevoie de date și bugete mari
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] — Digital Advertising in the Post-cookie Era: Strategic Campaign Planning Across the Customer Journey
+<!-- backlinks:end -->

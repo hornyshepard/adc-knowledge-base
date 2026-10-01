@@ -47,11 +47,22 @@ Hayward Anderson (Kudner), autorul reclamei GM, spune că momentele de inspiraț
 
 ## Legături
 
-- **vezi** [[HIS-0819]] — premiile folosesc aceleași criterii, separate în estetică și eficiență.
-- **contrazice** [[HIS-0818]] — șocul gratuit încalcă al treilea criteriu al lui Rubicam.
-- **exemplu** [[HIS-0809]] — reclamele de război alese de Watkins pentru sinceritatea lor.
-- **vezi** [[CPY-0812]] — vocea proprietarului ca formă de sinceritate.
+- **vezi** [[HIS-0819-premiile-estetica-sau-eficienta|HIS-0819]] — premiile folosesc aceleași criterii, separate în estetică și eficiență.
+- **contrazice** [[HIS-0818-shockvertising-atentia-prin-scandal|HIS-0818]] — șocul gratuit încalcă al treilea criteriu al lui Rubicam.
+- **exemplu** [[HIS-0809-razboaiele-mondiale-au-facut-din-reclama-arma-de-opinie|HIS-0809]] — reclamele de război alese de Watkins pentru sinceritatea lor.
+- **vezi** [[CPY-0812-vocea-personala-a-proprietarului|CPY-0812]] — vocea proprietarului ca formă de sinceritate.
 
 ## Surse
 
-- [[SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, Prefața autorului (1949); Cuvântul-înainte de Raymond Rubicam; intrările „Alexander Hamilton Institute”, „Travelers Insurance Company”, „General Motors — We Hope We Set a Boy to Dreaming”, „The Story Behind The Kid in Upper 4”
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, Prefața autorului (1949); Cuvântul-înainte de Raymond Rubicam; intrările „Alexander Hamilton Institute”, „Travelers Insurance Company”, „General Motors — We Hope We Set a Boy to Dreaming”, „The Story Behind The Kid in Upper 4”
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0803-reclama-de-imagine-vinde-un-sentiment|CPY-0803]] _vezi_ — Reclama de imagine vinde un sentiment, nu o fișă tehnică
+- [[CPY-0812-vocea-personala-a-proprietarului|CPY-0812]] _exemplu_ — Vocea personală a proprietarului bate tonul corporatist
+- [[HIS-0809-razboaiele-mondiale-au-facut-din-reclama-arma-de-opinie|HIS-0809]] _exemplu_ — Războaiele mondiale au transformat publicitatea dintr-un instrument de comerț într-o armă de opinie publică
+- [[HIS-0818-shockvertising-atentia-prin-scandal|HIS-0818]] _contrazice_ — Shockvertising — atenția câștigată prin scandal are un preț pe care îl plătește brandul
+- [[HIS-0819-premiile-estetica-sau-eficienta|HIS-0819]] _vezi_ — Premiile publicității au două filozofii — estetica (ADC, Cannes, One Show) și eficiența (Effie)
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] — The 100 Greatest Advertisements 1852–1958: Who Wrote Them and What They Did
+<!-- backlinks:end -->

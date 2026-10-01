@@ -52,11 +52,19 @@ City of Shoreview are o versiune scurtă, „Shoreview" (preferată), și un bad
 
 ## Legături
 
-- **extinde** [[ART-0507]] — sistemul e ultima fază a procesului de brand mark.
-- **extinde** [[ART-0509]] — elementele sistemului derivă din geometria semnului.
-- **vezi** [[ART-0504]] — funcționalitatea la toate dimensiunile e un pilon al logo-ului durabil.
-- **vezi** [[BRD-0511]] — arhitectura de brand verbală are un echivalent vizual în ierarhia semnelor.
+- **extinde** [[ART-0507-procesul-de-brand-mark-cincizeci-de-schite-inainte-de-orice|ART-0507]] — sistemul e ultima fază a procesului de brand mark.
+- **extinde** [[ART-0509-adn-ul-geometric-al-semnului-se-extinde-in-pattern-uri|ART-0509]] — elementele sistemului derivă din geometria semnului.
+- **vezi** [[ART-0504-un-logo-dureaza-prin-zece-piloni-dintre-care-designerul|ART-0504]] — funcționalitatea la toate dimensiunile e un pilon al logo-ului durabil.
+- **vezi** [[BRD-0511-arhitectura-de-brand-de-la-branded-house-la-house-of-brands|BRD-0511]] — arhitectura de brand verbală are un echivalent vizual în ierarhia semnelor.
 
 ## Surse
 
-- [[SRC-017]] Allan Peters, *Logos That Last*, cap. 4 „Badge Design Process" (secțiunile „Content Organization", „External Badge Shape Containers", „How to Use Shape Containers", „Visual Balance", „Logo Systems with Badges"); cap. 8 (City of Shoreview, Golden Bear)
+- [[SRC-017-logos-that-last|SRC-017]] Allan Peters, *Logos That Last*, cap. 4 „Badge Design Process" (secțiunile „Content Organization", „External Badge Shape Containers", „How to Use Shape Containers", „Visual Balance", „Logo Systems with Badges"); cap. 8 (City of Shoreview, Golden Bear)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0507-procesul-de-brand-mark-cincizeci-de-schite-inainte-de-orice|ART-0507]] _vezi_ — Procesul de brand mark: cincizeci de schițe înainte de orice finisare
+- [[ART-0509-adn-ul-geometric-al-semnului-se-extinde-in-pattern-uri|ART-0509]] _extinde_ — ADN-ul geometric al semnului se extinde în pattern-uri, iconuri și litere
+- [[SRC-017-logos-that-last|SRC-017]] — Logos That Last: How to Create Iconic Visual Branding
+<!-- backlinks:end -->

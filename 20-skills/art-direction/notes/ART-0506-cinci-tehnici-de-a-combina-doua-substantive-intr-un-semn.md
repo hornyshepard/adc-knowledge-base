@@ -49,10 +49,19 @@ Freadom (haine și cărți, profit donat pentru alfabetizare) combină un vultur
 
 ## Legături
 
-- **fundament** [[ART-0505]] — tehnicile lucrează cu substantivele aprobate.
-- **aplicare** [[ART-0507]] — combinarea alimentează faza de 50 de schițe.
-- **vezi** [[ART-0504]] — originalitatea și simplitatea sunt doi dintre pilonii logo-ului durabil.
+- **fundament** [[ART-0505-lista-de-substantive-de-brand-stabileste-subiectul-logo|ART-0505]] — tehnicile lucrează cu substantivele aprobate.
+- **aplicare** [[ART-0507-procesul-de-brand-mark-cincizeci-de-schite-inainte-de-orice|ART-0507]] — combinarea alimentează faza de 50 de schițe.
+- **vezi** [[ART-0504-un-logo-dureaza-prin-zece-piloni-dintre-care-designerul|ART-0504]] — originalitatea și simplitatea sunt doi dintre pilonii logo-ului durabil.
 
 ## Surse
 
-- [[SRC-017]] Allan Peters, *Logos That Last*, cap. 2 „Brand Mark Process" (secțiunile „Combining Brand Nouns", „Overlapping Geometry", „Negative Space Logos", „Visual Rhythm", „An Unexpected Twist", „Visual Flow"); cap. 8 (Freadom, Kwikbit)
+- [[SRC-017-logos-that-last|SRC-017]] Allan Peters, *Logos That Last*, cap. 2 „Brand Mark Process" (secțiunile „Combining Brand Nouns", „Overlapping Geometry", „Negative Space Logos", „Visual Rhythm", „An Unexpected Twist", „Visual Flow"); cap. 8 (Freadom, Kwikbit)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0505-lista-de-substantive-de-brand-stabileste-subiectul-logo|ART-0505]] _extinde_ — Lista de substantive de brand stabilește subiectul logo-ului înainte de schițe
+- [[ART-0507-procesul-de-brand-mark-cincizeci-de-schite-inainte-de-orice|ART-0507]] _extinde_ — Procesul de brand mark: cincizeci de schițe înainte de orice finisare
+- [[IDE-0501-inspiratia-vizuala-originala-se-cauta-in-afara-bulei-de-pe|IDE-0501]] _aplicare_ — Inspirația vizuală originală se caută în afara bulei de pe Pinterest și Dribbble
+- [[SRC-017-logos-that-last|SRC-017]] — Logos That Last: How to Create Iconic Visual Branding
+<!-- backlinks:end -->

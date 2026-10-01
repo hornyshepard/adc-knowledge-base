@@ -46,11 +46,19 @@ Ford Model T este exemplul clasic de orientare pe producție. Hermès, care lans
 
 ## Legături
 
-- **fundament** [[MKT-0101]] — definiția actuală e punctul de sosire al acestei evoluții.
-- **extinde** [[MKT-0102]] — era valorii se sprijină pe definiția valorii ca beneficii raportate la costuri.
-- **vezi** [[MKT-0105]] — orientarea relațională este forma practică a erei valorii.
-- **alternativa** [[MKT-0127]] — Kotler descrie aceeași evoluție ca cinci filozofii de management (producție, produs, vânzare, marketing, societal).
+- **fundament** [[MKT-0101-marketingul-creeaza-capteaza-comunica-si-livreaza-valoare|MKT-0101]] — definiția actuală e punctul de sosire al acestei evoluții.
+- **extinde** [[MKT-0102-valoarea-este-ce-primesti-raportat-la-ce-dai|MKT-0102]] — era valorii se sprijină pe definiția valorii ca beneficii raportate la costuri.
+- **vezi** [[MKT-0105-clientul-valoreaza-cat-relatia-nu-cat-tranzactia-clv|MKT-0105]] — orientarea relațională este forma practică a erei valorii.
+- **alternativa** [[MKT-0127-conceptul-de-marketing-vs-conceptul-de-vanzare|MKT-0127]] — Kotler descrie aceeași evoluție ca cinci filozofii de management (producție, produs, vânzare, marketing, societal).
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 1, p. 13-16 (Exhibit 1.5)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 1, p. 13-16 (Exhibit 1.5)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[MKT-0101-marketingul-creeaza-capteaza-comunica-si-livreaza-valoare|MKT-0101]] _vezi_ — Marketingul creează, captează, comunică și livrează valoare (definiția AMA)
+- [[MKT-0127-conceptul-de-marketing-vs-conceptul-de-vanzare|MKT-0127]] _alternativa_ — Conceptul de vânzare împinge ce face fabrica, conceptul de marketing pornește de la ce vrea piața (cinci filozofii de management)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+<!-- backlinks:end -->

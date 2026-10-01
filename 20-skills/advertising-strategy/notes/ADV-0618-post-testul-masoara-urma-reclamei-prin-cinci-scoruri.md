@@ -53,10 +53,20 @@ Exemplul de KPI din carte: pe itemul „sunt un brand care propune vehicule mai 
 
 ## Legături
 
-- **fundament** [[ADV-0614]] — post-testele verifică obiectivele cognitive, afective și conative.
-- **vezi** [[ADV-0616]] — audiența spune câți au fost atinși, post-testul ce a rămas.
-- **vezi** [[INS-0603]] — regulile chestionarului cantitativ folosit în post-teste.
+- **fundament** [[ADV-0614-obiectivele-de-comunicare-sunt-cognitive-afective-sau-conative|ADV-0614]] — post-testele verifică obiectivele cognitive, afective și conative.
+- **vezi** [[ADV-0616-grp-acoperire-ori-repetitie-vocabularul-media-planningului|ADV-0616]] — audiența spune câți au fost atinși, post-testul ce a rămas.
+- **vezi** [[INS-0603-chestionarul-cantitativ-si-focus-grupul-au-reguli-diferite|INS-0603]] — regulile chestionarului cantitativ folosit în post-teste.
 
 ## Surse
 
-- [[SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 47 (p. 152–153), outil 49 (p. 158–159); exemplul de KPI la outil 1, p. 15
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 47 (p. 152–153), outil 49 (p. 158–159); exemplul de KPI la outil 1, p. 15
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0614-obiectivele-de-comunicare-sunt-cognitive-afective-sau-conative|ADV-0614]] _vezi_ — Obiectivele de comunicare sunt cognitive (a face cunoscut), afective (a face iubit) sau conative (a face să acționeze)
+- [[ADV-0616-grp-acoperire-ori-repetitie-vocabularul-media-planningului|ADV-0616]] _vezi_ — GRP = acoperire × repetiție — vocabularul de bază al media planning-ului
+- [[ADV-0625-jell-o-cosby-campania-cu-scor-slab-care-a-tinut-20-de-ani|ADV-0625]] _contrazice_ — Jell-O Pudding cu Bill Cosby — campania cu scor de memorare slab care a crescut vânzările și a ținut peste 20 de ani
+- [[INS-0603-chestionarul-cantitativ-si-focus-grupul-au-reguli-diferite|INS-0603]] _vezi_ — Chestionarul cantitativ măsoară „cât", interviul și focus grupul explică „de ce" — fiecare cu regulile lui
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] — La boîte à outils de la publicité
+<!-- backlinks:end -->

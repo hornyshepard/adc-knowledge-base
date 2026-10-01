@@ -46,12 +46,24 @@ Sony a lansat comedia *The Interview* întâi pe YouTube, după presupusul atac 
 
 ## Legături
 
-- **extinde** [[MKT-0203]] — Marketing 3.0 descrisese deja trecerea la încrederea orizontală; 4.0 o generalizează.
-- **vezi** [[INS-0201]] — conectivitatea produce și paradoxuri: informat dar distras, laude dar și critici.
-- **aplicare** [[MKT-0209]] — mutările de putere cer redefinirea STP, a poziționării și a celor 4P.
-- **vezi** [[ADV-0201]] — zona O3 măsoară cât cântărește influența „celorlalți" față de publicitate.
+- **extinde** [[MKT-0203-marketingul-orizontal-co-creare-comunitizare-caracter|MKT-0203]] — Marketing 3.0 descrisese deja trecerea la încrederea orizontală; 4.0 o generalizează.
+- **vezi** [[INS-0201-paradoxurile-clientului-conectat|INS-0201]] — conectivitatea produce și paradoxuri: informat dar distras, laude dar și critici.
+- **aplicare** [[MKT-0209-marketing-4-0-redefineste-stp-pozitionarea-4p-si-serviciul|MKT-0209]] — mutările de putere cer redefinirea STP, a poziționării și a celor 4P.
+- **vezi** [[ADV-0201-zona-o3-influenta-proprie-a-celorlalti-exterioara|ADV-0201]] — zona O3 măsoară cât cântărește influența „celorlalți" față de publicitate.
 
 ## Surse
 
-- [[SRC-004]] Kotler, Kartajaya, Setiawan, *Marketing 4.0*, cap. 1 „Power Shifts to the Connected Customers"
-- [[SRC-003]] Kotler, Kartajaya, Setiawan, *Marketing 3.0*, cap. 2, p. 48-50
+- [[SRC-004-marketing-4-0-philip-kotler|SRC-004]] Kotler, Kartajaya, Setiawan, *Marketing 4.0*, cap. 1 „Power Shifts to the Connected Customers"
+- [[SRC-003-marketing-3-0-philip-kotler|SRC-003]] Kotler, Kartajaya, Setiawan, *Marketing 3.0*, cap. 2, p. 48-50
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0201-zona-o3-influenta-proprie-a-celorlalti-exterioara|ADV-0201]] _fundament_ — Zona O3 — influența proprie, a celorlalți și cea exterioară decid unde investești efortul de marketing
+- [[INS-0201-paradoxurile-clientului-conectat|INS-0201]] _fundament_ — Clientul conectat trăiește trei paradoxuri — online vs. offline, informat vs. distras, advocacy negativă vs. pozitivă
+- [[MKT-0201-evolutia-marketingului-de-la-1-0-la-6-0|MKT-0201]] _vezi_ — Evoluția marketingului de la 1.0 la 6.0 — de la produs la client, la om, la digital, la tehnologie pentru umanitate și la imersiune
+- [[MKT-0203-marketingul-orizontal-co-creare-comunitizare-caracter|MKT-0203]] _extinde_ — Viitorul marketingului e orizontal — co-creare, comunitizare și caracter în locul 4P, STP și brand building
+- [[MKT-0209-marketing-4-0-redefineste-stp-pozitionarea-4p-si-serviciul|MKT-0209]] _fundament_ — Marketing 4.0 redefinește conceptele clasice — comunități în loc de segmente, caracter în loc de poziționare, 4C în loc de 4P
+- [[MKT-0210-calea-clientului-5a-aware-appeal-ask-act-advocate|MKT-0210]] _fundament_ — Calea clientului 5A — aware, appeal, ask, act, advocate — înlocuiește pâlnia AIDA în lumea conectată
+- [[SRC-004-marketing-4-0-philip-kotler|SRC-004]] — Marketing 4.0: Moving from Traditional to Digital
+<!-- backlinks:end -->

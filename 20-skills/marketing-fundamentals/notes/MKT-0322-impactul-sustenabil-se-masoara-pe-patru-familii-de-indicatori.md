@@ -47,11 +47,21 @@ Un producător care anunță „emisii reduse cu 30%" doar pentru fabricile prop
 
 ## Legături
 
-- **fundament** [[MKT-0320]] — fiecare nivel (verde, CSR, cause) cere alți indicatori.
-- **vezi** [[MKT-0323]] — măsurarea e antidotul principal la greenwashing.
-- **vezi** [[MKT-0321]] — rezultatele unei cauze trebuie măsurate la fel.
-- **vezi** [[MKT-0324]] — rata de reciclare și materialele reciclate se proiectează din design.
+- **fundament** [[MKT-0320-marketing-sustenabil-verde-eco-eficienta-csr-cause-nu-sunt-sinonime|MKT-0320]] — fiecare nivel (verde, CSR, cause) cere alți indicatori.
+- **vezi** [[MKT-0323-greenwashing-afirmatia-verde-trebuie-dovedita|MKT-0323]] — măsurarea e antidotul principal la greenwashing.
+- **vezi** [[MKT-0321-cauza-se-alege-prin-analiza-de-materialitate|MKT-0321]] — rezultatele unei cauze trebuie măsurate la fel.
+- **vezi** [[MKT-0324-designul-pentru-circularitate-produs-si-ambalaj|MKT-0324]] — rata de reciclare și materialele reciclate se proiectează din design.
 
 ## Surse
 
-- [[SRC-011]] Maria Cesarini Viturino, *Sustainable Marketing*, cap. 3 și 5
+- [[SRC-011-sustainable-marketing-viturino|SRC-011]] Maria Cesarini Viturino, *Sustainable Marketing*, cap. 3 și 5
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[MKT-0320-marketing-sustenabil-verde-eco-eficienta-csr-cause-nu-sunt-sinonime|MKT-0320]] _vezi_ — Marketingul sustenabil, marketingul verde, eco-eficiența, CSR și cause marketing nu sunt sinonime
+- [[MKT-0321-cauza-se-alege-prin-analiza-de-materialitate|MKT-0321]] _vezi_ — Cauza nu se alege după trend: analiza de materialitate și alinierea cu misiunea
+- [[MKT-0323-greenwashing-afirmatia-verde-trebuie-dovedita|MKT-0323]] _aplicare_ — Greenwashing: afirmația verde trebuie dovedită, nu doar comunicată — iar manualele entuziaste ocolesc problema
+- [[MKT-0324-designul-pentru-circularitate-produs-si-ambalaj|MKT-0324]] _vezi_ — Designul pentru circularitate: produsul și ambalajul se gândesc de la sfârșitul vieții lor
+- [[SRC-011-sustainable-marketing-viturino|SRC-011]] — Sustainable Marketing: Responsible Practices for the Future of Marketing
+<!-- backlinks:end -->

@@ -44,10 +44,19 @@ Trei reguli trec prin toate intrările. **Economia**: Ingledew propune exerciți
 
 ## Legături
 
-- **vezi** [[ART-0705]] — tensiunea dintre cuvânt și imagine.
-- **vezi** [[ART-0704]] — rebusul și codul ca forme de dezvăluire.
-- **vezi** [[IDE-0701]] — descifrarea produce momentul „aha".
+- **vezi** [[ART-0705-tipografia-distributia-de-actori-a-cuvintelor|ART-0705]] — tensiunea dintre cuvânt și imagine.
+- **vezi** [[ART-0704-dezvaluirea-umbra-radiografia-imaginea-rupta-silueta|ART-0704]] — rebusul și codul ca forme de dezvăluire.
+- **vezi** [[IDE-0701-brainjack-ideea-captureaza-mintea-nu-doar-ochiul|IDE-0701]] — descifrarea produce momentul „aha".
 
 ## Surse
 
-- [[SRC-024]] John Ingledew, *The A–Z of Visual Ideas*, intrările „Puns", „Wordplay", „Expressions visualized", „Cryptic communication", „Questions"
+- [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] John Ingledew, *The A–Z of Visual Ideas*, intrările „Puns", „Wordplay", „Expressions visualized", „Cryptic communication", „Questions"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0704-dezvaluirea-umbra-radiografia-imaginea-rupta-silueta|ART-0704]] _vezi_ — Dezvăluirea — umbra, radiografia, imaginea ruptă, silueta și mesajul ascuns îl lasă pe privitor să descopere singur
+- [[ART-0705-tipografia-distributia-de-actori-a-cuvintelor|ART-0705]] _vezi_ — Tipografia este distribuția de actori a cuvintelor, iar cuvântul și imaginea trebuie să se tensioneze, nu să se repete
+- [[IDE-0701-brainjack-ideea-captureaza-mintea-nu-doar-ochiul|IDE-0701]] — „Brainjack" — ideea bună capturează mintea privitorului, nu doar ochiul
+- [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] — The A–Z of Visual Ideas: How to Solve Any Creative Brief
+<!-- backlinks:end -->

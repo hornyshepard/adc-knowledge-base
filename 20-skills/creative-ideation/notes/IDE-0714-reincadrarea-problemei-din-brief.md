@@ -39,20 +39,31 @@ O unealtă pentru reîncadrare e **„brainstormingul de întrebări"** al lui H
 
 - Rescrie problema din brief în trei variante: mai îngustă, mai largă, din alt unghi. Pe care o crede clientul? Pe care o trăiește ținta?
 - Rulează o rundă de brainstorming de întrebări la începutul fiecărui proiect de echipă.
-- Verifică dacă reîncadrarea rămâne în teritoriul brandului (vezi [[BRD-0701]]).
+- Verifică dacă reîncadrarea rămâne în teritoriul brandului (vezi [[BRD-0701-brand-construct-arhetip-personalitate-naratiune|BRD-0701]]).
 
 ## Întrebări
 
 - Când e reîncadrarea o depășire a mandatului agenției? Cum o prezinți clientului?
-- Prin ce diferă reîncadrarea de inversarea problemei ([[IDE-0708]])?
+- Prin ce diferă reîncadrarea de inversarea problemei ([[IDE-0708-inversarea-problemei-dezavantajul-devine-argumentul|IDE-0708]])?
 
 ## Legături
 
-- **extinde** [[IDE-0708]] — inversarea e o formă particulară de reîncadrare.
-- **vezi** [[IDE-0713]] — Suncorp ca idee North Star.
-- **vezi** [[BRF-0703]] — reîncadrarea poate schimba chiar obiectivul de comunicare.
-- **vezi** [[IDE-0716]] — identificarea problemei, primul pas al oricărui proces de rezolvare.
+- **extinde** [[IDE-0708-inversarea-problemei-dezavantajul-devine-argumentul|IDE-0708]] — inversarea e o formă particulară de reîncadrare.
+- **vezi** [[IDE-0713-ideea-north-star-trei-g-si-alter|IDE-0713]] — Suncorp ca idee North Star.
+- **vezi** [[BRF-0703-obiectivul-din-brief-este-unul-de-comunicare|BRF-0703]] — reîncadrarea poate schimba chiar obiectivul de comunicare.
+- **vezi** [[IDE-0716-procesul-in-sapte-pasi-de-rezolvare-a-problemelor|IDE-0716]] — identificarea problemei, primul pas al oricărui proces de rezolvare.
 
 ## Surse
 
-- [[SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 6 („Reframing" și „The Ideation Process")
+- [[SRC-025-shareworthy|SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 6 („Reframing" și „The Ideation Process")
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[IDE-0708-inversarea-problemei-dezavantajul-devine-argumentul|IDE-0708]] _vezi_ — Inversarea problemei — dezavantajul devine argumentul
+- [[IDE-0711-mesajul-care-nu-arata-a-reclama-locuri-si-formate-neasteptate|IDE-0711]] _vezi_ — Singurul spațiu care merită cumpărat e cel din capul publicului — mesaje în locuri și formate care nu arată a reclamă
+- [[IDE-0713-ideea-north-star-trei-g-si-alter|IDE-0713]] _vezi_ — Ideea North Star se cristalizează cu cei trei G (scop, gol, câștig) și se testează cu A.L.T.E.R.
+- [[IDE-0716-procesul-in-sapte-pasi-de-rezolvare-a-problemelor|IDE-0716]] _vezi_ — Procesul în șapte pași de rezolvare a problemelor — de la definirea decalajului la revizuirea rezultatului
+- [[STO-0707-purpose-fara-washing-whack-tax|STO-0707]] _vezi_ — Purpose fără „washing" — brandul plătește „whack tax" când spune mai mult decât face
+- [[SRC-025-shareworthy|SRC-025]] — Shareworthy: Advertising That Creates Powerful Connections Through Storytelling
+<!-- backlinks:end -->

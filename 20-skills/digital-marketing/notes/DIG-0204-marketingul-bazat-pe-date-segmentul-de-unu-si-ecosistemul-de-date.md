@@ -47,11 +47,20 @@ Persona din carte: „John", 40 de ani, manager de marketing digital la o compan
 
 ## Legături
 
-- **fundament** [[MKT-0212]] — datele sunt prima disciplină a Marketingului 5.0.
-- **contrazice** [[MKT-0209]] — 4.0 înlocuia segmentele cu comunități care „confirmă" brandul; 5.0 revine la segmentare, dusă până la individ.
-- **aplicare** [[AIM-0205]] — ecosistemul de date alimentează modelele predictive.
-- **vezi** [[MKT-0216]] — dezbaterea despre cum își revizuiesc cărțile seriei propriile idei, inclusiv segmentarea.
+- **fundament** [[MKT-0212-marketing-5-0-tehnologie-pentru-umanitate-cinci-componente|MKT-0212]] — datele sunt prima disciplină a Marketingului 5.0.
+- **contrazice** [[MKT-0209-marketing-4-0-redefineste-stp-pozitionarea-4p-si-serviciul|MKT-0209]] — 4.0 înlocuia segmentele cu comunități care „confirmă" brandul; 5.0 revine la segmentare, dusă până la individ.
+- **aplicare** [[AIM-0205-marketingul-predictiv-clienti-produse-branduri|AIM-0205]] — ecosistemul de date alimentează modelele predictive.
+- **vezi** [[MKT-0216-seria-kotler-x-0-isi-revizuieste-propriile-idei|MKT-0216]] — dezbaterea despre cum își revizuiesc cărțile seriei propriile idei, inclusiv segmentarea.
 
 ## Surse
 
-- [[SRC-005]] Kotler, Kartajaya, Setiawan, *Marketing 5.0*, cap. 8 „Data-Driven Marketing: Building a Data Ecosystem for Better Targeting" (Fig. 8.1-8.3)
+- [[SRC-005-marketing-5-0-philip-kotler|SRC-005]] Kotler, Kartajaya, Setiawan, *Marketing 5.0*, cap. 8 „Data-Driven Marketing: Building a Data Ecosystem for Better Targeting" (Fig. 8.1-8.3)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-0205-marketingul-predictiv-clienti-produse-branduri|AIM-0205]] _fundament_ — Marketingul predictiv anticipează piața în trei zone — clienți, produse și branduri — cu regresie, filtrare colaborativă și rețele neuronale
+- [[MKT-0214-marketingul-agil-echipe-descentralizate-mvp-experimentare-rapida|MKT-0214]] _vezi_ — Marketingul agil execută rapid și la scară — analitică în timp real, echipe descentralizate, platformă flexibilă, MVP și experimentare rapidă
+- [[MKT-0216-seria-kotler-x-0-isi-revizuieste-propriile-idei|MKT-0216]] _contrazice_ — Seria Kotler X.0 își revizuiește propriile idei — segmentarea, rolul purpose-ului și raportul online–offline se schimbă de la o carte la alta
+- [[SRC-005-marketing-5-0-philip-kotler|SRC-005]] — Marketing 5.0: Technology for Humanity
+<!-- backlinks:end -->

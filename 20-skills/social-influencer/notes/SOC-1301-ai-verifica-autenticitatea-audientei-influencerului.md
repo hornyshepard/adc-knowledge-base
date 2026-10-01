@@ -50,10 +50,18 @@ Un exemplu ipotetic: un influencer cu 500.000 de urmăritori, dintre care o trei
 
 ## Legături
 
-- **vezi** [[AIM-1325]] — ascultarea vizuală ca sursă de ambasadori spontani.
-- **vezi** [[AIM-1318]] — transparența, regulă comună pentru AI și pentru parteneriatele plătite.
+- **vezi** [[AIM-1325-ascultarea-vizuala-gaseste-brandul-in-imagini|AIM-1325]] — ascultarea vizuală ca sursă de ambasadori spontani.
+- **vezi** [[AIM-1318-declara-cand-folosesti-ai-trusa-de-transparenta|AIM-1318]] — transparența, regulă comună pentru AI și pentru parteneriatele plătite.
 
 ## Surse
 
-- [[SRC-042]] Chidiebere Iroegbu, *The Future of Marketing*, cap. 10 și 14
-- [[SRC-041]] Elle James, *Digital Alchemy: Transforming Brands with AI*, cap. 4
+- [[SRC-042-the-future-of-marketing|SRC-042]] Chidiebere Iroegbu, *The Future of Marketing*, cap. 10 și 14
+- [[SRC-041-transforming-brands-with-ai|SRC-041]] Elle James, *Digital Alchemy: Transforming Brands with AI*, cap. 4
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-1325-ascultarea-vizuala-gaseste-brandul-in-imagini|AIM-1325]] _vezi_ — Ascultarea vizuală găsește brandul în imagini, acolo unde nu e numit în text
+- [[SRC-041-transforming-brands-with-ai|SRC-041]] — Digital Alchemy: Transforming Brands with AI
+- [[SRC-042-the-future-of-marketing|SRC-042]] — The Future of Marketing: Harnessing Artificial Intelligence for Success
+<!-- backlinks:end -->

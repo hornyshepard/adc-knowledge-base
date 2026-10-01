@@ -47,10 +47,21 @@ IBM adaugă criterii operaționale: să înțelegi ce vor clienții înainte să
 
 ## Legături
 
-- **fundament** [[DIG-0905]] — CX se construiește pe touchpoint-urile journey-ului.
-- **vezi** [[SOC-0906]] — un CX prost devine rapid criză pe social media („6.000 de prieteni" ai lui Bezos).
-- **vezi** [[DIG-0904]] — experiența clientului e primul fundament al transformării digitale.
+- **fundament** [[DIG-0905-customer-journey-ul-digital-nu-e-palnie-ci-bucla-de-loialitate|DIG-0905]] — CX se construiește pe touchpoint-urile journey-ului.
+- **vezi** [[SOC-0906-criza-pe-social-media-cere-plan-de-raspuns-pregatit|SOC-0906]] — un CX prost devine rapid criză pe social media („6.000 de prieteni" ai lui Bezos).
+- **vezi** [[DIG-0904-disruptia-vs-transformarea-digitala-strategia-inaintea-tehnologiei|DIG-0904]] — experiența clientului e primul fundament al transformării digitale.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 4, p. 107-111
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 4, p. 107-111
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0904-disruptia-vs-transformarea-digitala-strategia-inaintea-tehnologiei|DIG-0904]] _vezi_ — Disrupția digitală schimbă propunerea de valoare; transformarea digitală e un răspuns de strategie, nu de tehnologie
+- [[DIG-0905-customer-journey-ul-digital-nu-e-palnie-ci-bucla-de-loialitate|DIG-0905]] _vezi_ — Customer journey-ul digital nu e o pâlnie liniară, ci un traseu cu bucle care se închide într-o buclă de loialitate
+- [[DIG-0914-aplicatia-se-justifica-doar-daca-face-ce-site-ul-nu-poate|DIG-0914]] _vezi_ — O aplicație mobilă se justifică doar dacă face ceva ce un site responsive nu poate face
+- [[DIG-0932-modelul-idic-identifica-diferentiaza-interactioneaza-customizeaza|DIG-0932]] _vezi_ — Modelul IDIC — identifică, diferențiază, interacționează, customizează — pune clientul, nu produsul, în centrul CRM
+- [[SOC-0906-criza-pe-social-media-cere-plan-de-raspuns-pregatit|SOC-0906]] _vezi_ — O criză pe social media se gestionează cu un plan de răspuns pregătit dinainte, nu cu improvizație
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+<!-- backlinks:end -->

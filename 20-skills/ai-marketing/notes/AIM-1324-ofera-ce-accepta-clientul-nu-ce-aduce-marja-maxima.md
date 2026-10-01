@@ -59,10 +59,18 @@ Secvența din carte: clientul sună pentru o asigurare de clădire (o cumpără)
 
 ## Legături
 
-- **fundament** [[AIM-1321]] — motorul de decizie definește nivelul 4 de maturitate.
-- **vezi** [[DIG-1301]] — optimizarea frecvenței, rudă cu strategia de contact.
-- **vezi** [[AIM-1323]] — tipul de model contează la fel de mult ca regulile.
+- **fundament** [[AIM-1321-modelul-de-maturitate-ice-zece-principii-cinci-niveluri|AIM-1321]] — motorul de decizie definește nivelul 4 de maturitate.
+- **vezi** [[DIG-1301-ai-in-e-mail-moment-si-frecventa-pe-individ|DIG-1301]] — optimizarea frecvenței, rudă cu strategia de contact.
+- **vezi** [[AIM-1323-modelarea-uplift-cauta-persuadabilii|AIM-1323]] — tipul de model contează la fel de mult ca regulile.
 
 ## Surse
 
-- [[SRC-040]] Aly Richards & Scott McLean, *Intelligent Customer Engagement*, secț. 4, cap. 2, 3 și 4
+- [[SRC-040-intelligent-customer-engagement|SRC-040]] Aly Richards & Scott McLean, *Intelligent Customer Engagement*, secț. 4, cap. 2, 3 și 4
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-1321-modelul-de-maturitate-ice-zece-principii-cinci-niveluri|AIM-1321]] _extinde_ — Modelul de maturitate ICE — zece principii și cinci niveluri, de la tranzacție la angajament inteligent
+- [[DIG-1301-ai-in-e-mail-moment-si-frecventa-pe-individ|DIG-1301]] _vezi_ — În e-mailul cu AI, momentul și frecvența trimiterii se optimizează pe individ, nu pe listă
+- [[SRC-040-intelligent-customer-engagement|SRC-040]] — Intelligent Customer Engagement: The Future of Content Marketing
+<!-- backlinks:end -->

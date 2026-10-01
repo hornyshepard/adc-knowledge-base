@@ -45,10 +45,21 @@ Declarația de misiune McDonald's — „să fim locul și modul preferat al cli
 
 ## Legături
 
-- **contrazice** [[BRD-0509]] — modelul Stengel tratează scopul ca fundament universal al creșterii.
-- **contrazice** [[BRD-0507]] — laddering-ul în sus, recomandat de Tybout, e cauza convergenței.
-- **vezi** [[EXP-0501]] — „a face" în loc de „a spune" mută brandul în experiență.
+- **contrazice** [[BRD-0509-purpose-path-to-growth-descopera-scopul-apoi-activeaza-l|BRD-0509]] — modelul Stengel tratează scopul ca fundament universal al creșterii.
+- **contrazice** [[BRD-0507-o-pozitie-se-sustine-prin-instantiere-moderna-schimbarea|BRD-0507]] — laddering-ul în sus, recomandat de Tybout, e cauza convergenței.
+- **vezi** [[EXP-0501-la-brandurile-direct-to-consumer-brandul-este-lantul|EXP-0501]] — „a face" în loc de „a spune" mută brandul în experiență.
 
 ## Surse
 
-- [[SRC-014]] Silvia Lagnado & Colin Mitchell, „Has Purpose Lost Its Purpose?", cap. 17, p. 249–255; Jim Stengel et al., cap. 2, p. 20–36; Alice M. Tybout, cap. 1, p. 13–15, în *Kellogg on Branding in a Hyper-Connected World*
+- [[SRC-014-kellogg-on-branding|SRC-014]] Silvia Lagnado & Colin Mitchell, „Has Purpose Lost Its Purpose?", cap. 17, p. 249–255; Jim Stengel et al., cap. 2, p. 20–36; Alice M. Tybout, cap. 1, p. 13–15, în *Kellogg on Branding in a Hyper-Connected World*
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0507-o-pozitie-se-sustine-prin-instantiere-moderna-schimbarea|BRD-0507]] _contrazice_ — O poziție se susține prin instanțiere modernă, schimbarea dovezii și laddering
+- [[BRD-0509-purpose-path-to-growth-descopera-scopul-apoi-activeaza-l|BRD-0509]] _contrazice_ — Purpose Path to Growth: descoperă scopul, apoi activează-l întâi în interior
+- [[BRD-0529-misiunea-spune-de-ce-exista-brandul-acum-viziunea-unde-vrea|BRD-0529]] _contrazice_ — Misiunea spune de ce există brandul acum, viziunea unde vrea să ajungă
+- [[BRD-0533-cazul-billie-a-arata-ce-ascunde-categoria-transforma-un|BRD-0533]] _vezi_ — Cazul Billie: a arăta ce ascunde categoria transformă un tabu în poziționare
+- [[EXP-0501-la-brandurile-direct-to-consumer-brandul-este-lantul|EXP-0501]] _aplicare_ — La brandurile direct-to-consumer, brandul este lanțul complet al experienței
+- [[SRC-014-kellogg-on-branding|SRC-014]] — Kellogg on Branding in a Hyper-Connected World
+<!-- backlinks:end -->

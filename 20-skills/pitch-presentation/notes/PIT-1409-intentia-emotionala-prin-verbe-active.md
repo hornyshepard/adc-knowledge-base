@@ -45,10 +45,19 @@ Un update „Proiectul X e serios în întârziere” poate începe prin a alarm
 
 ## Legături
 
-- **fundament** [[PIT-1407]] — este intenția „Feel” din cele patru întrebări.
-- **vezi** [[PIT-1401]] — emoția e primul ingredient al cut-through.
-- **aplicare** [[PIT-1419]] — la repetiție, intențiile emoționale înlocuiesc scriptul memorat.
+- **fundament** [[PIT-1407-know-feel-do-why-now|PIT-1407]] — este intenția „Feel” din cele patru întrebări.
+- **vezi** [[PIT-1401-cut-through-emotie-simplitate-energie|PIT-1401]] — emoția e primul ingredient al cut-through.
+- **aplicare** [[PIT-1419-framework-uri-nu-scripturi-memorate|PIT-1419]] — la repetiție, intențiile emoționale înlocuiesc scriptul memorat.
 
 ## Surse
 
-- [[SRC-043]] Dominic Colenso, *Cut-Through*, cap. 2 („Make them feel something”)
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] Dominic Colenso, *Cut-Through*, cap. 2 („Make them feel something”)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PIT-1401-cut-through-emotie-simplitate-energie|PIT-1401]] _vezi_ — Cut-through apare la intersecția dintre emoție, simplitate și energie
+- [[PIT-1407-know-feel-do-why-now|PIT-1407]] _extinde_ — Intenția unei prezentări răspunde la patru întrebări — Know, Feel, Do și Why now
+- [[PIT-1419-framework-uri-nu-scripturi-memorate|PIT-1419]] _fundament_ — Prezintă din framework-uri și cuvinte cheie, nu dintr-un script memorat
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] — Cut-Through: The pitch and presentation playbook
+<!-- backlinks:end -->

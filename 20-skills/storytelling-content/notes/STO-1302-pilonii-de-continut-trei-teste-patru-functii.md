@@ -47,10 +47,20 @@ Brief-ul-model din carte: persona „Dinkys" (cuplu fără copii, venituri bune)
 
 ## Legături
 
-- **fundament** [[STO-1301]] — pilonii pornesc din punctul de mutualitate.
-- **aplicare** [[STO-1303]] — călătoria în trei acte, pe care pilonii o hrănesc.
-- **vezi** [[STO-1304]] — riscul reputațional se auditează pe fiecare pilon.
+- **fundament** [[STO-1301-punctul-de-mutualitate-subiectul-comun-brand-public|STO-1301]] — pilonii pornesc din punctul de mutualitate.
+- **aplicare** [[STO-1303-calatoria-eroului-e-ciclul-de-cumparare-eroul-e-clientul|STO-1303]] — călătoria în trei acte, pe care pilonii o hrănesc.
+- **vezi** [[STO-1304-reputatia-se-gestioneaza-in-planul-editorial|STO-1304]] — riscul reputațional se auditează pe fiecare pilon.
 
 ## Surse
 
-- [[SRC-040]] Aly Richards & Scott McLean, *Intelligent Customer Engagement*, secț. 3, cap. 3 și 6; secț. 4, cap. 2
+- [[SRC-040-intelligent-customer-engagement|SRC-040]] Aly Richards & Scott McLean, *Intelligent Customer Engagement*, secț. 3, cap. 3 și 6; secț. 4, cap. 2
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-1302-intro-ul-jurnalistic-face-trei-lucruri-intr-o-fraza|CPY-1302]] _aplicare_ — Intro-ul jurnalistic face trei lucruri într-o singură frază, iar textul se scrie ca o piramidă inversată
+- [[STO-1301-punctul-de-mutualitate-subiectul-comun-brand-public|STO-1301]] _extinde_ — Punctul de mutualitate este subiectul despre care și brandul, și publicul vor să vorbească
+- [[STO-1303-calatoria-eroului-e-ciclul-de-cumparare-eroul-e-clientul|STO-1303]] _aplicare_ — Călătoria eroului e ciclul de cumpărare văzut de client — iar eroul e clientul, nu brandul
+- [[STO-1304-reputatia-se-gestioneaza-in-planul-editorial|STO-1304]] _fundament_ — Reputația se gestionează din planul editorial — audit de risc pe piloni, aliniere cu business-ul, monitorizare, aprobare dublă
+- [[SRC-040-intelligent-customer-engagement|SRC-040]] — Intelligent Customer Engagement: The Future of Content Marketing
+<!-- backlinks:end -->

@@ -46,10 +46,22 @@ Netflix, în exemplul ipotetic din carte, poate izola un micro-segment de fani a
 
 ## Legături
 
-- **fundament** [[AIM-1301]] — micro-segmentul e unul dintre cele patru registre ale personalizării.
-- **aplicare** [[AIM-1303]] — segmentarea predictivă folosește modele de churn și CLV.
-- **vezi** [[DIG-1301]] — e-mailul e canalul unde segmentele dinamice se activează cel mai des.
+- **fundament** [[AIM-1301-personalizarea-cu-ai-are-patru-registre|AIM-1301]] — micro-segmentul e unul dintre cele patru registre ale personalizării.
+- **aplicare** [[AIM-1303-analiza-predictiva-este-un-ciclu-nu-un-raport|AIM-1303]] — segmentarea predictivă folosește modele de churn și CLV.
+- **vezi** [[DIG-1301-ai-in-e-mail-moment-si-frecventa-pe-individ|DIG-1301]] — e-mailul e canalul unde segmentele dinamice se activează cel mai des.
 
 ## Surse
 
-- [[SRC-037]] Karen Noil, *AI-Driven Marketing*, cap. 4 (4.1-4.6)
+- [[SRC-037-ai-driven-marketing|SRC-037]] Karen Noil, *AI-Driven Marketing*, cap. 4 (4.1-4.6)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-1301-personalizarea-cu-ai-are-patru-registre|AIM-1301]] _extinde_ — Personalizarea cu AI lucrează în patru registre — în timp real, comportamental, micro-segment și predictiv
+- [[AIM-1303-analiza-predictiva-este-un-ciclu-nu-un-raport|AIM-1303]] _aplicare_ — Analiza predictivă este un ciclu în cinci pași, nu un raport
+- [[AIM-1313-arborii-de-clasificare-transforma-baza-de-date-in-reguli|AIM-1313]] _aplicare_ — Arborii de clasificare transformă o bază de date în câteva reguli „dacă–atunci" pentru țintire
+- [[DIG-1301-ai-in-e-mail-moment-si-frecventa-pe-individ|DIG-1301]] _aplicare_ — În e-mailul cu AI, momentul și frecvența trimiterii se optimizează pe individ, nu pe listă
+- [[INS-1305-importanta-unui-atribut-se-schimba-cu-etapa-de-viata|INS-1305]] _vezi_ — Importanța unui atribut se schimbă cu etapa de viață — „brandul de încredere" contează enorm la 4–8 ani și aproape deloc la preadolescenți
+- [[INS-1306-personas-nu-segmente-ozzy-osbourne-si-printul-charles|INS-1306]] _vezi_ — Personas, nu segmente — Ozzy Osbourne și Prințul Charles au același profil demografic
+- [[SRC-037-ai-driven-marketing|SRC-037]] — AI-Driven Marketing: Harnessing Artificial Intelligence to Personalize Customer Experiences
+<!-- backlinks:end -->

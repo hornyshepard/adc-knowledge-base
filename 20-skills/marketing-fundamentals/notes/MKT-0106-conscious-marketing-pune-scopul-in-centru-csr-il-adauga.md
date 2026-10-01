@@ -53,10 +53,22 @@ City Girl Coffee (Dilema 1.1): o firmă de familie construiește un brand nou ca
 
 ## Legături
 
-- **fundament** [[MKT-0101]] — definiția AMA include deja „societatea în ansamblu" printre beneficiari.
-- **vezi** [[MKT-0110]] — mediul fizic și tendințele sociale (sustenabilitate) fac presiunea pentru conscious marketing.
-- **aplicare** [[ADV-0109]] — cause-related marketing este instrumentul de PR prin care se comunică angajamentele sociale.
+- **fundament** [[MKT-0101-marketingul-creeaza-capteaza-comunica-si-livreaza-valoare|MKT-0101]] — definiția AMA include deja „societatea în ansamblu" printre beneficiari.
+- **vezi** [[MKT-0110-mediul-de-marketing-imediat-si-macromediul-cdstep|MKT-0110]] — mediul fizic și tendințele sociale (sustenabilitate) fac presiunea pentru conscious marketing.
+- **aplicare** [[ADV-0109-pr-ul-castiga-credibilitate-pentru-ca-spatiul-nu-e-cumparat|ADV-0109]] — cause-related marketing este instrumentul de PR prin care se comunică angajamentele sociale.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 4, p. 123-126 (Exhibit 4.2); cap. 5, p. 159; cap. 1, p. 12-13, 21
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 4, p. 123-126 (Exhibit 4.2); cap. 5, p. 159; cap. 1, p. 12-13, 21
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0108-puffery-exagerarea-e-legala-cifra-trebuie-dovedita|ADV-0108]] _vezi_ — Exagerarea subiectivă (puffery) e legală, dar orice afirmație cuantificabilă trebuie dovedită
+- [[ADV-0109-pr-ul-castiga-credibilitate-pentru-ca-spatiul-nu-e-cumparat|ADV-0109]] _vezi_ — Relațiile publice câștigă credibilitate tocmai pentru că spațiul nu e cumpărat — prin media, cauze și sponsorizări
+- [[INS-0105-arhitectura-alegerii-nudge-si-optiunea-implicita|INS-0105]] _vezi_ — Arhitectura alegerii influențează decizia fără s-o interzică — prin „ghionturi" (nudges) și opțiuni implicite
+- [[MKT-0110-mediul-de-marketing-imediat-si-macromediul-cdstep|MKT-0110]] _vezi_ — Mediul de marketing are două cercuri — mediul imediat și macromediul CDSTEP (varianta Grewal-Levy a PESTEL)
+- [[MKT-0127-conceptul-de-marketing-vs-conceptul-de-vanzare|MKT-0127]] _vezi_ — Conceptul de vânzare împinge ce face fabrica, conceptul de marketing pornește de la ce vrea piața (cinci filozofii de management)
+- [[MKT-0129-marketingul-social-vinde-comportamente-nu-produse|MKT-0129]] _vezi_ — Marketingul social vinde comportamente, nu produse — și nu e același lucru cu marketingul pe social media
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+<!-- backlinks:end -->

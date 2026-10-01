@@ -47,11 +47,19 @@ Ghidul fair trade din studiul Fennis et al. (2011): aceeași informație, efect 
 
 ## Legături
 
-- **extinde** [[INS-0435]] — reduce distanța dintre intenție și comportament.
-- **vezi** [[INS-0437]] — obiceiul leagă și el situația de comportament, prin repetiție.
-- **vezi** [[INS-0434]] — instrucțiunile explicite pot declanșa reactanță.
-- **vezi** [[INS-0429]] — declanșatorul (cue to action) din drumul de la scop la acțiune.
+- **extinde** [[INS-0435-gaseste-credinta-care-separa-cumparatorii|INS-0435]] — reduce distanța dintre intenție și comportament.
+- **vezi** [[INS-0437-obiceiul-bate-intentia-in-contexte-stabile|INS-0437]] — obiceiul leagă și el situația de comportament, prin repetiție.
+- **vezi** [[INS-0434-cunoasterea-persuasiunii-declanseaza-reactanta|INS-0434]] — instrucțiunile explicite pot declanșa reactanță.
+- **vezi** [[INS-0429-a-placea-nu-inseamna-a-vrea|INS-0429]] — declanșatorul (cue to action) din drumul de la scop la acțiune.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 6, p. 270-275
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 6, p. 270-275
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[INS-0435-gaseste-credinta-care-separa-cumparatorii|INS-0435]] _extinde_ — Înainte de a convinge, află dacă frâna e atitudinea, norma socială sau controlul perceput (teoria comportamentului planificat)
+- [[INS-0437-obiceiul-bate-intentia-in-contexte-stabile|INS-0437]] _vezi_ — În contexte stabile și repetate, obiceiul bate intenția — de aceea consumatorii habituali aproape că nu pot fi „furați"
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

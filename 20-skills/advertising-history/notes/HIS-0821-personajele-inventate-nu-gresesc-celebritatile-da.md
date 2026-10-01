@@ -42,12 +42,23 @@ Mr. Friendly (American Mutual, 1947), un omuleț cu melon desenat de Jack Tinker
 
 ## Legături
 
-- **extinde** [[HIS-0802]] — personajul e o formă modernă a semnului de origine.
-- **exemplu** [[HIS-0814]] — Burnett și „familia” lui de personaje.
-- **contrazice** [[HIS-0823]] — multe personaje clasice s-au sprijinit pe stereotipuri rasiale.
-- **vezi** [[CPY-0806]] — Mr. Friendly ca alternativă pozitivă la apelul la frică.
+- **extinde** [[HIS-0802-brandul-garantie-de-origine-si-calitate|HIS-0802]] — personajul e o formă modernă a semnului de origine.
+- **exemplu** [[HIS-0814-burnett-drama-inerenta-a-produsului|HIS-0814]] — Burnett și „familia” lui de personaje.
+- **contrazice** [[HIS-0823-diversitatea-a-intrat-tarziu-in-agentii-si-in-reclame|HIS-0823]] — multe personaje clasice s-au sprijinit pe stereotipuri rasiale.
+- **vezi** [[CPY-0806-teama-sociala-vinde-dar-exista-calea-pozitiva|CPY-0806]] — Mr. Friendly ca alternativă pozitivă la apelul la frică.
 
 ## Surse
 
-- [[SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 6, p. 105; cap. 13, p. 286–293
-- [[SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Campbell’s Soup — The Campbell Kids”, „Phoebe Snow”, „Victor — His Master’s Voice”, „Fisk — Time to Retire”, „Borden — Elsie”, „General Mills — The Woman Everybody Knows”, „American Mutual — Mr. Friendly”
+- [[SRC-027-a-history-of-advertising|SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 6, p. 105; cap. 13, p. 286–293
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Campbell’s Soup — The Campbell Kids”, „Phoebe Snow”, „Victor — His Master’s Voice”, „Fisk — Time to Retire”, „Borden — Elsie”, „General Mills — The Woman Everybody Knows”, „American Mutual — Mr. Friendly”
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0806-teama-sociala-vinde-dar-exista-calea-pozitiva|CPY-0806]] _vezi_ — Teama socială vinde — dar există și calea pozitivă
+- [[HIS-0802-brandul-garantie-de-origine-si-calitate|HIS-0802]] _exemplu_ — Brandul s-a născut ca garanție de origine și calitate, atunci când producătorul s-a îndepărtat de cumpărător
+- [[HIS-0814-burnett-drama-inerenta-a-produsului|HIS-0814]] — Leo Burnett — drama inerentă a produsului și personajele care o poartă
+- [[HIS-0823-diversitatea-a-intrat-tarziu-in-agentii-si-in-reclame|HIS-0823]] _contrazice_ — Diversitatea a intrat târziu în publicitate — și în agenții, și în imaginea din reclame
+- [[SRC-027-a-history-of-advertising|SRC-027]] — A History of Advertising: The First 300,000 Years
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] — The 100 Greatest Advertisements 1852–1958: Who Wrote Them and What They Did
+<!-- backlinks:end -->

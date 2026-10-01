@@ -38,7 +38,7 @@ La final: semnătura clientului și data.
 
 - Când completezi 4b, caută intenționat o dovadă din fiecare categorie (emoțională, senzorială, rațională) și alege-o pe cea mai puternică.
 - La rubrica 5, alege două-trei trăsături ale brandului, nu tot ghidul de brand.
-- Semnătura clientului transformă brief-ul în reperul comun pentru feedback (vezi [[BRF-0711]]).
+- Semnătura clientului transformă brief-ul în reperul comun pentru feedback (vezi [[BRF-0711-feedback-la-creatie-in-patru-categorii|BRF-0711]]).
 
 ## Întrebări
 
@@ -47,10 +47,17 @@ La final: semnătura clientului și data.
 
 ## Legături
 
-- **vezi** [[BRF-0720]] — comparația cu celelalte formulare.
-- **vezi** [[BRF-0705]] — punctul unic și dovada corespund punctului de diferență și motivului de a crede.
-- **vezi** [[INS-0701]] — insight-ul „util" trebuie să fie și adevărat.
+- **vezi** [[BRF-0720-comparatie-intre-modelele-de-brief-de-agentie|BRF-0720]] — comparația cu celelalte formulare.
+- **vezi** [[BRF-0705-declaratia-de-pozitionare-tinta-cadru-diferenta-motiv|BRF-0705]] — punctul unic și dovada corespund punctului de diferență și motivului de a crede.
+- **vezi** [[INS-0701-insight-ul-este-un-adevar-uman-semnificativ|INS-0701]] — insight-ul „util" trebuie să fie și adevărat.
 
 ## Surse
 
-- [[SRC-023]] Modele de brief de agenție — Singleton Ogilvy & Mather, „Creative Brief" (transcriere manuală din imagine)
+- [[SRC-023-modele-de-brief-de-agentie|SRC-023]] Modele de brief de agenție — Singleton Ogilvy & Mather, „Creative Brief" (transcriere manuală din imagine)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRF-0720-comparatie-intre-modelele-de-brief-de-agentie|BRF-0720]] _extinde_ — Modelele de brief de agenție au același nucleu, dar fiecare optimizează altceva — inspirația, concizia, contextul, procesul sau dovada
+- [[SRC-023-modele-de-brief-de-agentie|SRC-023]] — Modele de brief de agenție (Euro RSCG, Get/To/By, Naked, Red Cell, Singleton Ogilvy & Mather)
+<!-- backlinks:end -->

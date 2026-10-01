@@ -44,10 +44,19 @@ Filmul Mercedes-Benz despre tehnologia digitală de iluminare folosește metafor
 
 ## Legături
 
-- **vezi** [[STO-1113]] — metafora traduce noul în ceva familiar.
-- **aplicare** [[STO-1107]] — metafora definită la început leagă micro-poveștile distribuite pe platforme diferite.
-- **vezi** [[STO-1109]] — fiecare strat multimedia exprimă aceeași metaforă, fără redundanță.
+- **vezi** [[STO-1113-un-produs-nou-se-povesteste-prin-ceva-familiar|STO-1113]] — metafora traduce noul în ceva familiar.
+- **aplicare** [[STO-1107-strategia-all-in-one-produci-o-data-distribui-fragmentat-in|STO-1107]] — metafora definită la început leagă micro-poveștile distribuite pe platforme diferite.
+- **vezi** [[STO-1109-fiecare-strat-multimedia-trebuie-sa-adauge-sens-nou-nu-sa|STO-1109]] — fiecare strat multimedia exprimă aceeași metaforă, fără redundanță.
 
 ## Surse
 
-- [[SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 5.2.2, p. 242–244
+- [[SRC-034-social-media-storytelling|SRC-034]] Mueller & Rajaram, *Social Media Storytelling*, cap. 5.2.2, p. 242–244
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[STO-1107-strategia-all-in-one-produci-o-data-distribui-fragmentat-in|STO-1107]] _vezi_ — Strategia all-in-one: produci o dată, distribui fragmentat în timp
+- [[STO-1109-fiecare-strat-multimedia-trebuie-sa-adauge-sens-nou-nu-sa|STO-1109]] _vezi_ — Fiecare strat multimedia trebuie să adauge sens nou, nu să repete
+- [[STO-1113-un-produs-nou-se-povesteste-prin-ceva-familiar|STO-1113]] _vezi_ — Un produs nou se povestește prin ceva familiar
+- [[SRC-034-social-media-storytelling|SRC-034]] — Social Media Storytelling
+<!-- backlinks:end -->

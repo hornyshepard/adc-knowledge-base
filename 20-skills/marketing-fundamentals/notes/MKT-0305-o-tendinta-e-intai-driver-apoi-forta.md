@@ -47,10 +47,21 @@ Ilustrare din 2026: AI-ul generativ în producția de conținut a fost un driver
 
 ## Legături
 
-- **fundament** [[MKT-0306]] — tendințele se identifică întâi pe niveluri (mega, macro, micro).
-- **vezi** [[MKT-0308]] — curba de adopție 5/15/80 arată când driverul devine forță.
-- **vezi** [[MKT-0311]] — driverele cer inovare, forțele cer transformare.
+- **fundament** [[MKT-0306-trendurile-se-citesc-pe-trei-niveluri-mega-macro-micro|MKT-0306]] — tendințele se identifică întâi pe niveluri (mega, macro, micro).
+- **vezi** [[MKT-0308-regula-80-15-5-best-industry-leading-practice|MKT-0308]] — curba de adopție 5/15/80 arată când driverul devine forță.
+- **vezi** [[MKT-0311-transformarea-modifica-ce-exista-inovarea-adauga|MKT-0311]] — driverele cer inovare, forțele cer transformare.
 
 ## Surse
 
-- [[SRC-007]] H. von Scheel et al., *Strategy in the Age of Disruption*, cap. 4, p. 88; cap. 5, p. 167, 211; cap. 7, p. 254
+- [[SRC-007-strategy-in-the-age-of-disruption|SRC-007]] H. von Scheel et al., *Strategy in the Age of Disruption*, cap. 4, p. 88; cap. 5, p. 167, 211; cap. 7, p. 254
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[MKT-0304-pozitionarea-strategica-outside-in-si-inside-out|MKT-0304]] _fundament_ — Poziționarea strategică pornește din două priviri asupra lanțului valoric: din afară spre interior și din interior spre afară
+- [[MKT-0306-trendurile-se-citesc-pe-trei-niveluri-mega-macro-micro|MKT-0306]] _vezi_ — Trendurile se citesc pe trei niveluri: megatrend (10–15 ani), macrotrend (5–10 ani), microtrend (3–5 ani)
+- [[MKT-0308-regula-80-15-5-best-industry-leading-practice|MKT-0308]] _extinde_ — Regula 80-15-5: cele mai multe activități trebuie doar să fie la standard; foarte puține trebuie să fie unice
+- [[MKT-0309-patru-contexte-de-decizie-sub-incertitudine|MKT-0309]] _vezi_ — Contextul decide metoda: patru tipuri de cunoscut și necunoscut cer patru moduri de a decide
+- [[MKT-0311-transformarea-modifica-ce-exista-inovarea-adauga|MKT-0311]] _aplicare_ — Transformarea modifică ce există, inovarea adaugă ceva nou: diagnostichezi lanțul problemei sau al obiectivului înainte să alegi
+- [[SRC-007-strategy-in-the-age-of-disruption|SRC-007]] — Strategy in the Age of Disruption: A Handbook to Anticipate Change and Make Smart Decisions
+<!-- backlinks:end -->

@@ -48,10 +48,19 @@ Glossier s-a născut din blogul „Into the Gloss" al lui Emily Weiss; ambasador
 
 ## Legături
 
-- **fundament** [[SOC-1122]] — programul instituționalizează principiul relațiilor lungi.
-- **vezi** [[STO-1112]] — ambasadorii obișnuiți produc UGC mai autentic decât creatorii profesioniști.
-- **vezi** [[SOC-1124]] — angajații pot deveni ambasadori interni.
+- **fundament** [[SOC-1122-parteneriatele-lungi-cu-creatori-bat-campaniile-punctuale|SOC-1122]] — programul instituționalizează principiul relațiilor lungi.
+- **vezi** [[STO-1112-ugc-este-continut-castigat-pe-care-brandul-nu-il-poate|STO-1112]] — ambasadorii obișnuiți produc UGC mai autentic decât creatorii profesioniști.
+- **vezi** [[SOC-1124-in-b2b-influenta-vine-din-angajati-si-thought-leaders|SOC-1124]] — angajații pot deveni ambasadori interni.
 
 ## Surse
 
-- [[SRC-035]] Glenister, *Influencer Marketing Strategy*, cap. 7, p. 216–225
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] Glenister, *Influencer Marketing Strategy*, cap. 7, p. 216–225
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[SOC-1122-parteneriatele-lungi-cu-creatori-bat-campaniile-punctuale|SOC-1122]] _aplicare_ — Parteneriatele lungi cu creatori bat campaniile punctuale
+- [[SOC-1124-in-b2b-influenta-vine-din-angajati-si-thought-leaders|SOC-1124]] _vezi_ — În B2B influența vine din angajați și thought leaders
+- [[STO-1112-ugc-este-continut-castigat-pe-care-brandul-nu-il-poate|STO-1112]] _vezi_ — UGC este conținut câștigat pe care brandul nu îl poate controla
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] — Influencer Marketing Strategy: How influencers can help grow your business
+<!-- backlinks:end -->

@@ -48,10 +48,17 @@ O agenție Milavsky, evaluată cu cele mai bune note de un client petrolier, a f
 
 ## Legături
 
-- **vezi** [[CPY-0606]] — evaluarea disciplinată a ideilor e prima apărare împotriva erodării.
-- **vezi** [[PIT-0601]] — recomandarea cu parti-pris clar rezistă mai bine la presiunea de a „media" ideea.
-- **vezi** [[ADV-0625]] — campania Jell-O a fost aproape oprită de un singur decident.
+- **vezi** [[CPY-0606-ideea-pe-hartie-trece-sase-teste-inainte-de-productie|CPY-0606]] — evaluarea disciplinată a ideilor e prima apărare împotriva erodării.
+- **vezi** [[PIT-0601-recomandarea-de-agentie-arata-alegerea-nu-drumul|PIT-0601]] — recomandarea cu parti-pris clar rezistă mai bine la presiunea de a „media" ideea.
+- **vezi** [[ADV-0625-jell-o-cosby-campania-cu-scor-slab-care-a-tinut-20-de-ani|ADV-0625]] — campania Jell-O a fost aproape oprită de un singur decident.
 
 ## Surse
 
-- [[SRC-021]] Barry Milavsky, *Overcome AD-versity*, cap. 7 (p. 122–124), cap. 8 (p. 125–135), cap. 10 (p. 150–151)
+- [[SRC-021-overcome-ad-versity|SRC-021]] Barry Milavsky, *Overcome AD-versity*, cap. 7 (p. 122–124), cap. 8 (p. 125–135), cap. 10 (p. 150–151)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0606-ideea-pe-hartie-trece-sase-teste-inainte-de-productie|CPY-0606]] _vezi_ — O idee de reclamă se verifică pe hârtie, înainte de producție — brand clar, provocatoare, clară, memorabilă, unică, accesibilă ca buget
+- [[SRC-021-overcome-ad-versity|SRC-021]] — Overcome AD-versity: How to Put Persuasion Power in Advertising
+<!-- backlinks:end -->

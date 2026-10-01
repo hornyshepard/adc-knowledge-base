@@ -50,10 +50,18 @@ Dans le Noir? — numele cu semn de întrebare întreabă cine e de fapt „în 
 
 ## Legături
 
-- **fundament** [[INS-0445]] — hiperrealitatea și consumul experiențial postmodern.
-- **vezi** [[INS-0438]] — mediul de cumpărare activează scopuri și norme.
-- **vezi** [[INS-0423]] — experiența directă creează atitudini puternice.
+- **fundament** [[INS-0445-sapte-trasaturi-ale-consumului-postmodern|INS-0445]] — hiperrealitatea și consumul experiențial postmodern.
+- **vezi** [[INS-0438-mediul-activeaza-scopuri-si-norme-fara-constiinta|INS-0438]] — mediul de cumpărare activează scopuri și norme.
+- **vezi** [[INS-0423-experienta-directa-bate-reclama|INS-0423]] — experiența directă creează atitudini puternice.
 
 ## Surse
 
-- [[SRC-013]] Parsons, Maclaran & Chatzidakis, *Contemporary Issues in Marketing and Consumer Behaviour*, cap. 9, p. 143-163; cap. 7, p. 114-115
+- [[SRC-013-contemporary-issues-in-marketing-and-consumer-behaviour|SRC-013]] Parsons, Maclaran & Chatzidakis, *Contemporary Issues in Marketing and Consumer Behaviour*, cap. 9, p. 143-163; cap. 7, p. 114-115
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[INS-0423-experienta-directa-bate-reclama|INS-0423]] _aplicare_ — Atitudinile formate prin experiență directă prezic comportamentul mai bine decât cele formate din reclame
+- [[INS-0445-sapte-trasaturi-ale-consumului-postmodern|INS-0445]] _vezi_ — Consumul postmodern are șapte trăsături — de la hiperrealitate și nostalgie la pastișă și „rebeliunea care se vinde"
+- [[SRC-013-contemporary-issues-in-marketing-and-consumer-behaviour|SRC-013]] — Contemporary Issues in Marketing and Consumer Behaviour (2nd edition)
+<!-- backlinks:end -->

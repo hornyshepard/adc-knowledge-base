@@ -45,12 +45,26 @@ Scotts Miracle-Gro invită fanii de pe Facebook (social) să se înscrie la news
 
 ## Legături
 
-- **vezi** [[SOC-0903]] — notorietatea pe social se construiește tocmai prin cele trei tipuri de media.
-- **aplicare** [[STO-0903]] — distribuția în content marketing urmează ordinea owned → earned → paid.
-- **vezi** [[DIG-0930]] — publicitatea nativă e paid media care împrumută forma celor owned.
-- **vezi** [[ADV-0901]] — Share a Coke a transformat media plătite și ambalajul în media câștigate.
+- **vezi** [[SOC-0903-social-media-serveste-sase-obiective-fiecare-cu-alt-kpi|SOC-0903]] — notorietatea pe social se construiește tocmai prin cele trei tipuri de media.
+- **aplicare** [[STO-0903-strategia-de-content-marketing-are-patru-pasi|STO-0903]] — distribuția în content marketing urmează ordinea owned → earned → paid.
+- **vezi** [[DIG-0930-publicitatea-nativa-imprumuta-forma-mediului|DIG-0930]] — publicitatea nativă e paid media care împrumută forma celor owned.
+- **vezi** [[ADV-0901-share-a-coke-personalizarea-ambalajului-a-devenit-continut-social|ADV-0901]] — Share a Coke a transformat media plătite și ambalajul în media câștigate.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 9, p. 253-255; cap. 12, p. 342-344
-- [[SRC-030]] K. Connors, *Advanced Digital Marketing Strategies*, cap. 10
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 9, p. 253-255; cap. 12, p. 342-344
+- [[SRC-030-digital-marketing-strategies|SRC-030]] K. Connors, *Advanced Digital Marketing Strategies*, cap. 10
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0901-share-a-coke-personalizarea-ambalajului-a-devenit-continut-social|ADV-0901]] _exemplu_ — Share a Coke — personalizarea ambalajului a devenit conținut social, susținut de o comunicare integrată
+- [[DIG-0915-sem-are-doua-fete-seo-construieste-ppc-cumpara-vizibilitate|DIG-0915]] _vezi_ — SEM are două fețe — SEO construiește vizibilitate în timp, PPC o cumpără imediat — și funcționează cel mai bine împreună
+- [[DIG-0930-publicitatea-nativa-imprumuta-forma-mediului|DIG-0930]] _vezi_ — Publicitatea nativă împrumută forma, tonul și funcția mediului, dar trebuie marcată clar ca reclamă
+- [[MKT-0901-pipe-sau-platforma-valoare-in-lant-sau-co-creata-in-retea|MKT-0901]] _vezi_ — Pipe sau platformă — valoarea se produce în lanț sau se co-creează într-o rețea cu efecte de rețea
+- [[SOC-0903-social-media-serveste-sase-obiective-fiecare-cu-alt-kpi|SOC-0903]] _aplicare_ — Social media servește șase obiective distincte, iar fiecare cere alt KPI
+- [[STO-0901-content-marketingul-este-always-on-campania-doar-il-puncteaza|STO-0901]] _vezi_ — Content marketingul este „always on”, iar campania doar îl punctează
+- [[STO-0903-strategia-de-content-marketing-are-patru-pasi|STO-0903]] _aplicare_ — Strategia de content marketing are patru pași — creezi, dezvolți audiența, distribui, evaluezi
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+- [[SRC-030-digital-marketing-strategies|SRC-030]] — Advanced Digital Marketing Strategies: Mastering SEO, Social Media, Content Marketing, and AI for Maximum Online Growth
+<!-- backlinks:end -->

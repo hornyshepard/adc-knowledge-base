@@ -46,11 +46,26 @@ Aceeași reclamă la mașini e ignorată de un student fără permis (etapa 1), 
 
 ## Legături
 
-- **extinde** [[INS-0402]] — detaliază ce se întâmplă în etapa preatentivă.
-- **vezi** [[INS-0404]] — proprietățile stimulului care deschid poarta atenției focale.
-- **vezi** [[INS-0408]] — etapa de înțelegere și efectul de adevăr.
-- **alternativa** [[ADV-0401]] — ierarhiile de efecte propun tot o secvență, dar fixă și ignorând implicarea.
+- **extinde** [[INS-0402-expunerea-incidentala-influenteaza-fara-atentie|INS-0402]] — detaliază ce se întâmplă în etapa preatentivă.
+- **vezi** [[INS-0404-salienta-vividness-noutate-capteaza-atentia|INS-0404]] — proprietățile stimulului care deschid poarta atenției focale.
+- **vezi** [[INS-0408-efectul-de-adevar-intai-credem-apoi-corectam|INS-0408]] — etapa de înțelegere și efectul de adevăr.
+- **alternativa** [[ADV-0401-ierarhiile-de-efecte-nu-au-suport-empiric|ADV-0401]] — ierarhiile de efecte propun tot o secvență, dar fixă și ignorând implicarea.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising* (ed. 3), cap. 2, p. 53-55, 85-87
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising* (ed. 3), cap. 2, p. 53-55, 85-87
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0401-ierarhiile-de-efecte-nu-au-suport-empiric|ADV-0401]] _alternativa_ — Ierarhiile de efecte (AIDA, Lavidge-Steiner, DAGMAR) sunt liste utile, dar nu descriu cum funcționează publicitatea
+- [[ADV-0402-grilele-fcb-si-rossiter-percy|ADV-0402]] _fundament_ — Grilele FCB și Rossiter-Percy combină implicarea cu tipul de motivație, dar tratează greșit implicarea ca atribut al produsului
+- [[INS-0402-expunerea-incidentala-influenteaza-fara-atentie|INS-0402]] _fundament_ — Expunerea incidentală la reclame influențează preferința chiar fără atenție conștientă
+- [[INS-0404-salienta-vividness-noutate-capteaza-atentia|INS-0404]] _fundament_ — Saliența, vividness-ul și noutatea captează atenția involuntar, dar saliența dispare când toți copiază
+- [[INS-0406-pionierul-stabileste-agenda-atributelor|INS-0406]] _fundament_ — Pionierul unei categorii câștigă pentru că stabilește atributele după care sunt judecați toți ceilalți
+- [[INS-0408-efectul-de-adevar-intai-credem-apoi-corectam|INS-0408]] _fundament_ — Efectul de adevăr — mai întâi credem, abia apoi (poate) corectăm
+- [[INS-0409-mesajul-potrivit-cu-schema-de-sine-e-citit-atent|INS-0409]] _fundament_ — Un mesaj încadrat pe măsura imaginii de sine a cititorului e procesat mai atent
+- [[INS-0410-cere-zece-motive-si-convingi-mai-putin|INS-0410]] _fundament_ — Cere-i clientului zece motive și îl convingi mai puțin decât cu unul (ușurința reamintirii)
+- [[INS-0430-persuasiunea-pe-ruta-centrala-sau-periferica|INS-0430]] _fundament_ — Persuasiunea urmează ruta centrală sau periferică, în funcție de motivația și capacitatea de a procesa (ELM și HSM)
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

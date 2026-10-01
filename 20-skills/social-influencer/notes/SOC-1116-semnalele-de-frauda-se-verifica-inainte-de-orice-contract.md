@@ -49,10 +49,18 @@ Un retailer de modă îi spunea fondatoarei Seen Connects, Sedge Beswick, că in
 
 ## Legături
 
-- **vezi** [[SOC-1115]] — rezonanța reală se verifică împotriva fraudei.
-- **vezi** [[SOC-1107]] — chiar și fără fraudă, multe like-uri nu privesc produsul.
-- **aplicare** [[SOC-1119]] — rezultatele verificării intră în negociere și contract.
+- **vezi** [[SOC-1115-cei-patru-r-ai-influentei-relevanta-rezonanta-referinta|SOC-1115]] — rezonanța reală se verifică împotriva fraudei.
+- **vezi** [[SOC-1107-atentia-la-un-post-de-influencer-se-imparte-pe-trei-niveluri|SOC-1107]] — chiar și fără fraudă, multe like-uri nu privesc produsul.
+- **aplicare** [[SOC-1119-negocierea-cu-un-creator-are-variabile-multiple-iar|SOC-1119]] — rezultatele verificării intră în negociere și contract.
 
 ## Surse
 
-- [[SRC-035]] Glenister, *Influencer Marketing Strategy*, cap. 1, p. 66–67; cap. 3, p. 117–118; cap. 4, p. 154–161; cap. 6, p. 202–203
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] Glenister, *Influencer Marketing Strategy*, cap. 1, p. 66–67; cap. 3, p. 117–118; cap. 4, p. 154–161; cap. 6, p. 202–203
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[SOC-1115-cei-patru-r-ai-influentei-relevanta-rezonanta-referinta|SOC-1115]] _vezi_ — Cei patru R ai influenței: relevanță, rezonanță, referință, reach
+- [[SOC-1125-engagement-rate-cpe-si-cpm-aritmetica-de-baza-a-unei|SOC-1125]] _vezi_ — Engagement rate, CPE și CPM: aritmetica de bază a unei campanii cu influenceri
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] — Influencer Marketing Strategy: How influencers can help grow your business
+<!-- backlinks:end -->

@@ -53,10 +53,18 @@ Cazurile din carte: programul ReEntry al Interface (covoare vechi colectate, sep
 
 ## Legături
 
-- **fundament** [[MKT-0320]] — designul circular aplică marketingul verde și eco-eficiența.
-- **vezi** [[MKT-0323]] — termenii vagi de pe ambalaj sunt o sursă clasică de greenwashing.
-- **vezi** [[MKT-0322]] — rata de reciclare și procentul de material reciclat sunt indicatori măsurabili.
+- **fundament** [[MKT-0320-marketing-sustenabil-verde-eco-eficienta-csr-cause-nu-sunt-sinonime|MKT-0320]] — designul circular aplică marketingul verde și eco-eficiența.
+- **vezi** [[MKT-0323-greenwashing-afirmatia-verde-trebuie-dovedita|MKT-0323]] — termenii vagi de pe ambalaj sunt o sursă clasică de greenwashing.
+- **vezi** [[MKT-0322-impactul-sustenabil-se-masoara-pe-patru-familii-de-indicatori|MKT-0322]] — rata de reciclare și procentul de material reciclat sunt indicatori măsurabili.
 
 ## Surse
 
-- [[SRC-011]] Maria Cesarini Viturino, *Sustainable Marketing*, cap. 2 (Nike, IKEA) și cap. 3
+- [[SRC-011-sustainable-marketing-viturino|SRC-011]] Maria Cesarini Viturino, *Sustainable Marketing*, cap. 2 (Nike, IKEA) și cap. 3
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[MKT-0320-marketing-sustenabil-verde-eco-eficienta-csr-cause-nu-sunt-sinonime|MKT-0320]] _vezi_ — Marketingul sustenabil, marketingul verde, eco-eficiența, CSR și cause marketing nu sunt sinonime
+- [[MKT-0322-impactul-sustenabil-se-masoara-pe-patru-familii-de-indicatori|MKT-0322]] _vezi_ — Impactul sustenabil se măsoară pe patru familii de indicatori, iar credibilitatea vine din auditul extern
+- [[SRC-011-sustainable-marketing-viturino|SRC-011]] — Sustainable Marketing: Responsible Practices for the Future of Marketing
+<!-- backlinks:end -->

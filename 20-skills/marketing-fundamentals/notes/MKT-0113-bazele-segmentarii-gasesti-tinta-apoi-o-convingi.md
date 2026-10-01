@@ -52,12 +52,23 @@ Dove a testat panouri cu femei „reale" și căsuțe „flawed?/flawless?". 1,5
 
 ## Legături
 
-- **fundament** [[MKT-0112]] — metodele de segmentare sunt pasul 2 din STP.
-- **extinde** [[MKT-0114]] — segmentele descrise sunt apoi evaluate și selectate.
-- **vezi** [[INS-0108]] — stilul de viață și imaginea de sine sunt și factori psihologici ai deciziei.
-- **vezi** [[MKT-0110]] — cohortele generaționale din macromediu sunt o bază demografică.
+- **fundament** [[MKT-0112-stp-in-cinci-pasi|MKT-0112]] — metodele de segmentare sunt pasul 2 din STP.
+- **extinde** [[MKT-0114-cinci-criterii-si-patru-strategii-de-targetare|MKT-0114]] — segmentele descrise sunt apoi evaluate și selectate.
+- **vezi** [[INS-0108-factori-psihologici-sociali-situationali-si-mix|INS-0108]] — stilul de viață și imaginea de sine sunt și factori psihologici ai deciziei.
+- **vezi** [[MKT-0110-mediul-de-marketing-imediat-si-macromediul-cdstep|MKT-0110]] — cohortele generaționale din macromediu sunt o bază demografică.
 
 ## Surse
 
-- [[SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 9, p. 281-290 (Exhibit 9.2, 9.3, 9.4)
-- [[SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 3, p. 73-91 (§3.1-3.5)
+- [[SRC-001-marketing-grewal-levy|SRC-001]] Dhruv Grewal, Michael Levy, *Marketing*, ed. 8, cap. 9, p. 281-290 (Exhibit 9.2, 9.3, 9.4)
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] John Ericson A. Policarpio, *Principles of Marketing*, cap. 3, p. 73-91 (§3.1-3.5)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[INS-0108-factori-psihologici-sociali-situationali-si-mix|INS-0108]] _vezi_ — Decizia de cumpărare e modelată de patru familii de factori — psihologici, sociali, situaționali și mixul de marketing
+- [[MKT-0110-mediul-de-marketing-imediat-si-macromediul-cdstep|MKT-0110]] _aplicare_ — Mediul de marketing are două cercuri — mediul imediat și macromediul CDSTEP (varianta Grewal-Levy a PESTEL)
+- [[MKT-0112-stp-in-cinci-pasi|MKT-0112]] _extinde_ — STP se face în cinci pași — strategie, segmentare, atractivitate, alegerea țintei, poziționare
+- [[MKT-0114-cinci-criterii-si-patru-strategii-de-targetare|MKT-0114]] _fundament_ — Un segment merită urmărit dacă trece cinci criterii; apoi alegi una dintre patru strategii de targetare
+- [[SRC-001-marketing-grewal-levy|SRC-001]] — Marketing (Eighth Edition)
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] — Principles of Marketing
+<!-- backlinks:end -->

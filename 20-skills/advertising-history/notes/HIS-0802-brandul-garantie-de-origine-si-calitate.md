@@ -42,12 +42,22 @@ Charles E. Hires (1893) a mers direct la comercianți cu argumente pentru extrac
 
 ## Legături
 
-- **fundament** [[HIS-0801]] — definiția largă face din semnul olarului o formă de publicitate.
-- **extinde** [[HIS-0803]] — emblemele vizuale au dominat cât timp cumpărătorii nu citeau.
-- **exemplu** [[HIS-0821]] — personajele de brand sunt o formă târzie a semnului de origine.
-- **vezi** [[BRD]] — strategia de brand modernă pornește de aici.
+- **fundament** [[HIS-0801-publicitatea-este-orice-comunicare-promotionala|HIS-0801]] — definiția largă face din semnul olarului o formă de publicitate.
+- **extinde** [[HIS-0803-reclama-pentru-analfabeti-imagine-simbol-si-voce|HIS-0803]] — emblemele vizuale au dominat cât timp cumpărătorii nu citeau.
+- **exemplu** [[HIS-0821-personajele-inventate-nu-gresesc-celebritatile-da|HIS-0821]] — personajele de brand sunt o formă târzie a semnului de origine.
+- **vezi** [[20-skills/brand-strategy/SKILL|BRD]] — strategia de brand modernă pornește de aici.
 
 ## Surse
 
-- [[SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 1, p. 13–18; cap. 3, p. 34–37; cap. 4, p. 61–62; cap. 6, p. 100–106
-- [[SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Uneeda Biscuit” și „Smith Brothers Cough Drops”
+- [[SRC-027-a-history-of-advertising|SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 1, p. 13–18; cap. 3, p. 34–37; cap. 4, p. 61–62; cap. 6, p. 100–106
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] Julian L. Watkins, *The 100 Greatest Advertisements*, intrările „Uneeda Biscuit” și „Smith Brothers Cough Drops”
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[HIS-0801-publicitatea-este-orice-comunicare-promotionala|HIS-0801]] _extinde_ — Publicitatea este orice comunicare promoțională — de aceea istoria ei începe cu mult înainte de tipar
+- [[HIS-0803-reclama-pentru-analfabeti-imagine-simbol-si-voce|HIS-0803]] _vezi_ — Cât timp oamenii nu știau să citească, reclama a fost imagine, simbol și voce
+- [[HIS-0821-personajele-inventate-nu-gresesc-celebritatile-da|HIS-0821]] _extinde_ — Personajele inventate nu greșesc niciodată; celebritățile da
+- [[SRC-027-a-history-of-advertising|SRC-027]] — A History of Advertising: The First 300,000 Years
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] — The 100 Greatest Advertisements 1852–1958: Who Wrote Them and What They Did
+<!-- backlinks:end -->

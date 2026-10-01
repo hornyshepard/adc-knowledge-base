@@ -39,10 +39,19 @@ Astfel se evită două greșeli simetrice: **sub-livrarea** unde contează și *
 
 ## Legături
 
-- **fundament** [[INS-1304]] — motivul pentru care nu se cer ratinguri pe fiecare serviciu.
-- **vezi** [[ADV-1301]] — aceeași metodă aplicată mesajelor.
-- **vezi** [[AIM-1310]] — familia metodelor de trade-off.
+- **fundament** [[INS-1304-ratingurile-de-importanta-spun-ca-totul-conteaza|INS-1304]] — motivul pentru care nu se cer ratinguri pe fiecare serviciu.
+- **vezi** [[ADV-1301-testarea-conjoint-a-mesajelor-bate-testul-a-b|ADV-1301]] — aceeași metodă aplicată mesajelor.
+- **vezi** [[AIM-1310-metodele-de-trade-off-cand-folosesti-fiecare|AIM-1310]] — familia metodelor de trade-off.
 
 ## Surse
 
-- [[SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, cap. 5
+- [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]] Steven Struhl, *Artificial Intelligence Marketing and Predicting Consumer Choice*, cap. 5
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-1301-testarea-conjoint-a-mesajelor-bate-testul-a-b|ADV-1301]] _vezi_ — Elementele unei reclame se pot testa ca un experiment — conjoint-ul de mesaj bate testul A/B
+- [[ADV-1302-ierarhia-efectelor-testata-cu-date-alta-ordine|ADV-1302]] _aplicare_ — Testată cu date, ierarhia efectelor a ieșit într-o altă ordine decât teoria — de la „ce fac ei" la „ce fac eu"
+- [[INS-1304-ratingurile-de-importanta-spun-ca-totul-conteaza|INS-1304]] _vezi_ — Întrebați direct ce contează, oamenii spun „totul" — ratingurile de importanță nu prezic comportamentul
+- [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]] — Artificial Intelligence Marketing and Predicting Consumer Choice: An Overview of Tools and Techniques
+<!-- backlinks:end -->

@@ -56,10 +56,20 @@ Formula propusă pentru chatul de suport, „Vorbiți cu asistentul nostru AI. C
 
 ## Legături
 
-- **extinde** [[AIM-1305]] — regulile de date, completate aici cu transparența despre conținut.
-- **aplicare** [[AIM-1304]] — chatbotul care se prezintă ca AI și oferă ieșire spre om.
-- **vezi** [[CPY-1301]] — revizuirea umană pe care transparența o face vizibilă.
+- **extinde** [[AIM-1305-etica-datelor-consimtamant-acces-transparenta-minimizare|AIM-1305]] — regulile de date, completate aici cu transparența despre conținut.
+- **aplicare** [[AIM-1304-chatbotul-bun-stie-cand-sa-predea-unui-om|AIM-1304]] — chatbotul care se prezintă ca AI și oferă ieșire spre om.
+- **vezi** [[CPY-1301-vocea-brandului-in-continutul-generat-cu-ai|CPY-1301]] — revizuirea umană pe care transparența o face vizibilă.
 
 ## Surse
 
-- [[SRC-039]] Eldar Najafov, *ChatGPT for Marketing*, cap. 2, p. 29–31; cap. 3, p. 57–61; cap. 6, p. 126–127
+- [[SRC-039-chatgpt-for-marketing|SRC-039]] Eldar Najafov, *ChatGPT for Marketing*, cap. 2, p. 29–31; cap. 3, p. 57–61; cap. 6, p. 126–127
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-1305-etica-datelor-consimtamant-acces-transparenta-minimizare|AIM-1305]] _extinde_ — Etica datelor în marketingul cu AI are patru reguli de bază — consimțământ, acces și ștergere, transparență, minimizare
+- [[CPY-1301-vocea-brandului-in-continutul-generat-cu-ai|CPY-1301]] _vezi_ — Vocea brandului nu se obține din prompt, ci dintr-un ciclu exemple → ciornă → editare umană → feedback → control final
+- [[SOC-1301-ai-verifica-autenticitatea-audientei-influencerului|SOC-1301]] _vezi_ — Cu AI, un influencer se alege după autenticitatea și potrivirea audienței, nu după numărul de urmăritori
+- [[STO-1304-reputatia-se-gestioneaza-in-planul-editorial|STO-1304]] _vezi_ — Reputația se gestionează din planul editorial — audit de risc pe piloni, aliniere cu business-ul, monitorizare, aprobare dublă
+- [[SRC-039-chatgpt-for-marketing|SRC-039]] — ChatGPT for Marketing: Learn Practical Applications of ChatGPT for Marketing
+<!-- backlinks:end -->

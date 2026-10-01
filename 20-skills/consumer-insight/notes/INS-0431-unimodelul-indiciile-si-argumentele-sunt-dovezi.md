@@ -49,10 +49,17 @@ Un televizor „singurul din clasa lui recomandat de o revistă de teste respect
 
 ## Legături
 
-- **contrazice** [[INS-0430]] — contestă distincția de natură dintre cele două rute.
-- **vezi** [[INS-0424]] — euristicile de brand, țară și preț ca dovezi „dacă-atunci".
-- **vezi** [[INS-0415]] — evaluarea teoriilor după predicțiile noi pe care le generează.
+- **contrazice** [[INS-0430-persuasiunea-pe-ruta-centrala-sau-periferica|INS-0430]] — contestă distincția de natură dintre cele două rute.
+- **vezi** [[INS-0424-brandul-tara-si-pretul-schimba-gustul|INS-0424]] — euristicile de brand, țară și preț ca dovezi „dacă-atunci".
+- **vezi** [[INS-0415-criza-replicarii-cum-citim-studiile|INS-0415]] — evaluarea teoriilor după predicțiile noi pe care le generează.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 5, p. 219-221, 253
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 5, p. 219-221, 253
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[INS-0430-persuasiunea-pe-ruta-centrala-sau-periferica|INS-0430]] _contrazice_ — Persuasiunea urmează ruta centrală sau periferică, în funcție de motivația și capacitatea de a procesa (ELM și HSM)
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

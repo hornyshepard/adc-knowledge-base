@@ -44,10 +44,21 @@ BlackBerry și-a refolosit vechea reputație de telefoane sigure pentru a se rep
 
 ## Legături
 
-- **vezi** [[DIG-1014]] — cum se construiește componenta de credibilitate.
-- **vezi** [[BRD-1001]] — MACE arată ce face un brand digital să dureze.
-- **fundament** [[DIG-1004]] — propunerea de valoare digitală e punctul de plecare.
+- **vezi** [[DIG-1014-increderea-digitala-cinci-parghii|DIG-1014]] — cum se construiește componenta de credibilitate.
+- **vezi** [[BRD-1001-cadrul-mace-brandul-digital-durabil|BRD-1001]] — MACE arată ce face un brand digital să dureze.
+- **fundament** [[DIG-1004-propunerea-de-valoare-digitala-formula-pentru-tinta-brandul|DIG-1004]] — propunerea de valoare digitală e punctul de plecare.
 
 ## Surse
 
-- [[SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 2 (p. 69) și cap. 10 (p. 345–350)
+- [[SRC-031-digital-marketing-manual|SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 2 (p. 69) și cap. 10 (p. 345–350)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-1001-cadrul-mace-brandul-digital-durabil|BRD-1001]] _extinde_ — Cadrul MACE (Collis & Collis) — un brand digital durează dacă oferă măiestrie, accesibilitate, cadență și „captivare"
+- [[DIG-1004-propunerea-de-valoare-digitala-formula-pentru-tinta-brandul|DIG-1004]] _vezi_ — Propunerea de valoare digitală se scrie după formula „Pentru [țintă], [brandul] este [ce] care [beneficiu și diferență]"
+- [[DIG-1014-increderea-digitala-cinci-parghii|DIG-1014]] _extinde_ — Încrederea digitală se construiește cu cinci pârghii — angajament credibil, consecvență, transparență, validare de la terți și simboluri de încredere
+- [[DIG-1016-promisiunea-de-confidentialitate-este-un-claim-publicitar|DIG-1016]] _vezi_ — Orice promisiune despre confidențialitate este un claim publicitar — poate diferenția brandul, dar se judecă și se sancționează ca orice afirmație
+- [[SOC-1001-recenzia-negativa-raspuns-rapid-empatic-fara-stergere|SOC-1001]] _vezi_ — La o recenzie negativă, brandul răspunde repede, empatic și profesionist, mută rezolvarea în privat și nu șterge critica
+- [[SRC-031-digital-marketing-manual|SRC-031]] — Digital Marketing
+<!-- backlinks:end -->

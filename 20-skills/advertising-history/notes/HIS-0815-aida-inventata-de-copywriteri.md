@@ -40,7 +40,7 @@ Lecția istorică: modelele de efect au început ca liste de verificare pentru s
 
 ## Exemplu
 
-Scott susținea că omul raționează rar, deci reclamele ar trebui să lucreze cu emoția, exact pe dos față de moda reason-why a lui Kennedy și Hopkins din aceeași perioadă (vezi [[HIS-0810]]).
+Scott susținea că omul raționează rar, deci reclamele ar trebui să lucreze cu emoția, exact pe dos față de moda reason-why a lui Kennedy și Hopkins din aceeași perioadă (vezi [[HIS-0810-genealogia-stilurilor-de-copy|HIS-0810]]).
 
 ## Întrebări
 
@@ -49,10 +49,18 @@ Scott susținea că omul raționează rar, deci reclamele ar trebui să lucreze 
 
 ## Legături
 
-- **vezi** [[HIS-0812]] — modelele sunt prima încercare de a face din reclamă o știință.
-- **aplicare** [[CPY-0807]] — metoda lui James Webb Young începe tot cu atenția cititorului precis.
-- **vezi** [[ADV]] — modelele de efect în strategia de publicitate.
+- **vezi** [[HIS-0812-publicitatea-stiinta-sau-arta|HIS-0812]] — modelele sunt prima încercare de a face din reclamă o știință.
+- **aplicare** [[CPY-0807-metoda-james-webb-young-un-om-anume|CPY-0807]] — metoda lui James Webb Young începe tot cu atenția cititorului precis.
+- **vezi** [[20-skills/advertising-strategy/SKILL|ADV]] — modelele de efect în strategia de publicitate.
 
 ## Surse
 
-- [[SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 11, p. 237–238 (cu cap. 10, p. 194, pentru Walter Dill Scott)
+- [[SRC-027-a-history-of-advertising|SRC-027]] Jef I. Richards, *A History of Advertising*, cap. 11, p. 237–238 (cu cap. 10, p. 194, pentru Walter Dill Scott)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0807-metoda-james-webb-young-un-om-anume|CPY-0807]] _fundament_ — Metoda lui James Webb Young — un om anume, o propunere clară și punctul în care se întâlnesc
+- [[HIS-0812-publicitatea-stiinta-sau-arta|HIS-0812]] _vezi_ — Publicitatea este știință sau artă? — dezbaterea care a împărțit secolul XX
+- [[SRC-027-a-history-of-advertising|SRC-027]] — A History of Advertising: The First 300,000 Years
+<!-- backlinks:end -->

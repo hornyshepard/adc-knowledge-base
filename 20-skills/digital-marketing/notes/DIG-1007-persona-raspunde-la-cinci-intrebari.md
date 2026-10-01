@@ -42,10 +42,19 @@ Un om care locuiește la bloc nici nu ia în calcul o mașină electrică, pentr
 
 ## Legături
 
-- **fundament** [[DIG-1006]] — întâi distincția dintre persona și grupul țintă.
-- **vezi** [[DIG-1008]] — subsetul minim de informații pentru a porni campania.
-- **aplicare** [[DIG-1025]] — câștigurile și durerile se mapează apoi pe fazele journey-ului.
+- **fundament** [[DIG-1006-buyer-persona-nu-este-grupul-tinta|DIG-1006]] — întâi distincția dintre persona și grupul țintă.
+- **vezi** [[DIG-1008-minimum-viable-persona-pornesti-cu-minimul|DIG-1008]] — subsetul minim de informații pentru a porni campania.
+- **aplicare** [[DIG-1025-customer-journey-in-cinci-pasi-si-rolul-implicarii|DIG-1025]] — câștigurile și durerile se mapează apoi pe fazele journey-ului.
 
 ## Surse
 
-- [[SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 2.2.2.2 (p. 48–53)
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 2.2.2.2 (p. 48–53)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-1006-buyer-persona-nu-este-grupul-tinta|DIG-1006]] _vezi_ — Buyer persona nu este grupul țintă — segmentarea spune pe cine alegi, persona spune cum decide și unde poate fi atins
+- [[DIG-1008-minimum-viable-persona-pornesti-cu-minimul|DIG-1008]] _extinde_ — Minimum viable persona — pornești campania cu informația minimă necesară și completezi persona din datele campaniei
+- [[DIG-1025-customer-journey-in-cinci-pasi-si-rolul-implicarii|DIG-1025]] _fundament_ — Customer journey se construiește pe o persona în cinci pași, iar implicarea decide cât durează faza de dinaintea cumpărării
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] — Digital Advertising in the Post-cookie Era: Strategic Campaign Planning Across the Customer Journey
+<!-- backlinks:end -->

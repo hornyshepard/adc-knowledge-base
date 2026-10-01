@@ -40,15 +40,23 @@ Ingledew ajunge la aceeași idee din direcția designului: o idee nu trebuie să
 ## Întrebări
 
 - Cum eviți ca brandul să pară oportunist sau să „deturneze" o tragedie?
-- E zeitgeist-ul compatibil cu nevoia de consecvență pe termen lung a brandului (vezi [[ART-0701]])?
+- E zeitgeist-ul compatibil cu nevoia de consecvență pe termen lung a brandului (vezi [[ART-0701-testul-unui-singur-perete|ART-0701]])?
 
 ## Legături
 
-- **vezi** [[IDE-0712]] — banca de inspirație include cultura „de acum".
-- **vezi** [[STO-0705]] — autenticitatea față de zeitgeist e una dintre cele cinci direcții.
-- **vezi** [[BRD-0701]] — scalele on-brand decid dacă un moment e „al nostru".
+- **vezi** [[IDE-0712-banca-de-inspiratie-creativul-colectioneaza-permanent|IDE-0712]] — banca de inspirație include cultura „de acum".
+- **vezi** [[STO-0705-autenticitatea-are-cinci-directii|STO-0705]] — autenticitatea față de zeitgeist e una dintre cele cinci direcții.
+- **vezi** [[BRD-0701-brand-construct-arhetip-personalitate-naratiune|BRD-0701]] — scalele on-brand decid dacă un moment e „al nostru".
 
 ## Surse
 
-- [[SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 6 („Culture Surfing") și cap. 3
-- [[SRC-024]] John Ingledew, *The A–Z of Visual Ideas*, intrarea „Zeitgeist"
+- [[SRC-025-shareworthy|SRC-025]] Greg Braun, Robin Landa, *Shareworthy*, cap. 6 („Culture Surfing") și cap. 3
+- [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] John Ingledew, *The A–Z of Visual Ideas*, intrarea „Zeitgeist"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[IDE-0712-banca-de-inspiratie-creativul-colectioneaza-permanent|IDE-0712]] _vezi_ — Banca de inspirație — creativul colecționează permanent, ca să nu pornească niciodată de la zero
+- [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] — The A–Z of Visual Ideas: How to Solve Any Creative Brief
+- [[SRC-025-shareworthy|SRC-025]] — Shareworthy: Advertising That Creates Powerful Connections Through Storytelling
+<!-- backlinks:end -->

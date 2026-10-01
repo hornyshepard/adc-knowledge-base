@@ -42,10 +42,19 @@ Raportul Zedesco pe segmente: vizitatorii reveniți trimiși de rețeaua de afil
 
 ## Legături
 
-- **extinde** [[DIG-0907]] — pâlnia e diagnosticul detaliat al etapei de cumpărare.
-- **aplicare** [[DIG-0920]] — optimizarea landing page-ului reduce ieșirile din primul pas.
-- **aplicare** [[DIG-0933]] — fiecare ipoteză de abandon devine un test A/B.
+- **extinde** [[DIG-0907-metricile-se-aleg-din-obiective-smart-si-etapa-journey-ului|DIG-0907]] — pâlnia e diagnosticul detaliat al etapei de cumpărare.
+- **aplicare** [[DIG-0920-reclama-e-doar-atat-de-buna-cat-landing-page-ul-ei|DIG-0920]] — optimizarea landing page-ului reduce ieșirile din primul pas.
+- **aplicare** [[DIG-0933-testul-ab-o-singura-variabila-si-semnificatie-statistica|DIG-0933]] — fiecare ipoteză de abandon devine un test A/B.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 5, p. 142-146; cap. 13, p. 382-383
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 5, p. 142-146; cap. 13, p. 382-383
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0907-metricile-se-aleg-din-obiective-smart-si-etapa-journey-ului|DIG-0907]] _aplicare_ — Metricile se aleg pornind de la obiective SMART și de la etapa journey-ului, nu de la ce oferă platforma
+- [[DIG-0920-reclama-e-doar-atat-de-buna-cat-landing-page-ul-ei|DIG-0920]] _vezi_ — Reclama e doar atât de bună cât landing page-ul ei — simplitate, continuitate, relevanță
+- [[DIG-0933-testul-ab-o-singura-variabila-si-semnificatie-statistica|DIG-0933]] _aplicare_ — Testul A/B schimbă o singură variabilă, pornește de la o ipoteză și așteaptă semnificația statistică
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+<!-- backlinks:end -->

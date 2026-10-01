@@ -53,11 +53,19 @@ Netflix a decis să producă *House of Cards* pe baza unei predicții: combinaț
 
 ## Legături
 
-- **fundament** [[DIG-0204]] — modelele predictive se construiesc pe ecosistemul de date.
-- **vezi** [[ADV-0202]] — PAR și BAR măsurau retrospectiv; predicția încearcă să estimeze înainte de lansare.
-- **vezi** [[AIM-0203]] — omul rămâne responsabil de interpretare și de decizia finală.
-- **aplicare** [[AIM-0204]] — recomandările și prognozele apar în checklistul martech.
+- **fundament** [[DIG-0204-marketingul-bazat-pe-date-segmentul-de-unu-si-ecosistemul-de-date|DIG-0204]] — modelele predictive se construiesc pe ecosistemul de date.
+- **vezi** [[ADV-0202-par-si-bar-masoara-conversia-notorietatii-in-cumparare-si-recomandare|ADV-0202]] — PAR și BAR măsurau retrospectiv; predicția încearcă să estimeze înainte de lansare.
+- **vezi** [[AIM-0203-masinile-sunt-cool-oamenii-sunt-calzi-noul-cx|AIM-0203]] — omul rămâne responsabil de interpretare și de decizia finală.
+- **aplicare** [[AIM-0204-sapte-cazuri-de-utilizare-martech-pe-calea-clientului|AIM-0204]] — recomandările și prognozele apar în checklistul martech.
 
 ## Surse
 
-- [[SRC-005]] Kotler, Kartajaya, Setiawan, *Marketing 5.0*, cap. 9 „Predictive Marketing: Anticipating Market Demand with Proactive Action" (Fig. 9.1, 9.2)
+- [[SRC-005-marketing-5-0-philip-kotler|SRC-005]] Kotler, Kartajaya, Setiawan, *Marketing 5.0*, cap. 9 „Predictive Marketing: Anticipating Market Demand with Proactive Action" (Fig. 9.1, 9.2)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-0204-sapte-cazuri-de-utilizare-martech-pe-calea-clientului|AIM-0204]] _aplicare_ — Martech are șapte cazuri de utilizare pe calea clientului — de la publicitate și conținut la service CRM
+- [[DIG-0204-marketingul-bazat-pe-date-segmentul-de-unu-si-ecosistemul-de-date|DIG-0204]] _aplicare_ — Marketingul bazat pe date țintește „segmentul de unu" și începe cu un obiectiv îngust, nu cu un proiect IT
+- [[SRC-005-marketing-5-0-philip-kotler|SRC-005]] — Marketing 5.0: Technology for Humanity
+<!-- backlinks:end -->

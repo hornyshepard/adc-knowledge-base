@@ -45,10 +45,19 @@ Mutarea de la o mașină sport la un monovolum după nașterea unui copil e prac
 
 ## Legături
 
-- **fundament** [[BRD-0517]] — principiile se sprijină pe matricea motivelor.
-- **vezi** [[ADV-0501]] — momentul declanșator (*trigger*) din călătoria clientului.
-- **vezi** [[BRD-0519]] — comunitatea e celălalt mecanism prin care brandul intră în identitate.
+- **fundament** [[BRD-0517-matricea-motivelor-coerenta-agentie-si-comuniune-spre-sine|BRD-0517]] — principiile se sprijină pe matricea motivelor.
+- **vezi** [[ADV-0501-calatoria-clientului-centrata-pe-consumator-sase-etape-trei|ADV-0501]] — momentul declanșator (*trigger*) din călătoria clientului.
+- **vezi** [[BRD-0519-comunitatea-de-brand-ideala-este-distincta-exclusiva-si-de|BRD-0519]] — comunitatea e celălalt mecanism prin care brandul intră în identitate.
 
 ## Surse
 
-- [[SRC-014]] Neal J. Roese & Wendi L. Gardner, „Building Strong Connections between Brands and the Self", cap. 9 în *Kellogg on Branding in a Hyper-Connected World*, p. 131, 135–138, 140
+- [[SRC-014-kellogg-on-branding|SRC-014]] Neal J. Roese & Wendi L. Gardner, „Building Strong Connections between Brands and the Self", cap. 9 în *Kellogg on Branding in a Hyper-Connected World*, p. 131, 135–138, 140
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0501-calatoria-clientului-centrata-pe-consumator-sase-etape-trei|ADV-0501]] _vezi_ — Călătoria clientului centrată pe consumator: șase etape, trei întrebări
+- [[BRD-0517-matricea-motivelor-coerenta-agentie-si-comuniune-spre-sine|BRD-0517]] _extinde_ — Matricea motivelor: coerență, agenție și comuniune, spre sine sau spre ceilalți
+- [[BRD-0519-comunitatea-de-brand-ideala-este-distincta-exclusiva-si-de|BRD-0519]] _vezi_ — Comunitatea de brand ideală este distinctă, exclusivă și de mărime medie
+- [[SRC-014-kellogg-on-branding|SRC-014]] — Kellogg on Branding in a Hyper-Connected World
+<!-- backlinks:end -->

@@ -41,10 +41,21 @@ HBR adaugă patru greșeli manageriale: datele vin din surse greu de integrat; d
 
 ## Legături
 
-- **aplicare** [[DIG-0907]] — metricile se aleg pornind de la obiective SMART și etapele journey-ului.
-- **aplicare** [[SOC-0903]] — fiecare obiectiv social cere KPI-ul lui.
-- **vezi** [[DIG-0934]] — atribuirea decide cărui canal i se creditează KPI-ul.
+- **aplicare** [[DIG-0907-metricile-se-aleg-din-obiective-smart-si-etapa-journey-ului|DIG-0907]] — metricile se aleg pornind de la obiective SMART și etapele journey-ului.
+- **aplicare** [[SOC-0903-social-media-serveste-sase-obiective-fiecare-cu-alt-kpi|SOC-0903]] — fiecare obiectiv social cere KPI-ul lui.
+- **vezi** [[DIG-0934-modelele-de-atribuire-decid-ce-canal-primeste-meritul|DIG-0934]] — atribuirea decide cărui canal i se creditează KPI-ul.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 5, p. 127-128, 146-147
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 5, p. 127-128, 146-147
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0907-metricile-se-aleg-din-obiective-smart-si-etapa-journey-ului|DIG-0907]] _fundament_ — Metricile se aleg pornind de la obiective SMART și de la etapa journey-ului, nu de la ce oferă platforma
+- [[DIG-0928-in-email-click-to-open-rate-spune-mai-mult-decat-open-rate|DIG-0928]] _fundament_ — În e-mail, click-to-open rate spune mai mult decât open rate
+- [[DIG-0934-modelele-de-atribuire-decid-ce-canal-primeste-meritul|DIG-0934]] _fundament_ — Modelele de atribuire decid ce canal primește meritul conversiei — și schimbă astfel bugetul
+- [[SOC-0903-social-media-serveste-sase-obiective-fiecare-cu-alt-kpi|SOC-0903]] _fundament_ — Social media servește șase obiective distincte, iar fiecare cere alt KPI
+- [[SOC-0905-valid-metrics-framework-succesul-social-se-termina-in-advocacy|SOC-0905]] _fundament_ — Valid Metrics Framework — succesul pe social media se termină în advocacy, nu în cumpărare
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+<!-- backlinks:end -->

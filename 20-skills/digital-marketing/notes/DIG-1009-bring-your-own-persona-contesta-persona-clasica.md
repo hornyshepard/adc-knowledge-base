@@ -44,10 +44,18 @@ Caseta de confidențialitate a capitolului propune un exercițiu: un client cu c
 
 ## Legături
 
-- **contrazice** [[DIG-1006]] — pune la îndoială ideea că persona prezice comportamentul.
-- **vezi** [[DIG-1022]] — consimțământul se proiectează diferit pentru niveluri diferite de încredere.
-- **vezi** [[DIG-1021]] — schimbul de valoare pentru date depinde de încrederea omului.
+- **contrazice** [[DIG-1006-buyer-persona-nu-este-grupul-tinta|DIG-1006]] — pune la îndoială ideea că persona prezice comportamentul.
+- **vezi** [[DIG-1022-consimtamantul-valid-activ-retras-la-fel-de-usor|DIG-1022]] — consimțământul se proiectează diferit pentru niveluri diferite de încredere.
+- **vezi** [[DIG-1021-strategia-first-party-incepe-cu-intrebarea-de-vanzari|DIG-1021]] — schimbul de valoare pentru date depinde de încrederea omului.
 
 ## Surse
 
-- [[SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 3 (p. 92–93)
+- [[SRC-031-digital-marketing-manual|SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 3 (p. 92–93)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-1006-buyer-persona-nu-este-grupul-tinta|DIG-1006]] _vezi_ — Buyer persona nu este grupul țintă — segmentarea spune pe cine alegi, persona spune cum decide și unde poate fi atins
+- [[DIG-1022-consimtamantul-valid-activ-retras-la-fel-de-usor|DIG-1022]] _vezi_ — Consimțământul valid se cere activ și se poate retrage la fel de ușor — butoane egale, căsuțe nebifate, scopuri explicate, dovadă păstrată
+- [[SRC-031-digital-marketing-manual|SRC-031]] — Digital Marketing
+<!-- backlinks:end -->

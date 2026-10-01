@@ -50,11 +50,20 @@ Anunțul pentru paie reutilizabile din carte combină o descriere cu reducere ș
 
 ## Legături
 
-- **vezi** [[DIG-1013]] — relevanța anunțului intră direct în ad rank.
-- **vezi** [[ART-1001]] — aceeași logică a mesajului scurt și a stimulentului concret apare la bannere.
-- **vezi** [[DIG-1011]] — titlul anunțului trebuie continuat de pagina de destinație.
+- **vezi** [[DIG-1013-in-licitatia-search-calitatea-conteaza-cat-oferta|DIG-1013]] — relevanța anunțului intră direct în ad rank.
+- **vezi** [[ART-1001-bannerul-eficient-scurt-congruent-emotional-dozat|ART-1001]] — aceeași logică a mesajului scurt și a stimulentului concret apare la bannere.
+- **vezi** [[DIG-1011-reclama-si-pagina-de-destinatie-spun-acelasi-lucru|DIG-1011]] — titlul anunțului trebuie continuat de pagina de destinație.
 
 ## Surse
 
-- [[SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 6 (p. 203–205)
-- [[SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 2.3.3.1 (p. 72) și 4.4.1.2 (p. 149–150)
+- [[SRC-031-digital-marketing-manual|SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 6 (p. 203–205)
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 2.3.3.1 (p. 72) și 4.4.1.2 (p. 149–150)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-1001-bannerul-eficient-scurt-congruent-emotional-dozat|ART-1001]] _vezi_ — Bannerul eficient e scurt, congruent cu pagina, emoțional plus un stimulent concret, cu animație dozată — iar formatul se alege după dispozitiv și loc
+- [[DIG-1013-in-licitatia-search-calitatea-conteaza-cat-oferta|DIG-1013]] _vezi_ — În licitația din search nu câștigă cine plătește cel mai mult — ad rank-ul combină oferta cu calitatea anunțului și a paginii
+- [[SRC-031-digital-marketing-manual|SRC-031]] — Digital Marketing
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] — Digital Advertising in the Post-cookie Era: Strategic Campaign Planning Across the Customer Journey
+<!-- backlinks:end -->

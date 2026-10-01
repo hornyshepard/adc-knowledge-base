@@ -46,11 +46,20 @@ HubSpot are o pagină-pilon despre strategiile de marketing pe Instagram, legat�
 
 ## Legături
 
-- **extinde** [[DIG-0915]] — detaliază fața organică a SEM.
-- **fundament** [[DIG-0917]] — intenția de căutare decide ce conținut merită creat.
-- **vezi** [[STO-0904]] — piramida conținutului alimentează paginile-pilon și clusterele.
-- **vezi** [[SOC-0903]] — social media aduce beneficii SEO prin linkuri și semnale.
+- **extinde** [[DIG-0915-sem-are-doua-fete-seo-construieste-ppc-cumpara-vizibilitate|DIG-0915]] — detaliază fața organică a SEM.
+- **fundament** [[DIG-0917-oamenii-cauta-problema-nu-produsul-seo-porneste-de-la-intentie|DIG-0917]] — intenția de căutare decide ce conținut merită creat.
+- **vezi** [[STO-0904-piramida-continutului-cercetarea-de-baza-alimenteaza-derivatele|STO-0904]] — piramida conținutului alimentează paginile-pilon și clusterele.
+- **vezi** [[SOC-0903-social-media-serveste-sase-obiective-fiecare-cu-alt-kpi|SOC-0903]] — social media aduce beneficii SEO prin linkuri și semnale.
 
 ## Surse
 
-- [[SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 7, p. 195-197, 202-209; cap. 12, p. 351
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] Zahay et al., *Digital Marketing: Foundations and Strategy*, cap. 7, p. 195-197, 202-209; cap. 12, p. 351
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0915-sem-are-doua-fete-seo-construieste-ppc-cumpara-vizibilitate|DIG-0915]] _extinde_ — SEM are două fețe — SEO construiește vizibilitate în timp, PPC o cumpără imediat — și funcționează cel mai bine împreună
+- [[DIG-0917-oamenii-cauta-problema-nu-produsul-seo-porneste-de-la-intentie|DIG-0917]] _aplicare_ — Oamenii caută problema, nu produsul — de aceea SEO pornește de la intenția de căutare
+- [[STO-0904-piramida-continutului-cercetarea-de-baza-alimenteaza-derivatele|STO-0904]] _vezi_ — Piramida conținutului — o cercetare de bază alimentează zeci de piese derivate și promoționale
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+<!-- backlinks:end -->

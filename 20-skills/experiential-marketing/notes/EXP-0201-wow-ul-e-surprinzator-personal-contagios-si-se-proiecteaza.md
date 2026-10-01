@@ -53,10 +53,19 @@ Zappos a trimis flori unei cliente cu probleme la picioare, care comandase șase
 
 ## Legături
 
-- **fundament** [[MKT-0210]] — WOW-ul e ce împinge clientul spre ultima etapă a căii 5A.
-- **vezi** [[INS-0201]] — paradoxul clientului distras: doar brandurile cu factor WOW mai sunt ascultate.
-- **vezi** [[DIG-0202]] — engagement-ul digital pregătește terenul pentru momentele WOW.
+- **fundament** [[MKT-0210-calea-clientului-5a-aware-appeal-ask-act-advocate|MKT-0210]] — WOW-ul e ce împinge clientul spre ultima etapă a căii 5A.
+- **vezi** [[INS-0201-paradoxurile-clientului-conectat|INS-0201]] — paradoxul clientului distras: doar brandurile cu factor WOW mai sunt ascultate.
+- **vezi** [[DIG-0202-engagement-aplicatii-mobile-social-crm-gamificare|DIG-0202]] — engagement-ul digital pregătește terenul pentru momentele WOW.
 
 ## Surse
 
-- [[SRC-004]] Kotler, Kartajaya, Setiawan, *Marketing 4.0*, Epilog „Getting to WOW!"; cap. 6, secțiunea „Increase Affinity"
+- [[SRC-004-marketing-4-0-philip-kotler|SRC-004]] Kotler, Kartajaya, Setiawan, *Marketing 4.0*, Epilog „Getting to WOW!"; cap. 6, secțiunea „Increase Affinity"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0202-engagement-aplicatii-mobile-social-crm-gamificare|DIG-0202]] _extinde_ — Afinitatea de după cumpărare se construiește prin aplicații mobile, social CRM și gamificare
+- [[DIG-0205-marketingul-contextual-senzori-declansatori-trei-niveluri|DIG-0205]] _vezi_ — Marketingul contextual aduce personalizarea digitală în spațiul fizic — senzori, declanșatori și trei niveluri, informativ, interactiv, imersiv
+- [[EXP-0202-experienta-imersiva-cinci-elemente-si-patru-scenarii-om-digital|EXP-0202]] _extinde_ — Experiența viitorului e imersivă și hibridă — cinci elemente ale imersiunii și patru scenarii pentru cât din om poate înlocui digitalul
+- [[SRC-004-marketing-4-0-philip-kotler|SRC-004]] — Marketing 4.0: Moving from Traditional to Digital
+<!-- backlinks:end -->

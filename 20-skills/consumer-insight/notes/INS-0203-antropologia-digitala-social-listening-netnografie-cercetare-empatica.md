@@ -46,11 +46,19 @@ MassMutual și IDEO au descoperit prin cercetare empatică anxietatea mileniști
 
 ## Legături
 
-- **aplicare** [[BRD-0206]] — insight-urile obținute alimentează construirea brandului cu atribute umane.
-- **vezi** [[STO-0201]] — ZMET, din Marketing 3.0, e o altă metodă de scos la suprafață metaforele ascunse.
-- **vezi** [[INS-0202]] — comunitățile netizenilor sunt terenul principal pentru netnografie.
+- **aplicare** [[BRD-0206-brandurile-human-centric-au-sase-atribute-umane|BRD-0206]] — insight-urile obținute alimentează construirea brandului cu atribute umane.
+- **vezi** [[STO-0201-povestea-de-brand-personaj-intriga-metafora|STO-0201]] — ZMET, din Marketing 3.0, e o altă metodă de scos la suprafață metaforele ascunse.
+- **vezi** [[INS-0202-tinerii-femeile-netizenii-subculturile-influente|INS-0202]] — comunitățile netizenilor sunt terenul principal pentru netnografie.
 
 ## Surse
 
-- [[SRC-004]] Kotler, Kartajaya, Setiawan, *Marketing 4.0*, cap. 8, secțiunea „Understanding Humans Using Digital Anthropology"
-- [[SRC-003]] Kotler, Kartajaya, Setiawan, *Marketing 3.0*, cap. 7, p. 151
+- [[SRC-004-marketing-4-0-philip-kotler|SRC-004]] Kotler, Kartajaya, Setiawan, *Marketing 4.0*, cap. 8, secțiunea „Understanding Humans Using Digital Anthropology"
+- [[SRC-003-marketing-3-0-philip-kotler|SRC-003]] Kotler, Kartajaya, Setiawan, *Marketing 3.0*, cap. 7, p. 151
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[AIM-0203-masinile-sunt-cool-oamenii-sunt-calzi-noul-cx|AIM-0203]] _vezi_ — În noul CX mașinile sunt „cool", dar oamenii sunt „calzi" — AI preia datele și convergența, omul păstrează insight-ul, înțelepciunea și empatia
+- [[BRD-0206-brandurile-human-centric-au-sase-atribute-umane|BRD-0206]] _fundament_ — Brandurile human-centric au șase atribute umane — fizicalitate, intelectualitate, sociabilitate, emoționalitate, personabilitate, moralitate
+- [[SRC-004-marketing-4-0-philip-kotler|SRC-004]] — Marketing 4.0: Moving from Traditional to Digital
+<!-- backlinks:end -->

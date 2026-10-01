@@ -46,10 +46,18 @@ Povestea rămâne aceeași, dar cuvintele se adaptează fiecărei audiențe — 
 
 ## Legături
 
-- **vezi** [[PIT-1416]] — SELL și SOLVE sunt structuri apropiate pentru poveștile din pitch.
-- **vezi** [[PIT-1412]] — metafora și analogia („Bambi în Africa”) au același rol de simplificare.
-- **fundament** [[PRT-1415]] — povestea se scrie din inventarul realizărilor.
+- **vezi** [[PIT-1416-povesti-sell-si-solve-clientul-e-eroul|PIT-1416]] — SELL și SOLVE sunt structuri apropiate pentru poveștile din pitch.
+- **vezi** [[PIT-1412-stardust-dovezile-care-fac-mesajul-memorabil|PIT-1412]] — metafora și analogia („Bambi în Africa”) au același rol de simplificare.
+- **fundament** [[PRT-1415-inventarul-activelor-si-propunerea-de-valoare|PRT-1415]] — povestea se scrie din inventarul realizărilor.
 
 ## Surse
 
-- [[SRC-047]] Hannah Morgan, *The Infographic Resume*, cap. 3
+- [[SRC-047-the-infographic-resume|SRC-047]] Hannah Morgan, *The Infographic Resume*, cap. 3
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PIT-1430-unicitatea-prezentatorului-act-de-generozitate|PIT-1430]] _aplicare_ — A spune de ce ești tu cel potrivit este un act de generozitate față de audiență
+- [[PRT-1408-introducerea-si-titlurile-vand-relevanta|PRT-1408]] _vezi_ — Introducerea și titlurile studiilor de caz vând relevanța pentru cititor, nu adjective
+- [[SRC-047-the-infographic-resume|SRC-047]] — The Infographic Resume: How to Create a Visual Portfolio That Showcases Your Skills and Lands the Job
+<!-- backlinks:end -->

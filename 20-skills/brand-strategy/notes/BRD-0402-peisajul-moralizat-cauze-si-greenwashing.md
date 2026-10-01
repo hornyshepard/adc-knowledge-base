@@ -46,11 +46,20 @@ Body Shop vândut către L'Oréal (2006): Anita Roddick s-a numit „cal troian"
 
 ## Legături
 
-- **vezi** [[ADV-0411]] — femvertising-ul, varianta de gen a aceleiași dezbateri.
-- **vezi** [[INS-0447]] — decalajul dintre atitudinile etice și cumpărare.
-- **fundament** [[BRD-0401]] — brandurile ca mituri culturale care pot scăpa de sub control.
-- **vezi** [[INS-0418]] — dezmințirea directă poate întări asocierea negativă.
+- **vezi** [[ADV-0411-femvertising-vinde-imputernicirea|ADV-0411]] — femvertising-ul, varianta de gen a aceleiași dezbateri.
+- **vezi** [[INS-0447-decalajul-atitudine-comportament-in-consumul-etic|INS-0447]] — decalajul dintre atitudinile etice și cumpărare.
+- **fundament** [[BRD-0401-brandurile-iconice-rezolva-tensiuni-culturale|BRD-0401]] — brandurile ca mituri culturale care pot scăpa de sub control.
+- **vezi** [[INS-0418-mcdonalds-viermi-dezmintirea-intareste-asocierea|INS-0418]] — dezmințirea directă poate întări asocierea negativă.
 
 ## Surse
 
-- [[SRC-013]] Parsons, Maclaran & Chatzidakis, *Contemporary Issues in Marketing and Consumer Behaviour*, cap. 7, p. 106-118; cap. 3, p. 41-42
+- [[SRC-013-contemporary-issues-in-marketing-and-consumer-behaviour|SRC-013]] Parsons, Maclaran & Chatzidakis, *Contemporary Issues in Marketing and Consumer Behaviour*, cap. 7, p. 106-118; cap. 3, p. 41-42
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0411-femvertising-vinde-imputernicirea|ADV-0411]] _vezi_ — Femvertising-ul vinde împuternicirea — câștigă premii și distribuiri, dar rămâne suspect de a revinde aceleași idealuri
+- [[CPY-0401-sloganurile-literal-adevarate-pot-induce-in-eroare|CPY-0401]] _vezi_ — Sloganurile literal adevărate pot induce în eroare prin inferențele pe care le lasă publicului
+- [[INS-0447-decalajul-atitudine-comportament-in-consumul-etic|INS-0447]] _vezi_ — Consumatorii declară valori etice, dar cumpără din obișnuință, comoditate și presiune socială (decalajul atitudine-comportament)
+- [[SRC-013-contemporary-issues-in-marketing-and-consumer-behaviour|SRC-013]] — Contemporary Issues in Marketing and Consumer Behaviour (2nd edition)
+<!-- backlinks:end -->

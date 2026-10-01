@@ -27,27 +27,27 @@ level: 1
 
 | Cap. | Tema | Note derivate |
 |---|---|---|
-| 1 How We Got Where We Are Today | zece schimbări în recrutare; „pălăriile” candidatului | [[PRT-1414]] |
-| 2 Your Online Portfolio | ce include portofoliul; domeniul propriu; paginile site-ului; Behance, Dribbble etc. | [[PRT-1414]], [[PRT-1411]] |
-| 3 Telling the Story of You | inventarul activelor; cadrul de documentare a realizărilor; explicarea (Lee LeFever); pitch-ul Pixar; bio, rezumat, propunere de valoare; consecvența | [[PRT-1415]], [[PRT-1416]] |
-| 4 Resumes with Visual Flair | trecerea primului filtru; cele trei întrebări; ce nu funcționează | [[PRT-1417]] |
-| 5–7 Infographic Resumes | exemple, designeri specializați, crearea propriului CV infografic | [[PRT-1417]], [[PRT-1418]] |
-| 8 Don't Overlook LinkedIn | profilul ca portofoliu; checklist | [[PRT-1420]] |
-| 9 Social Resumes | pagina-hub a prezenței online | [[PRT-1420]] |
-| 10 Interactive Resumes and Slide Shows | CV-ul-prezentare; Nancy Duarte; storyboard; campanii adresate unei companii | [[PRT-1419]], [[PRT-1402]] |
-| 11 Choose What You Share Online Carefully | ce postezi și ce eviți; targetare proactivă; „the two-step”; distribuția CV-ului infografic | [[PRT-1419]], [[PRT-1420]] |
-| 12 Numbers Speak | măsurarea vizualizărilor și a contactărilor | [[PRT-1419]] |
+| 1 How We Got Where We Are Today | zece schimbări în recrutare; „pălăriile” candidatului | [[PRT-1414-cariera-ca-afacere-brand-personal-pe-platforma-proprie|PRT-1414]] |
+| 2 Your Online Portfolio | ce include portofoliul; domeniul propriu; paginile site-ului; Behance, Dribbble etc. | [[PRT-1414-cariera-ca-afacere-brand-personal-pe-platforma-proprie|PRT-1414]], [[PRT-1411-juniorul-fara-experienta-un-studiu-bun-si-dovezi|PRT-1411]] |
+| 3 Telling the Story of You | inventarul activelor; cadrul de documentare a realizărilor; explicarea (Lee LeFever); pitch-ul Pixar; bio, rezumat, propunere de valoare; consecvența | [[PRT-1415-inventarul-activelor-si-propunerea-de-valoare|PRT-1415]], [[PRT-1416-povestea-de-sine-explicare-si-pitch-pixar|PRT-1416]] |
+| 4 Resumes with Visual Flair | trecerea primului filtru; cele trei întrebări; ce nu funcționează | [[PRT-1417-cv-ul-vizual-arata-rezultate-si-are-versiune-text|PRT-1417]] |
+| 5–7 Infographic Resumes | exemple, designeri specializați, crearea propriului CV infografic | [[PRT-1417-cv-ul-vizual-arata-rezultate-si-are-versiune-text|PRT-1417]], [[PRT-1418-dezbatere-grafice-de-competente-si-concursuri-de-design|PRT-1418]] |
+| 8 Don't Overlook LinkedIn | profilul ca portofoliu; checklist | [[PRT-1420-reputatia-online-este-cv-ul-in-timp-real|PRT-1420]] |
+| 9 Social Resumes | pagina-hub a prezenței online | [[PRT-1420-reputatia-online-este-cv-ul-in-timp-real|PRT-1420]] |
+| 10 Interactive Resumes and Slide Shows | CV-ul-prezentare; Nancy Duarte; storyboard; campanii adresate unei companii | [[PRT-1419-portofoliul-nu-se-gaseste-singur-targetare-si-doi-pasi|PRT-1419]], [[PRT-1402-portofoliul-diferit-de-prezentarea-portofoliului|PRT-1402]] |
+| 11 Choose What You Share Online Carefully | ce postezi și ce eviți; targetare proactivă; „the two-step”; distribuția CV-ului infografic | [[PRT-1419-portofoliul-nu-se-gaseste-singur-targetare-si-doi-pasi|PRT-1419]], [[PRT-1420-reputatia-online-este-cv-ul-in-timp-real|PRT-1420]] |
+| 12 Numbers Speak | măsurarea vizualizărilor și a contactărilor | [[PRT-1419-portofoliul-nu-se-gaseste-singur-targetare-si-doi-pasi|PRT-1419]] |
 
 ## Idei-cheie → note permanente
 
-- [[PRT-1414]] — cariera ca afacere: brand personal pe o platformă pe care o deții.
-- [[PRT-1415]] — inventarul activelor și propunerea de valoare personală în trei întrebări.
-- [[PRT-1416]] — povestea de sine: principiile explicării (LeFever) și pitch-ul Pixar.
-- [[PRT-1417]] — CV-ul vizual funcționează doar dacă arată rezultate și are o versiune text.
-- [[PRT-1418]] — dezbatere: graficele de competențe și concursurile de design (Morgan vs. Fenn).
-- [[PRT-1419]] — portofoliul nu se găsește singur: targetare proactivă și „pașii doi”.
-- [[PRT-1420]] — reputația online este CV-ul în timp real.
-- Îmbogățiri: [[PRT-1401]], [[PRT-1406]], [[PRT-1411]], [[PRT-1412]], [[PRT-1402]].
+- [[PRT-1414-cariera-ca-afacere-brand-personal-pe-platforma-proprie|PRT-1414]] — cariera ca afacere: brand personal pe o platformă pe care o deții.
+- [[PRT-1415-inventarul-activelor-si-propunerea-de-valoare|PRT-1415]] — inventarul activelor și propunerea de valoare personală în trei întrebări.
+- [[PRT-1416-povestea-de-sine-explicare-si-pitch-pixar|PRT-1416]] — povestea de sine: principiile explicării (LeFever) și pitch-ul Pixar.
+- [[PRT-1417-cv-ul-vizual-arata-rezultate-si-are-versiune-text|PRT-1417]] — CV-ul vizual funcționează doar dacă arată rezultate și are o versiune text.
+- [[PRT-1418-dezbatere-grafice-de-competente-si-concursuri-de-design|PRT-1418]] — dezbatere: graficele de competențe și concursurile de design (Morgan vs. Fenn).
+- [[PRT-1419-portofoliul-nu-se-gaseste-singur-targetare-si-doi-pasi|PRT-1419]] — portofoliul nu se găsește singur: targetare proactivă și „pașii doi”.
+- [[PRT-1420-reputatia-online-este-cv-ul-in-timp-real|PRT-1420]] — reputația online este CV-ul în timp real.
+- Îmbogățiri: [[PRT-1401-portofoliul-e-un-produs-utilizatorul-e-recrutorul|PRT-1401]], [[PRT-1406-portofoliul-proiectat-pentru-30-de-secunde|PRT-1406]], [[PRT-1411-juniorul-fara-experienta-un-studiu-bun-si-dovezi|PRT-1411]], [[PRT-1412-nda-ce-nu-functioneaza-si-ce-functioneaza|PRT-1412]], [[PRT-1402-portofoliul-diferit-de-prezentarea-portofoliului|PRT-1402]].
 
 ## Ce lipsește / ce trebuie citit critic
 
@@ -59,3 +59,20 @@ level: 1
 ## Citat
 
 > „A company hires me over other professionals because…” (Reid Hoffman, citat în cap. 3)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PRT-1401-portofoliul-e-un-produs-utilizatorul-e-recrutorul|PRT-1401]] — Portofoliul este un produs, iar utilizatorul lui este cel care angajează, nu autorul
+- [[PRT-1402-portofoliul-diferit-de-prezentarea-portofoliului|PRT-1402]] — Portofoliul trimis dinainte și prezentarea portofoliului sunt două documente diferite
+- [[PRT-1406-portofoliul-proiectat-pentru-30-de-secunde|PRT-1406]] — Portofoliul se proiectează pentru 30 de secunde — un fast track și un slow track
+- [[PRT-1411-juniorul-fara-experienta-un-studiu-bun-si-dovezi|PRT-1411]] — Juniorul fără experiență are nevoie de un studiu de caz bun și de dovezi ale calităților cerute, nu de volum
+- [[PRT-1412-nda-ce-nu-functioneaza-si-ce-functioneaza|PRT-1412]] — Acordurile de confidențialitate nu se ocolesc prin încălcare, parolă sau anonimizare, ci se negociază din timp
+- [[PRT-1414-cariera-ca-afacere-brand-personal-pe-platforma-proprie|PRT-1414]] — Candidatul își tratează cariera ca pe o afacere — un brand personal găzduit pe o platformă pe care o deține
+- [[PRT-1415-inventarul-activelor-si-propunerea-de-valoare|PRT-1415]] — Povestea profesională se construiește dintr-un inventar al realizărilor cuantificate și dintr-o propunere de valoare în trei întrebări
+- [[PRT-1416-povestea-de-sine-explicare-si-pitch-pixar|PRT-1416]] — Răspunsul la „Spune-mi despre tine” se construiește cu principiile explicării și cu structura pitch-ului Pixar
+- [[PRT-1417-cv-ul-vizual-arata-rezultate-si-are-versiune-text|PRT-1417]] — CV-ul vizual funcționează doar dacă arată rezultate, se potrivește cititorului și are mereu o versiune text
+- [[PRT-1418-dezbatere-grafice-de-competente-si-concursuri-de-design|PRT-1418]] — Graficele de competențe și concursurile de design — Morgan le recomandă, Fenn și Kubišová le resping
+- [[PRT-1419-portofoliul-nu-se-gaseste-singur-targetare-si-doi-pasi|PRT-1419]] — Portofoliul nu se găsește singur — targetare proactivă, „cei doi pași” și măsurarea răspunsului
+- [[PRT-1420-reputatia-online-este-cv-ul-in-timp-real|PRT-1420]] — Reputația online este CV-ul în timp real — și se construiește deliberat
+<!-- backlinks:end -->

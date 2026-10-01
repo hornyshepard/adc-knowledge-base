@@ -49,13 +49,22 @@ Un portofoliu de art director cu 3 campanii solide (o idee mare, execuții pe ma
 
 ## Legături
 
-- **fundament** [[PRT-1404]] — selecția se face din matricea nevoi–dovezi.
-- **vezi** [[PRT-1406]] — un portofoliu scurt răspunde lipsei de timp a cititorului.
-- **vezi** [[PIT-1408]] — aceeași disciplină a selecției ca la cele trei mesaje cheie ale unui pitch.
-- **vezi** [[PRT-1411]] — pentru juniori, un singur studiu de caz bun poate fi suficient.
-- **extinde** [[PRT-1422]] — metoda DA / NU / POATE pune principiul în practică.
+- **fundament** [[PRT-1404-analiza-anuntului-de-angajare-ghideaza-curatoria|PRT-1404]] — selecția se face din matricea nevoi–dovezi.
+- **vezi** [[PRT-1406-portofoliul-proiectat-pentru-30-de-secunde|PRT-1406]] — un portofoliu scurt răspunde lipsei de timp a cititorului.
+- **vezi** [[PIT-1408-headline-si-trei-mesaje-cheie|PIT-1408]] — aceeași disciplină a selecției ca la cele trei mesaje cheie ale unui pitch.
+- **vezi** [[PRT-1411-juniorul-fara-experienta-un-studiu-bun-si-dovezi|PRT-1411]] — pentru juniori, un singur studiu de caz bun poate fi suficient.
+- **extinde** [[PRT-1422-curatoria-in-trei-gramezi-da-nu-poate|PRT-1422]] — metoda DA / NU / POATE pune principiul în practică.
 
 ## Surse
 
-- [[SRC-048]] Ian Fenn, *UX Portfolio Design*, cap. 3 și 5
-- [[SRC-046]] Zuzana Kubišová, *The Architect's Pocket Guide to Portfolio Design*, Pasul 2
+- [[SRC-048-ux-portfolio-design|SRC-048]] Ian Fenn, *UX Portfolio Design*, cap. 3 și 5
+- [[SRC-046-architects-pocket-guide-to-portfolio-design|SRC-046]] Zuzana Kubišová, *The Architect's Pocket Guide to Portfolio Design*, Pasul 2
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PRT-1404-analiza-anuntului-de-angajare-ghideaza-curatoria|PRT-1404]] _aplicare_ — Curatoria portofoliului pornește din analiza anunțului de angajare, cu markerul
+- [[PRT-1411-juniorul-fara-experienta-un-studiu-bun-si-dovezi|PRT-1411]] _vezi_ — Juniorul fără experiență are nevoie de un studiu de caz bun și de dovezi ale calităților cerute, nu de volum
+- [[PRT-1422-curatoria-in-trei-gramezi-da-nu-poate|PRT-1422]] _fundament_ — Selecția pentru portofoliu se face în trei grămezi — DA, NU, POATE — cu cinci întrebări de control
+- [[SRC-048-ux-portfolio-design|SRC-048]] — UX Portfolio Design
+<!-- backlinks:end -->

@@ -48,10 +48,19 @@ Old Spice a folosit în 2010 un personaj (Isaiah Mustafa) într-un spot TV deven
 
 ## Legături
 
-- **vezi** [[SOC-1114]] — tipologia influencerilor după reach completează definiția.
-- **vezi** [[SOC-1132]] — granița creator–brand se estompează când creatorii își lansează propriile branduri.
-- **vezi** [[SOC-1118]] — orice relație materială transformă conținutul în reclamă care trebuie declarată.
+- **vezi** [[SOC-1114-nivelurile-de-influenceri-dupa-reach-nano-micro-mid-tier|SOC-1114]] — tipologia influencerilor după reach completează definiția.
+- **vezi** [[SOC-1132-creatorii-devin-branduri-de-la-endorsement-la-creator|SOC-1132]] — granița creator–brand se estompează când creatorii își lansează propriile branduri.
+- **vezi** [[SOC-1118-colaborarea-platita-se-declara-clar-la-inceput-in-fiecare|SOC-1118]] — orice relație materială transformă conținutul în reclamă care trebuie declarată.
 
 ## Surse
 
-- [[SRC-035]] Glenister, *Influencer Marketing Strategy*, Introducere, p. 19–21; cap. 1, p. 36–43
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] Glenister, *Influencer Marketing Strategy*, Introducere, p. 19–21; cap. 1, p. 36–43
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[SOC-1114-nivelurile-de-influenceri-dupa-reach-nano-micro-mid-tier|SOC-1114]] _fundament_ — Nivelurile de influenceri după reach: nano, micro, mid-tier, macro, mega
+- [[SOC-1118-colaborarea-platita-se-declara-clar-la-inceput-in-fiecare|SOC-1118]] _fundament_ — Colaborarea plătită se declară clar, la început, în fiecare format
+- [[SOC-1132-creatorii-devin-branduri-de-la-endorsement-la-creator|SOC-1132]] _extinde_ — Creatorii devin branduri: de la endorsement la creator economy
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] — Influencer Marketing Strategy: How influencers can help grow your business
+<!-- backlinks:end -->

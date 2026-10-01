@@ -43,11 +43,28 @@ McTigue și Rucker urmăresc tot cartea o firmă fictivă B2B de stocare cloud. 
 
 ## Legături
 
-- **exemplu** [[BRF-0702]] — caz complet pentru cele șase componente.
-- **aplicare** [[BRF-0703]] — obiectivul de comunicare în practică.
-- **aplicare** [[BRF-0705]] — mutarea cadrului de referință.
-- **vezi** [[BRF-0711]] — prima reclamă Stark devine material pentru feedback.
+- **exemplu** [[BRF-0702-brief-ul-mctigue-rucker-are-sase-componente-pe-o-pagina|BRF-0702]] — caz complet pentru cele șase componente.
+- **aplicare** [[BRF-0703-obiectivul-din-brief-este-unul-de-comunicare|BRF-0703]] — obiectivul de comunicare în practică.
+- **aplicare** [[BRF-0705-declaratia-de-pozitionare-tinta-cadru-diferenta-motiv|BRF-0705]] — mutarea cadrului de referință.
+- **vezi** [[BRF-0711-feedback-la-creatie-in-patru-categorii|BRF-0711]] — prima reclamă Stark devine material pentru feedback.
 
 ## Surse
 
-- [[SRC-022]] Kevin McTigue, Derek D. Rucker, *The Creative Brief Blueprint*, secțiunile „Revisiting the Brief" din cap. 2–7 și deschiderea cap. 8
+- [[SRC-022-the-creative-brief-blueprint|SRC-022]] Kevin McTigue, Derek D. Rucker, *The Creative Brief Blueprint*, secțiunile „Revisiting the Brief" din cap. 2–7 și deschiderea cap. 8
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRF-0702-brief-ul-mctigue-rucker-are-sase-componente-pe-o-pagina|BRF-0702]] _aplicare_ — Brief-ul McTigue–Rucker are șase componente și încape pe o singură pagină
+- [[BRF-0703-obiectivul-din-brief-este-unul-de-comunicare|BRF-0703]] _exemplu_ — Obiectivul din brief este unul de comunicare — specific, falsificabil și legat de bariera principală
+- [[BRF-0704-targetarea-inseamna-prioritizare-trei-erori-si-tinta-own-attract-accept|BRF-0704]] _exemplu_ — Targetarea înseamnă prioritizare — trei erori tipice și ținta Own–Attract–Accept
+- [[BRF-0705-declaratia-de-pozitionare-tinta-cadru-diferenta-motiv|BRF-0705]] — Declarația de poziționare din brief — țintă, cadru de referință, punct de diferență, motiv de a crede
+- [[BRF-0709-sectiunea-de-executie-patru-piloni|BRF-0709]] _exemplu_ — Secțiunea de execuție a brief-ului are patru piloni — personalitate, mandatories, timing și buget, media
+- [[BRF-0710-masurarea-se-scrie-in-brief-inainte-de-campanie|BRF-0710]] _exemplu_ — Măsurarea se scrie în brief înainte de campanie, iar testarea se justifică prin incertitudine și miză
+- [[BRF-0711-feedback-la-creatie-in-patru-categorii|BRF-0711]] _exemplu_ — Feedback-ul la creație se organizează în patru categorii — iubesc, îmi place, întrebări, semnale roșii
+- [[BRF-0713-brief-ul-ingradeste-curtea|BRF-0713]] — Brief-ul „îngrădește curtea" — constrângerea strategică le dă creativilor de unde să pornească
+- [[BRF-0715-modelul-euro-rscg-australia-sarcina-trei-insighturi-creatia|BRF-0715]] — Modelul de brief Euro RSCG Australia — sarcina, trei insight-uri triangulate, creația și un lanț de aprobări
+- [[BRF-0716-brief-ul-get-to-by-strategia-intr-o-fraza|BRF-0716]] — Brief-ul Get/To/By pune toată strategia într-o frază cu patru verigi — țintă, răspuns, mesaj, motiv
+- [[INS-0702-insight-ul-se-gaseste-tragand-de-firul-unui-ce-surprinzator|INS-0702]] _aplicare_ — Insight-ul se găsește trăgând de firul unui „ce" surprinzător până la „de ce"
+- [[SRC-022-the-creative-brief-blueprint|SRC-022]] — The Creative Brief Blueprint
+<!-- backlinks:end -->

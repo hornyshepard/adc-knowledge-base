@@ -47,11 +47,21 @@ O bancă vizează cuplurile DINK din Germania (8,72 milioane de oameni în 2022;
 
 ## Legături
 
-- **vezi** [[DIG-1007]] — cele cinci întrebări care umplu persona.
-- **vezi** [[DIG-1008]] — versiunea minimă cu care poți porni o campanie.
-- **vezi** [[DIG-1009]] — „bring your own persona" pune la îndoială predictibilitatea personelor.
+- **vezi** [[DIG-1007-persona-raspunde-la-cinci-intrebari|DIG-1007]] — cele cinci întrebări care umplu persona.
+- **vezi** [[DIG-1008-minimum-viable-persona-pornesti-cu-minimul|DIG-1008]] — versiunea minimă cu care poți porni o campanie.
+- **vezi** [[DIG-1009-bring-your-own-persona-contesta-persona-clasica|DIG-1009]] — „bring your own persona" pune la îndoială predictibilitatea personelor.
 
 ## Surse
 
-- [[SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 2.2.2 (p. 42–47)
-- [[SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 3 (p. 90–92)
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 2.2.2 (p. 42–47)
+- [[SRC-031-digital-marketing-manual|SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 3 (p. 90–92)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRF-1001-briefingul-campaniei-digitale-patru-blocuri|BRF-1001]] _vezi_ — Brief-ul pentru o campanie digitală are patru blocuri — situația de pornire, problema și obiectivele, ținta (cu persona și journey), bugetul și calendarul
+- [[DIG-1007-persona-raspunde-la-cinci-intrebari|DIG-1007]] _fundament_ — O persona utilă pentru campanii răspunde la cinci întrebări — de ce acum, ce așteaptă, ce o oprește, cine o influențează, unde o găsești
+- [[DIG-1009-bring-your-own-persona-contesta-persona-clasica|DIG-1009]] _contrazice_ — „Bring your own persona" (BYOP) contestă persona clasică — oamenii vin cu niveluri diferite de competență digitală și de încredere în date
+- [[SRC-031-digital-marketing-manual|SRC-031]] — Digital Marketing
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] — Digital Advertising in the Post-cookie Era: Strategic Campaign Planning Across the Customer Journey
+<!-- backlinks:end -->

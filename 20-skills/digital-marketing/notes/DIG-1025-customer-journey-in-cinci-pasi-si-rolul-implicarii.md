@@ -54,10 +54,19 @@ Autonomia unei mașini electrice e în același timp câștig (criteriu de alege
 
 ## Legături
 
-- **fundament** [[DIG-1007]] — câștigurile și durerile vin din profilul personei.
-- **alternativa** [[DIG-1005]] — pâlnia AIDA digitală, mai generală, din SRC-031.
-- **aplicare** [[DIG-1026]] — journey-ul devine structura grupurilor de campanie.
+- **fundament** [[DIG-1007-persona-raspunde-la-cinci-intrebari|DIG-1007]] — câștigurile și durerile vin din profilul personei.
+- **alternativa** [[DIG-1005-palnia-de-conversie-digitala-aida-este-parcursa-neliniar|DIG-1005]] — pâlnia AIDA digitală, mai generală, din SRC-031.
+- **aplicare** [[DIG-1026-grup-de-campanie-pe-persona-subcampanii-pe-etape|DIG-1026]] — journey-ul devine structura grupurilor de campanie.
 
 ## Surse
 
-- [[SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 2.2.3.1–2.2.3.2 (p. 56–60)
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 2.2.3.1–2.2.3.2 (p. 56–60)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-1005-palnia-de-conversie-digitala-aida-este-parcursa-neliniar|DIG-1005]] _alternativa_ — Pâlnia de conversie digitală (AIDA digital) descrie etapele, dar cumpărătorul real le parcurge neliniar, cu întreruperi și pe mai multe dispozitive
+- [[DIG-1007-persona-raspunde-la-cinci-intrebari|DIG-1007]] _aplicare_ — O persona utilă pentru campanii răspunde la cinci întrebări — de ce acum, ce așteaptă, ce o oprește, cine o influențează, unde o găsești
+- [[DIG-1026-grup-de-campanie-pe-persona-subcampanii-pe-etape|DIG-1026]] _fundament_ — Fiecare buyer persona primește propriul grup de campanie, împărțit în subcampanii pentru Aware, Appeal și Ask, fiecare cu obiective și KPI separate
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] — Digital Advertising in the Post-cookie Era: Strategic Campaign Planning Across the Customer Journey
+<!-- backlinks:end -->

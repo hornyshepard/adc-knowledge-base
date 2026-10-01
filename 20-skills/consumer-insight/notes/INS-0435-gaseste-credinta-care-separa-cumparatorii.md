@@ -47,12 +47,21 @@ Fructele de mare: deși sănătoase, nu sunt cumpărate pentru că familia nu le
 
 ## Legături
 
-- **fundament** [[INS-0427]] — componenta de atitudine e un model expectanță-valoare.
-- **extinde** [[INS-0436]] — intențiile de implementare reduc distanța dintre intenție și comportament.
-- **contrazice** [[INS-0437]] — pentru comportamentele habituale, comportamentul trecut bate intenția.
-- **vezi** [[INS-0417]] — frâna (omega) e adesea norma sau controlul, nu atitudinea.
-- **aplicare** [[INS-0447]] — decalajul dintre atitudinile etice declarate și cumpărare.
+- **fundament** [[INS-0427-atitudinea-ca-suma-convingeri-ori-evaluari|INS-0427]] — componenta de atitudine e un model expectanță-valoare.
+- **extinde** [[INS-0436-intentiile-de-implementare-daca-atunci|INS-0436]] — intențiile de implementare reduc distanța dintre intenție și comportament.
+- **contrazice** [[INS-0437-obiceiul-bate-intentia-in-contexte-stabile|INS-0437]] — pentru comportamentele habituale, comportamentul trecut bate intenția.
+- **vezi** [[INS-0417-strategii-alfa-si-omega-ale-persuasiunii|INS-0417]] — frâna (omega) e adesea norma sau controlul, nu atitudinea.
+- **aplicare** [[INS-0447-decalajul-atitudine-comportament-in-consumul-etic|INS-0447]] — decalajul dintre atitudinile etice declarate și cumpărare.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 6, p. 258-270, 273-274
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 6, p. 258-270, 273-274
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[INS-0436-intentiile-de-implementare-daca-atunci|INS-0436]] _extinde_ — Planul „dacă situația X, atunci fac Y" transformă intenția în acțiune (intențiile de implementare)
+- [[INS-0437-obiceiul-bate-intentia-in-contexte-stabile|INS-0437]] _contrazice_ — În contexte stabile și repetate, obiceiul bate intenția — de aceea consumatorii habituali aproape că nu pot fi „furați"
+- [[INS-0447-decalajul-atitudine-comportament-in-consumul-etic|INS-0447]] _aplicare_ — Consumatorii declară valori etice, dar cumpără din obișnuință, comoditate și presiune socială (decalajul atitudine-comportament)
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->

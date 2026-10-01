@@ -44,10 +44,20 @@ La conferințe, autorul își petrece cele zece minute dinaintea intervenției a
 
 ## Legături
 
-- **vezi** [[PIT-1425]] — după calmare urmează încălzirea fizică și vocală.
-- **aplicare** [[PIT-1414]] — deschiderea bine repetată e primul „quick win”.
-- **vezi** [[PIT-1422]] — respirația și pauza ajută și în Q&A.
+- **vezi** [[PIT-1425-energia-nivel-8-si-incalzirea|PIT-1425]] — după calmare urmează încălzirea fizică și vocală.
+- **aplicare** [[PIT-1414-deschiderea-star|PIT-1414]] — deschiderea bine repetată e primul „quick win”.
+- **vezi** [[PIT-1422-qa-in-cinci-pasi-si-formula-p-p|PIT-1422]] — respirația și pauza ajută și în Q&A.
 
 ## Surse
 
-- [[SRC-043]] Dominic Colenso, *Cut-Through*, cap. 5 („Ditch the nerves”, „Stop before you start”)
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] Dominic Colenso, *Cut-Through*, cap. 5 („Ditch the nerves”, „Stop before you start”)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CLI-1405-prospectarea-joc-de-consistenta|CLI-1405]] _vezi_ — Prospectarea este un joc de consistență în care se numără activitatea, nu răspunsurile
+- [[PIT-1422-qa-in-cinci-pasi-si-formula-p-p|PIT-1422]] _vezi_ — Q&A se pregătește în cinci pași, iar răspunsul se dă cu formula P + + – P
+- [[PIT-1425-energia-nivel-8-si-incalzirea|PIT-1425]] _fundament_ — Vorbitorul conduce energia sălii la „nivelul 8” și își încălzește corpul și vocea ca un instrument
+- [[PIT-1432-dezbatere-tracul-calmare-sau-video|PIT-1432]] _contrazice_ — Tracul se tratează prin tehnici de calmare sau prin eliminarea necunoscutului? Două abordări în tensiune
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] — Cut-Through: The pitch and presentation playbook
+<!-- backlinks:end -->

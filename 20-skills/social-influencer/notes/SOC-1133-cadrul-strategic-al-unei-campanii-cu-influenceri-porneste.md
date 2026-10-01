@@ -47,11 +47,21 @@ Greșelile listate de autor: obiective neclare, mesaj fără CTA puternic, efort
 
 ## Legături
 
-- **fundament** [[SOC-1117]] — misiunea strategică precede castingul.
-- **aplicare** [[BRF-1101]] — brief-ul pentru influenceri traduce cadrul în instrucțiuni.
-- **vezi** [[SOC-1125]] — KPI-urile se măsoară cu formulele de bază.
-- **vezi** [[SOC-1108]] — obiectivele de etapă nu trebuie confundate cu cele de business.
+- **fundament** [[SOC-1117-mission-cast-create-misiunea-inaintea-castingului-de|SOC-1117]] — misiunea strategică precede castingul.
+- **aplicare** [[BRF-1101-brief-ul-pentru-influenceri-da-directie-dar-lasa-loc|BRF-1101]] — brief-ul pentru influenceri traduce cadrul în instrucțiuni.
+- **vezi** [[SOC-1125-engagement-rate-cpe-si-cpm-aritmetica-de-baza-a-unei|SOC-1125]] — KPI-urile se măsoară cu formulele de bază.
+- **vezi** [[SOC-1108-like-urile-nu-sunt-succes-evaluezi-calatoria-nu-etapa|SOC-1108]] — obiectivele de etapă nu trebuie confundate cu cele de business.
 
 ## Surse
 
-- [[SRC-035]] Glenister, *Influencer Marketing Strategy*, cap. 3, p. 109–140; cap. 10, p. 258–262
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] Glenister, *Influencer Marketing Strategy*, cap. 3, p. 109–140; cap. 10, p. 258–262
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRF-1101-brief-ul-pentru-influenceri-da-directie-dar-lasa-loc|BRF-1101]] _vezi_ — Brief-ul pentru influenceri dă direcție, dar lasă loc interpretării creatorului
+- [[SOC-1117-mission-cast-create-misiunea-inaintea-castingului-de|SOC-1117]] _vezi_ — Mission, Cast, Create: misiunea înaintea castingului de creatori
+- [[SOC-1125-engagement-rate-cpe-si-cpm-aritmetica-de-baza-a-unei|SOC-1125]] _aplicare_ — Engagement rate, CPE și CPM: aritmetica de bază a unei campanii cu influenceri
+- [[SOC-1128-cine-detine-influencer-marketingul-pr-media-agentia|SOC-1128]] _vezi_ — Cine deține influencer marketingul: PR, media, agenția specializată sau brandul
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] — Influencer Marketing Strategy: How influencers can help grow your business
+<!-- backlinks:end -->

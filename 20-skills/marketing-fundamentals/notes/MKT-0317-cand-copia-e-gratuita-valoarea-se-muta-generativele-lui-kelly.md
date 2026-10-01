@@ -45,10 +45,19 @@ Wuebben folosește Spotify ca imagine a viitorului: un catalog uriaș, disponibi
 
 ## Legături
 
-- **extinde** [[EXP-0301]] — întruchiparea live explică de ce experiențele își păstrează valoarea.
-- **vezi** [[MKT-0314]] — personalizarea ca generativ coincide cu componenta „Personalization" din EP².
-- **vezi** [[CLI-0301]] — comoditizarea creației împinge agențiile spre generative.
+- **extinde** [[EXP-0301-experienta-ca-oferta-economica-patru-taramuri-pine-gilmore|EXP-0301]] — întruchiparea live explică de ce experiențele își păstrează valoarea.
+- **vezi** [[MKT-0314-ep2-mixul-de-marketing-al-prosumatorului|MKT-0314]] — personalizarea ca generativ coincide cu componenta „Personalization" din EP².
+- **vezi** [[CLI-0301-agentia-viitorului-sase-forte-care-ii-muta-modelul|CLI-0301]] — comoditizarea creației împinge agențiile spre generative.
 
 ## Surse
 
-- [[SRC-008]] Jon Wuebben, *Future Marketing: Winning in the Prosumer Age*, cap. 8; cap. 14 (după Kevin Kelly, *The Inevitable*)
+- [[SRC-008-future-marketing|SRC-008]] Jon Wuebben, *Future Marketing: Winning in the Prosumer Age*, cap. 8; cap. 14 (după Kevin Kelly, *The Inevitable*)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CLI-0301-agentia-viitorului-sase-forte-care-ii-muta-modelul|CLI-0301]] _vezi_ — Agenția viitorului: șase forțe care îi schimbă modelul de afaceri
+- [[DIG-0301-pull-marketing-attract-assist-affiliate-return-on-attention|DIG-0301]] _vezi_ — Pull marketing: Attract, Assist, Affiliate — și măsurarea prin „return on attention”
+- [[EXP-0301-experienta-ca-oferta-economica-patru-taramuri-pine-gilmore|EXP-0301]] _vezi_ — Experiența e o ofertă economică distinctă: progresia valorii și cele patru tărâmuri ale lui Pine & Gilmore
+- [[SRC-008-future-marketing|SRC-008]] — Future Marketing: Winning in the Prosumer Age
+<!-- backlinks:end -->

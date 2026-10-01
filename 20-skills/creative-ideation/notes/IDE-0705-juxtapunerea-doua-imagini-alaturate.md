@@ -44,11 +44,22 @@ O variantă înrudită e **oglinda**: privitorul se așteaptă la o reflexie sim
 
 ## Legături
 
-- **fundament** [[IDE-0701]] — juxtapunerea e un mecanism clasic de brainjack.
-- **vezi** [[IDE-0704]] — privitorul face el combinația dintre cele două cadre.
-- **vezi** [[ART-0705]] — aceeași logică între cuvânt și imagine (HSBC).
-- **vezi** [[ART-0703]] — juxtapunerea de scări diferite.
+- **fundament** [[IDE-0701-brainjack-ideea-captureaza-mintea-nu-doar-ochiul|IDE-0701]] — juxtapunerea e un mecanism clasic de brainjack.
+- **vezi** [[IDE-0704-ideile-noi-sunt-combinatii-bisociatia-lui-koestler|IDE-0704]] — privitorul face el combinația dintre cele două cadre.
+- **vezi** [[ART-0705-tipografia-distributia-de-actori-a-cuvintelor|ART-0705]] — aceeași logică între cuvânt și imagine (HSBC).
+- **vezi** [[ART-0703-schimbarea-de-scara-si-imaginea-din-elemente-mici|ART-0703]] — juxtapunerea de scări diferite.
 
 ## Surse
 
-- [[SRC-024]] John Ingledew, *The A–Z of Visual Ideas*, intrările „Juxtaposition" și „Mirror, mirror"
+- [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] John Ingledew, *The A–Z of Visual Ideas*, intrările „Juxtaposition" și „Mirror, mirror"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ART-0703-schimbarea-de-scara-si-imaginea-din-elemente-mici|ART-0703]] _vezi_ — Schimbarea de scară și imaginea construită din multe elemente mici răstoarnă ordinea așteptată a lumii
+- [[ART-0705-tipografia-distributia-de-actori-a-cuvintelor|ART-0705]] _vezi_ — Tipografia este distribuția de actori a cuvintelor, iar cuvântul și imaginea trebuie să se tensioneze, nu să se repete
+- [[IDE-0701-brainjack-ideea-captureaza-mintea-nu-doar-ochiul|IDE-0701]] — „Brainjack" — ideea bună capturează mintea privitorului, nu doar ochiul
+- [[IDE-0704-ideile-noi-sunt-combinatii-bisociatia-lui-koestler|IDE-0704]] _vezi_ — Ideile noi sunt combinații — bisociația lui Koestler și gândirea combinatorie
+- [[IDE-0707-metafora-vizuala-si-asemanarea-formala|IDE-0707]] _vezi_ — Metafora vizuală și asemănarea formală — un lucru arată ca altul și îi împrumută calitățile
+- [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] — The A–Z of Visual Ideas: How to Solve Any Creative Brief
+<!-- backlinks:end -->

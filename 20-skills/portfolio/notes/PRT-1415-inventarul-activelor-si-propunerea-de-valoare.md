@@ -53,10 +53,20 @@ Din același material se scriu apoi versiuni de lungimi diferite: rezumatul din 
 
 ## Legături
 
-- **fundament** [[PRT-1414]] — inventarul e materia primă a brandului personal.
-- **aplicare** [[PRT-1408]] — formula X-Y-Z a lui Fenn transformă realizarea în titlu.
-- **vezi** [[PRT-1409]] — aceeași logică situație–acțiune–rezultat structurează studiul de caz.
+- **fundament** [[PRT-1414-cariera-ca-afacere-brand-personal-pe-platforma-proprie|PRT-1414]] — inventarul e materia primă a brandului personal.
+- **aplicare** [[PRT-1408-introducerea-si-titlurile-vand-relevanta|PRT-1408]] — formula X-Y-Z a lui Fenn transformă realizarea în titlu.
+- **vezi** [[PRT-1409-studiul-de-caz-brief-ce-am-facut-rezultate|PRT-1409]] — aceeași logică situație–acțiune–rezultat structurează studiul de caz.
 
 ## Surse
 
-- [[SRC-047]] Hannah Morgan, *The Infographic Resume*, cap. 3
+- [[SRC-047-the-infographic-resume|SRC-047]] Hannah Morgan, *The Infographic Resume*, cap. 3
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PRT-1414-cariera-ca-afacere-brand-personal-pe-platforma-proprie|PRT-1414]] _vezi_ — Candidatul își tratează cariera ca pe o afacere — un brand personal găzduit pe o platformă pe care o deține
+- [[PRT-1416-povestea-de-sine-explicare-si-pitch-pixar|PRT-1416]] _fundament_ — Răspunsul la „Spune-mi despre tine” se construiește cu principiile explicării și cu structura pitch-ului Pixar
+- [[PRT-1417-cv-ul-vizual-arata-rezultate-si-are-versiune-text|PRT-1417]] _fundament_ — CV-ul vizual funcționează doar dacă arată rezultate, se potrivește cititorului și are mereu o versiune text
+- [[PRT-1426-cv-declaratia-de-design-si-scrisoarea-de-intentie|PRT-1426]] _vezi_ — CV-ul, declarația de design și scrisoarea de intenție completează portofoliul — funcționale, scurte și adaptate fiecărei aplicații
+- [[SRC-047-the-infographic-resume|SRC-047]] — The Infographic Resume: How to Create a Visual Portfolio That Showcases Your Skills and Lands the Job
+<!-- backlinks:end -->

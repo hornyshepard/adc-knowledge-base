@@ -53,14 +53,25 @@ Contrapunctul: aceleași cărți au anticipat corect lucruri importante: brandur
 
 ## Legături
 
-- **aplicare** [[MKT-0306]] — nivelurile mega / macro / micro sunt primul filtru.
-- **vezi** [[MKT-0315]] — prognozele lui Wuebben pentru 2021, verificate.
-- **vezi** [[DIG-0302]] — căutarea vocală: o practică utilă împinsă de o statistică exagerată.
-- **vezi** [[MKT-0303]] — biasul de disponibilitate face trendul la modă să pară universal.
+- **aplicare** [[MKT-0306-trendurile-se-citesc-pe-trei-niveluri-mega-macro-micro|MKT-0306]] — nivelurile mega / macro / micro sunt primul filtru.
+- **vezi** [[MKT-0315-zece-schimbari-prezise-pentru-2021-de-la-branduri-la-platforme|MKT-0315]] — prognozele lui Wuebben pentru 2021, verificate.
+- **vezi** [[DIG-0302-cautarea-vocala-optimizare-pentru-intrebari-conversationale|DIG-0302]] — căutarea vocală: o practică utilă împinsă de o statistică exagerată.
+- **vezi** [[MKT-0303-strategiile-esueaza-din-cauza-biasurilor|MKT-0303]] — biasul de disponibilitate face trendul la modă să pară universal.
 
 ## Surse
 
-- [[SRC-008]] Jon Wuebben, *Future Marketing*, cap. 10, 12, 17
-- [[SRC-009]] The DX Review, *Future-Proof Marketing*, întreaga carte
-- [[SRC-010]] Patrick Ejeke, *Marketing Trends*, trendurile 13, 39, 47, 51–52
-- [[SRC-007]] H. von Scheel et al., *Strategy in the Age of Disruption*, cap. 2, 4, 5
+- [[SRC-008-future-marketing|SRC-008]] Jon Wuebben, *Future Marketing*, cap. 10, 12, 17
+- [[SRC-009-future-proof-marketing-2024-and-beyond|SRC-009]] The DX Review, *Future-Proof Marketing*, întreaga carte
+- [[SRC-010-marketing-trends-ejeke|SRC-010]] Patrick Ejeke, *Marketing Trends*, trendurile 13, 39, 47, 51–52
+- [[SRC-007-strategy-in-the-age-of-disruption|SRC-007]] H. von Scheel et al., *Strategy in the Age of Disruption*, cap. 2, 4, 5
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-0302-cautarea-vocala-optimizare-pentru-intrebari-conversationale|DIG-0302]] _vezi_ — Căutarea vocală cere conținut scris ca răspuns la întrebări rostite — o prognoză exagerată, dar o practică utilă
+- [[DIG-0304-micro-momentele-patru-intentii|DIG-0304]] _vezi_ — Micro-momentele: patru intenții — vreau să știu, să merg, să fac, să cumpăr — la care brandul răspunde în secunde
+- [[MKT-0306-trendurile-se-citesc-pe-trei-niveluri-mega-macro-micro|MKT-0306]] _vezi_ — Trendurile se citesc pe trei niveluri: megatrend (10–15 ani), macrotrend (5–10 ani), microtrend (3–5 ani)
+- [[MKT-0315-zece-schimbari-prezise-pentru-2021-de-la-branduri-la-platforme|MKT-0315]] _vezi_ — Zece schimbări prezise pentru 2021: de la branduri la platforme, de la mass-media la meme și mișcări
+- [[SRC-008-future-marketing|SRC-008]] — Future Marketing: Winning in the Prosumer Age
+- [[SRC-009-future-proof-marketing-2024-and-beyond|SRC-009]] — Future-Proof Marketing: Strategies for Success in 2024 and Beyond
+<!-- backlinks:end -->

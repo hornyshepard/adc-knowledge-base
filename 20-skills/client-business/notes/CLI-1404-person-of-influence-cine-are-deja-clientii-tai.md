@@ -44,9 +44,16 @@ Un studio de branding care lucrează des cu restaurante își face parteneri un 
 
 ## Legături
 
-- **extinde** [[CLI-1403]] — partenerii de influență fac, concret, introducerile în trei.
-- **vezi** [[CLI-1405]] — sistemele de recomandări funcționează doar dacă sunt alimentate constant.
+- **extinde** [[CLI-1403-introducerea-in-trei-deschide-usi|CLI-1403]] — partenerii de influență fac, concret, introducerile în trei.
+- **vezi** [[CLI-1405-prospectarea-joc-de-consistenta|CLI-1405]] — sistemele de recomandări funcționează doar dacă sunt alimentate constant.
 
 ## Surse
 
-- [[SRC-045]] Bharat Bhuval Nishad, *The Complete Guide to B2B Sales Success*, „Referrals”, „Person of Influence”, „Reciprocal Referral Relationship”
+- [[SRC-045-b2b-sales-manual|SRC-045]] Bharat Bhuval Nishad, *The Complete Guide to B2B Sales Success*, „Referrals”, „Person of Influence”, „Reciprocal Referral Relationship”
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CLI-1403-introducerea-in-trei-deschide-usi|CLI-1403]] _vezi_ — Introducerea în trei deschide uși pe care apelul rece nu le deschide
+- [[SRC-045-b2b-sales-manual|SRC-045]] — The Complete Guide to B2B Sales Success: Effective Strategies for Lead Generation, Sales Processes, and Closing
+<!-- backlinks:end -->

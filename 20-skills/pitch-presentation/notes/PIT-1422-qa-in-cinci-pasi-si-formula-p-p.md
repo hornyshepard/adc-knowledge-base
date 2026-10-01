@@ -42,10 +42,22 @@ Colenso propune cinci pași, exersați în repetițiile publice:
 
 ## Legături
 
-- **fundament** [[PIT-1420]] — Q&A se exersează în repetițiile publice.
-- **alternativa** [[PIT-1423]] — când întrebarea devine obiecție, se trece la cele cinci R.
-- **vezi** [[PIT-1424]] — respirația și pauza susțin pasul „alegerea stării”.
+- **fundament** [[PIT-1420-cinci-etape-de-repetitie-si-planul-b|PIT-1420]] — Q&A se exersează în repetițiile publice.
+- **alternativa** [[PIT-1423-cele-cinci-r-ale-obiectiilor|PIT-1423]] — când întrebarea devine obiecție, se trece la cele cinci R.
+- **vezi** [[PIT-1424-nervii-sunt-energie-respiratie|PIT-1424]] — respirația și pauza susțin pasul „alegerea stării”.
 
 ## Surse
 
-- [[SRC-043]] Dominic Colenso, *Cut-Through*, cap. 4 („Prepare for Q&A”)
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] Dominic Colenso, *Cut-Through*, cap. 4 („Prepare for Q&A”)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PIT-1417-incheierea-salt-si-regula-peak-end|PIT-1417]] _vezi_ — Încheierea S.A.L.T. controlează ultima impresie, conform regulii peak-end
+- [[PIT-1420-cinci-etape-de-repetitie-si-planul-b|PIT-1420]] _extinde_ — Repetiția trece prin cinci etape, de la „car crash” la repetiția generală
+- [[PIT-1421-echipa-de-pitch-abc-si-tranzitii|PIT-1421]] _vezi_ — Echipa de pitch se alege după ABC și se judecă după tranziții
+- [[PIT-1423-cele-cinci-r-ale-obiectiilor|PIT-1423]] _extinde_ — Obiecțiile se tratează în cinci pași — Reveal, Relate, Refine, Reduce, Redirect
+- [[PIT-1424-nervii-sunt-energie-respiratie|PIT-1424]] _vezi_ — Nervii sunt energie — se reîncadrează, se fragmentează în „quick wins” și se calmează prin respirație
+- [[PIT-1427-implicarea-audientei-fara-tumbleweed|PIT-1427]] _vezi_ — Implicarea audienței se construiește prin întrebări retorice, cadre de interacțiune și nume
+- [[SRC-043-cut-through-pitch-presentation-playbook|SRC-043]] — Cut-Through: The pitch and presentation playbook
+<!-- backlinks:end -->

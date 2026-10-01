@@ -47,13 +47,26 @@ Un studiu de caz cu titlul-realizare, o imagine mare cu legendă și trei bullet
 
 ## Legături
 
-- **fundament** [[PRT-1401]] — designul pentru cititori grăbiți decurge din nevoile utilizatorului.
-- **aplicare** [[PRT-1408]] — introducerea și titlurile formează fast track-ul.
-- **vezi** [[PIT-1418]] — testul telefonului mobil și „o idee pe slide” au aceeași logică.
-- **vezi** [[PRT-1413]] — testul de 30 de secunde se face într-o sesiune de critică structurată.
-- **vezi** [[PRT-1425]] — principiile de layout care fac posibilă lectura rapidă.
+- **fundament** [[PRT-1401-portofoliul-e-un-produs-utilizatorul-e-recrutorul|PRT-1401]] — designul pentru cititori grăbiți decurge din nevoile utilizatorului.
+- **aplicare** [[PRT-1408-introducerea-si-titlurile-vand-relevanta|PRT-1408]] — introducerea și titlurile formează fast track-ul.
+- **vezi** [[PIT-1418-sase-principii-pentru-slide-uri|PIT-1418]] — testul telefonului mobil și „o idee pe slide” au aceeași logică.
+- **vezi** [[PRT-1413-cere-critica-nu-feedback|PRT-1413]] — testul de 30 de secunde se face într-o sesiune de critică structurată.
+- **vezi** [[PRT-1425-portofoliul-e-un-proiect-de-design-structura-invizibila|PRT-1425]] — principiile de layout care fac posibilă lectura rapidă.
 
 ## Surse
 
-- [[SRC-048]] Ian Fenn, *UX Portfolio Design*, cap. 4
-- [[SRC-047]] Hannah Morgan, *The Infographic Resume*, cap. 4
+- [[SRC-048-ux-portfolio-design|SRC-048]] Ian Fenn, *UX Portfolio Design*, cap. 4
+- [[SRC-047-the-infographic-resume|SRC-047]] Hannah Morgan, *The Infographic Resume*, cap. 4
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PRT-1405-doua-trei-proiecte-excelente-bat-cinci-mediocre|PRT-1405]] _vezi_ — Două-trei proiecte excelente bat cinci proiecte înconjurate de mediocritate
+- [[PRT-1408-introducerea-si-titlurile-vand-relevanta|PRT-1408]] _fundament_ — Introducerea și titlurile studiilor de caz vând relevanța pentru cititor, nu adjective
+- [[PRT-1417-cv-ul-vizual-arata-rezultate-si-are-versiune-text|PRT-1417]] _vezi_ — CV-ul vizual funcționează doar dacă arată rezultate, se potrivește cititorului și are mereu o versiune text
+- [[PRT-1418-dezbatere-grafice-de-competente-si-concursuri-de-design|PRT-1418]] _contrazice_ — Graficele de competențe și concursurile de design — Morgan le recomandă, Fenn și Kubišová le resping
+- [[PRT-1424-pagina-de-proiect-textul-spune-ce-nu-arata-imaginea|PRT-1424]] _vezi_ — Pe pagina de proiect, textul spune ce imaginea nu poate arăta — titluri specifice, descrieri scurte, legende informative
+- [[PRT-1425-portofoliul-e-un-proiect-de-design-structura-invizibila|PRT-1425]] _vezi_ — Portofoliul este el însuși un proiect de design — structura invizibilă lasă munca să vorbească, decorul o acoperă
+- [[SRC-047-the-infographic-resume|SRC-047]] — The Infographic Resume: How to Create a Visual Portfolio That Showcases Your Skills and Lands the Job
+- [[SRC-048-ux-portfolio-design|SRC-048]] — UX Portfolio Design
+<!-- backlinks:end -->

@@ -46,10 +46,19 @@ Autoarele observă că mărcile mută o parte tot mai mare din comunicarea clasi
 
 ## Legături
 
-- **extinde** [[ADV-0612]] — alegerea suporturilor media și non-media.
-- **vezi** [[ADV-0615]] — fiecare strat de țintă are punctele lui de contact.
-- **vezi** [[STO-0601]] — brand content-ul e motorul principal al media deținute și câștigate.
+- **extinde** [[ADV-0612-planul-strategic-de-comunicare-e-un-lant-logic|ADV-0612]] — alegerea suporturilor media și non-media.
+- **vezi** [[ADV-0615-tinta-principala-nucleul-si-tintele-de-influenta-push-pull|ADV-0615]] — fiecare strat de țintă are punctele lui de contact.
+- **vezi** [[STO-0601-brand-content-aduce-consumatorul-la-brand|STO-0601]] — brand content-ul e motorul principal al media deținute și câștigate.
 
 ## Surse
 
-- [[SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 21 (p. 78–79), outil 13 (p. 48–49), outil 34 (p. 116–117)
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] Servanne Barre, Anne-Marie Gayrard-Carrera, *La boîte à outils de la publicité*, outil 21 (p. 78–79), outil 13 (p. 48–49), outil 34 (p. 116–117)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[ADV-0615-tinta-principala-nucleul-si-tintele-de-influenta-push-pull|ADV-0615]] _vezi_ — Ținta de comunicare are straturi — țintă principală, nucleu și ținte de influență — și se atinge prin push sau pull
+- [[ADV-0622-comunicarea-de-criza-recunoaste-masoara-nu-nega|ADV-0622]] _vezi_ — În comunicarea de criză, negarea e cea mai proastă opțiune — recunoaște primul, măsoară impactul, alege canalul, spune adevărul, învață
+- [[STO-0601-brand-content-aduce-consumatorul-la-brand|STO-0601]] _vezi_ — Brand content-ul inversează sensul publicității — consumatorul vine la brand pentru informație, utilitate sau divertisment
+- [[SRC-019-la-boite-a-outils-de-la-publicite|SRC-019]] — La boîte à outils de la publicité
+<!-- backlinks:end -->

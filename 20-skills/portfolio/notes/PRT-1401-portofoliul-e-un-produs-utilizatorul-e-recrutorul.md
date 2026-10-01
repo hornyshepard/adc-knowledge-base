@@ -47,11 +47,23 @@ Prietenul lui Fenn, „Dave”, a prezentat o oră proiecte de cercetare unui cl
 
 ## Legături
 
-- **extinde** [[PRT-1404]] — nevoile utilizatorului se descoperă prin analiza anunțului.
-- **vezi** [[PRT-1402]] — portofoliul trimis trebuie să funcționeze fără tine în cameră.
-- **vezi** [[PIT-1405]] — aceeași logică „nu e despre tine” din cercetarea audienței unui pitch.
+- **extinde** [[PRT-1404-analiza-anuntului-de-angajare-ghideaza-curatoria|PRT-1404]] — nevoile utilizatorului se descoperă prin analiza anunțului.
+- **vezi** [[PRT-1402-portofoliul-diferit-de-prezentarea-portofoliului|PRT-1402]] — portofoliul trimis trebuie să funcționeze fără tine în cameră.
+- **vezi** [[PIT-1405-cercetarea-audientei-fapte-vs-sentimente|PIT-1405]] — aceeași logică „nu e despre tine” din cercetarea audienței unui pitch.
 
 ## Surse
 
-- [[SRC-048]] Ian Fenn, *UX Portfolio Design*, cap. 1 și 3
-- [[SRC-047]] Hannah Morgan, *The Infographic Resume*, cap. 4
+- [[SRC-048-ux-portfolio-design|SRC-048]] Ian Fenn, *UX Portfolio Design*, cap. 1 și 3
+- [[SRC-047-the-infographic-resume|SRC-047]] Hannah Morgan, *The Infographic Resume*, cap. 4
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[PRT-1402-portofoliul-diferit-de-prezentarea-portofoliului|PRT-1402]] _fundament_ — Portofoliul trimis dinainte și prezentarea portofoliului sunt două documente diferite
+- [[PRT-1404-analiza-anuntului-de-angajare-ghideaza-curatoria|PRT-1404]] _fundament_ — Curatoria portofoliului pornește din analiza anunțului de angajare, cu markerul
+- [[PRT-1406-portofoliul-proiectat-pentru-30-de-secunde|PRT-1406]] _fundament_ — Portofoliul se proiectează pentru 30 de secunde — un fast track și un slow track
+- [[PRT-1410-sandvisul-portofoliului-si-ce-nu-se-include|PRT-1410]] _fundament_ — Portofoliul este un „sandviș” — introducere, studii de caz, completări — și are lucruri care nu se pun deloc
+- [[PRT-1413-cere-critica-nu-feedback|PRT-1413]] _fundament_ — Pentru portofoliu cere critică structurată, nu „feedback” general, și verifică tonul înainte de a-l trimite
+- [[SRC-047-the-infographic-resume|SRC-047]] — The Infographic Resume: How to Create a Visual Portfolio That Showcases Your Skills and Lands the Job
+- [[SRC-048-ux-portfolio-design|SRC-048]] — UX Portfolio Design
+<!-- backlinks:end -->

@@ -43,10 +43,18 @@ Pentru ținte multiple, autorii propun **ținta-țintar** (*bull's-eye*): în ce
 
 ## Legături
 
-- **fundament** [[BRF-0703]] — ținta se alege în funcție de obiectivul de comunicare.
-- **vezi** [[INS-0701]] — insight-ul trebuie să fie adevărat pentru această țintă, nu pentru toți oamenii.
-- **exemplu** [[BRF-0714]] — Stark îngustează ținta de la „IMM-uri" la firme cu servere vechi.
+- **fundament** [[BRF-0703-obiectivul-din-brief-este-unul-de-comunicare|BRF-0703]] — ținta se alege în funcție de obiectivul de comunicare.
+- **vezi** [[INS-0701-insight-ul-este-un-adevar-uman-semnificativ|INS-0701]] — insight-ul trebuie să fie adevărat pentru această țintă, nu pentru toți oamenii.
+- **exemplu** [[BRF-0714-cazul-stark-cloud-solutions-de-la-brief-bun-la-excelent|BRF-0714]] — Stark îngustează ținta de la „IMM-uri" la firme cu servere vechi.
 
 ## Surse
 
-- [[SRC-022]] Kevin McTigue, Derek D. Rucker, *The Creative Brief Blueprint*, cap. 3 „Target"
+- [[SRC-022-the-creative-brief-blueprint|SRC-022]] Kevin McTigue, Derek D. Rucker, *The Creative Brief Blueprint*, cap. 3 „Target"
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRF-0702-brief-ul-mctigue-rucker-are-sase-componente-pe-o-pagina|BRF-0702]] — Brief-ul McTigue–Rucker are șase componente și încape pe o singură pagină
+- [[INS-0701-insight-ul-este-un-adevar-uman-semnificativ|INS-0701]] _vezi_ — Insight-ul este un adevăr uman semnificativ — trebuie să treacă testul sensului, al omului și al adevărului
+- [[SRC-022-the-creative-brief-blueprint|SRC-022]] — The Creative Brief Blueprint
+<!-- backlinks:end -->

@@ -46,10 +46,18 @@ Lipton Iced Tea a lansat în Australia cea mai mare campanie a sa condusă de cr
 
 ## Legături
 
-- **vezi** [[SOC-1127]] — amplificarea plătită mută conținutul creatorilor din shared în paid.
-- **vezi** [[SOC-1128]] — PESO explică de ce PR-ul, media și agențiile specializate își dispută influencer marketingul.
-- **vezi** [[STO-1112]] — UGC-ul este forma pură de media câștigată.
+- **vezi** [[SOC-1127-continutul-creatorilor-se-amplifica-platit-dupa-ce-isi|SOC-1127]] — amplificarea plătită mută conținutul creatorilor din shared în paid.
+- **vezi** [[SOC-1128-cine-detine-influencer-marketingul-pr-media-agentia|SOC-1128]] — PESO explică de ce PR-ul, media și agențiile specializate își dispută influencer marketingul.
+- **vezi** [[STO-1112-ugc-este-continut-castigat-pe-care-brandul-nu-il-poate|STO-1112]] — UGC-ul este forma pură de media câștigată.
 
 ## Surse
 
-- [[SRC-035]] Glenister, *Influencer Marketing Strategy*, cap. 1, p. 61–62; cap. 2, p. 102–104; cap. 9, p. 255–256; cap. 10, p. 262–265
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] Glenister, *Influencer Marketing Strategy*, cap. 1, p. 61–62; cap. 2, p. 102–104; cap. 9, p. 255–256; cap. 10, p. 262–265
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[SOC-1127-continutul-creatorilor-se-amplifica-platit-dupa-ce-isi|SOC-1127]] _vezi_ — Conținutul creatorilor se amplifică plătit după ce își dovedește performanța
+- [[SOC-1128-cine-detine-influencer-marketingul-pr-media-agentia|SOC-1128]] _vezi_ — Cine deține influencer marketingul: PR, media, agenția specializată sau brandul
+- [[SRC-035-influencer-marketing-strategy|SRC-035]] — Influencer Marketing Strategy: How influencers can help grow your business
+<!-- backlinks:end -->

@@ -48,10 +48,19 @@ Pentru asamblaj, autoarea reia cele cinci module ale lui Bernd Schmitt: *Sense* 
 
 ## Legături
 
-- **fundament** [[EXP-1202]] — markerii sunt nivelul de mijloc al cadrului drivere–markeri–rezultate.
-- **vezi** [[INS-1201]] — markerul contrastant se sprijină pe perspectiva hedonică a lui Holbrook & Hirschman.
-- **vezi** [[EXP-1215]] — Extension operaționalizează markerul cumulativ prin ideea de continuum.
+- **fundament** [[EXP-1202-cadrul-cx-drivere-markeri-rezultate|EXP-1202]] — markerii sunt nivelul de mijloc al cadrului drivere–markeri–rezultate.
+- **vezi** [[INS-1201-consumul-hedonic-fantezii-sentimente-distractie|INS-1201]] — markerul contrastant se sprijină pe perspectiva hedonică a lui Holbrook & Hirschman.
+- **vezi** [[EXP-1215-extension-continuumul-experientei-pana-acasa|EXP-1215]] — Extension operaționalizează markerul cumulativ prin ideea de continuum.
 
 ## Surse
 
-- [[SRC-036]] Wided Batat, *Experiential Marketing*, cap. 3, secț. „Markers…" (mini-cazurile 3.15 Sephora, 3.16 Heathrow, 3.17 videoclipuri de siguranță; Theory Box 3.6)
+- [[SRC-036-experiential-marketing|SRC-036]] Wided Batat, *Experiential Marketing*, cap. 3, secț. „Markers…" (mini-cazurile 3.15 Sephora, 3.16 Heathrow, 3.17 videoclipuri de siguranță; Theory Box 3.6)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[EXP-1202-cadrul-cx-drivere-markeri-rezultate|EXP-1202]] _vezi_ — Experiența clientului e un proces cu drivere, markeri și rezultate (cadrul customer experience marketing)
+- [[EXP-1215-extension-continuumul-experientei-pana-acasa|EXP-1215]] _extinde_ — Extension — experiența trebuie gândită ca un continuum fără rupturi, din magazin până acasă
+- [[INS-1201-consumul-hedonic-fantezii-sentimente-distractie|INS-1201]] _vezi_ — Perspectiva experiențială — consumul înseamnă și fantezii, sentimente și distracție, nu doar procesare de informații
+- [[SRC-036-experiential-marketing|SRC-036]] — Experiential Marketing: Consumer Behavior, Customer Experience and the 7Es
+<!-- backlinks:end -->

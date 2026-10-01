@@ -46,11 +46,22 @@ Mutarea Burberry spre „super-lux" (2017) e pusă sub semnul întrebării de au
 
 ## Legături
 
-- **alternativa** [[BRD-0507]] — strategiile de susținere trebuie încercate înainte de repoziționare.
-- **vezi** [[BRD-0521]] — modelul notorietate–simpatie–cotă arată când repoziționarea e strategia potrivită.
-- **vezi** [[BRD-0514]] — pionierii sunt cei mai expuși la reîncadrarea categoriei.
-- **fundament** [[BRD-0504]] — multe repoziționări înseamnă de fapt schimbarea cadrului de referință.
+- **alternativa** [[BRD-0507-o-pozitie-se-sustine-prin-instantiere-moderna-schimbarea|BRD-0507]] — strategiile de susținere trebuie încercate înainte de repoziționare.
+- **vezi** [[BRD-0521-modelul-notorietate-simpatie-cota-de-piata-indica-strategia|BRD-0521]] — modelul notorietate–simpatie–cotă arată când repoziționarea e strategia potrivită.
+- **vezi** [[BRD-0514-momentul-intrarii-pe-piata-pionier-urmaritor-rapid-sau|BRD-0514]] — pionierii sunt cei mai expuși la reîncadrarea categoriei.
+- **fundament** [[BRD-0504-cadrul-de-referinta-spune-consumatorului-ce-scop|BRD-0504]] — multe repoziționări înseamnă de fapt schimbarea cadrului de referință.
 
 ## Surse
 
-- [[SRC-014]] Alice M. Tybout, „Brand Positioning", cap. 1, p. 15–18; Julie Hennessy, „Measuring Brand Relevance and Health", cap. 15, p. 229–230, în *Kellogg on Branding in a Hyper-Connected World*
+- [[SRC-014-kellogg-on-branding|SRC-014]] Alice M. Tybout, „Brand Positioning", cap. 1, p. 15–18; Julie Hennessy, „Measuring Brand Relevance and Health", cap. 15, p. 229–230, în *Kellogg on Branding in a Hyper-Connected World*
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-0504-cadrul-de-referinta-spune-consumatorului-ce-scop|BRD-0504]] _vezi_ — Cadrul de referință spune consumatorului ce scop îndeplinește brandul
+- [[BRD-0507-o-pozitie-se-sustine-prin-instantiere-moderna-schimbarea|BRD-0507]] _alternativa_ — O poziție se susține prin instanțiere modernă, schimbarea dovezii și laddering
+- [[BRD-0514-momentul-intrarii-pe-piata-pionier-urmaritor-rapid-sau|BRD-0514]] _vezi_ — Momentul intrării pe piață: pionier, urmăritor rapid sau intrat târziu
+- [[BRD-0521-modelul-notorietate-simpatie-cota-de-piata-indica-strategia|BRD-0521]] _vezi_ — Modelul notorietate–simpatie–cotă de piață indică strategia de brand
+- [[BRD-0526-cazul-mexic-a-contrazice-o-poveste-negativa-te-aduce-doar|BRD-0526]] _vezi_ — Cazul Mexic: a contrazice o poveste negativă te aduce doar la neutru
+- [[SRC-014-kellogg-on-branding|SRC-014]] — Kellogg on Branding in a Hyper-Connected World
+<!-- backlinks:end -->

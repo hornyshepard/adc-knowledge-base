@@ -47,10 +47,20 @@ Seria web „Inside Chanel": un episod e povestit de camelia personificată, cu 
 
 ## Legături
 
-- **vezi** [[BRD-1201]] — storytelling-ul este a doua pârghie a componentei Emphasis.
-- **vezi** [[EXP-1222]] — storyliving-ul duce povestea mai departe, în acțiune trăită.
-- **vezi** [[BRD-1203]] — reclamele Nike urmează un șablon narativ constant de efort și transformare.
+- **vezi** [[BRD-1201-emphasis-de-la-brand-content-la-brand-culture|BRD-1201]] — storytelling-ul este a doua pârghie a componentei Emphasis.
+- **vezi** [[EXP-1222-storyliving-povestea-traita-nu-doar-spusa|EXP-1222]] — storyliving-ul duce povestea mai departe, în acțiune trăită.
+- **vezi** [[BRD-1203-caz-nike-just-do-it-mitul-vointei-individuale|BRD-1203]] — reclamele Nike urmează un șablon narativ constant de efort și transformare.
 
 ## Surse
 
-- [[SRC-036]] Wided Batat, *Experiential Marketing*, cap. 7, secț. „Storytelling", „Transforming a brand's positioning into storytelling", „The hero's journey" (Theory Box 7.2, mini-cazul 7.3 Chanel); cap. 3, mini-cazul 3.9 Apple
+- [[SRC-036-experiential-marketing|SRC-036]] Wided Batat, *Experiential Marketing*, cap. 7, secț. „Storytelling", „Transforming a brand's positioning into storytelling", „The hero's journey" (Theory Box 7.2, mini-cazul 7.3 Chanel); cap. 3, mini-cazul 3.9 Apple
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[BRD-1201-emphasis-de-la-brand-content-la-brand-culture|BRD-1201]] _vezi_ — Emphasis — comunicarea experiențială trece de la brand content la brand culture
+- [[BRD-1202-branding-cultural-holt-mitul-rezolva-contradictii|BRD-1202]] _vezi_ — Brandingul cultural (Holt) — o marcă devine iconică livrând un mit care rezolvă o contradicție culturală
+- [[BRD-1203-caz-nike-just-do-it-mitul-vointei-individuale|BRD-1203]] _vezi_ — Caz — Nike „Just Do It" a construit mitul eroului solitar care învinge prin voință, pe o tensiune culturală a Americii
+- [[EXP-1222-storyliving-povestea-traita-nu-doar-spusa|EXP-1222]] _extinde_ — Storyliving — brandurile care își fac povestea trăită de client depășesc brandurile care doar o spun
+- [[SRC-036-experiential-marketing|SRC-036]] — Experiential Marketing: Consumer Behavior, Customer Experience and the 7Es
+<!-- backlinks:end -->

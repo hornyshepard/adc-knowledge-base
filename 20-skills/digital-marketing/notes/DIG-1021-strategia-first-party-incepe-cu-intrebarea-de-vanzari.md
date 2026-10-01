@@ -44,11 +44,23 @@ O rețea TV oferă gratuit conținut local, live și la cerere, într-o aplicaț
 
 ## Legături
 
-- **extinde** [[DIG-1018]] — a cincea familie de targetare.
-- **fundament** [[DIG-1022]] — fără consimțământ valid, datele proprii nu pot fi folosite.
-- **vezi** [[DIG-1023]] — cum se extind datele proprii dincolo de propriile canale.
+- **extinde** [[DIG-1018-cinci-familii-de-targetare-fara-cookie-uri-terte|DIG-1018]] — a cincea familie de targetare.
+- **fundament** [[DIG-1022-consimtamantul-valid-activ-retras-la-fel-de-usor|DIG-1022]] — fără consimțământ valid, datele proprii nu pot fi folosite.
+- **vezi** [[DIG-1023-identitatea-fara-cookie-uri-trei-trepte-de-reach|DIG-1023]] — cum se extind datele proprii dincolo de propriile canale.
 
 ## Surse
 
-- [[SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 1.3.5.1 (p. 27–31) și 5.1.2 (p. 165–167)
-- [[SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 11 (p. 391–392)
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] Schwarz-Musch, Tauchhammer, Guetz, *Digital Advertising in the Post-cookie Era*, cap. 1.3.5.1 (p. 27–31) și 5.1.2 (p. 165–167)
+- [[SRC-031-digital-marketing-manual|SRC-031]] Raj Sachdev, *Digital Marketing*, cap. 11 (p. 391–392)
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[DIG-1009-bring-your-own-persona-contesta-persona-clasica|DIG-1009]] _vezi_ — „Bring your own persona" (BYOP) contestă persona clasică — oamenii vin cu niveluri diferite de competență digitală și de încredere în date
+- [[DIG-1018-cinci-familii-de-targetare-fara-cookie-uri-terte|DIG-1018]] _vezi_ — Fără cookie-uri terțe rămân cinci familii de targetare, iar profilul pe cookie descria oricum un dispozitiv, nu un om
+- [[DIG-1022-consimtamantul-valid-activ-retras-la-fel-de-usor|DIG-1022]] _vezi_ — Consimțământul valid se cere activ și se poate retrage la fel de ușor — butoane egale, căsuțe nebifate, scopuri explicate, dovadă păstrată
+- [[DIG-1023-identitatea-fara-cookie-uri-trei-trepte-de-reach|DIG-1023]] _extinde_ — Identitatea fără cookie-uri are trei trepte de reach — canalele proprii sau o singură „grădină închisă", camerele curate de date (data clean rooms) și ID-urile universale
+- [[DIG-1029-publicitatea-programatica-licitatie-in-timp-real|DIG-1029]] _vezi_ — Publicitatea programatică cumpără fiecare impresie automat, prin licitație în timp real — câștigă eficiență, pierde control și are nevoie de date și bugete mari
+- [[SOC-1005-concursurile-sociale-efort-versus-implicare|SOC-1005]] _contrazice_ — Concursurile de pe social se aleg după efortul cerut — participarea ușoară aduce mulți oameni, participarea grea aduce mai puțini, dar mai legați de brand
+- [[SRC-032-digital-advertising-in-post-cookies-era|SRC-032]] — Digital Advertising in the Post-cookie Era: Strategic Campaign Planning Across the Customer Journey
+<!-- backlinks:end -->

@@ -53,10 +53,18 @@ Alte idei din capitol:
 
 ## Legături
 
-- **fundament** [[INS-0430]] — procesarea euristică la motivație scăzută.
-- **aplicare** [[INS-0440]] — principiile de influență funcționează prin această lipsă de atenție.
-- **vezi** [[CPY-0406]] — confuzia ușoară reduce și mai mult examinarea cererii.
+- **fundament** [[INS-0430-persuasiunea-pe-ruta-centrala-sau-periferica|INS-0430]] — procesarea euristică la motivație scăzută.
+- **aplicare** [[INS-0440-sapte-principii-de-influenta-fara-schimbarea-atitudinii|INS-0440]] — principiile de influență funcționează prin această lipsă de atenție.
+- **vezi** [[CPY-0406-perturba-apoi-reincadreaza|CPY-0406]] — confuzia ușoară reduce și mai mult examinarea cererii.
 
 ## Surse
 
-- [[SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 7, p. 305-309, 312-313, 339-341
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising*, cap. 7, p. 305-309, 312-313, 339-341
+
+<!-- backlinks:start -->
+## Backlinks
+
+- [[CPY-0406-perturba-apoi-reincadreaza|CPY-0406]] _fundament_ — „Perturbă, apoi reîncadrează" — o ciudățenie mică în formularea prețului, urmată de o concluzie persuasivă, crește vânzarea
+- [[INS-0440-sapte-principii-de-influenta-fara-schimbarea-atitudinii|INS-0440]] _extinde_ — Conformarea fără schimbarea atitudinii se obține prin șapte principii de influență (Cialdini plus confuzia)
+- [[SRC-012-the-psychology-of-advertising|SRC-012]] — The Psychology of Advertising (3rd edition)
+<!-- backlinks:end -->
