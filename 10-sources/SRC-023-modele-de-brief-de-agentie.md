@@ -27,22 +27,22 @@ level: 2
 
 | Document | Tema | Note derivate |
 |---|---|---|
-| Euro RSCG Australia | sarcină, trei insight-uri, creație, lanț de aprobări | [[BRF-0715-modelul-euro-rscg-australia-sarcina-trei-insighturi-creatia|BRF-0715]] |
-| Get/To/By | strategia într-o frază | [[BRF-0716-brief-ul-get-to-by-strategia-intr-o-fraza|BRF-0716]] |
-| Naked Brief | context, învățare, măsuri hard/soft/buzz | [[BRF-0717-naked-brief-informativ-si-inspirational|BRF-0717]] |
-| Red Cell | opt cerințe, calendar, semnături | [[BRF-0718-brief-ul-red-cell-opt-cerinte-si-calendar|BRF-0718]] |
-| Singleton Ogilvy & Mather | rol, insight util, gândește/simte/fă, punct unic și dovadă | [[BRF-0719-brief-ul-singleton-ogilvy-mather-rol-insight-punct-unic-dovada|BRF-0719]] |
-| Toate | comparație și legătura cu modelul McTigue–Rucker | [[BRF-0720-comparatie-intre-modelele-de-brief-de-agentie|BRF-0720]], [[BRF-0707-un-singur-beneficiu-nu-cinci|BRF-0707]] |
+| Euro RSCG Australia | sarcină, trei insight-uri, creație, lanț de aprobări | [[BRF-017-modelul-de-brief-euro-rscg-australia-sarcina-trei-insight\|BRF-017]] |
+| Get/To/By | strategia într-o frază | [[BRF-016-brief-ul-get-to-by-pune-toata-strategia-intr-o-fraza-cu\|BRF-016]] |
+| Naked Brief | context, învățare, măsuri hard/soft/buzz | [[BRF-018-naked-brief-un-brief-informativ-si-inspirational-construit\|BRF-018]] |
+| Red Cell | opt cerințe, calendar, semnături | [[BRF-019-brief-ul-red-cell-opt-cerinte-indicii-de-executie-si-un\|BRF-019]] |
+| Singleton Ogilvy & Mather | rol, insight util, gândește/simte/fă, punct unic și dovadă | [[BRF-020-brief-ul-singleton-ogilvy-mather-rolul-comunicarii-un\|BRF-020]] |
+| Toate | comparație și legătura cu modelul McTigue–Rucker | [[BRF-021-modelele-de-brief-de-agentie-au-acelasi-nucleu-dar-fiecare\|BRF-021]], [[BRF-012-un-singur-beneficiu-nu-cinci-pozitionarea-supraincarcata\|BRF-012]] |
 
 ## Idei-cheie → note permanente
 
-- [[BRF-0715-modelul-euro-rscg-australia-sarcina-trei-insighturi-creatia|BRF-0715]] — Euro RSCG triangulează insight-ul (consumator, produs/brand, categorie) și pune creația „pe baza insight-urilor de mai sus".
-- [[BRF-0716-brief-ul-get-to-by-strategia-intr-o-fraza|BRF-0716]] — Get/To/By comprimă strategia în patru verigi: țintă, răspuns dorit, mesaj, motiv.
-- [[BRF-0717-naked-brief-informativ-si-inspirational|BRF-0717]] — Naked cere un brief „informativ și inspirațional", cu istoric și învățare.
-- [[BRF-0718-brief-ul-red-cell-opt-cerinte-si-calendar|BRF-0718]] — Red Cell pune accent pe proces: calendar intern, cinci semnături.
-- [[BRF-0719-brief-ul-singleton-ogilvy-mather-rol-insight-punct-unic-dovada|BRF-0719]] — Singleton Ogilvy & Mather leagă punctul unic de dovezi „emoționale, senzoriale sau raționale".
-- [[BRF-0720-comparatie-intre-modelele-de-brief-de-agentie|BRF-0720]] — comparația și ce optimizează fiecare.
-- [[BRF-0707-un-singur-beneficiu-nu-cinci|BRF-0707]] — convergența spre o singură propunere.
+- [[BRF-017-modelul-de-brief-euro-rscg-australia-sarcina-trei-insight|BRF-017]] — Euro RSCG triangulează insight-ul (consumator, produs/brand, categorie) și pune creația „pe baza insight-urilor de mai sus".
+- [[BRF-016-brief-ul-get-to-by-pune-toata-strategia-intr-o-fraza-cu|BRF-016]] — Get/To/By comprimă strategia în patru verigi: țintă, răspuns dorit, mesaj, motiv.
+- [[BRF-018-naked-brief-un-brief-informativ-si-inspirational-construit|BRF-018]] — Naked cere un brief „informativ și inspirațional", cu istoric și învățare.
+- [[BRF-019-brief-ul-red-cell-opt-cerinte-indicii-de-executie-si-un|BRF-019]] — Red Cell pune accent pe proces: calendar intern, cinci semnături.
+- [[BRF-020-brief-ul-singleton-ogilvy-mather-rolul-comunicarii-un|BRF-020]] — Singleton Ogilvy & Mather leagă punctul unic de dovezi „emoționale, senzoriale sau raționale".
+- [[BRF-021-modelele-de-brief-de-agentie-au-acelasi-nucleu-dar-fiecare|BRF-021]] — comparația și ce optimizează fiecare.
+- [[BRF-012-un-singur-beneficiu-nu-cinci-pozitionarea-supraincarcata|BRF-012]] — convergența spre o singură propunere.
 
 ## Ce lipsește / ce trebuie citit critic
 
@@ -58,11 +58,12 @@ level: 2
 <!-- backlinks:start -->
 ## Backlinks
 
-- [[BRF-0707-un-singur-beneficiu-nu-cinci|BRF-0707]] — Un singur beneficiu, nu cinci — poziționarea supraîncărcată blochează ideea creativă
-- [[BRF-0715-modelul-euro-rscg-australia-sarcina-trei-insighturi-creatia|BRF-0715]] — Modelul de brief Euro RSCG Australia — sarcina, trei insight-uri triangulate, creația și un lanț de aprobări
-- [[BRF-0716-brief-ul-get-to-by-strategia-intr-o-fraza|BRF-0716]] — Brief-ul Get/To/By pune toată strategia într-o frază cu patru verigi — țintă, răspuns, mesaj, motiv
-- [[BRF-0717-naked-brief-informativ-si-inspirational|BRF-0717]] — Naked Brief — un brief „informativ și inspirațional", construit pe context, învățare și trei tipuri de măsuri
-- [[BRF-0718-brief-ul-red-cell-opt-cerinte-si-calendar|BRF-0718]] — Brief-ul Red Cell — opt cerințe, „indicii de execuție" și un calendar de aprobări pe o singură pagină
-- [[BRF-0719-brief-ul-singleton-ogilvy-mather-rol-insight-punct-unic-dovada|BRF-0719]] — Brief-ul Singleton Ogilvy & Mather — rolul comunicării, un insight util, gândește/simte/fă și punctul unic cu dovada lui
-- [[BRF-0720-comparatie-intre-modelele-de-brief-de-agentie|BRF-0720]] — Modelele de brief de agenție au același nucleu, dar fiecare optimizează altceva — inspirația, concizia, contextul, procesul sau dovada
+- [[BRF-012-un-singur-beneficiu-nu-cinci-pozitionarea-supraincarcata|BRF-012]] — Un singur beneficiu, nu cinci — poziționarea supraîncărcată blochează ideea creativă
+- [[BRF-016-brief-ul-get-to-by-pune-toata-strategia-intr-o-fraza-cu|BRF-016]] — Brief-ul Get/To/By pune toată strategia într-o frază cu patru verigi — țintă, răspuns, mesaj, motiv
+- [[BRF-017-modelul-de-brief-euro-rscg-australia-sarcina-trei-insight|BRF-017]] — Modelul de brief Euro RSCG Australia — sarcina, trei insight-uri triangulate, creația și un lanț de aprobări
+- [[BRF-018-naked-brief-un-brief-informativ-si-inspirational-construit|BRF-018]] — Naked Brief — un brief „informativ și inspirațional", construit pe context, învățare și trei tipuri de măsuri
+- [[BRF-019-brief-ul-red-cell-opt-cerinte-indicii-de-executie-si-un|BRF-019]] — Brief-ul Red Cell — opt cerințe, „indicii de execuție" și un calendar de aprobări pe o singură pagină
+- [[BRF-020-brief-ul-singleton-ogilvy-mather-rolul-comunicarii-un|BRF-020]] — Brief-ul Singleton Ogilvy & Mather — rolul comunicării, un insight util, gândește/simte/fă și punctul unic cu dovada lui
+- [[BRF-021-modelele-de-brief-de-agentie-au-acelasi-nucleu-dar-fiecare|BRF-021]] — Modelele de brief de agenție au același nucleu, dar fiecare optimizează altceva — inspirația, concizia, contextul, procesul sau dovada
+- [[INS-095-checklist-ul-insight-ului-opt-verificari-inainte-ca-un|INS-095]] — Checklist-ul insight-ului — opt verificări înainte ca un „adevăr despre țintă" să intre în brief
 <!-- backlinks:end -->

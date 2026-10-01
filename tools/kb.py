@@ -29,7 +29,7 @@ META = ROOT / "_meta"
 SKIP_DIRS = {"90-library", "tools", "templates", ".obsidian", ".git", ".claude", "reports"}
 
 ID_RE = re.compile(r"^([A-Z]{3}-\d{3,4})\b")
-LINK_RE = re.compile(r"\[\[([^\]|#]+)(#[^\]|]*)?(?:\|([^\]]*))?\]\]")
+LINK_RE = re.compile(r"\[\[([^\]|#\\]+)(#[^\]|\\]*)?(?:\\?\|([^\]]*))?\]\]")
 TYPED_RE = re.compile(r"^\s*[-*]\s*\*\*([a-zăâîșț]+)\*\*\s*\[\[([^\]|#]+)")
 BACK_START, BACK_END = "<!-- backlinks:start -->", "<!-- backlinks:end -->"
 AUTO_START, AUTO_END = "<!-- auto:notes:start -->", "<!-- auto:notes:end -->"
@@ -311,15 +311,20 @@ def cmd_check(quiet=False):
 # ---------------------------------------------------------------- build
 
 def normalize_links(text, by_id):
-    def rep(m):
-        target, anchor, alias = m.group(1), m.group(2) or "", m.group(3)
-        tid = resolve_target(target)
-        if not tid or tid not in by_id:
-            return m.group(0)
-        n = by_id[tid]
-        label = alias if alias and not ID_RE.match(alias) and alias not in SKILL_BY_CODE else tid
-        return f"[[{n.link_target}{anchor}|{label}]]"
-    return LINK_RE.sub(rep, text)
+    """[[ID]] → [[stem|ID]]; în rândurile de tabel separatorul devine \\| (altfel strică tabelul)."""
+    def fix_line(line):
+        sep = "\\|" if line.lstrip().startswith("|") else "|"
+
+        def rep(m):
+            target, anchor, alias = m.group(1), m.group(2) or "", m.group(3)
+            tid = resolve_target(target)
+            if not tid or tid not in by_id:
+                return m.group(0)
+            n = by_id[tid]
+            label = alias if alias and not ID_RE.match(alias) and alias not in SKILL_BY_CODE else tid
+            return f"[[{n.link_target}{anchor}{sep}{label}]]"
+        return LINK_RE.sub(rep, line)
+    return "\n".join(fix_line(l) for l in text.split("\n"))
 
 
 def replace_block(text, start, end, content):
@@ -329,8 +334,9 @@ def replace_block(text, start, end, content):
     return text.rstrip() + "\n\n" + block + "\n"
 
 
-def md_link(n):
-    return f"[[{n.link_target}|{n.id}]]"
+def md_link(n, table=False):
+    sep = "\\|" if table else "|"
+    return f"[[{n.link_target}{sep}{n.id}]]"
 
 
 def cmd_build(rename=False):
@@ -385,7 +391,7 @@ def cmd_build(rename=False):
             also = [z for z in zettels if slug in as_list(z.meta.get("also"))]
             rows = ["| ID | Titlu | Tip | Nivel | Status |", "|---|---|---|---|---|"]
             for z in own:
-                rows.append(f"| {md_link(z)} | {z.title} | {z.meta.get('kind', '')} | "
+                rows.append(f"| {md_link(z, table=True)} | {z.title} | {z.meta.get('kind', '')} | "
                             f"{LEVEL_NAMES.get(str(z.meta.get('level')), '')} | {z.meta.get('status', '')} |")
             content = f"_{len(own)} note proprii._\n\n" + "\n".join(rows)
             if also:
@@ -395,6 +401,48 @@ def cmd_build(rename=False):
         new_text = f"---\n{fm}\n---\n{body}" if fm is not None else body
         if new_text != n.text:
             n.path.write_text(new_text, encoding="utf-8")
+
+    srcs = sorted([n for n in notes if n.type == "source"], key=lambda n: n.id)
+    # hărți generate (frontmatter `auto: debates | library | curriculum`)
+    for n in [x for x in notes if x.type == "map" and x.meta.get("auto")]:
+        kind = n.meta.get("auto")
+        if kind == "debates":
+            parts = []
+            for s in SKILLS["skills"]:
+                ds = [z for z in by_skill.get(s["slug"], []) if z.meta.get("kind") == "debate"]
+                if ds:
+                    parts.append(f"### {s['code']} · {s['name']}\n")
+                    parts += [f"- {md_link(z)} — {z.title}" for z in ds]
+                    parts.append("")
+            content = f"_{sum(1 for z in zettels if z.meta.get('kind') == 'debate')} note de tip dezbatere._\n\n" + "\n".join(parts)
+        elif kind == "library":
+            cited = Counter(s for z in zettels for s in source_ids(z))
+            rows_ = ["| Sursă | Titlu | Autori | An | Relevanță | Skill-uri | Note care o citează |", "|---|---|---|---|---|---|---|"]
+            for sn in sorted(srcs, key=lambda x: (-int(str(x.meta.get("relevance", 0)) or 0), x.id)):
+                r = int(str(sn.meta.get("relevance", 0)) or 0)
+                sk = ", ".join(SKILL_BY_SLUG[k]["code"] for k in as_list(sn.meta.get("skills")) if k in SKILL_BY_SLUG)
+                rows_.append(f"| {md_link(sn, table=True)} | {sn.title} | {', '.join(as_list(sn.meta.get('authors')))} | "
+                             f"{sn.meta.get('year', '')} | {'★' * r}{'☆' * (5 - r)} | {sk} | {cited[sn.id]} |")
+            content = "\n".join(rows_)
+        elif kind == "curriculum":
+            parts = []
+            for d in SKILLS["domains"]:
+                parts.append(f"### {d['code']} · {d['name']}\n")
+                for c in d["skills"]:
+                    s = SKILL_BY_CODE[c]
+                    hub = by_id.get(c)
+                    own = [z.id for z in by_skill.get(s["slug"], [])]
+                    first = (skill_order(hub, set(own)) if hub else [])[:3] or own[:3]
+                    starts = ", ".join(md_link(by_id[i]) for i in first if i in by_id)
+                    parts.append(f"- [[20-skills/{s['slug']}/SKILL|{c}]] **{s['name']}** ({len(own)} note) — începe cu {starts}")
+                parts.append("")
+            content = "\n".join(parts)
+        else:
+            continue
+        text = n.path.read_text(encoding="utf-8")
+        new = replace_block(text, AUTO_START, AUTO_END, content)
+        if new != text:
+            n.path.write_text(new, encoding="utf-8")
 
     # catalog
     rows = []
@@ -546,6 +594,9 @@ def rewrite_ids(mapping, notes=None):
         return
     pat = re.compile(r"\b(" + "|".join(re.escape(k) for k in sorted(mapping, key=len, reverse=True)) + r")\b(?!-\d)")
     for p in iter_md():
+        rel = p.relative_to(ROOT).as_posix()
+        if rel.startswith("_meta/") or rel in ("README.md", "CLAUDE.md"):
+            continue  # documentația conține ID-uri de exemplu, nu legături reale
         t = p.read_text(encoding="utf-8")
         new = pat.sub(lambda m: mapping[m.group(1)], t)
         # legăturile [[OLD-slug|...]] devin [[NEW-slug|...]]; build le reface oricum

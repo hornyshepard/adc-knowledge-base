@@ -1,63 +1,44 @@
 # Propuneri de legături
 
-_Generat de `kb.py suggest` la 2026-10-01 12:31. Similaritate TF-IDF; confirmă doar legăturile care au un motiv clar și scrie-le cu relație tipizată._
+_Generat de `kb.py suggest` la 2026-10-01 13:21. Similaritate TF-IDF; confirmă doar legăturile care au un motiv clar și scrie-le cu relație tipizată._
 
-## HIS-0812 — Publicitatea este știință sau artă? — dezbaterea care a împărțit secolul XX
-- 0.14 [[IDE-0801]] Big Idea — conceptul care face o reclamă diferită de ale concurenților îmbină strategia cu surpriza · _creative-ideation_
-- 0.13 [[CPY-0601]] Reason-why — reclama ca „vânzare tipărită" care dă motive concrete de cumpărare · _copywriting_
-- 0.12 [[CPY-0802]] Reason-why — reclama ca vânzare tipărită care îi dă cititorului un motiv concret · _copywriting_
+## HIS-009 — Publicitatea este știință sau artă? — dezbaterea care a împărțit secolul XX
+- 0.14 [[CPY-003]] Reason-why — reclama ca „vânzare tipărită" care dă motive concrete și verificabile de cumpărare · _copywriting_
+- 0.14 [[IDE-003]] Big Idea — conceptul care face o reclamă diferită de ale concurenților îmbină strategia cu surpriza · _creative-ideation_
 
-## ADV-1303 — Un Big Idea nu ajunge fără un „Long Idea" — publicul trebuie așteptat la pasul următor (Volvo Trucks, „Epic Split")
-- 0.10 [[IDE-0801]] Big Idea — conceptul care face o reclamă diferită de ale concurenților îmbină strategia cu surpriza · _creative-ideation_
+## ART-003 — Simbolurile, icoanele și gesturile comunică instant pentru că sensul lor e deja instalat în mintea privitorului
+- 0.10 [[IDE-019]] Umorul, ironia și satira răstoarnă așteptarea și creează complicitate cu privitorul · _creative-ideation_
 
-## ADV-1522 — Whopper Detour a transformat restaurantele McDonald's în puncte de comandă pentru Burger King, ca să obțină descărcarea aplicației
-- 0.13 [[DIG-0205]] Marketingul contextual aduce personalizarea digitală în spațiul fizic — senzori, declanșatori și trei niveluri, informativ, interactiv, imersiv · _digital-marketing_
-- 0.12 [[STO-0703]] Curiozitatea din prima secundă și surpriza emoțională țin publicul până la capăt · _storytelling-content_
+## ART-015 — Cinci tehnici de a combina două substantive într-un semn original
+- 0.11 [[ART-018]] ADN-ul geometric al semnului se extinde în pattern-uri, iconuri și litere
 
-## ART-0505 — Lista de substantive de brand stabilește subiectul logo-ului înainte de schițe
-- 0.10 [[ART-0509]] ADN-ul geometric al semnului se extinde în pattern-uri, iconuri și litere
+## ART-016 — Procesul de brand mark: cincizeci de schițe înainte de orice finisare
+- 0.13 [[ART-018]] ADN-ul geometric al semnului se extinde în pattern-uri, iconuri și litere
 
-## ART-0506 — Cinci tehnici de a combina două substantive într-un semn original
-- 0.11 [[ART-0509]] ADN-ul geometric al semnului se extinde în pattern-uri, iconuri și litere
+## BRD-042 — Un brand nou se construiește în patru pași: cârlig, nume, marcă, design
+- 0.10 [[ART-023]] Ambalajul se proiectează și pentru viața de după cumpărare — forma lui e un indiciu de brand, iar fiecare folosire repetă beneficiul · _art-direction_
 
-## ART-0507 — Procesul de brand mark: cincizeci de schițe înainte de orice finisare
-- 0.14 [[ART-0509]] ADN-ul geometric al semnului se extinde în pattern-uri, iconuri și litere
+## CPY-031 — Umorul atrage atenția și simpatia, dar fură memoria brandului — funcționează mai ales pentru produse ieftine cumpărate fără gândire
+- 0.13 [[INS-022]] Atitudinile se pot forma fără argumente, pe trei căi afective — expunere repetată, condiționare și afect ca informație · _consumer-insight_
 
-## INS-0444 — Conținutul se distribuie când produce emoții cu activare mare — uimire, furie, anxietate —, nu doar emoții pozitive
-- 0.13 [[INS-1203]] Emoțiile consumatorului sunt primare sau secundare și fluctuează pe tot parcursul experienței
-- 0.11 [[STO-0704]] Checklist-ul puterii emoționale — valori umane, arc narativ, o emoție dominantă și testul „aș distribui-o eu?" · _storytelling-content_
+## BRF-012 — Un singur beneficiu, nu cinci — poziționarea supraîncărcată blochează ideea creativă
+- 0.10 [[BRF-019]] Brief-ul Red Cell — opt cerințe, „indicii de execuție" și un calendar de aprobări pe o singură pagină
 
-## INS-0445 — Consumul postmodern are șapte trăsături — de la hiperrealitate și nostalgie la pastișă și „rebeliunea care se vinde"
-- 0.21 [[INS-1206]] Consumatorul postmodern este fragmentat și paradoxal și cumpără sensuri culturale, nu produse
+## BRF-024 — Primirea brief-ului — îl reduci la esență, îl verifici pe componente, pui întrebările naive și agreezi în scris orice schimbare
+- 0.12 [[BRF-023]] Zece semnale de alarmă într-un brief — de la obiectivul care nu poate fi infirmat la măsurarea decisă după campanie
 
-## INS-0604 — Percepția e selectivă, așa că reclama are nevoie de procedee de atenție — emoție, personificare, spectacol, surpriză, umor
-- 0.10 [[CPY-0404]] Umorul atrage atenția și simpatia, dar fură memoria brandului — funcționează mai ales pentru produse ieftine cumpărate fără gândire · _copywriting_
-- 0.10 [[INS-1508]] O reclamă e procesată prin patru răspunsuri (atenție, învățare, acceptare, emoție), element cu element, iar atenția reflexă durează sub o secundă
+## IDE-003 — Big Idea — conceptul care face o reclamă diferită de ale concurenților îmbină strategia cu surpriza
+- 0.14 [[HIS-009]] Publicitatea este știință sau artă? — dezbaterea care a împărțit secolul XX · _advertising-history_
 
-## INS-1206 — Consumatorul postmodern este fragmentat și paradoxal și cumpără sensuri culturale, nu produse
-- 0.21 [[INS-0445]] Consumul postmodern are șapte trăsături — de la hiperrealitate și nostalgie la pastișă și „rebeliunea care se vinde"
+## IDE-007 — Procesul în șapte pași de rezolvare a problemelor — de la definirea decalajului la revizuirea rezultatului
+- 0.12 [[ADV-010]] Planificarea strategică a comunicării are cinci pași, de la alegerea țintei la strategia media, iar fiecare pas decurge din cel dinainte · _advertising-strategy_
 
-## CPY-0404 — Umorul atrage atenția și simpatia, dar fură memoria brandului — funcționează mai ales pentru produse ieftine cumpărate fără gândire
-- 0.13 [[CPY-0813]] Umorul în reclamă — de la „cleverness" interzis la recompensa care cumpără atenția
-- 0.13 [[INS-0425]] Atitudinile se pot forma fără argumente, pe trei căi afective — expunere repetată, condiționare și afect ca informație · _consumer-insight_
-- 0.10 [[INS-0604]] Percepția e selectivă, așa că reclama are nevoie de procedee de atenție — emoție, personificare, spectacol, surpriză, umor · _consumer-insight_
+## IDE-019 — Umorul, ironia și satira răstoarnă așteptarea și creează complicitate cu privitorul
+- 0.10 [[ART-003]] Simbolurile, icoanele și gesturile comunică instant pentru că sensul lor e deja instalat în mintea privitorului · _art-direction_
 
-## CPY-0813 — Umorul în reclamă — de la „cleverness" interzis la recompensa care cumpără atenția
-- 0.13 [[CPY-0404]] Umorul atrage atenția și simpatia, dar fură memoria brandului — funcționează mai ales pentru produse ieftine cumpărate fără gândire
-
-## IDE-0801 — Big Idea — conceptul care face o reclamă diferită de ale concurenților îmbină strategia cu surpriza
-- 0.14 [[HIS-0812]] Publicitatea este știință sau artă? — dezbaterea care a împărțit secolul XX · _advertising-history_
-- 0.10 [[ADV-1303]] Un Big Idea nu ajunge fără un „Long Idea" — publicul trebuie așteptat la pasul următor (Volvo Trucks, „Epic Split") · _advertising-strategy_
-
-## PRT-0501 — Proiectele personale aduc în portofoliu munca pe care vrei s-o primești
-- 0.12 [[PRT-1422]] Selecția pentru portofoliu se face în trei grămezi — DA, NU, POATE — cu cinci întrebări de control
-- 0.11 [[PRT-1420]] Reputația online este CV-ul în timp real — și se construiește deliberat
-
-## STO-0703 — Curiozitatea din prima secundă și surpriza emoțională țin publicul până la capăt
-- 0.12 [[ADV-1522]] Whopper Detour a transformat restaurantele McDonald's în puncte de comandă pentru Burger King, ca să obțină descărcarea aplicației · _advertising-strategy_
-
-## STO-0902 — Matricea content marketingului — distrează, inspiră, educă, convinge — după emoție și etapa deciziei
-- 0.13 [[STO-1302]] Pilonii de conținut trec trei teste — interes editorial, acționabil, sustenabil — și combină patru funcții
-
-## STO-1115 — Ingredientele unei campanii virale: mesaj simplu, emoție, participare, urgență
-- 0.10 [[ADV-0504]] Mesajele devin virale prin difuzare de masă, nu din om în om · _advertising-strategy_
+## PRT-005 — Proiectele personale aduc în portofoliu munca pe care vrei s-o primești
+- 0.12 [[PRT-008]] Selecția pentru portofoliu se face în trei grămezi — DA, NU, POATE — cu cinci întrebări de control
+- 0.11 [[PRT-001]] Portofoliul este un produs, iar utilizatorul lui este cel care angajează, nu autorul
+- 0.11 [[PRT-012]] Ordinea proiectelor creează ritmul portofoliului — patru metode, de la cronologic la relevanță
+- 0.10 [[PRT-024]] Candidatul își tratează cariera ca pe o afacere — un brand personal găzduit pe o platformă pe care o deține
+- 0.10 [[PRT-025]] Reputația online este CV-ul în timp real — și se construiește deliberat

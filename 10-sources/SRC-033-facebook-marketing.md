@@ -27,28 +27,28 @@ level: 1
 
 | Secț. | Tema | Note derivate |
 |---|---|---|
-| 5–8 | Introducere, pagina, postări optimizate, promovarea postărilor | [[SOC-1004-scara-facebook-de-la-organic-la-remarketing|SOC-1004]] |
-| 9 | Grupul de Facebook țintit | [[SOC-1003-focurile-de-tabara-digitale-comunitati-mici-private|SOC-1003]] |
-| 10 | Calendar editorial și programarea postărilor („orele optime") | [[SOC-1008-orele-optime-de-postare-vs-datele-propriului-public|SOC-1008]] |
-| 11 | Facebook Live | [[SOC-1004-scara-facebook-de-la-organic-la-remarketing|SOC-1004]] |
-| 12–13 | Concurs pentru lead-uri (Gleam), formular de abonare (Mailchimp) | [[SOC-1005-concursurile-sociale-efort-versus-implicare|SOC-1005]], [[SOC-1004-scara-facebook-de-la-organic-la-remarketing|SOC-1004]] |
-| 14 | Reclamă de trafic în Ads Manager | [[SOC-1006-ad-managerele-sociale-au-aceeasi-anatomie|SOC-1006]] |
-| 15 | Remarketing cu pixel | [[DIG-1035-retargetingul-eficient-in-era-cookie-expus-dupa|DIG-1035]] |
-| 16 | „Planul perfect" de marketing pe Facebook | [[SOC-1004-scara-facebook-de-la-organic-la-remarketing|SOC-1004]] |
-| 17–18 | Afaceri locale, surse de trafic spre pagină | [[SOC-1004-scara-facebook-de-la-organic-la-remarketing|SOC-1004]] |
-| 19 | Idei de concursuri | [[SOC-1005-concursurile-sociale-efort-versus-implicare|SOC-1005]] |
-| 20–21 | Trenduri; reguli „așa da / așa nu" | [[SOC-1001-recenzia-negativa-raspuns-rapid-empatic-fara-stergere|SOC-1001]], [[SOC-1008-orele-optime-de-postare-vs-datele-propriului-public|SOC-1008]] |
-| 22–24 | Unelte, „povești de succes", întrebări frecvente | [[SOC-1004-scara-facebook-de-la-organic-la-remarketing|SOC-1004]], [[SOC-1008-orele-optime-de-postare-vs-datele-propriului-public|SOC-1008]] |
+| 5–8 | Introducere, pagina, postări optimizate, promovarea postărilor | [[SOC-011-pe-facebook-marketingul-urca-o-scara-prezenta-organica\|SOC-011]] |
+| 9 | Grupul de Facebook țintit | [[SOC-016-conversatia-se-muta-in-focuri-de-tabara-digitale-comunitati\|SOC-016]] |
+| 10 | Calendar editorial și programarea postărilor („orele optime") | [[SOC-014-orele-optime-de-postare-universale-sunt-o-scurtatura-slaba\|SOC-014]] |
+| 11 | Facebook Live | [[SOC-011-pe-facebook-marketingul-urca-o-scara-prezenta-organica\|SOC-011]] |
+| 12–13 | Concurs pentru lead-uri (Gleam), formular de abonare (Mailchimp) | [[SOC-012-concursurile-de-pe-social-se-aleg-dupa-efortul-cerut\|SOC-012]], [[SOC-011-pe-facebook-marketingul-urca-o-scara-prezenta-organica\|SOC-011]] |
+| 14 | Reclamă de trafic în Ads Manager | [[SOC-013-ad-managerele-platformelor-sociale-au-aceeasi-anatomie\|SOC-013]] |
+| 15 | Remarketing cu pixel | [[DIG-052-retargetingul-functioneaza-doar-segmentat-pe-etapa-din\|DIG-052]] |
+| 16 | „Planul perfect" de marketing pe Facebook | [[SOC-011-pe-facebook-marketingul-urca-o-scara-prezenta-organica\|SOC-011]] |
+| 17–18 | Afaceri locale, surse de trafic spre pagină | [[SOC-011-pe-facebook-marketingul-urca-o-scara-prezenta-organica\|SOC-011]] |
+| 19 | Idei de concursuri | [[SOC-012-concursurile-de-pe-social-se-aleg-dupa-efortul-cerut\|SOC-012]] |
+| 20–21 | Trenduri; reguli „așa da / așa nu" | [[SOC-020-la-o-recenzie-negativa-brandul-raspunde-repede-empatic-si\|SOC-020]], [[SOC-014-orele-optime-de-postare-universale-sunt-o-scurtatura-slaba\|SOC-014]] |
+| 22–24 | Unelte, „povești de succes", întrebări frecvente | [[SOC-011-pe-facebook-marketingul-urca-o-scara-prezenta-organica\|SOC-011]], [[SOC-014-orele-optime-de-postare-universale-sunt-o-scurtatura-slaba\|SOC-014]] |
 
 ## Idei-cheie → note permanente
 
-- [[SOC-1004-scara-facebook-de-la-organic-la-remarketing|SOC-1004]] — scara Facebook: pagină, engagement, lead-uri, trafic plătit, remarketing.
-- [[SOC-1003-focurile-de-tabara-digitale-comunitati-mici-private|SOC-1003]] — grupul de Facebook nebranduit, numit după problema clientului (contribuție la nota despre „focurile de tabără digitale").
-- [[SOC-1005-concursurile-sociale-efort-versus-implicare|SOC-1005]] — tipologia concursurilor după efortul cerut participanților.
-- [[SOC-1006-ad-managerele-sociale-au-aceeasi-anatomie|SOC-1006]] — pașii unei reclame de trafic (contribuție la nota despre anatomia ad managerelor).
-- [[DIG-1035-retargetingul-eficient-in-era-cookie-expus-dupa|DIG-1035]] — remarketingul cu pixel, descris fără nicio discuție despre consimțământ.
-- [[SOC-1008-orele-optime-de-postare-vs-datele-propriului-public|SOC-1008]] — „orele optime de postare", pretinse fără metodă (notă de dezbatere).
-- [[SOC-1001-recenzia-negativa-raspuns-rapid-empatic-fara-stergere|SOC-1001]] — regulile de răspuns la clienții nemulțumiți.
+- [[SOC-011-pe-facebook-marketingul-urca-o-scara-prezenta-organica|SOC-011]] — scara Facebook: pagină, engagement, lead-uri, trafic plătit, remarketing.
+- [[SOC-016-conversatia-se-muta-in-focuri-de-tabara-digitale-comunitati|SOC-016]] — grupul de Facebook nebranduit, numit după problema clientului (contribuție la nota despre „focurile de tabără digitale").
+- [[SOC-012-concursurile-de-pe-social-se-aleg-dupa-efortul-cerut|SOC-012]] — tipologia concursurilor după efortul cerut participanților.
+- [[SOC-013-ad-managerele-platformelor-sociale-au-aceeasi-anatomie|SOC-013]] — pașii unei reclame de trafic (contribuție la nota despre anatomia ad managerelor).
+- [[DIG-052-retargetingul-functioneaza-doar-segmentat-pe-etapa-din|DIG-052]] — remarketingul cu pixel, descris fără nicio discuție despre consimțământ.
+- [[SOC-014-orele-optime-de-postare-universale-sunt-o-scurtatura-slaba|SOC-014]] — „orele optime de postare", pretinse fără metodă (notă de dezbatere).
+- [[SOC-020-la-o-recenzie-negativa-brandul-raspunde-repede-empatic-si|SOC-020]] — regulile de răspuns la clienții nemulțumiți.
 
 ## Ce lipsește / ce trebuie citit critic
 
@@ -65,11 +65,12 @@ level: 1
 <!-- backlinks:start -->
 ## Backlinks
 
-- [[DIG-1035-retargetingul-eficient-in-era-cookie-expus-dupa|DIG-1035]] — Retargetingul a fost cea mai eficientă tactică a erei cookie și este cea mai expusă după ea — funcționează doar cu urmărire consimțită, pixeli necesari și plafoane de frecvență
-- [[SOC-1001-recenzia-negativa-raspuns-rapid-empatic-fara-stergere|SOC-1001]] — La o recenzie negativă, brandul răspunde repede, empatic și profesionist, mută rezolvarea în privat și nu șterge critica
-- [[SOC-1003-focurile-de-tabara-digitale-comunitati-mici-private|SOC-1003]] — Conversația se mută în „focuri de tabără digitale", comunități mici și private, iar brandul intră în ele ca gazdă utilă, nu ca vânzător
-- [[SOC-1004-scara-facebook-de-la-organic-la-remarketing|SOC-1004]] — Pe Facebook, marketingul urcă o scară — prezență organică, engagement, lead-uri, trafic plătit, remarketing —, pentru că reach-ul organic singur nu mai ajunge
-- [[SOC-1005-concursurile-sociale-efort-versus-implicare|SOC-1005]] — Concursurile de pe social se aleg după efortul cerut — participarea ușoară aduce mulți oameni, participarea grea aduce mai puțini, dar mai legați de brand
-- [[SOC-1006-ad-managerele-sociale-au-aceeasi-anatomie|SOC-1006]] — Ad managerele platformelor sociale au aceeași anatomie — obiectiv, format, previzualizare, public și persona, durată, buget zilnic, estimare de rezultate, cost
-- [[SOC-1008-orele-optime-de-postare-vs-datele-propriului-public|SOC-1008]] — „Orele optime de postare" universale sunt o scurtătură slabă — calendarul se construiește din datele propriului public și din teste
+- [[DIG-052-retargetingul-functioneaza-doar-segmentat-pe-etapa-din|DIG-052]] — Retargetingul funcționează doar segmentat pe etapa din journey, dozat și consimțit — tactica cea mai eficientă a erei cookie e și cea mai expusă după ea
+- [[SOC-011-pe-facebook-marketingul-urca-o-scara-prezenta-organica|SOC-011]] — Pe Facebook, marketingul urcă o scară — prezență organică, engagement, lead-uri, trafic plătit, remarketing —, pentru că reach-ul organic singur nu mai ajunge
+- [[SOC-012-concursurile-de-pe-social-se-aleg-dupa-efortul-cerut|SOC-012]] — Concursurile de pe social se aleg după efortul cerut — participarea ușoară aduce mulți oameni, participarea grea aduce mai puțini, dar mai legați de brand
+- [[SOC-013-ad-managerele-platformelor-sociale-au-aceeasi-anatomie|SOC-013]] — Ad managerele platformelor sociale au aceeași anatomie — obiectiv, format, previzualizare, public și persona, durată, buget zilnic, estimare de rezultate, cost
+- [[SOC-014-orele-optime-de-postare-universale-sunt-o-scurtatura-slaba|SOC-014]] — „Orele optime de postare" universale sunt o scurtătură slabă — calendarul se construiește din datele propriului public și din teste
+- [[SOC-016-conversatia-se-muta-in-focuri-de-tabara-digitale-comunitati|SOC-016]] — Conversația se mută în „focuri de tabără digitale", comunități mici și private, iar brandul intră în ele ca gazdă utilă, nu ca vânzător
+- [[SOC-020-la-o-recenzie-negativa-brandul-raspunde-repede-empatic-si|SOC-020]] — La o recenzie negativă, brandul răspunde repede, empatic și profesionist, mută rezolvarea în privat și nu șterge critica
+- [[STO-034-ugc-este-continut-castigat-cel-mai-credibil-pentru-brand|STO-034]] — UGC este conținut câștigat — cel mai credibil pentru brand tocmai pentru că brandul nu îl poate controla
 <!-- backlinks:end -->

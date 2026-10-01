@@ -29,73 +29,73 @@ level: 2
 
 | Cap. | Tema (autor) | Note derivate |
 |---|---|---|
-| Intro | Puterea și provocarea branding-ului (Calkins) | [[BRD-0501-brandul-este-un-set-de-asociatii-care-actioneaza-ca-o|BRD-0501]], [[BRD-0502-cele-trei-c-ale-branding-ului-si-bucla-fatala-a-promotiilor|BRD-0502]] |
-| 1 | Poziționarea (Tybout) | [[BRD-0503-declaratia-de-pozitionare-are-patru-elemente-tinta-cadru|BRD-0503]], [[BRD-0504-cadrul-de-referinta-spune-consumatorului-ce-scop|BRD-0504]], [[BRD-0505-dovezile-bazate-pe-atribute-se-copiaza-cele-bazate-pe|BRD-0505]], [[BRD-0506-ecuatia-valorii-brandurile-concureaza-la-numarator-sau-la|BRD-0506]], [[BRD-0507-o-pozitie-se-sustine-prin-instantiere-moderna-schimbarea|BRD-0507]], [[BRD-0508-repozitionarea-este-o-solutie-de-ultima-instanta|BRD-0508]] |
-| 2 | Brand purpose (Stengel, Carcieri, Dunn) | [[BRD-0509-purpose-path-to-growth-descopera-scopul-apoi-activeaza-l|BRD-0509]] |
-| 3 | Portofoliul de branduri (Calkins) | [[BRD-0511-arhitectura-de-brand-de-la-branded-house-la-house-of-brands|BRD-0511]], [[BRD-0512-o-extensie-de-brand-trebuie-sa-treaca-testul-celor-trei|BRD-0512]], [[BRD-0513-un-portofoliu-puternic-se-construieste-si-prin-eliminarea|BRD-0513]] |
-| 4 | Pionier, fast follower, late mover (Carpenter & Nakamoto) | [[BRD-0514-momentul-intrarii-pe-piata-pionier-urmaritor-rapid-sau|BRD-0514]] |
-| 5 | Implementarea strategiei de brand (Leininger) | [[BRD-0515-implementarea-strategiei-de-brand-cere-sase-elemente-nu|BRD-0515]] |
-| 6 | Branduri globale cu suflet (Khosla) | [[BRD-0516-brandurile-globale-cu-suflet-firul-comun-echilibrul-glocal|BRD-0516]] |
-| 7 | Design de brand și design thinking (Calder) | [[ART-0501-designul-de-brand-lucreaza-in-sistemul-1-si-porneste-de-la|ART-0501]], [[ART-0502-sablonul-de-design-de-brand-douasprezece-tipuri-de-indicii|ART-0502]], [[BRD-0524-un-nume-bun-de-brand-e-relevant-emotionant-usor-de-rostit|BRD-0524]], [[BRD-0504-cadrul-de-referinta-spune-consumatorului-ce-scop|BRD-0504]] |
-| 8 | Puncte de contact și călătoria clientului (McTigue) | [[ADV-0501-calatoria-clientului-centrata-pe-consumator-sase-etape-trei|ADV-0501]] |
-| 9 | Conexiuni brand–sine (Roese & Gardner) | [[BRD-0517-matricea-motivelor-coerenta-agentie-si-comuniune-spre-sine|BRD-0517]], [[BRD-0518-tranzitiile-de-viata-si-amenintarile-identitare-deschid|BRD-0518]], [[BRD-0519-comunitatea-de-brand-ideala-este-distincta-exclusiva-si-de|BRD-0519]] |
-| 10 | Strategia de publicitate online (Sternthal) | [[ADV-0502-mesajul-trebuie-incadrat-dupa-orientarea-de-promovare-sau|ADV-0502]], [[ADV-0503-strategia-creativa-in-trei-pasi-atentie-amplificare|ADV-0503]], [[ADV-0504-mesajele-devin-virale-prin-difuzare-de-masa-nu-din-om-in-om|ADV-0504]], [[ADV-0505-cei-4m-ai-strategiei-media-potrivire-monopolizare-moment|ADV-0505]], [[ART-0503-cazul-tropicana-redesignul-ambalajului-a-sters-indiciile-de|ART-0503]], [[BRD-0517-matricea-motivelor-coerenta-agentie-si-comuniune-spre-sine|BRD-0517]] |
-| 11 | Digital brand storytelling (Sawhney) | [[STO-0501-in-povestea-de-brand-brandul-e-oxigen-peste-tot-dar|STO-0501]], [[STO-0502-povestirea-transmedia-imparte-o-lume-narativa-intre-canale|STO-0502]] |
-| 12 | Branduri de servicii (O'Toole) | [[BRD-0520-brandul-de-servicii-se-castiga-sau-se-pierde-in-momentul|BRD-0520]] |
-| 13 | Insight-uri în era digitală (Braig) | [[INS-0501-insight-ul-vine-din-urmarirea-insistenta-a-lui-de-ce-si-a|INS-0501]] |
+| Intro | Puterea și provocarea branding-ului (Calkins) | [[BRD-001-brandul-este-un-set-de-asociatii-care-actioneaza-ca-o\|BRD-001]], [[BRD-005-brandul-e-un-activ-pe-termen-lung-condus-de-oameni-judecati\|BRD-005]] |
+| 1 | Poziționarea (Tybout) | [[BRD-006-declaratia-de-pozitionare-are-patru-elemente-tinta-cadru\|BRD-006]], [[BRD-007-cadrul-de-referinta-spune-consumatorului-ce-scop\|BRD-007]], [[BRD-012-dovezile-bazate-pe-atribute-se-copiaza-cele-bazate-pe\|BRD-012]], [[BRD-013-ecuatia-valorii-brandurile-concureaza-la-numarator-sau-la\|BRD-013]], [[BRD-053-o-pozitie-se-sustine-prin-instantiere-moderna-schimbarea\|BRD-053]], [[BRD-054-repozitionarea-e-scumpa-si-riscanta-se-justifica-doar-in\|BRD-054]] |
+| 2 | Brand purpose (Stengel, Carcieri, Dunn) | [[BRD-023-purpose-path-to-growth-descopera-scopul-apoi-activeaza-l\|BRD-023]] |
+| 3 | Portofoliul de branduri (Calkins) | [[BRD-044-arhitectura-de-brand-merge-de-la-branded-house-la-house-of\|BRD-044]], [[BRD-045-o-extensie-de-brand-reuseste-doar-daca-brandul-ajuta\|BRD-045]], [[BRD-046-un-portofoliu-puternic-se-construieste-si-prin-eliminarea\|BRD-046]] |
+| 4 | Pionier, fast follower, late mover (Carpenter & Nakamoto) | [[BRD-016-momentul-intrarii-pe-piata-pionier-urmaritor-rapid-sau\|BRD-016]] |
+| 5 | Implementarea strategiei de brand (Leininger) | [[BRD-047-implementarea-strategiei-de-brand-cere-sase-elemente-nu\|BRD-047]] |
+| 6 | Branduri globale cu suflet (Khosla) | [[BRD-049-brandurile-globale-cu-suflet-firul-comun-echilibrul-glocal\|BRD-049]] |
+| 7 | Design de brand și design thinking (Calder) | [[ART-011-designul-de-brand-lucreaza-in-sistemul-1-si-porneste-de-la\|ART-011]], [[ART-012-sablonul-de-design-de-brand-douasprezece-tipuri-de-indicii\|ART-012]], [[BRD-043-un-nume-bun-de-brand-e-relevant-emotionant-usor-de-rostit\|BRD-043]], [[BRD-007-cadrul-de-referinta-spune-consumatorului-ce-scop\|BRD-007]] |
+| 8 | Puncte de contact și călătoria clientului (McTigue) | [[ADV-018-calatoria-clientului-se-construieste-pe-un-singur-segment\|ADV-018]] |
+| 9 | Conexiuni brand–sine (Roese & Gardner) | [[BRD-033-matricea-motivelor-coerenta-agentie-si-comuniune-spre-sine\|BRD-033]], [[BRD-034-tranzitiile-de-viata-si-amenintarile-identitare-deschid\|BRD-034]], [[BRD-035-comunitatea-de-brand-ideala-este-distincta-exclusiva-si-de\|BRD-035]] |
+| 10 | Strategia de publicitate online (Sternthal) | [[ADV-045-mesajul-trebuie-incadrat-dupa-orientarea-de-promovare-sau\|ADV-045]], [[ADV-043-o-reclama-eficienta-face-trei-lucruri-prinde-atentia\|ADV-043]], [[ADV-067-mesajele-devin-virale-prin-difuzare-de-masa-nu-din-om-in-om\|ADV-067]], [[ADV-058-strategia-media-are-patru-obiective-4m-potrivire\|ADV-058]], [[ART-022-cazul-tropicana-redesignul-ambalajului-a-sters-indiciile-de\|ART-022]], [[BRD-033-matricea-motivelor-coerenta-agentie-si-comuniune-spre-sine\|BRD-033]] |
+| 11 | Digital brand storytelling (Sawhney) | [[STO-006-in-povestea-de-brand-brandul-e-oxigen-peste-tot-dar\|STO-006]], [[STO-031-povestirea-transmedia-imparte-o-lume-narativa-intre-canale\|STO-031]] |
+| 12 | Branduri de servicii (O'Toole) | [[BRD-050-brandul-de-servicii-se-castiga-sau-se-pierde-in-momentul\|BRD-050]] |
+| 13 | Insight-uri în era digitală (Braig) | [[INS-093-insight-ul-se-gaseste-tragand-de-firul-unui-ce-surprinzator\|INS-093]] |
 | 14 | Neuroștiința în evaluarea brandurilor (Cerf) | — (EEG, fMRI, eye-tracking; citit, nenotat separat) |
-| 15 | Măsurarea relevanței și sănătății brandului (Hennessy) | [[BRD-0521-modelul-notorietate-simpatie-cota-de-piata-indica-strategia|BRD-0521]], [[BRD-0522-asocierile-de-brand-se-masoara-mai-onest-cu-intrebari|BRD-0522]], [[BRD-0508-repozitionarea-este-o-solutie-de-ultima-instanta|BRD-0508]] |
-| 16 | Marketing și finanțe: valoarea brandului (Calder) | [[BRD-0523-brandul-este-un-activ-nu-o-cheltuiala-iar-puterea-lui-nu-e|BRD-0523]] |
-| 17 | Has purpose lost its purpose? McDonald's (Lagnado & Mitchell) | [[BRD-0510-scop-sau-pozitionare-brandurile-opereaza-la-altitudini|BRD-0510]], [[BRD-0529-misiunea-spune-de-ce-exista-brandul-acum-viziunea-unde-vrea|BRD-0529]] |
-| 18 | Ulta Beauty (Dillon & Kimbell) | [[BRD-0515-implementarea-strategiei-de-brand-cere-sase-elemente-nu|BRD-0515]] |
-| 19 | John Deere (Docherty & Porter) | [[BRD-0527-cazul-john-deere-esenta-brandului-ramane-orientarea|BRD-0527]] |
-| 20 | Novant Health (Davis & Duvall) | [[BRD-0511-arhitectura-de-brand-de-la-branded-house-la-house-of-brands|BRD-0511]] |
-| 21 | Repoziționarea brandului Mexic (Guevara) | [[BRD-0526-cazul-mexic-a-contrazice-o-poveste-negativa-te-aduce-doar|BRD-0526]] |
-| 22 | Comunicarea de brand în digital (Halvorsen, Google) | [[ADV-0503-strategia-creativa-in-trei-pasi-atentie-amplificare|ADV-0503]], [[ADV-0505-cei-4m-ai-strategiei-media-potrivire-monopolizare-moment|ADV-0505]] |
-| 23 | Experiența clientului (Pereira) | [[EXP-0501-la-brandurile-direct-to-consumer-brandul-este-lantul|EXP-0501]] |
-| 24 | Crearea unui brand de la zero (Earle) | [[BRD-0525-un-brand-nou-se-construieste-in-patru-pasi-carlig-nume|BRD-0525]], [[BRD-0524-un-nume-bun-de-brand-e-relevant-emotionant-usor-de-rostit|BRD-0524]] |
+| 15 | Măsurarea relevanței și sănătății brandului (Hennessy) | [[BRD-057-modelul-notorietate-simpatie-cota-de-piata-indica-strategia\|BRD-057]], [[BRD-058-asocierile-de-brand-se-masoara-mai-onest-cu-intrebari\|BRD-058]], [[BRD-054-repozitionarea-e-scumpa-si-riscanta-se-justifica-doar-in\|BRD-054]] |
+| 16 | Marketing și finanțe: valoarea brandului (Calder) | [[BRD-059-brandul-este-un-activ-nu-o-cheltuiala-iar-puterea-lui-nu-e\|BRD-059]] |
+| 17 | Has purpose lost its purpose? McDonald's (Lagnado & Mitchell) | [[BRD-061-scop-sau-pozitionare-brandurile-opereaza-la-altitudini\|BRD-061]], [[BRD-019-misiunea-spune-de-ce-exista-brandul-viziunea-unde-vrea-sa\|BRD-019]] |
+| 18 | Ulta Beauty (Dillon & Kimbell) | [[BRD-047-implementarea-strategiei-de-brand-cere-sase-elemente-nu\|BRD-047]] |
+| 19 | John Deere (Docherty & Porter) | [[BRD-055-cazul-john-deere-esenta-brandului-ramane-orientarea\|BRD-055]] |
+| 20 | Novant Health (Davis & Duvall) | [[BRD-044-arhitectura-de-brand-merge-de-la-branded-house-la-house-of\|BRD-044]] |
+| 21 | Repoziționarea brandului Mexic (Guevara) | [[BRD-056-cazul-mexic-a-contrazice-o-poveste-negativa-te-aduce-doar\|BRD-056]] |
+| 22 | Comunicarea de brand în digital (Halvorsen, Google) | [[ADV-043-o-reclama-eficienta-face-trei-lucruri-prinde-atentia\|ADV-043]], [[ADV-058-strategia-media-are-patru-obiective-4m-potrivire\|ADV-058]] |
+| 23 | Experiența clientului (Pereira) | [[EXP-027-la-brandurile-direct-to-consumer-brandul-este-lantul\|EXP-027]] |
+| 24 | Crearea unui brand de la zero (Earle) | [[BRD-042-un-brand-nou-se-construieste-in-patru-pasi-carlig-nume\|BRD-042]], [[BRD-043-un-nume-bun-de-brand-e-relevant-emotionant-usor-de-rostit\|BRD-043]] |
 
 ## Idei-cheie → note permanente
 
-- [[BRD-0501-brandul-este-un-set-de-asociatii-care-actioneaza-ca-o|BRD-0501]] — brandul ca set de asociații și „prisma" care ridică sau coboară produsul (experimentul Tiffany/Walmart).
-- [[BRD-0502-cele-trei-c-ale-branding-ului-si-bucla-fatala-a-promotiilor|BRD-0502]] — cash, consistency, clutter și bucla fatală a promoțiilor.
-- [[BRD-0503-declaratia-de-pozitionare-are-patru-elemente-tinta-cadru|BRD-0503]] — declarația de poziționare în patru elemente și testele de claritate și distinctivitate.
-- [[BRD-0504-cadrul-de-referinta-spune-consumatorului-ce-scop|BRD-0504]] — cele trei moduri de a comunica cadrul de referință; numele categoriei ca decizie de design.
-- [[BRD-0505-dovezile-bazate-pe-atribute-se-copiaza-cele-bazate-pe|BRD-0505]] — motive de a crede bazate pe atribute vs pe imagine.
-- [[BRD-0506-ecuatia-valorii-brandurile-concureaza-la-numarator-sau-la|BRD-0506]] — ecuația valorii (beneficii fizice+emoționale / costuri bani+timp).
-- [[BRD-0507-o-pozitie-se-sustine-prin-instantiere-moderna-schimbarea|BRD-0507]] — instanțiere modernă, schimbarea dovezii, laddering.
-- [[BRD-0508-repozitionarea-este-o-solutie-de-ultima-instanta|BRD-0508]] — când e justificată repoziționarea; Old Spice și publicul nou.
-- [[BRD-0509-purpose-path-to-growth-descopera-scopul-apoi-activeaza-l|BRD-0509]] — modelul Purpose Path to Growth.
-- [[BRD-0510-scop-sau-pozitionare-brandurile-opereaza-la-altitudini|BRD-0510]] — dezbaterea scop vs poziționare („altitudini" diferite).
-- [[BRD-0511-arhitectura-de-brand-de-la-branded-house-la-house-of-brands|BRD-0511]] — arhitectura de brand: brand primar, sub-brand, endorser, ingredient; branded house vs house of brands.
-- [[BRD-0512-o-extensie-de-brand-trebuie-sa-treaca-testul-celor-trei|BRD-0512]] — testul celor trei întrebări pentru extensii.
-- [[BRD-0513-un-portofoliu-puternic-se-construieste-si-prin-eliminarea|BRD-0513]] — cele cinci chei ale portofoliului și eliminarea brandurilor (cazul GM).
-- [[BRD-0514-momentul-intrarii-pe-piata-pionier-urmaritor-rapid-sau|BRD-0514]] — avantajul pionierului, fast follower, late mover „suficient de diferit" sau inovator.
-- [[BRD-0515-implementarea-strategiei-de-brand-cere-sase-elemente-nu|BRD-0515]] — modelul de implementare în șase elemente.
-- [[BRD-0516-brandurile-globale-cu-suflet-firul-comun-echilibrul-glocal|BRD-0516]] — firul comun, echilibrul glocal, lansarea agilă (Oreo, Axe, Pond's).
-- [[BRD-0517-matricea-motivelor-coerenta-agentie-si-comuniune-spre-sine|BRD-0517]] — matricea motivelor (și modelul 3C al lui Sternthal).
-- [[BRD-0518-tranzitiile-de-viata-si-amenintarile-identitare-deschid|BRD-0518]] — tranziții de viață, conflicte și amenințări identitare, încurajarea utilizării.
-- [[BRD-0519-comunitatea-de-brand-ideala-este-distincta-exclusiva-si-de|BRD-0519]] — comunitatea de brand optimă și „adversarul" de brand.
-- [[BRD-0520-brandul-de-servicii-se-castiga-sau-se-pierde-in-momentul|BRD-0520]] — specificul brandurilor de servicii și standardele cu latitudine.
-- [[BRD-0521-modelul-notorietate-simpatie-cota-de-piata-indica-strategia|BRD-0521]] — modelul notorietate–simpatie–cotă și cele cinci strategii.
-- [[BRD-0522-asocierile-de-brand-se-masoara-mai-onest-cu-intrebari|BRD-0522]] — măsurarea asocierilor cu întrebări deschise (Uber vs Lyft).
-- [[BRD-0523-brandul-este-un-activ-nu-o-cheltuiala-iar-puterea-lui-nu-e|BRD-0523]] — brandul ca activ; puterea brandului vs performanța lui.
-- [[BRD-0524-un-nume-bun-de-brand-e-relevant-emotionant-usor-de-rostit|BRD-0524]] — criterii de naming și simbolism fonetic.
-- [[BRD-0525-un-brand-nou-se-construieste-in-patru-pasi-carlig-nume|BRD-0525]] — cei patru pași pentru un brand nou și „convenția Altoids".
-- [[BRD-0526-cazul-mexic-a-contrazice-o-poveste-negativa-te-aduce-doar|BRD-0526]] — cazul Mexic: schimbarea conversației.
-- [[BRD-0527-cazul-john-deere-esenta-brandului-ramane-orientarea|BRD-0527]] — cazul John Deere: revitalizarea unui brand istoric.
-- [[ART-0501-designul-de-brand-lucreaza-in-sistemul-1-si-porneste-de-la|ART-0501]] — designul de brand în Sistemul 1 și harta perceptuală.
-- [[ART-0502-sablonul-de-design-de-brand-douasprezece-tipuri-de-indicii|ART-0502]] — șablonul cu 12 indicii de design.
-- [[ART-0503-cazul-tropicana-redesignul-ambalajului-a-sters-indiciile-de|ART-0503]] — cazul Tropicana.
-- [[ADV-0501-calatoria-clientului-centrata-pe-consumator-sase-etape-trei|ADV-0501]] — călătoria clientului în șase etape.
-- [[ADV-0502-mesajul-trebuie-incadrat-dupa-orientarea-de-promovare-sau|ADV-0502]] — încadrarea pe promovare vs prevenție.
-- [[ADV-0503-strategia-creativa-in-trei-pasi-atentie-amplificare|ADV-0503]] — atenție, amplificare, legătura cu brandul; video pentru mobil.
-- [[ADV-0504-mesajele-devin-virale-prin-difuzare-de-masa-nu-din-om-in-om|ADV-0504]] — viralitatea are nevoie de broadcast.
-- [[ADV-0505-cei-4m-ai-strategiei-media-potrivire-monopolizare-moment|ADV-0505]] — cei 4M ai strategiei media.
-- [[STO-0501-in-povestea-de-brand-brandul-e-oxigen-peste-tot-dar|STO-0501]] — brandul ca oxigen în poveste.
-- [[STO-0502-povestirea-transmedia-imparte-o-lume-narativa-intre-canale|STO-0502]] — transmedia și cei 4P.
-- [[INS-0501-insight-ul-vine-din-urmarirea-insistenta-a-lui-de-ce-si-a|INS-0501]] — insight prin „de ce" și fricțiuni.
-- [[EXP-0501-la-brandurile-direct-to-consumer-brandul-este-lantul|EXP-0501]] — brandurile DTC ca lanț de experiență.
+- [[BRD-001-brandul-este-un-set-de-asociatii-care-actioneaza-ca-o|BRD-001]] — brandul ca set de asociații și „prisma" care ridică sau coboară produsul (experimentul Tiffany/Walmart).
+- [[BRD-005-brandul-e-un-activ-pe-termen-lung-condus-de-oameni-judecati|BRD-005]] — cash, consistency, clutter și bucla fatală a promoțiilor.
+- [[BRD-006-declaratia-de-pozitionare-are-patru-elemente-tinta-cadru|BRD-006]] — declarația de poziționare în patru elemente și testele de claritate și distinctivitate.
+- [[BRD-007-cadrul-de-referinta-spune-consumatorului-ce-scop|BRD-007]] — cele trei moduri de a comunica cadrul de referință; numele categoriei ca decizie de design.
+- [[BRD-012-dovezile-bazate-pe-atribute-se-copiaza-cele-bazate-pe|BRD-012]] — motive de a crede bazate pe atribute vs pe imagine.
+- [[BRD-013-ecuatia-valorii-brandurile-concureaza-la-numarator-sau-la|BRD-013]] — ecuația valorii (beneficii fizice+emoționale / costuri bani+timp).
+- [[BRD-053-o-pozitie-se-sustine-prin-instantiere-moderna-schimbarea|BRD-053]] — instanțiere modernă, schimbarea dovezii, laddering.
+- [[BRD-054-repozitionarea-e-scumpa-si-riscanta-se-justifica-doar-in|BRD-054]] — când e justificată repoziționarea; Old Spice și publicul nou.
+- [[BRD-023-purpose-path-to-growth-descopera-scopul-apoi-activeaza-l|BRD-023]] — modelul Purpose Path to Growth.
+- [[BRD-061-scop-sau-pozitionare-brandurile-opereaza-la-altitudini|BRD-061]] — dezbaterea scop vs poziționare („altitudini" diferite).
+- [[BRD-044-arhitectura-de-brand-merge-de-la-branded-house-la-house-of|BRD-044]] — arhitectura de brand: brand primar, sub-brand, endorser, ingredient; branded house vs house of brands.
+- [[BRD-045-o-extensie-de-brand-reuseste-doar-daca-brandul-ajuta|BRD-045]] — testul celor trei întrebări pentru extensii.
+- [[BRD-046-un-portofoliu-puternic-se-construieste-si-prin-eliminarea|BRD-046]] — cele cinci chei ale portofoliului și eliminarea brandurilor (cazul GM).
+- [[BRD-016-momentul-intrarii-pe-piata-pionier-urmaritor-rapid-sau|BRD-016]] — avantajul pionierului, fast follower, late mover „suficient de diferit" sau inovator.
+- [[BRD-047-implementarea-strategiei-de-brand-cere-sase-elemente-nu|BRD-047]] — modelul de implementare în șase elemente.
+- [[BRD-049-brandurile-globale-cu-suflet-firul-comun-echilibrul-glocal|BRD-049]] — firul comun, echilibrul glocal, lansarea agilă (Oreo, Axe, Pond's).
+- [[BRD-033-matricea-motivelor-coerenta-agentie-si-comuniune-spre-sine|BRD-033]] — matricea motivelor (și modelul 3C al lui Sternthal).
+- [[BRD-034-tranzitiile-de-viata-si-amenintarile-identitare-deschid|BRD-034]] — tranziții de viață, conflicte și amenințări identitare, încurajarea utilizării.
+- [[BRD-035-comunitatea-de-brand-ideala-este-distincta-exclusiva-si-de|BRD-035]] — comunitatea de brand optimă și „adversarul" de brand.
+- [[BRD-050-brandul-de-servicii-se-castiga-sau-se-pierde-in-momentul|BRD-050]] — specificul brandurilor de servicii și standardele cu latitudine.
+- [[BRD-057-modelul-notorietate-simpatie-cota-de-piata-indica-strategia|BRD-057]] — modelul notorietate–simpatie–cotă și cele cinci strategii.
+- [[BRD-058-asocierile-de-brand-se-masoara-mai-onest-cu-intrebari|BRD-058]] — măsurarea asocierilor cu întrebări deschise (Uber vs Lyft).
+- [[BRD-059-brandul-este-un-activ-nu-o-cheltuiala-iar-puterea-lui-nu-e|BRD-059]] — brandul ca activ; puterea brandului vs performanța lui.
+- [[BRD-043-un-nume-bun-de-brand-e-relevant-emotionant-usor-de-rostit|BRD-043]] — criterii de naming și simbolism fonetic.
+- [[BRD-042-un-brand-nou-se-construieste-in-patru-pasi-carlig-nume|BRD-042]] — cei patru pași pentru un brand nou și „convenția Altoids".
+- [[BRD-056-cazul-mexic-a-contrazice-o-poveste-negativa-te-aduce-doar|BRD-056]] — cazul Mexic: schimbarea conversației.
+- [[BRD-055-cazul-john-deere-esenta-brandului-ramane-orientarea|BRD-055]] — cazul John Deere: revitalizarea unui brand istoric.
+- [[ART-011-designul-de-brand-lucreaza-in-sistemul-1-si-porneste-de-la|ART-011]] — designul de brand în Sistemul 1 și harta perceptuală.
+- [[ART-012-sablonul-de-design-de-brand-douasprezece-tipuri-de-indicii|ART-012]] — șablonul cu 12 indicii de design.
+- [[ART-022-cazul-tropicana-redesignul-ambalajului-a-sters-indiciile-de|ART-022]] — cazul Tropicana.
+- [[ADV-018-calatoria-clientului-se-construieste-pe-un-singur-segment|ADV-018]] — călătoria clientului în șase etape.
+- [[ADV-045-mesajul-trebuie-incadrat-dupa-orientarea-de-promovare-sau|ADV-045]] — încadrarea pe promovare vs prevenție.
+- [[ADV-043-o-reclama-eficienta-face-trei-lucruri-prinde-atentia|ADV-043]] — atenție, amplificare, legătura cu brandul; video pentru mobil.
+- [[ADV-067-mesajele-devin-virale-prin-difuzare-de-masa-nu-din-om-in-om|ADV-067]] — viralitatea are nevoie de broadcast.
+- [[ADV-058-strategia-media-are-patru-obiective-4m-potrivire|ADV-058]] — cei 4M ai strategiei media.
+- [[STO-006-in-povestea-de-brand-brandul-e-oxigen-peste-tot-dar|STO-006]] — brandul ca oxigen în poveste.
+- [[STO-031-povestirea-transmedia-imparte-o-lume-narativa-intre-canale|STO-031]] — transmedia și cei 4P.
+- [[INS-093-insight-ul-se-gaseste-tragand-de-firul-unui-ce-surprinzator|INS-093]] — insight prin „de ce" și fricțiuni.
+- [[EXP-027-la-brandurile-direct-to-consumer-brandul-este-lantul|EXP-027]] — brandurile DTC ca lanț de experiență.
 
 ## Ce lipsește / ce trebuie citit critic
 
@@ -113,46 +113,54 @@ level: 2
 <!-- backlinks:start -->
 ## Backlinks
 
-- [[ADV-0501-calatoria-clientului-centrata-pe-consumator-sase-etape-trei|ADV-0501]] — Călătoria clientului centrată pe consumator: șase etape, trei întrebări
-- [[ADV-0502-mesajul-trebuie-incadrat-dupa-orientarea-de-promovare-sau|ADV-0502]] — Mesajul trebuie încadrat după orientarea de promovare sau de prevenție
-- [[ADV-0503-strategia-creativa-in-trei-pasi-atentie-amplificare|ADV-0503]] — Strategia creativă în trei pași: atenție, amplificare, legătura cu brandul
-- [[ADV-0504-mesajele-devin-virale-prin-difuzare-de-masa-nu-din-om-in-om|ADV-0504]] — Mesajele devin virale prin difuzare de masă, nu din om în om
-- [[ADV-0505-cei-4m-ai-strategiei-media-potrivire-monopolizare-moment|ADV-0505]] — Cei 4M ai strategiei media: potrivire, monopolizare, moment, mentalitate
-- [[ART-0501-designul-de-brand-lucreaza-in-sistemul-1-si-porneste-de-la|ART-0501]] — Designul de brand lucrează în Sistemul 1 și pornește de la 3–4 asociații țintă
-- [[ART-0502-sablonul-de-design-de-brand-douasprezece-tipuri-de-indicii|ART-0502]] — Șablonul de design de brand: douăsprezece tipuri de indicii senzoriale
-- [[ART-0503-cazul-tropicana-redesignul-ambalajului-a-sters-indiciile-de|ART-0503]] — Cazul Tropicana: redesignul ambalajului a șters indiciile de recunoaștere
-- [[BRD-0501-brandul-este-un-set-de-asociatii-care-actioneaza-ca-o|BRD-0501]] — Brandul este un set de asociații care acționează ca o prismă asupra produsului
-- [[BRD-0502-cele-trei-c-ale-branding-ului-si-bucla-fatala-a-promotiilor|BRD-0502]] — Cele trei C ale branding-ului și bucla fatală a promoțiilor
-- [[BRD-0503-declaratia-de-pozitionare-are-patru-elemente-tinta-cadru|BRD-0503]] — Declarația de poziționare are patru elemente: țintă, cadru, diferență, dovadă
-- [[BRD-0504-cadrul-de-referinta-spune-consumatorului-ce-scop|BRD-0504]] — Cadrul de referință spune consumatorului ce scop îndeplinește brandul
-- [[BRD-0505-dovezile-bazate-pe-atribute-se-copiaza-cele-bazate-pe|BRD-0505]] — Dovezile bazate pe atribute se copiază, cele bazate pe imagine se pot deține
-- [[BRD-0506-ecuatia-valorii-brandurile-concureaza-la-numarator-sau-la|BRD-0506]] — Ecuația valorii: brandurile concurează la numărător sau la numitor
-- [[BRD-0507-o-pozitie-se-sustine-prin-instantiere-moderna-schimbarea|BRD-0507]] — O poziție se susține prin instanțiere modernă, schimbarea dovezii și laddering
-- [[BRD-0508-repozitionarea-este-o-solutie-de-ultima-instanta|BRD-0508]] — Repoziționarea este o soluție de ultimă instanță, justificată în puține situații
-- [[BRD-0509-purpose-path-to-growth-descopera-scopul-apoi-activeaza-l|BRD-0509]] — Purpose Path to Growth: descoperă scopul, apoi activează-l întâi în interior
-- [[BRD-0510-scop-sau-pozitionare-brandurile-opereaza-la-altitudini|BRD-0510]] — Scop sau poziționare: brandurile operează la altitudini diferite
-- [[BRD-0511-arhitectura-de-brand-de-la-branded-house-la-house-of-brands|BRD-0511]] — Arhitectura de brand: de la branded house la house of brands
-- [[BRD-0512-o-extensie-de-brand-trebuie-sa-treaca-testul-celor-trei|BRD-0512]] — O extensie de brand trebuie să treacă testul celor trei întrebări
-- [[BRD-0513-un-portofoliu-puternic-se-construieste-si-prin-eliminarea|BRD-0513]] — Un portofoliu puternic se construiește și prin eliminarea brandurilor slabe
-- [[BRD-0514-momentul-intrarii-pe-piata-pionier-urmaritor-rapid-sau|BRD-0514]] — Momentul intrării pe piață: pionier, urmăritor rapid sau intrat târziu
-- [[BRD-0515-implementarea-strategiei-de-brand-cere-sase-elemente-nu|BRD-0515]] — Implementarea strategiei de brand cere șase elemente, nu doar o poziționare
-- [[BRD-0516-brandurile-globale-cu-suflet-firul-comun-echilibrul-glocal|BRD-0516]] — Brandurile globale cu suflet: firul comun, echilibrul glocal, lansarea agilă
-- [[BRD-0517-matricea-motivelor-coerenta-agentie-si-comuniune-spre-sine|BRD-0517]] — Matricea motivelor: coerență, agenție și comuniune, spre sine sau spre ceilalți
-- [[BRD-0518-tranzitiile-de-viata-si-amenintarile-identitare-deschid|BRD-0518]] — Tranzițiile de viață și amenințările identitare deschid oamenii spre branduri noi
-- [[BRD-0519-comunitatea-de-brand-ideala-este-distincta-exclusiva-si-de|BRD-0519]] — Comunitatea de brand ideală este distinctă, exclusivă și de mărime medie
-- [[BRD-0520-brandul-de-servicii-se-castiga-sau-se-pierde-in-momentul|BRD-0520]] — Brandul de servicii se câștigă sau se pierde în momentul interacțiunii
-- [[BRD-0521-modelul-notorietate-simpatie-cota-de-piata-indica-strategia|BRD-0521]] — Modelul notorietate–simpatie–cotă de piață indică strategia de brand
-- [[BRD-0522-asocierile-de-brand-se-masoara-mai-onest-cu-intrebari|BRD-0522]] — Asocierile de brand se măsoară mai onest cu întrebări deschise
-- [[BRD-0523-brandul-este-un-activ-nu-o-cheltuiala-iar-puterea-lui-nu-e|BRD-0523]] — Brandul este un activ, nu o cheltuială, iar puterea lui nu e performanța lui
-- [[BRD-0524-un-nume-bun-de-brand-e-relevant-emotionant-usor-de-rostit|BRD-0524]] — Un nume bun de brand e relevant, emoționant, ușor de rostit și de promovat
-- [[BRD-0525-un-brand-nou-se-construieste-in-patru-pasi-carlig-nume|BRD-0525]] — Un brand nou se construiește în patru pași: cârlig, nume, marcă, design
-- [[BRD-0526-cazul-mexic-a-contrazice-o-poveste-negativa-te-aduce-doar|BRD-0526]] — Cazul Mexic: a contrazice o poveste negativă te aduce doar la neutru
-- [[BRD-0527-cazul-john-deere-esenta-brandului-ramane-orientarea|BRD-0527]] — Cazul John Deere: esența brandului rămâne, orientarea companiei se schimbă
-- [[BRD-0529-misiunea-spune-de-ce-exista-brandul-acum-viziunea-unde-vrea|BRD-0529]] — Misiunea spune de ce există brandul acum, viziunea unde vrea să ajungă
-- [[EXP-0501-la-brandurile-direct-to-consumer-brandul-este-lantul|EXP-0501]] — La brandurile direct-to-consumer, brandul este lanțul complet al experienței
-- [[INS-0501-insight-ul-vine-din-urmarirea-insistenta-a-lui-de-ce-si-a|INS-0501]] — Insight-ul vine din urmărirea insistentă a lui „de ce" și a punctelor de fricțiune
-- [[STO-0501-in-povestea-de-brand-brandul-e-oxigen-peste-tot-dar|STO-0501]] — În povestea de brand, brandul e oxigen: peste tot, dar niciodată protagonist
-- [[STO-0502-povestirea-transmedia-imparte-o-lume-narativa-intre-canale|STO-0502]] — Povestirea transmedia împarte o lume narativă între canale cu roluri diferite
+- [[ADV-018-calatoria-clientului-se-construieste-pe-un-singur-segment|ADV-018]] — Călătoria clientului se construiește pe un singur segment, în șase etape, cu trei întrebări la fiecare — abia apoi vin obiectivele și KPI-urile
+- [[ADV-043-o-reclama-eficienta-face-trei-lucruri-prinde-atentia|ADV-043]] — O reclamă eficientă face trei lucruri — prinde atenția, amplifică beneficiul și îl leagă de brand —, iar fără al treilea publicul ține minte povestea, nu brandul
+- [[ADV-045-mesajul-trebuie-incadrat-dupa-orientarea-de-promovare-sau|ADV-045]] — Mesajul trebuie încadrat după orientarea de promovare sau de prevenție
+- [[ADV-058-strategia-media-are-patru-obiective-4m-potrivire|ADV-058]] — Strategia media are patru obiective (4M) — potrivire, monopolizare, moment, mentalitate —, nu doar acoperirea ieftină a țintei
+- [[ADV-067-mesajele-devin-virale-prin-difuzare-de-masa-nu-din-om-in-om|ADV-067]] — Mesajele devin virale prin difuzare de masă, nu din om în om
+- [[ART-002-culoarea-spune-povestea-diferentiaza-de-concurenta-si|ART-002]] — Culoarea spune povestea, diferențiază de concurență și motivează — iar saturația contează mai mult decât nuanța
+- [[ART-011-designul-de-brand-lucreaza-in-sistemul-1-si-porneste-de-la|ART-011]] — Designul de brand lucrează în Sistemul 1 și pornește de la 3–4 asociații țintă
+- [[ART-012-sablonul-de-design-de-brand-douasprezece-tipuri-de-indicii|ART-012]] — Șablonul de design de brand: douăsprezece tipuri de indicii senzoriale
+- [[ART-022-cazul-tropicana-redesignul-ambalajului-a-sters-indiciile-de|ART-022]] — Cazul Tropicana: redesignul ambalajului a șters indiciile de recunoaștere
+- [[ART-023-ambalajul-se-proiecteaza-si-pentru-viata-de-dupa-cumparare|ART-023]] — Ambalajul se proiectează și pentru viața de după cumpărare — forma lui e un indiciu de brand, iar fiecare folosire repetă beneficiul
+- [[BRD-001-brandul-este-un-set-de-asociatii-care-actioneaza-ca-o|BRD-001]] — Brandul este un set de asociații care acționează ca o prismă asupra produsului
+- [[BRD-004-capitalul-de-brand-se-masoara-prin-patru-componente|BRD-004]] — Capitalul de brand se măsoară prin patru componente — notorietate, valoare percepută, asocieri și loialitate
+- [[BRD-005-brandul-e-un-activ-pe-termen-lung-condus-de-oameni-judecati|BRD-005]] — Brandul e un activ pe termen lung condus de oameni judecați pe trimestru — cele trei C ale branding-ului și bucla fatală a promoțiilor
+- [[BRD-006-declaratia-de-pozitionare-are-patru-elemente-tinta-cadru|BRD-006]] — Declarația de poziționare are patru elemente: țintă, cadru, diferență, dovadă
+- [[BRD-007-cadrul-de-referinta-spune-consumatorului-ce-scop|BRD-007]] — Cadrul de referință spune consumatorului ce scop îndeplinește brandul
+- [[BRD-009-pozitionarea-centrala-e-rezervata-liderului-care-defineste|BRD-009]] — Poziționarea centrală e rezervată liderului care definește categoria, iar aproape toate celelalte branduri trebuie să se diferențieze
+- [[BRD-012-dovezile-bazate-pe-atribute-se-copiaza-cele-bazate-pe|BRD-012]] — Dovezile bazate pe atribute se copiază, cele bazate pe imagine se pot deține
+- [[BRD-013-ecuatia-valorii-brandurile-concureaza-la-numarator-sau-la|BRD-013]] — Ecuația valorii: brandurile concurează la numărător sau la numitor
+- [[BRD-016-momentul-intrarii-pe-piata-pionier-urmaritor-rapid-sau|BRD-016]] — Momentul intrării pe piață: pionier, urmăritor rapid sau intrat târziu
+- [[BRD-019-misiunea-spune-de-ce-exista-brandul-viziunea-unde-vrea-sa|BRD-019]] — Misiunea spune de ce există brandul, viziunea unde vrea să ajungă, iar valorile cum se poartă pe drum
+- [[BRD-023-purpose-path-to-growth-descopera-scopul-apoi-activeaza-l|BRD-023]] — Purpose Path to Growth: descoperă scopul, apoi activează-l întâi în interior
+- [[BRD-033-matricea-motivelor-coerenta-agentie-si-comuniune-spre-sine|BRD-033]] — Matricea motivelor: coerență, agenție și comuniune, spre sine sau spre ceilalți
+- [[BRD-034-tranzitiile-de-viata-si-amenintarile-identitare-deschid|BRD-034]] — Tranzițiile de viață și amenințările identitare deschid oamenii spre branduri noi
+- [[BRD-035-comunitatea-de-brand-ideala-este-distincta-exclusiva-si-de|BRD-035]] — Comunitatea de brand ideală este distinctă, exclusivă și de mărime medie
+- [[BRD-042-un-brand-nou-se-construieste-in-patru-pasi-carlig-nume|BRD-042]] — Un brand nou se construiește în patru pași: cârlig, nume, marcă, design
+- [[BRD-043-un-nume-bun-de-brand-e-relevant-emotionant-usor-de-rostit|BRD-043]] — Un nume bun de brand e relevant, emoționant, ușor de rostit și de promovat
+- [[BRD-044-arhitectura-de-brand-merge-de-la-branded-house-la-house-of|BRD-044]] — Arhitectura de brand merge de la branded house la house of brands — cu cât produsele diferă mai mult, cu atât au nevoie de nume separate
+- [[BRD-045-o-extensie-de-brand-reuseste-doar-daca-brandul-ajuta|BRD-045]] — O extensie de brand reușește doar dacă brandul ajută produsul nou, produsul ajută brandul și ideea are sens de business — altfel diluează brandul
+- [[BRD-046-un-portofoliu-puternic-se-construieste-si-prin-eliminarea|BRD-046]] — Un portofoliu puternic se construiește și prin eliminarea brandurilor slabe
+- [[BRD-047-implementarea-strategiei-de-brand-cere-sase-elemente-nu|BRD-047]] — Implementarea strategiei de brand cere șase elemente, nu doar o poziționare
+- [[BRD-049-brandurile-globale-cu-suflet-firul-comun-echilibrul-glocal|BRD-049]] — Brandurile globale cu suflet: firul comun, echilibrul glocal, lansarea agilă
+- [[BRD-050-brandul-de-servicii-se-castiga-sau-se-pierde-in-momentul|BRD-050]] — Brandul de servicii se câștigă sau se pierde în momentul interacțiunii
+- [[BRD-053-o-pozitie-se-sustine-prin-instantiere-moderna-schimbarea|BRD-053]] — O poziție se susține prin instanțiere modernă, schimbarea dovezii și laddering
+- [[BRD-054-repozitionarea-e-scumpa-si-riscanta-se-justifica-doar-in|BRD-054]] — Repoziționarea e scumpă și riscantă — se justifică doar în câteva situații clare și reușește mai des vorbind unui public nou
+- [[BRD-055-cazul-john-deere-esenta-brandului-ramane-orientarea|BRD-055]] — Cazul John Deere: esența brandului rămâne, orientarea companiei se schimbă
+- [[BRD-056-cazul-mexic-a-contrazice-o-poveste-negativa-te-aduce-doar|BRD-056]] — Cazul Mexic: a contrazice o poveste negativă te aduce doar la neutru
+- [[BRD-057-modelul-notorietate-simpatie-cota-de-piata-indica-strategia|BRD-057]] — Modelul notorietate–simpatie–cotă de piață indică strategia de brand
+- [[BRD-058-asocierile-de-brand-se-masoara-mai-onest-cu-intrebari|BRD-058]] — Asocierile de brand se măsoară mai onest cu întrebări deschise
+- [[BRD-059-brandul-este-un-activ-nu-o-cheltuiala-iar-puterea-lui-nu-e|BRD-059]] — Brandul este un activ, nu o cheltuială, iar puterea lui nu e performanța lui
+- [[BRD-061-scop-sau-pozitionare-brandurile-opereaza-la-altitudini|BRD-061]] — Scop sau poziționare: brandurile operează la altitudini diferite
+- [[BRD-063-brandul-traieste-in-mintea-fiecarui-client-sau-in-cultura|BRD-063]] — Brandul trăiește în mintea fiecărui client sau în cultura pe care o împarte cu alții? — rețeaua de asociații contra mitului colectiv
+- [[EXP-027-la-brandurile-direct-to-consumer-brandul-este-lantul|EXP-027]] — La brandurile direct-to-consumer, brandul este lanțul complet al experienței
+- [[INS-085-personas-nu-segmente-ozzy-osbourne-si-printul-charles-au|INS-085]] — Personas, nu segmente — Ozzy Osbourne și Prințul Charles au același profil demografic
+- [[INS-093-insight-ul-se-gaseste-tragand-de-firul-unui-ce-surprinzator|INS-093]] — Insight-ul se găsește trăgând de firul unui „ce" surprinzător — o fricțiune, o contradicție, un gest ciudat — până la „de ce"
+- [[MKT-002-valoarea-este-ce-primesti-raportat-la-ce-dai-nu-pretul-mic|MKT-002]] — Valoarea este ce primești raportat la ce dai, nu prețul mic
+- [[STO-002-calatoria-eroului-protagonistul-pleaca-din-lumea-obisnuita|STO-002]] — Călătoria eroului — protagonistul pleacă din lumea obișnuită, trece prin încercări și se întoarce transformat; în publicitate eroul e de regulă clientul, nu brandul
+- [[STO-006-in-povestea-de-brand-brandul-e-oxigen-peste-tot-dar|STO-006]] — În povestea de brand, brandul e oxigen: peste tot, dar niciodată protagonist
+- [[STO-031-povestirea-transmedia-imparte-o-lume-narativa-intre-canale|STO-031]] — Povestirea transmedia împarte o lume narativă între canale cu roluri diferite
 - [[SRC-015-the-brand-blueprint|SRC-015]] — The Unbeatable Brand Blueprint: The Ultimate Guide for Branding
 - [[SRC-016-the-goddess-guide-to-branding-jane-mccarthy|SRC-016]] — Goddess Guide to Branding
 - [[SRC-017-logos-that-last|SRC-017]] — Logos That Last: How to Create Iconic Visual Branding

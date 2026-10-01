@@ -30,26 +30,26 @@ level: 1
 | Cap. | Tema | Note derivate |
 |---|---|---|
 | Intro, 2 | Segmentare: demografică, psihografică, comportamentală, geografică; segmentare dinamică și predictivă | (generic — neextras) |
-| 1 | Testarea A/B: ipoteză, o singură variabilă, eșantion, 95% încredere, multivariat, secvențial, documentare | [[DIG-0933-testul-ab-o-singura-variabila-si-semnificatie-statistica|DIG-0933]] |
-| 3 | Retargeting: pixel, segmentare pe etapă, dinamic, frequency capping, cross-device | [[DIG-0924-retargetingul-trebuie-segmentat-dupa-stadiul-din-journey|DIG-0924]] |
-| 4 | Campanii multicanal: integrare, orchestrare, silozuri, atribuire | [[DIG-0934-modelele-de-atribuire-decid-ce-canal-primeste-meritul|DIG-0934]] |
-| 5 | Analytics avansat: predictiv, clustere, atribuire, timp real, sentiment, ROI | [[DIG-0934-modelele-de-atribuire-decid-ce-canal-primeste-meritul|DIG-0934]] |
-| 6 | Personalizare: e-mail, site, reclame, predictivă; supra-personalizare și confidențialitate | [[DIG-0929-personalizarea-relevanta-respect-control-reactanta|DIG-0929]] |
+| 1 | Testarea A/B: ipoteză, o singură variabilă, eșantion, 95% încredere, multivariat, secvențial, documentare | [[DIG-076-testul-a-b-schimba-o-singura-variabila-porneste-de-la-o\|DIG-076]] |
+| 3 | Retargeting: pixel, segmentare pe etapă, dinamic, frequency capping, cross-device | [[DIG-052-retargetingul-functioneaza-doar-segmentat-pe-etapa-din\|DIG-052]] |
+| 4 | Campanii multicanal: integrare, orchestrare, silozuri, atribuire | [[DIG-077-modelul-de-atribuire-decide-ce-canal-primeste-meritul\|DIG-077]] |
+| 5 | Analytics avansat: predictiv, clustere, atribuire, timp real, sentiment, ROI | [[DIG-077-modelul-de-atribuire-decide-ce-canal-primeste-meritul\|DIG-077]] |
+| 6 | Personalizare: e-mail, site, reclame, predictivă; supra-personalizare și confidențialitate | [[DIG-069-personalizarea-functioneaza-doar-cu-relevanta-respect-si\|DIG-069]] |
 | 7 | AI: predicție, recomandări, chatbots, generare de conținut, programatic, voce | (generic — vezi notele grupului G13) |
-| 8 | Studii de caz: KFC, Glossier, LinkedIn, Share a Coke, Spotify Wrapped, Airbnb | [[DIG-0935-spotify-wrapped-datele-clientului-devin-continut-distribuit|DIG-0935]], [[SOC-0906-criza-pe-social-media-cere-plan-de-raspuns-pregatit|SOC-0906]], [[ADV-0901-share-a-coke-personalizarea-ambalajului-a-devenit-continut-social|ADV-0901]] |
+| 8 | Studii de caz: KFC, Glossier, LinkedIn, Share a Coke, Spotify Wrapped, Airbnb | [[DIG-070-spotify-wrapped-datele-clientului-devin-un-cadou-personal\|DIG-070]], [[SOC-022-o-criza-pe-social-media-se-gestioneaza-cu-un-plan-de\|SOC-022]], [[ADV-073-share-a-coke-personalizarea-ambalajului-a-devenit-continut\|ADV-073]] |
 | 9 | Tendințe: AI, voce, AR/VR, confidențialitate, blockchain, social commerce, video, sustenabilitate | (generic) |
-| 10 | Content marketing: povestire, buyer's journey, owned/earned/paid, formate, SEO, refolosire | [[STO-0902-matricea-content-marketingului-entertain-inspire-educate-convince|STO-0902]], [[DIG-0925-media-owned-earned-paid-control-credibilitate-acoperire|DIG-0925]], [[STO-0904-piramida-continutului-cercetarea-de-baza-alimenteaza-derivatele|STO-0904]] |
+| 10 | Content marketing: povestire, buyer's journey, owned/earned/paid, formate, SEO, refolosire | [[STO-028-matricea-content-marketingului-distreaza-inspira-educa\|STO-028]], [[DIG-022-media-owned-earned-si-paid-se-completeaza-control\|DIG-022]], [[STO-029-piramida-continutului-o-cercetare-de-baza-alimenteaza-zeci\|STO-029]] |
 
 ## Idei-cheie → note permanente
 
-- [[DIG-0933-testul-ab-o-singura-variabila-si-semnificatie-statistica|DIG-0933]] — Testul A/B ca experiment: ipoteză, o variabilă, eșantion suficient, fără „trasul cu ochiul" (îmbină cu definiția din [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]]).
-- [[DIG-0924-retargetingul-trebuie-segmentat-dupa-stadiul-din-journey|DIG-0924]] — Retargetingul segmentat după stadiul din journey, dinamic și cu frequency capping.
-- [[DIG-0934-modelele-de-atribuire-decid-ce-canal-primeste-meritul|DIG-0934]] — Modelele de atribuire first-touch, last-touch, linear, multi-touch (completate cu UTM din [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]]).
-- [[DIG-0935-spotify-wrapped-datele-clientului-devin-continut-distribuit|DIG-0935]] — Spotify Wrapped: datele devin un cadou personal și distribuibil.
-- [[DIG-0929-personalizarea-relevanta-respect-control-reactanta|DIG-0929]] — Supra-personalizarea ca risc (convergentă cu reactanța din [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]]).
-- [[SOC-0906-criza-pe-social-media-cere-plan-de-raspuns-pregatit|SOC-0906]] — KFC „FCK" ca răspuns asumat la criză.
-- [[ADV-0901-share-a-coke-personalizarea-ambalajului-a-devenit-continut-social|ADV-0901]] — cei trei factori ai succesului Share a Coke.
-- [[STO-0902-matricea-content-marketingului-entertain-inspire-educate-convince|STO-0902]], [[STO-0904-piramida-continutului-cercetarea-de-baza-alimenteaza-derivatele|STO-0904]], [[DIG-0925-media-owned-earned-paid-control-credibilitate-acoperire|DIG-0925]] — journey-ul conținutului în trei etape, refolosirea, owned/earned/paid (confirmă [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]]).
+- [[DIG-076-testul-a-b-schimba-o-singura-variabila-porneste-de-la-o|DIG-076]] — Testul A/B ca experiment: ipoteză, o variabilă, eșantion suficient, fără „trasul cu ochiul" (îmbină cu definiția din [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]]).
+- [[DIG-052-retargetingul-functioneaza-doar-segmentat-pe-etapa-din|DIG-052]] — Retargetingul segmentat după stadiul din journey, dinamic și cu frequency capping.
+- [[DIG-077-modelul-de-atribuire-decide-ce-canal-primeste-meritul|DIG-077]] — Modelele de atribuire first-touch, last-touch, linear, multi-touch (completate cu UTM din [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]]).
+- [[DIG-070-spotify-wrapped-datele-clientului-devin-un-cadou-personal|DIG-070]] — Spotify Wrapped: datele devin un cadou personal și distribuibil.
+- [[DIG-069-personalizarea-functioneaza-doar-cu-relevanta-respect-si|DIG-069]] — Supra-personalizarea ca risc (convergentă cu reactanța din [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]]).
+- [[SOC-022-o-criza-pe-social-media-se-gestioneaza-cu-un-plan-de|SOC-022]] — KFC „FCK" ca răspuns asumat la criză.
+- [[ADV-073-share-a-coke-personalizarea-ambalajului-a-devenit-continut|ADV-073]] — cei trei factori ai succesului Share a Coke.
+- [[STO-028-matricea-content-marketingului-distreaza-inspira-educa|STO-028]], [[STO-029-piramida-continutului-o-cercetare-de-baza-alimenteaza-zeci|STO-029]], [[DIG-022-media-owned-earned-si-paid-se-completeaza-control|DIG-022]] — journey-ul conținutului în trei etape, refolosirea, owned/earned/paid (confirmă [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]]).
 
 ## Ce lipsește / ce trebuie citit critic
 
@@ -66,15 +66,15 @@ level: 1
 <!-- backlinks:start -->
 ## Backlinks
 
-- [[ADV-0901-share-a-coke-personalizarea-ambalajului-a-devenit-continut-social|ADV-0901]] — Share a Coke — personalizarea ambalajului a devenit conținut social, susținut de o comunicare integrată
-- [[DIG-0924-retargetingul-trebuie-segmentat-dupa-stadiul-din-journey|DIG-0924]] — Retargetingul trebuie segmentat după stadiul din journey și dozat, altfel devine hărțuire
-- [[DIG-0925-media-owned-earned-paid-control-credibilitate-acoperire|DIG-0925]] — Media owned, earned și paid se completează — control, credibilitate și acoperire
-- [[DIG-0929-personalizarea-relevanta-respect-control-reactanta|DIG-0929]] — Personalizarea funcționează doar cu relevanță, respect și control; venită prea devreme, produce reactanță
-- [[DIG-0933-testul-ab-o-singura-variabila-si-semnificatie-statistica|DIG-0933]] — Testul A/B schimbă o singură variabilă, pornește de la o ipoteză și așteaptă semnificația statistică
-- [[DIG-0934-modelele-de-atribuire-decid-ce-canal-primeste-meritul|DIG-0934]] — Modelele de atribuire decid ce canal primește meritul conversiei — și schimbă astfel bugetul
-- [[DIG-0935-spotify-wrapped-datele-clientului-devin-continut-distribuit|DIG-0935]] — Spotify Wrapped — datele clientului devin un cadou personal pe care el însuși îl distribuie
-- [[SOC-0906-criza-pe-social-media-cere-plan-de-raspuns-pregatit|SOC-0906]] — O criză pe social media se gestionează cu un plan de răspuns pregătit dinainte, nu cu improvizație
-- [[STO-0902-matricea-content-marketingului-entertain-inspire-educate-convince|STO-0902]] — Matricea content marketingului — distrează, inspiră, educă, convinge — după emoție și etapa deciziei
-- [[STO-0904-piramida-continutului-cercetarea-de-baza-alimenteaza-derivatele|STO-0904]] — Piramida conținutului — o cercetare de bază alimentează zeci de piese derivate și promoționale
+- [[ADV-073-share-a-coke-personalizarea-ambalajului-a-devenit-continut|ADV-073]] — Share a Coke — personalizarea ambalajului a devenit conținut social, susținut de o comunicare integrată
+- [[DIG-022-media-owned-earned-si-paid-se-completeaza-control|DIG-022]] — Media owned, earned și paid se completează — control, credibilitate și acoperire
+- [[DIG-052-retargetingul-functioneaza-doar-segmentat-pe-etapa-din|DIG-052]] — Retargetingul funcționează doar segmentat pe etapa din journey, dozat și consimțit — tactica cea mai eficientă a erei cookie e și cea mai expusă după ea
+- [[DIG-069-personalizarea-functioneaza-doar-cu-relevanta-respect-si|DIG-069]] — Personalizarea funcționează doar cu relevanță, respect și control; venită prea devreme, produce reactanță
+- [[DIG-070-spotify-wrapped-datele-clientului-devin-un-cadou-personal|DIG-070]] — Spotify Wrapped — datele clientului devin un cadou personal pe care el însuși îl distribuie
+- [[DIG-076-testul-a-b-schimba-o-singura-variabila-porneste-de-la-o|DIG-076]] — Testul A/B schimbă o singură variabilă, pornește de la o ipoteză și așteaptă semnificația statistică
+- [[DIG-077-modelul-de-atribuire-decide-ce-canal-primeste-meritul|DIG-077]] — Modelul de atribuire decide ce canal primește meritul conversiei — iar după cookie-uri urmărirea devine incertă și etapele de început ies dezavantajate
+- [[SOC-022-o-criza-pe-social-media-se-gestioneaza-cu-un-plan-de|SOC-022]] — O criză pe social media se gestionează cu un plan de răspuns pregătit dinainte, nu cu improvizație
+- [[STO-028-matricea-content-marketingului-distreaza-inspira-educa|STO-028]] — Matricea content marketingului — distrează, inspiră, educă, convinge — după emoție și etapa deciziei
+- [[STO-029-piramida-continutului-o-cercetare-de-baza-alimenteaza-zeci|STO-029]] — Piramida conținutului — o cercetare de bază alimentează zeci de piese derivate și promoționale
 - [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
 <!-- backlinks:end -->

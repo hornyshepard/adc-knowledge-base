@@ -29,23 +29,23 @@ level: 1
 
 | Cap. | Tema | Note derivate |
 |---|---|---|
-| Foreword, 1 | Brand magnetism; ce e un arhetip; de ce zeițe în locul celor 12 arhetipuri jungiene | [[BRD-0530-opt-arhetipuri-zeite-ofera-o-alternativa-feminina-la-cele|BRD-0530]] |
-| 2 | Interviurile cu cele opt zeițe, branduri-exemplu și interviuri cu fondatoare | [[BRD-0530-opt-arhetipuri-zeite-ofera-o-alternativa-feminina-la-cele|BRD-0530]], [[BRD-0533-cazul-billie-a-arata-ce-ascunde-categoria-transforma-un|BRD-0533]], [[ART-0511-brandul-are-hardware-iconic-de-pastrat-si-software-dinamic|ART-0511]] (Yonder) |
-| 3 | Brand blueprint: zeiță, inimă, dar, stil | [[BRD-0532-brand-blueprint-zeita-inima-dar-si-stil-fiecare-trecut|BRD-0532]] |
-| 4 | Alegerea zeiței: patru exerciții și testul „autentic + atractiv" | [[BRD-0531-arhetipul-potrivit-e-autentic-pentru-firma-si-atractiv|BRD-0531]] |
-| 5 | Inima brandului (verb activ, simplu; convingeri) | [[BRD-0532-brand-blueprint-zeita-inima-dar-si-stil-fiecare-trecut|BRD-0532]] |
-| 6 | Darul (Legenda, Brand Planet; criterii: important, special, credibil) | [[BRD-0532-brand-blueprint-zeita-inima-dar-si-stil-fiecare-trecut|BRD-0532]], [[EXP-0501-la-brandurile-direct-to-consumer-brandul-este-lantul|EXP-0501]] |
-| 7 | Stilul: iconic + dinamic; simboluri, culori, voce, experiență; interviuri cu specialiști | [[ART-0511-brandul-are-hardware-iconic-de-pastrat-si-software-dinamic|ART-0511]], [[BRD-0524-un-nume-bun-de-brand-e-relevant-emotionant-usor-de-rostit|BRD-0524]], [[IDE-0501-inspiratia-vizuala-originala-se-cauta-in-afara-bulei-de-pe|IDE-0501]], [[EXP-0501-la-brandurile-direct-to-consumer-brandul-este-lantul|EXP-0501]], [[BRD-0523-brandul-este-un-activ-nu-o-cheltuiala-iar-puterea-lui-nu-e|BRD-0523]] |
-| 8, Supliment | Concluzii; caz fictiv Soft Scrubs Co.; trusa de cercetare a clientului; design brief | [[BRD-0531-arhetipul-potrivit-e-autentic-pentru-firma-si-atractiv|BRD-0531]], [[BRD-0532-brand-blueprint-zeita-inima-dar-si-stil-fiecare-trecut|BRD-0532]] |
+| Foreword, 1 | Brand magnetism; ce e un arhetip; de ce zeițe în locul celor 12 arhetipuri jungiene | [[BRD-030-opt-arhetipuri-zeite-ofera-o-alternativa-feminina-la-cele\|BRD-030]] |
+| 2 | Interviurile cu cele opt zeițe, branduri-exemplu și interviuri cu fondatoare | [[BRD-030-opt-arhetipuri-zeite-ofera-o-alternativa-feminina-la-cele\|BRD-030]], [[BRD-018-cazul-billie-a-arata-ce-ascunde-categoria-transforma-un\|BRD-018]], [[ART-020-brandul-are-hardware-iconic-de-pastrat-si-software-dinamic\|ART-020]] (Yonder) |
+| 3 | Brand blueprint: zeiță, inimă, dar, stil | [[BRD-032-brand-blueprint-zeita-inima-dar-si-stil-fiecare-trecut\|BRD-032]] |
+| 4 | Alegerea zeiței: patru exerciții și testul „autentic + atractiv" | [[BRD-031-arhetipul-potrivit-e-autentic-pentru-firma-si-atractiv\|BRD-031]] |
+| 5 | Inima brandului (verb activ, simplu; convingeri) | [[BRD-032-brand-blueprint-zeita-inima-dar-si-stil-fiecare-trecut\|BRD-032]] |
+| 6 | Darul (Legenda, Brand Planet; criterii: important, special, credibil) | [[BRD-032-brand-blueprint-zeita-inima-dar-si-stil-fiecare-trecut\|BRD-032]], [[EXP-027-la-brandurile-direct-to-consumer-brandul-este-lantul\|EXP-027]] |
+| 7 | Stilul: iconic + dinamic; simboluri, culori, voce, experiență; interviuri cu specialiști | [[ART-020-brandul-are-hardware-iconic-de-pastrat-si-software-dinamic\|ART-020]], [[BRD-043-un-nume-bun-de-brand-e-relevant-emotionant-usor-de-rostit\|BRD-043]], [[IDE-013-inspiratia-vizuala-originala-se-cauta-in-afara-bulei-de-pe\|IDE-013]], [[EXP-027-la-brandurile-direct-to-consumer-brandul-este-lantul\|EXP-027]], [[BRD-059-brandul-este-un-activ-nu-o-cheltuiala-iar-puterea-lui-nu-e\|BRD-059]] |
+| 8, Supliment | Concluzii; caz fictiv Soft Scrubs Co.; trusa de cercetare a clientului; design brief | [[BRD-031-arhetipul-potrivit-e-autentic-pentru-firma-si-atractiv\|BRD-031]], [[BRD-032-brand-blueprint-zeita-inima-dar-si-stil-fiecare-trecut\|BRD-032]] |
 
 ## Idei-cheie → note permanente
 
-- [[BRD-0530-opt-arhetipuri-zeite-ofera-o-alternativa-feminina-la-cele|BRD-0530]] — cele opt zeițe-arhetip, cu sentimentele, simbolurile și brandurile asociate; alternativa la cele 12 arhetipuri jungiene.
-- [[BRD-0531-arhetipul-potrivit-e-autentic-pentru-firma-si-atractiv|BRD-0531]] — cum alegi arhetipul: firesc, inspirațional, potrivit clientului, neașteptat; testul „autentic + atractiv"; alegi unul singur.
-- [[BRD-0532-brand-blueprint-zeita-inima-dar-si-stil-fiecare-trecut|BRD-0532]] — cele patru straturi ale brand blueprint-ului și testele fiecăruia; Brand Planet.
-- [[BRD-0533-cazul-billie-a-arata-ce-ascunde-categoria-transforma-un|BRD-0533]] — cazul Billie: tabuul categoriei transformat în poziționare.
-- [[ART-0511-brandul-are-hardware-iconic-de-pastrat-si-software-dinamic|ART-0511]] — hardware iconic vs software dinamic (Sarah Moffat, Turner Duckworth; Ada Mayer).
-- Completări în note existente: procesul de naming al Myrei El-Bayoumi ([[BRD-0524-un-nume-bun-de-brand-e-relevant-emotionant-usor-de-rostit|BRD-0524]]), inspirația „din lumea reală" a lui Sarah Moffat ([[IDE-0501-inspiratia-vizuala-originala-se-cauta-in-afara-bulei-de-pe|IDE-0501]]), perspectiva CFO-ului Denise Beckles ([[BRD-0523-brandul-este-un-activ-nu-o-cheltuiala-iar-puterea-lui-nu-e|BRD-0523]]), designul de experiență al lui Janet T. Planet și Katie Conway ([[EXP-0501-la-brandurile-direct-to-consumer-brandul-este-lantul|EXP-0501]]).
+- [[BRD-030-opt-arhetipuri-zeite-ofera-o-alternativa-feminina-la-cele|BRD-030]] — cele opt zeițe-arhetip, cu sentimentele, simbolurile și brandurile asociate; alternativa la cele 12 arhetipuri jungiene.
+- [[BRD-031-arhetipul-potrivit-e-autentic-pentru-firma-si-atractiv|BRD-031]] — cum alegi arhetipul: firesc, inspirațional, potrivit clientului, neașteptat; testul „autentic + atractiv"; alegi unul singur.
+- [[BRD-032-brand-blueprint-zeita-inima-dar-si-stil-fiecare-trecut|BRD-032]] — cele patru straturi ale brand blueprint-ului și testele fiecăruia; Brand Planet.
+- [[BRD-018-cazul-billie-a-arata-ce-ascunde-categoria-transforma-un|BRD-018]] — cazul Billie: tabuul categoriei transformat în poziționare.
+- [[ART-020-brandul-are-hardware-iconic-de-pastrat-si-software-dinamic|ART-020]] — hardware iconic vs software dinamic (Sarah Moffat, Turner Duckworth; Ada Mayer).
+- Completări în note existente: procesul de naming al Myrei El-Bayoumi ([[BRD-043-un-nume-bun-de-brand-e-relevant-emotionant-usor-de-rostit|BRD-043]]), inspirația „din lumea reală" a lui Sarah Moffat ([[IDE-013-inspiratia-vizuala-originala-se-cauta-in-afara-bulei-de-pe|IDE-013]]), perspectiva CFO-ului Denise Beckles ([[BRD-059-brandul-este-un-activ-nu-o-cheltuiala-iar-puterea-lui-nu-e|BRD-059]]), designul de experiență al lui Janet T. Planet și Katie Conway ([[EXP-027-la-brandurile-direct-to-consumer-brandul-este-lantul|EXP-027]]).
 
 ## Ce lipsește / ce trebuie citit critic
 
@@ -62,13 +62,15 @@ level: 1
 <!-- backlinks:start -->
 ## Backlinks
 
-- [[ART-0511-brandul-are-hardware-iconic-de-pastrat-si-software-dinamic|ART-0511]] — Brandul are hardware iconic, de păstrat, și software dinamic, de schimbat
-- [[BRD-0523-brandul-este-un-activ-nu-o-cheltuiala-iar-puterea-lui-nu-e|BRD-0523]] — Brandul este un activ, nu o cheltuială, iar puterea lui nu e performanța lui
-- [[BRD-0524-un-nume-bun-de-brand-e-relevant-emotionant-usor-de-rostit|BRD-0524]] — Un nume bun de brand e relevant, emoționant, ușor de rostit și de promovat
-- [[BRD-0530-opt-arhetipuri-zeite-ofera-o-alternativa-feminina-la-cele|BRD-0530]] — Opt arhetipuri-zeițe oferă o alternativă feminină la cele 12 arhetipuri jungiene
-- [[BRD-0531-arhetipul-potrivit-e-autentic-pentru-firma-si-atractiv|BRD-0531]] — Arhetipul potrivit e autentic pentru firmă și atractiv pentru client
-- [[BRD-0532-brand-blueprint-zeita-inima-dar-si-stil-fiecare-trecut|BRD-0532]] — Brand blueprint: zeiță, inimă, dar și stil, fiecare trecut printr-un test
-- [[BRD-0533-cazul-billie-a-arata-ce-ascunde-categoria-transforma-un|BRD-0533]] — Cazul Billie: a arăta ce ascunde categoria transformă un tabu în poziționare
-- [[EXP-0501-la-brandurile-direct-to-consumer-brandul-este-lantul|EXP-0501]] — La brandurile direct-to-consumer, brandul este lanțul complet al experienței
-- [[IDE-0501-inspiratia-vizuala-originala-se-cauta-in-afara-bulei-de-pe|IDE-0501]] — Inspirația vizuală originală se caută în afara bulei de pe Pinterest și Dribbble
+- [[ART-002-culoarea-spune-povestea-diferentiaza-de-concurenta-si|ART-002]] — Culoarea spune povestea, diferențiază de concurență și motivează — iar saturația contează mai mult decât nuanța
+- [[ART-020-brandul-are-hardware-iconic-de-pastrat-si-software-dinamic|ART-020]] — Brandul are hardware iconic, de păstrat, și software dinamic, de schimbat
+- [[BRD-018-cazul-billie-a-arata-ce-ascunde-categoria-transforma-un|BRD-018]] — Cazul Billie: a arăta ce ascunde categoria transformă un tabu în poziționare
+- [[BRD-030-opt-arhetipuri-zeite-ofera-o-alternativa-feminina-la-cele|BRD-030]] — Opt arhetipuri-zeițe oferă o alternativă feminină la cele 12 arhetipuri jungiene
+- [[BRD-031-arhetipul-potrivit-e-autentic-pentru-firma-si-atractiv|BRD-031]] — Arhetipul potrivit e autentic pentru firmă și atractiv pentru client
+- [[BRD-032-brand-blueprint-zeita-inima-dar-si-stil-fiecare-trecut|BRD-032]] — Brand blueprint: zeiță, inimă, dar și stil, fiecare trecut printr-un test
+- [[BRD-043-un-nume-bun-de-brand-e-relevant-emotionant-usor-de-rostit|BRD-043]] — Un nume bun de brand e relevant, emoționant, ușor de rostit și de promovat
+- [[BRD-059-brandul-este-un-activ-nu-o-cheltuiala-iar-puterea-lui-nu-e|BRD-059]] — Brandul este un activ, nu o cheltuială, iar puterea lui nu e performanța lui
+- [[CPY-019-vocea-brandului-ramane-constanta-tonul-se-adapteaza-la|CPY-019]] — Vocea brandului rămâne constantă, tonul se adaptează la canal, public și situație
+- [[EXP-027-la-brandurile-direct-to-consumer-brandul-este-lantul|EXP-027]] — La brandurile direct-to-consumer, brandul este lanțul complet al experienței
+- [[IDE-013-inspiratia-vizuala-originala-se-cauta-in-afara-bulei-de-pe|IDE-013]] — Inspirația vizuală originală se caută în afara bulei de pe Pinterest și Dribbble
 <!-- backlinks:end -->

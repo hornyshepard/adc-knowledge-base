@@ -27,48 +27,48 @@ level: 2
 
 | Cap. | Tema | Note derivate |
 |---|---|---|
-| Intro | Mixul experiențial 7E vs. 7P | [[EXP-1201-mixul-experiential-7e-inlocuieste-cei-7p|EXP-1201]] |
-| 1 | Patru schimbări în comportamentul consumatorului: digital, împuternicire, emoție, postmodernism | [[INS-1205-consumatorul-imputernicit-patru-piloni|INS-1205]], [[INS-1203-emotiile-consumatorului-primare-secundare-fluctuante|INS-1203]], [[INS-1206-consumatorul-postmodern-fragmentat-paradoxal|INS-1206]], [[INS-1204-tipologia-valorii-holbrook-opt-valori|INS-1204]] |
-| 2 | Originile conceptului de experiență; CRM vs. CX; GDL vs. CDL; journey și touchpoints | [[EXP-1205-de-la-crm-la-customer-experience|EXP-1205]], [[INS-1201-consumul-hedonic-fantezii-sentimente-distractie|INS-1201]], [[MKT-1201-logica-dominata-de-client-cdl|MKT-1201]], [[EXP-1206-experienta-in-patru-etape-pre-consum-amintire|EXP-1206]] |
-| 3 | Cadrul CX: drivere (sens, imersiune, flow, socializare, acțiuni de marketing), markeri, rezultate | [[EXP-1202-cadrul-cx-drivere-markeri-rezultate|EXP-1202]], [[EXP-1203-cei-cinci-markeri-ai-experientei-clientului|EXP-1203]], [[EXP-1204-rezultatele-experientei-valoare-transformare|EXP-1204]], [[EXP-1207-imersiunea-cinci-factori-servicescape|EXP-1207]], [[INS-1202-flow-provocarea-potrivita-cu-competenta|INS-1202]], [[INS-1207-semiotica-decodeaza-sensul-cultural-al-consumului|INS-1207]], [[EXP-1209-tematizarea-unifica-decorul-experientei|EXP-1209]], [[EXP-1210-marketingul-senzorial-cinci-semnaturi|EXP-1210]], [[EXP-1223-caz-coca-cola-happiness-factory-expo-shanghai|EXP-1223]], [[EXP-1224-caz-badoit-express-masa-gastronomica-in-metrou|EXP-1224]] |
-| 4 | Experience: Experience Territory Matrix, etapele experienței, EXQUAL | [[EXP-1211-experience-territory-matrix-respect-centricity|EXP-1211]], [[EXP-1212-masurarea-experientei-exqual-dincolo-de-satisfactie|EXP-1212]], [[EXP-1206-experienta-in-patru-etape-pre-consum-amintire|EXP-1206]] |
-| 5 | Exchange: co-creație, DART, marketing colaborativ | [[EXP-1213-exchange-valoarea-co-creata-in-locul-pretului|EXP-1213]], [[EXP-1214-marketing-colaborativ-diy-colaborare-co-inovare|EXP-1214]], [[MKT-1201-logica-dominata-de-client-cdl|MKT-1201]] |
-| 6 | Extension: continuumul experienței, intra/extra-domestic, ordinar vs. extraordinar | [[EXP-1215-extension-continuumul-experientei-pana-acasa|EXP-1215]], [[EXP-1208-experiente-ordinare-vs-extraordinare|EXP-1208]] |
-| 7 | Emphasis: brand culture (Holt), storytelling, hero's journey | [[BRD-1201-emphasis-de-la-brand-content-la-brand-culture|BRD-1201]], [[BRD-1202-branding-cultural-holt-mitul-rezolva-contradictii|BRD-1202]], [[BRD-1203-caz-nike-just-do-it-mitul-vointei-individuale|BRD-1203]], [[STO-1201-povestea-de-brand-din-pozitionare-si-hero-journey|STO-1201]] |
-| 8 | Empathy capital: concept, componente, harta empatiei, modelul McLaren | [[EXP-1216-capitalul-de-empatie-inlocuieste-people|EXP-1216]], [[INS-1208-harta-empatiei-si-modelul-mclaren|INS-1208]] |
-| 9 | Emotional touchpoints și toolkit-ul de carduri | [[EXP-1217-emotional-touchpoints-emotia-defineste-contactul|EXP-1217]], [[EXP-1218-cardurile-emotional-touchpoints-atelier-in-sase-pasi|EXP-1218]] |
-| 10 | Emic/etic process și maparea socioculturală a customer journey | [[EXP-1219-procesul-emic-etic-maparea-socioculturala|EXP-1219]] |
-| 11 | Experiența phygital: definiție, instrumente, șase tipologii, factori de succes | [[EXP-1220-experienta-phygital-fizic-plus-digital|EXP-1220]], [[EXP-1221-sase-tipologii-ale-experientei-phygital|EXP-1221]] |
-| 12 | Storyliving: de la poveste la acțiune, cinci strategii | [[EXP-1222-storyliving-povestea-traita-nu-doar-spusa|EXP-1222]] |
-| 13 | Metode de cercetare experiențiale și e-experiențiale | [[INS-1209-tehnicile-proiective-scot-ce-nu-se-spune-direct|INS-1209]], [[INS-1210-etnografia-experientiala-socializare-colaborare|INS-1210]] |
+| Intro | Mixul experiențial 7E vs. 7P | [[EXP-007-mixul-de-marketing-experiential-7e-inlocuieste-cei-7p-cu\|EXP-007]] |
+| 1 | Patru schimbări în comportamentul consumatorului: digital, împuternicire, emoție, postmodernism | [[INS-069-consumatorul-imputernicit-sta-pe-patru-piloni-competenta-re\|INS-069]], [[INS-009-emotiile-consumatorului-sunt-primare-sau-secundare-si\|INS-009]], [[INS-073-consumatorul-postmodern-este-fragmentat-si-paradoxal-si\|INS-073]], [[INS-049-tipologia-valorii-lui-holbrook-opt-valori-cu-care-se-poate\|INS-049]] |
+| 2 | Originile conceptului de experiență; CRM vs. CX; GDL vs. CDL; journey și touchpoints | [[EXP-002-customer-experience-este-suma-traita-a-tuturor\|EXP-002]], [[INS-048-perspectiva-experientiala-consumul-inseamna-si-fantezii\|INS-048]], [[MKT-046-logica-dominata-de-client-cdl-pune-clientul-la-inceputul\|MKT-046]], [[EXP-003-experienta-se-desfasoara-in-patru-etape-pre-consum\|EXP-003]] |
+| 3 | Cadrul CX: drivere (sens, imersiune, flow, socializare, acțiuni de marketing), markeri, rezultate | [[EXP-004-experienta-clientului-e-un-proces-cu-drivere-markeri-si\|EXP-004]], [[EXP-005-experienta-clientului-are-cinci-markeri-holistica\|EXP-005]], [[EXP-006-o-experienta-reusita-produce-patru-rezultate-valoare\|EXP-006]], [[EXP-008-imersiunea-e-calea-de-acces-la-experienta-cinci-factori-la\|EXP-008]], [[INS-050-flow-ul-absorbtia-totala-apare-cand-provocarea-e-mare-si\|INS-050]], [[INS-090-semiotica-decodeaza-semnele-unei-categorii-ca-sa-gaseasca\|INS-090]], [[EXP-009-tematizarea-unifica-decorul-si-transforma-o-oferta\|EXP-009]], [[EXP-010-marketingul-senzorial-da-brandului-cate-o-semnatura-pentru\|EXP-010]], [[EXP-030-caz-pavilionul-coca-cola-de-la-expo-shanghai-2010\|EXP-030]], [[EXP-031-caz-badoit-express-leaga-o-apa-minerala-de-gastronomie\|EXP-031]] |
+| 4 | Experience: Experience Territory Matrix, etapele experienței, EXQUAL | [[EXP-014-experience-territory-matrix-incruciseaza-respectul-perceput\|EXP-014]], [[EXP-028-calitatea-experientei-se-masoara-dincolo-de-satisfactie\|EXP-028]], [[EXP-003-experienta-se-desfasoara-in-patru-etape-pre-consum\|EXP-003]] |
+| 5 | Exchange: co-creație, DART, marketing colaborativ | [[EXP-015-exchange-in-mixul-experiential-pretul-cedeaza-locul-valorii\|EXP-015]], [[EXP-016-marketingul-colaborativ-are-trei-niveluri-de-implicare-diy\|EXP-016]], [[MKT-046-logica-dominata-de-client-cdl-pune-clientul-la-inceputul\|MKT-046]] |
+| 6 | Extension: continuumul experienței, intra/extra-domestic, ordinar vs. extraordinar | [[EXP-017-extension-experienta-trebuie-gandita-ca-un-continuum-fara\|EXP-017]], [[EXP-013-experienta-memorabila-nu-cere-neaparat-extraordinarul\|EXP-013]] |
+| 7 | Emphasis: brand culture (Holt), storytelling, hero's journey | [[BRD-037-cultura-de-brand-e-un-univers-de-mituri-ritualuri-si-valori\|BRD-037]], [[BRD-039-strategia-culturala-holt-cameron-se-construieste-in-sase\|BRD-039]], [[BRD-040-caz-nike-just-do-it-a-construit-mitul-eroului-solitar-care\|BRD-040]], [[STO-002-calatoria-eroului-protagonistul-pleaca-din-lumea-obisnuita\|STO-002]] |
+| 8 | Empathy capital: concept, componente, harta empatiei, modelul McLaren | [[EXP-018-capitalul-de-empatie-inlocuieste-people-angajatii-trebuie\|EXP-018]], [[INS-086-capitalul-de-empatie-se-formeaza-cu-harta-empatiei-si-cu\|INS-086]] |
+| 9 | Emotional touchpoints și toolkit-ul de carduri | [[EXP-019-emotional-touchpoints-punctul-de-contact-se-defineste-prin\|EXP-019]], [[EXP-020-cardurile-emotional-touchpoints-un-atelier-in-sase-pasi\|EXP-020]] |
+| 10 | Emic/etic process și maparea socioculturală a customer journey | [[EXP-021-procesul-emic-etic-experienta-se-proiecteaza-privind\|EXP-021]] |
+| 11 | Experiența phygital: definiție, instrumente, șase tipologii, factori de succes | [[EXP-025-experienta-phygital-leaga-magazinul-de-digital-fara-rupturi\|EXP-025]], [[EXP-026-experientele-phygital-au-sase-tipologii-conectata-web-vr-ar\|EXP-026]] |
+| 12 | Storyliving: de la poveste la acțiune, cinci strategii | [[EXP-012-storyliving-brandurile-care-isi-fac-povestea-traita-de\|EXP-012]] |
+| 13 | Metode de cercetare experiențiale și e-experiențiale | [[INS-089-tehnicile-proiective-scot-la-suprafata-ce-consumatorii-nu\|INS-089]], [[INS-088-etnografia-experientiala-lucreaza-cu-consumatorii-nu-asupra\|INS-088]] |
 
 ## Idei-cheie → note permanente
 
-- [[EXP-1201-mixul-experiential-7e-inlocuieste-cei-7p|EXP-1201]] — tabelul de corespondență 7P → 7E, ideea centrală a cărții.
-- [[EXP-1202-cadrul-cx-drivere-markeri-rezultate|EXP-1202]] — cadrul integrator drivere–markeri–rezultate (cap. 3).
-- [[EXP-1203-cei-cinci-markeri-ai-experientei-clientului|EXP-1203]] — experiența e holistică, cumulativă, subiectivă, asamblaj și contrastantă.
-- [[EXP-1204-rezultatele-experientei-valoare-transformare|EXP-1204]] — ce produce o experiență: valoare, transformare, competență, memorabilitate.
-- [[EXP-1205-de-la-crm-la-customer-experience|EXP-1205]] — de la CRM la customer experience; definiția proprie a autoarei.
-- [[EXP-1206-experienta-in-patru-etape-pre-consum-amintire|EXP-1206]] — cele patru etape (Arnould & Price) și ghidul practic pe etape din turismul de observare a faunei.
-- [[EXP-1207-imersiunea-cinci-factori-servicescape|EXP-1207]] — imersiunea, servicescape-ul și cei cinci factori imersivi.
-- [[EXP-1208-experiente-ordinare-vs-extraordinare|EXP-1208]] — dezbaterea ordinar vs. extraordinar (Pine & Gilmore vs. Carù & Cova).
-- [[EXP-1209-tematizarea-unifica-decorul-experientei|EXP-1209]] — tematizarea: arena, personajele, structura.
-- [[EXP-1210-marketingul-senzorial-cinci-semnaturi|EXP-1210]] — cele cinci semnături senzoriale, cu Intel, Diesel, Lush, Cineplex, A&F.
-- [[EXP-1211-experience-territory-matrix-respect-centricity|EXP-1211]] — Experience Territory Matrix: respect perceput × customer-centricity.
-- [[EXP-1212-masurarea-experientei-exqual-dincolo-de-satisfactie|EXP-1212]] — măsurarea calității experienței (EXQUAL pornind de la SERVQUAL).
-- [[EXP-1213-exchange-valoarea-co-creata-in-locul-pretului|EXP-1213]], [[EXP-1214-marketing-colaborativ-diy-colaborare-co-inovare|EXP-1214]] — Exchange: co-creația (DART) și cele trei niveluri ale marketingului colaborativ.
-- [[EXP-1215-extension-continuumul-experientei-pana-acasa|EXP-1215]] — Extension: continuumul experienței și sfera domestică.
-- [[EXP-1216-capitalul-de-empatie-inlocuieste-people|EXP-1216]], [[INS-1208-harta-empatiei-si-modelul-mclaren|INS-1208]] — Empathy capital și instrumentele de formare.
-- [[EXP-1217-emotional-touchpoints-emotia-defineste-contactul|EXP-1217]], [[EXP-1218-cardurile-emotional-touchpoints-atelier-in-sase-pasi|EXP-1218]] — Emotional touchpoints și atelierul cu carduri.
-- [[EXP-1219-procesul-emic-etic-maparea-socioculturala|EXP-1219]] — Emic/etic process și maparea socioculturală a parcursului.
-- [[EXP-1220-experienta-phygital-fizic-plus-digital|EXP-1220]], [[EXP-1221-sase-tipologii-ale-experientei-phygital|EXP-1221]] — experiența phygital și cele șase tipologii.
-- [[EXP-1222-storyliving-povestea-traita-nu-doar-spusa|EXP-1222]] — storyliving și cele cinci strategii.
-- [[EXP-1223-caz-coca-cola-happiness-factory-expo-shanghai|EXP-1223]], [[EXP-1224-caz-badoit-express-masa-gastronomica-in-metrou|EXP-1224]], [[BRD-1203-caz-nike-just-do-it-mitul-vointei-individuale|BRD-1203]] — cazuri: pavilionul Coca-Cola, Badoit Express, mitul Nike.
-- [[INS-1201-consumul-hedonic-fantezii-sentimente-distractie|INS-1201]], [[INS-1202-flow-provocarea-potrivita-cu-competenta|INS-1202]], [[INS-1203-emotiile-consumatorului-primare-secundare-fluctuante|INS-1203]], [[INS-1204-tipologia-valorii-holbrook-opt-valori|INS-1204]] — fundamente psihologice: consum hedonic, flow, emoții, tipologia valorii Holbrook.
-- [[INS-1205-consumatorul-imputernicit-patru-piloni|INS-1205]], [[INS-1206-consumatorul-postmodern-fragmentat-paradoxal|INS-1206]] — consumatorul împuternicit și consumatorul postmodern.
-- [[INS-1207-semiotica-decodeaza-sensul-cultural-al-consumului|INS-1207]], [[INS-1209-tehnicile-proiective-scot-ce-nu-se-spune-direct|INS-1209]], [[INS-1210-etnografia-experientiala-socializare-colaborare|INS-1210]] — semiotică, tehnici proiective, etnografie și metode online.
-- [[BRD-1201-emphasis-de-la-brand-content-la-brand-culture|BRD-1201]], [[BRD-1202-branding-cultural-holt-mitul-rezolva-contradictii|BRD-1202]], [[STO-1201-povestea-de-brand-din-pozitionare-si-hero-journey|STO-1201]] — Emphasis: brand culture, brandingul cultural Holt, construirea poveștii.
-- [[MKT-1201-logica-dominata-de-client-cdl|MKT-1201]] — GDL → SDL → CDL.
+- [[EXP-007-mixul-de-marketing-experiential-7e-inlocuieste-cei-7p-cu|EXP-007]] — tabelul de corespondență 7P → 7E, ideea centrală a cărții.
+- [[EXP-004-experienta-clientului-e-un-proces-cu-drivere-markeri-si|EXP-004]] — cadrul integrator drivere–markeri–rezultate (cap. 3).
+- [[EXP-005-experienta-clientului-are-cinci-markeri-holistica|EXP-005]] — experiența e holistică, cumulativă, subiectivă, asamblaj și contrastantă.
+- [[EXP-006-o-experienta-reusita-produce-patru-rezultate-valoare|EXP-006]] — ce produce o experiență: valoare, transformare, competență, memorabilitate.
+- [[EXP-002-customer-experience-este-suma-traita-a-tuturor|EXP-002]] — de la CRM la customer experience; definiția proprie a autoarei.
+- [[EXP-003-experienta-se-desfasoara-in-patru-etape-pre-consum|EXP-003]] — cele patru etape (Arnould & Price) și ghidul practic pe etape din turismul de observare a faunei.
+- [[EXP-008-imersiunea-e-calea-de-acces-la-experienta-cinci-factori-la|EXP-008]] — imersiunea, servicescape-ul și cei cinci factori imersivi.
+- [[EXP-013-experienta-memorabila-nu-cere-neaparat-extraordinarul|EXP-013]] — dezbaterea ordinar vs. extraordinar (Pine & Gilmore vs. Carù & Cova).
+- [[EXP-009-tematizarea-unifica-decorul-si-transforma-o-oferta|EXP-009]] — tematizarea: arena, personajele, structura.
+- [[EXP-010-marketingul-senzorial-da-brandului-cate-o-semnatura-pentru|EXP-010]] — cele cinci semnături senzoriale, cu Intel, Diesel, Lush, Cineplex, A&F.
+- [[EXP-014-experience-territory-matrix-incruciseaza-respectul-perceput|EXP-014]] — Experience Territory Matrix: respect perceput × customer-centricity.
+- [[EXP-028-calitatea-experientei-se-masoara-dincolo-de-satisfactie|EXP-028]] — măsurarea calității experienței (EXQUAL pornind de la SERVQUAL).
+- [[EXP-015-exchange-in-mixul-experiential-pretul-cedeaza-locul-valorii|EXP-015]], [[EXP-016-marketingul-colaborativ-are-trei-niveluri-de-implicare-diy|EXP-016]] — Exchange: co-creația (DART) și cele trei niveluri ale marketingului colaborativ.
+- [[EXP-017-extension-experienta-trebuie-gandita-ca-un-continuum-fara|EXP-017]] — Extension: continuumul experienței și sfera domestică.
+- [[EXP-018-capitalul-de-empatie-inlocuieste-people-angajatii-trebuie|EXP-018]], [[INS-086-capitalul-de-empatie-se-formeaza-cu-harta-empatiei-si-cu|INS-086]] — Empathy capital și instrumentele de formare.
+- [[EXP-019-emotional-touchpoints-punctul-de-contact-se-defineste-prin|EXP-019]], [[EXP-020-cardurile-emotional-touchpoints-un-atelier-in-sase-pasi|EXP-020]] — Emotional touchpoints și atelierul cu carduri.
+- [[EXP-021-procesul-emic-etic-experienta-se-proiecteaza-privind|EXP-021]] — Emic/etic process și maparea socioculturală a parcursului.
+- [[EXP-025-experienta-phygital-leaga-magazinul-de-digital-fara-rupturi|EXP-025]], [[EXP-026-experientele-phygital-au-sase-tipologii-conectata-web-vr-ar|EXP-026]] — experiența phygital și cele șase tipologii.
+- [[EXP-012-storyliving-brandurile-care-isi-fac-povestea-traita-de|EXP-012]] — storyliving și cele cinci strategii.
+- [[EXP-030-caz-pavilionul-coca-cola-de-la-expo-shanghai-2010|EXP-030]], [[EXP-031-caz-badoit-express-leaga-o-apa-minerala-de-gastronomie|EXP-031]], [[BRD-040-caz-nike-just-do-it-a-construit-mitul-eroului-solitar-care|BRD-040]] — cazuri: pavilionul Coca-Cola, Badoit Express, mitul Nike.
+- [[INS-048-perspectiva-experientiala-consumul-inseamna-si-fantezii|INS-048]], [[INS-050-flow-ul-absorbtia-totala-apare-cand-provocarea-e-mare-si|INS-050]], [[INS-009-emotiile-consumatorului-sunt-primare-sau-secundare-si|INS-009]], [[INS-049-tipologia-valorii-lui-holbrook-opt-valori-cu-care-se-poate|INS-049]] — fundamente psihologice: consum hedonic, flow, emoții, tipologia valorii Holbrook.
+- [[INS-069-consumatorul-imputernicit-sta-pe-patru-piloni-competenta-re|INS-069]], [[INS-073-consumatorul-postmodern-este-fragmentat-si-paradoxal-si|INS-073]] — consumatorul împuternicit și consumatorul postmodern.
+- [[INS-090-semiotica-decodeaza-semnele-unei-categorii-ca-sa-gaseasca|INS-090]], [[INS-089-tehnicile-proiective-scot-la-suprafata-ce-consumatorii-nu|INS-089]], [[INS-088-etnografia-experientiala-lucreaza-cu-consumatorii-nu-asupra|INS-088]] — semiotică, tehnici proiective, etnografie și metode online.
+- [[BRD-037-cultura-de-brand-e-un-univers-de-mituri-ritualuri-si-valori|BRD-037]], [[BRD-039-strategia-culturala-holt-cameron-se-construieste-in-sase|BRD-039]], [[STO-002-calatoria-eroului-protagonistul-pleaca-din-lumea-obisnuita|STO-002]] — Emphasis: brand culture, brandingul cultural Holt, construirea poveștii.
+- [[MKT-046-logica-dominata-de-client-cdl-pune-clientul-la-inceputul|MKT-046]] — GDL → SDL → CDL.
 
 ## Ce lipsește / ce trebuie citit critic
 
@@ -86,43 +86,47 @@ level: 2
 <!-- backlinks:start -->
 ## Backlinks
 
-- [[BRD-1201-emphasis-de-la-brand-content-la-brand-culture|BRD-1201]] — Emphasis — comunicarea experiențială trece de la brand content la brand culture
-- [[BRD-1202-branding-cultural-holt-mitul-rezolva-contradictii|BRD-1202]] — Brandingul cultural (Holt) — o marcă devine iconică livrând un mit care rezolvă o contradicție culturală
-- [[BRD-1203-caz-nike-just-do-it-mitul-vointei-individuale|BRD-1203]] — Caz — Nike „Just Do It" a construit mitul eroului solitar care învinge prin voință, pe o tensiune culturală a Americii
-- [[EXP-1201-mixul-experiential-7e-inlocuieste-cei-7p|EXP-1201]] — Mixul de marketing experiențial (7E) înlocuiește cei 7P cu decizii centrate pe experiența clientului
-- [[EXP-1202-cadrul-cx-drivere-markeri-rezultate|EXP-1202]] — Experiența clientului e un proces cu drivere, markeri și rezultate (cadrul customer experience marketing)
-- [[EXP-1203-cei-cinci-markeri-ai-experientei-clientului|EXP-1203]] — Experiența clientului are cinci markeri — holistică, cumulativă, subiectivă, asamblaj, contrastantă
-- [[EXP-1204-rezultatele-experientei-valoare-transformare|EXP-1204]] — O experiență reușită produce patru rezultate — valoare, transformare, competență, memorabilitate
-- [[EXP-1205-de-la-crm-la-customer-experience|EXP-1205]] — Customer experience a depășit CRM-ul — marketingul trece de la „a cumpăra" la „a trăi" consumul
-- [[EXP-1206-experienta-in-patru-etape-pre-consum-amintire|EXP-1206]] — Experiența se desfășoară în patru etape — pre-consum, cumpărare, nucleu, amintire — și fiecare se proiectează separat
-- [[EXP-1207-imersiunea-cinci-factori-servicescape|EXP-1207]] — Imersiunea este calea de acces la o experiență plăcută și depinde de cinci factori
-- [[EXP-1208-experiente-ordinare-vs-extraordinare|EXP-1208]] — Experiența memorabilă nu cere neapărat extraordinarul — dezbaterea ordinar vs. extraordinar
-- [[EXP-1209-tematizarea-unifica-decorul-experientei|EXP-1209]] — Tematizarea unifică decorul și transformă o ofertă obișnuită într-o experiență
-- [[EXP-1210-marketingul-senzorial-cinci-semnaturi|EXP-1210]] — Marketingul senzorial construiește cinci semnături de brand — olfactivă, auditivă, tactilă, vizuală, gustativă
-- [[EXP-1211-experience-territory-matrix-respect-centricity|EXP-1211]] — Experience Territory Matrix încrucișează respectul perceput de client cu customer-centricity-ul firmei
-- [[EXP-1212-masurarea-experientei-exqual-dincolo-de-satisfactie|EXP-1212]] — Calitatea experienței se măsoară dincolo de satisfacție — EXQUAL extinde logica SERVQUAL
-- [[EXP-1213-exchange-valoarea-co-creata-in-locul-pretului|EXP-1213]] — Exchange — în mixul experiențial, prețul cedează locul valorii co-create cu clientul
-- [[EXP-1214-marketing-colaborativ-diy-colaborare-co-inovare|EXP-1214]] — Marketingul colaborativ are trei niveluri de implicare — DIY, colaborare, co-inovare
-- [[EXP-1215-extension-continuumul-experientei-pana-acasa|EXP-1215]] — Extension — experiența trebuie gândită ca un continuum fără rupturi, din magazin până acasă
-- [[EXP-1216-capitalul-de-empatie-inlocuieste-people|EXP-1216]] — Capitalul de empatie înlocuiește „People" — angajații trebuie să gândească întâi ca clientul
-- [[EXP-1217-emotional-touchpoints-emotia-defineste-contactul|EXP-1217]] — Emotional touchpoints — punctul de contact se definește prin emoția pe care o produce, nu prin canal
-- [[EXP-1218-cardurile-emotional-touchpoints-atelier-in-sase-pasi|EXP-1218]] — Cardurile „emotional touchpoints" — un atelier în șase pași pentru a afla ce simte clientul la fiecare contact
-- [[EXP-1219-procesul-emic-etic-maparea-socioculturala|EXP-1219]] — Procesul emic/etic — experiența se proiectează privind cultura de consum din interior și din exterior
-- [[EXP-1220-experienta-phygital-fizic-plus-digital|EXP-1220]] — Experiența phygital îmbină siguranța contactului fizic cu interactivitatea digitalului, fără rupturi între canale
-- [[EXP-1221-sase-tipologii-ale-experientei-phygital|EXP-1221]] — Experiențele phygital au șase tipologii — conectată, web, VR/AR, socio-digitală, re-creativă, cyborg
-- [[EXP-1222-storyliving-povestea-traita-nu-doar-spusa|EXP-1222]] — Storyliving — brandurile care își fac povestea trăită de client depășesc brandurile care doar o spun
-- [[EXP-1223-caz-coca-cola-happiness-factory-expo-shanghai|EXP-1223]] — Caz — pavilionul Coca-Cola de la Expo Shanghai 2010 transformă universul „Happiness Factory" într-un parcurs multisenzorial
-- [[EXP-1224-caz-badoit-express-masa-gastronomica-in-metrou|EXP-1224]] — Caz — „Badoit Express" leagă o apă minerală de gastronomie printr-o cină surpriză în metroul din Paris
-- [[INS-1201-consumul-hedonic-fantezii-sentimente-distractie|INS-1201]] — Perspectiva experiențială — consumul înseamnă și fantezii, sentimente și distracție, nu doar procesare de informații
-- [[INS-1202-flow-provocarea-potrivita-cu-competenta|INS-1202]] — Flow-ul — absorbția totală apare când provocarea e mare și potrivită cu competența omului
-- [[INS-1203-emotiile-consumatorului-primare-secundare-fluctuante|INS-1203]] — Emoțiile consumatorului sunt primare sau secundare și fluctuează pe tot parcursul experienței
-- [[INS-1204-tipologia-valorii-holbrook-opt-valori|INS-1204]] — Tipologia valorii lui Holbrook — opt valori cu care se poate analiza orice experiență, fizică sau digitală
-- [[INS-1205-consumatorul-imputernicit-patru-piloni|INS-1205]] — Consumatorul împuternicit stă pe patru piloni — competență, (re)creare, conștiința drepturilor, rezistență
-- [[INS-1206-consumatorul-postmodern-fragmentat-paradoxal|INS-1206]] — Consumatorul postmodern este fragmentat și paradoxal și cumpără sensuri culturale, nu produse
-- [[INS-1207-semiotica-decodeaza-sensul-cultural-al-consumului|INS-1207]] — Semiotica decodează semnele unei categorii ca să găsească sensul cultural pe care consumatorii nu îl pot spune
-- [[INS-1208-harta-empatiei-si-modelul-mclaren|INS-1208]] — Capitalul de empatie se formează cu harta empatiei și cu cele șase aspecte ale modelului McLaren
-- [[INS-1209-tehnicile-proiective-scot-ce-nu-se-spune-direct|INS-1209]] — Tehnicile proiective scot la suprafață ce consumatorii nu spun direct, pentru că îi pun să vorbească despre alții
-- [[INS-1210-etnografia-experientiala-socializare-colaborare|INS-1210]] — Etnografia experiențială lucrează cu consumatorii, nu asupra lor — socializare, colaborare, auto-confruntare
-- [[MKT-1201-logica-dominata-de-client-cdl|MKT-1201]] — Logica dominată de client (CDL) pune clientul la începutul lanțului valoric, nu la capătul lui
-- [[STO-1201-povestea-de-brand-din-pozitionare-si-hero-journey|STO-1201]] — Povestea de brand se construiește din poziționare sau pe arcul eroului — și convinge prin transport narativ
+- [[BRD-037-cultura-de-brand-e-un-univers-de-mituri-ritualuri-si-valori|BRD-037]] — Cultura de brand e un univers de mituri, ritualuri și valori în care clientul intră, nu un flux de conținut despre brand (Emphasis)
+- [[BRD-038-brandurile-iconice-holt-ofera-un-mit-identitar-care-rezolva|BRD-038]] — Brandurile iconice (Holt) oferă un mit identitar care rezolvă o tensiune culturală a momentului — și își pierd puterea când tensiunea dispare
+- [[BRD-039-strategia-culturala-holt-cameron-se-construieste-in-sase|BRD-039]] — Strategia culturală (Holt & Cameron) se construiește în șase pași — de la ortodoxia categoriei la un mit nou
+- [[BRD-040-caz-nike-just-do-it-a-construit-mitul-eroului-solitar-care|BRD-040]] — Caz — Nike „Just Do It" a construit mitul eroului solitar care învinge prin voință, pe o tensiune culturală a Americii
+- [[BRD-063-brandul-traieste-in-mintea-fiecarui-client-sau-in-cultura|BRD-063]] — Brandul trăiește în mintea fiecărui client sau în cultura pe care o împarte cu alții? — rețeaua de asociații contra mitului colectiv
+- [[EXP-001-experienta-e-o-oferta-economica-distincta-progresia-valorii|EXP-001]] — Experiența e o ofertă economică distinctă: progresia valorii și cele patru tărâmuri ale lui Pine & Gilmore
+- [[EXP-002-customer-experience-este-suma-traita-a-tuturor|EXP-002]] — Customer experience este suma trăită a tuturor interacțiunilor cu brandul — nu un eveniment memorabil și nici un CRM mai bun
+- [[EXP-003-experienta-se-desfasoara-in-patru-etape-pre-consum|EXP-003]] — Experiența se desfășoară în patru etape — pre-consum, cumpărare, nucleu, amintire — și fiecare se proiectează separat
+- [[EXP-004-experienta-clientului-e-un-proces-cu-drivere-markeri-si|EXP-004]] — Experiența clientului e un proces cu drivere, markeri și rezultate (cadrul customer experience marketing)
+- [[EXP-005-experienta-clientului-are-cinci-markeri-holistica|EXP-005]] — Experiența clientului are cinci markeri — holistică, cumulativă, subiectivă, asamblaj, contrastantă
+- [[EXP-006-o-experienta-reusita-produce-patru-rezultate-valoare|EXP-006]] — O experiență reușită produce patru rezultate — valoare, transformare, competență, memorabilitate
+- [[EXP-007-mixul-de-marketing-experiential-7e-inlocuieste-cei-7p-cu|EXP-007]] — Mixul de marketing experiențial (7E) înlocuiește cei 7P cu decizii centrate pe experiența clientului
+- [[EXP-008-imersiunea-e-calea-de-acces-la-experienta-cinci-factori-la|EXP-008]] — Imersiunea e calea de acces la experiență — cinci factori la Batat, cinci elemente de design la Kotler, în mare aceleași
+- [[EXP-009-tematizarea-unifica-decorul-si-transforma-o-oferta|EXP-009]] — Tematizarea unifică decorul și transformă o ofertă obișnuită într-o experiență
+- [[EXP-010-marketingul-senzorial-da-brandului-cate-o-semnatura-pentru|EXP-010]] — Marketingul senzorial dă brandului câte o semnătură pentru fiecare simț — coerentă cu povestea mărcii și dozată, nu spectaculoasă pe toate cinci
+- [[EXP-012-storyliving-brandurile-care-isi-fac-povestea-traita-de|EXP-012]] — Storyliving — brandurile care își fac povestea trăită de client depășesc brandurile care doar o spun
+- [[EXP-013-experienta-memorabila-nu-cere-neaparat-extraordinarul|EXP-013]] — Experiența memorabilă nu cere neapărat extraordinarul — dezbaterea ordinar vs. extraordinar
+- [[EXP-014-experience-territory-matrix-incruciseaza-respectul-perceput|EXP-014]] — Experience Territory Matrix încrucișează respectul perceput de client cu customer-centricity-ul firmei
+- [[EXP-015-exchange-in-mixul-experiential-pretul-cedeaza-locul-valorii|EXP-015]] — Exchange — în mixul experiențial, prețul cedează locul valorii co-create cu clientul
+- [[EXP-016-marketingul-colaborativ-are-trei-niveluri-de-implicare-diy|EXP-016]] — Marketingul colaborativ are trei niveluri de implicare — DIY, colaborare, co-inovare
+- [[EXP-017-extension-experienta-trebuie-gandita-ca-un-continuum-fara|EXP-017]] — Extension — experiența trebuie gândită ca un continuum fără rupturi, din magazin până acasă
+- [[EXP-018-capitalul-de-empatie-inlocuieste-people-angajatii-trebuie|EXP-018]] — Capitalul de empatie înlocuiește „People" — angajații trebuie să gândească întâi ca clientul
+- [[EXP-019-emotional-touchpoints-punctul-de-contact-se-defineste-prin|EXP-019]] — Emotional touchpoints — punctul de contact se definește prin emoția pe care o produce, nu prin canal
+- [[EXP-020-cardurile-emotional-touchpoints-un-atelier-in-sase-pasi|EXP-020]] — Cardurile „emotional touchpoints" — un atelier în șase pași pentru a afla ce simte clientul la fiecare contact
+- [[EXP-021-procesul-emic-etic-experienta-se-proiecteaza-privind|EXP-021]] — Procesul emic/etic — experiența se proiectează privind cultura de consum din interior și din exterior
+- [[EXP-025-experienta-phygital-leaga-magazinul-de-digital-fara-rupturi|EXP-025]] — Experiența phygital leagă magazinul de digital fără rupturi — cinci moduri de a aduce digitalul în spațiul fizic
+- [[EXP-026-experientele-phygital-au-sase-tipologii-conectata-web-vr-ar|EXP-026]] — Experiențele phygital au șase tipologii — conectată, web, VR/AR, socio-digitală, re-creativă, cyborg
+- [[EXP-028-calitatea-experientei-se-masoara-dincolo-de-satisfactie|EXP-028]] — Calitatea experienței se măsoară dincolo de satisfacție — EXQUAL extinde logica SERVQUAL
+- [[EXP-030-caz-pavilionul-coca-cola-de-la-expo-shanghai-2010|EXP-030]] — Caz — pavilionul Coca-Cola de la Expo Shanghai 2010 transformă universul „Happiness Factory" într-un parcurs multisenzorial
+- [[EXP-031-caz-badoit-express-leaga-o-apa-minerala-de-gastronomie|EXP-031]] — Caz — „Badoit Express" leagă o apă minerală de gastronomie printr-o cină surpriză în metroul din Paris
+- [[INS-009-emotiile-consumatorului-sunt-primare-sau-secundare-si|INS-009]] — Emoțiile consumatorului sunt primare sau secundare și fluctuează pe tot parcursul experienței
+- [[INS-048-perspectiva-experientiala-consumul-inseamna-si-fantezii|INS-048]] — Perspectiva experiențială — consumul înseamnă și fantezii, sentimente și distracție, nu doar procesare de informații
+- [[INS-049-tipologia-valorii-lui-holbrook-opt-valori-cu-care-se-poate|INS-049]] — Tipologia valorii lui Holbrook — opt valori cu care se poate analiza orice experiență, fizică sau digitală
+- [[INS-050-flow-ul-absorbtia-totala-apare-cand-provocarea-e-mare-si|INS-050]] — Flow-ul — absorbția totală apare când provocarea e mare și potrivită cu competența omului
+- [[INS-069-consumatorul-imputernicit-sta-pe-patru-piloni-competenta-re|INS-069]] — Consumatorul împuternicit stă pe patru piloni — competență, (re)creare, conștiința drepturilor, rezistență
+- [[INS-073-consumatorul-postmodern-este-fragmentat-si-paradoxal-si|INS-073]] — Consumatorul postmodern este fragmentat și paradoxal și cumpără sensuri culturale, nu produse
+- [[INS-086-capitalul-de-empatie-se-formeaza-cu-harta-empatiei-si-cu|INS-086]] — Capitalul de empatie se formează cu harta empatiei și cu cele șase aspecte ale modelului McLaren
+- [[INS-088-etnografia-experientiala-lucreaza-cu-consumatorii-nu-asupra|INS-088]] — Etnografia experiențială lucrează cu consumatorii, nu asupra lor — socializare, colaborare, auto-confruntare
+- [[INS-089-tehnicile-proiective-scot-la-suprafata-ce-consumatorii-nu|INS-089]] — Tehnicile proiective scot la suprafață ce consumatorii nu spun direct, pentru că îi pun să vorbească despre alții
+- [[INS-090-semiotica-decodeaza-semnele-unei-categorii-ca-sa-gaseasca|INS-090]] — Semiotica decodează semnele unei categorii ca să găsească sensul cultural pe care consumatorii nu îl pot spune
+- [[MKT-046-logica-dominata-de-client-cdl-pune-clientul-la-inceputul|MKT-046]] — Logica dominată de client (CDL) pune clientul la începutul lanțului valoric, nu la capătul lui
+- [[STO-002-calatoria-eroului-protagonistul-pleaca-din-lumea-obisnuita|STO-002]] — Călătoria eroului — protagonistul pleacă din lumea obișnuită, trece prin încercări și se întoarce transformat; în publicitate eroul e de regulă clientul, nu brandul
+- [[STO-005-o-poveste-de-brand-buna-are-personaje-identificabile-emotie|STO-005]] — O poveste de brand bună are personaje identificabile, emoție autentică, un moment semnificativ și detalii concrete
 <!-- backlinks:end -->

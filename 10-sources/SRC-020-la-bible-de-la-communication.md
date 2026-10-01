@@ -27,21 +27,21 @@ level: 1
 
 | Partea / articolul | Tema | Note derivate |
 |---|---|---|
-| I. Bazele comunicării; verbal, nonverbal, paraverbal | intenție–mesaj–efect, filtre, „e imposibil să nu comunici" | [[CPY-0602-cele-sase-functii-ale-lui-jakobson-aplicate-mesajului-publicitar|CPY-0602]] (îmbogățită) |
-| I. Arta luării de cuvânt; prezentarea orală | atacuri, enjambament, tăcere, scansiune, ritm; etapele pregătirii | [[PIT-0602-vorbirea-in-public-iesi-din-punctuatia-scrisa|PIT-0602]] |
-| II. Comunicarea în firmă; internă, externă, instituțională | trei registre, părți interesate, Michel & Augustin | [[ADV-0621-comunicarea-organizatiei-are-trei-registre-externa-interna|ADV-0621]] |
-| II. Comunicarea de criză; comunicarea corporate | șapte reguli, greenwashing, cazul McDonald's | [[ADV-0622-comunicarea-de-criza-recunoaste-masoara-nu-nega|ADV-0622]] |
-| II. Strategia și uneltele de comunicare | obiective cognitive/afective/conative, SMART, poziționare, ton, buget, plan | [[ADV-0614-obiectivele-de-comunicare-sunt-cognitive-afective-sau-conative|ADV-0614]] (îmbogățită) |
-| II. Comunicare binevoitoare; comunicare asertivă | comunicare nonviolentă în patru pași, asertiv/agresiv/pasiv, mesaje „eu" | [[CLI-0601-comunicarea-asertiva-intre-agresiv-si-pasiv|CLI-0601]] |
+| I. Bazele comunicării; verbal, nonverbal, paraverbal | intenție–mesaj–efect, filtre, „e imposibil să nu comunici" | [[CPY-013-orice-mesaj-publicitar-ierarhizeaza-cele-sase-functii-ale\|CPY-013]] (îmbogățită) |
+| I. Arta luării de cuvânt; prezentarea orală | atacuri, enjambament, tăcere, scansiune, ritm; etapele pregătirii | [[PIT-028-ca-sa-vorbesti-viu-in-fata-unei-sali-iesi-din-punctuatia\|PIT-028]] |
+| II. Comunicarea în firmă; internă, externă, instituțională | trei registre, părți interesate, Michel & Augustin | [[ADV-074-comunicarea-unei-organizatii-are-trei-registre-externa\|ADV-074]] |
+| II. Comunicarea de criză; comunicarea corporate | șapte reguli, greenwashing, cazul McDonald's | [[ADV-075-in-comunicarea-de-criza-negarea-e-cea-mai-proasta-optiune\|ADV-075]] |
+| II. Strategia și uneltele de comunicare | obiective cognitive/afective/conative, SMART, poziționare, ton, buget, plan | [[ADV-007-orice-comunicare-poate-produce-patru-efecte-dar\|ADV-007]] (îmbogățită) |
+| II. Comunicare binevoitoare; comunicare asertivă | comunicare nonviolentă în patru pași, asertiv/agresiv/pasiv, mesaje „eu" | [[CLI-004-comunicarea-asertiva-sta-intre-agresiv-si-pasiv-spui-direct\|CLI-004]] |
 | II. Cultura organizațională | provocări și competențe de comunicare | — (generic) |
 
 ## Idei-cheie → note permanente
 
-- [[PIT-0602-vorbirea-in-public-iesi-din-punctuatia-scrisa|PIT-0602]] — tehnicile vocale ale vorbirii în public: ieșirea din „punctuația scrisă".
-- [[CLI-0601-comunicarea-asertiva-intre-agresiv-si-pasiv|CLI-0601]] — comunicarea asertivă și cea nonviolentă, aplicate relației cu clientul.
-- [[ADV-0621-comunicarea-organizatiei-are-trei-registre-externa-interna|ADV-0621]] — cele trei registre ale comunicării unei organizații și modurile de dialog cu părțile interesate.
-- [[ADV-0622-comunicarea-de-criza-recunoaste-masoara-nu-nega|ADV-0622]] — checklist-ul comunicării de criză.
-- Îmbogățite cu această sursă: [[CPY-0602-cele-sase-functii-ale-lui-jakobson-aplicate-mesajului-publicitar|CPY-0602]] (intenție–mesaj–efect), [[ADV-0614-obiectivele-de-comunicare-sunt-cognitive-afective-sau-conative|ADV-0614]] (obiective SMART).
+- [[PIT-028-ca-sa-vorbesti-viu-in-fata-unei-sali-iesi-din-punctuatia|PIT-028]] — tehnicile vocale ale vorbirii în public: ieșirea din „punctuația scrisă".
+- [[CLI-004-comunicarea-asertiva-sta-intre-agresiv-si-pasiv-spui-direct|CLI-004]] — comunicarea asertivă și cea nonviolentă, aplicate relației cu clientul.
+- [[ADV-074-comunicarea-unei-organizatii-are-trei-registre-externa|ADV-074]] — cele trei registre ale comunicării unei organizații și modurile de dialog cu părțile interesate.
+- [[ADV-075-in-comunicarea-de-criza-negarea-e-cea-mai-proasta-optiune|ADV-075]] — checklist-ul comunicării de criză.
+- Îmbogățite cu această sursă: [[CPY-013-orice-mesaj-publicitar-ierarhizeaza-cele-sase-functii-ale|CPY-013]] (intenție–mesaj–efect), [[ADV-007-orice-comunicare-poate-produce-patru-efecte-dar|ADV-007]] (obiective SMART).
 
 ## Ce lipsește / ce trebuie citit critic
 
@@ -57,10 +57,10 @@ level: 1
 <!-- backlinks:start -->
 ## Backlinks
 
-- [[ADV-0614-obiectivele-de-comunicare-sunt-cognitive-afective-sau-conative|ADV-0614]] — Obiectivele de comunicare sunt cognitive (a face cunoscut), afective (a face iubit) sau conative (a face să acționeze)
-- [[ADV-0621-comunicarea-organizatiei-are-trei-registre-externa-interna|ADV-0621]] — Comunicarea unei organizații are trei registre — externă, internă, instituțională — cu ținte, obiective și unelte diferite
-- [[ADV-0622-comunicarea-de-criza-recunoaste-masoara-nu-nega|ADV-0622]] — În comunicarea de criză, negarea e cea mai proastă opțiune — recunoaște primul, măsoară impactul, alege canalul, spune adevărul, învață
-- [[CLI-0601-comunicarea-asertiva-intre-agresiv-si-pasiv|CLI-0601]] — Comunicarea asertivă stă între agresiv și pasiv — spui direct ce gândești și ce ai nevoie, respectând dreptul celuilalt de a gândi altfel
-- [[CPY-0602-cele-sase-functii-ale-lui-jakobson-aplicate-mesajului-publicitar|CPY-0602]] — Orice mesaj publicitar ierarhizează cele șase funcții ale limbajului (Jakobson) — și una trebuie să domine
-- [[PIT-0602-vorbirea-in-public-iesi-din-punctuatia-scrisa|PIT-0602]] — Ca să vorbești viu în fața unei săli, ieși din „punctuația scrisă" — atacuri ferme, tăceri asumate, enjambament, scansiune, ritm contrastant
+- [[ADV-007-orice-comunicare-poate-produce-patru-efecte-dar|ADV-007]] — Orice comunicare poate produce patru efecte, dar notorietatea și atitudinea față de brand sunt mereu obiective
+- [[ADV-074-comunicarea-unei-organizatii-are-trei-registre-externa|ADV-074]] — Comunicarea unei organizații are trei registre — externă, internă, instituțională — cu ținte, obiective și unelte diferite
+- [[ADV-075-in-comunicarea-de-criza-negarea-e-cea-mai-proasta-optiune|ADV-075]] — În comunicarea de criză, negarea e cea mai proastă opțiune — recunoaște primul, măsoară impactul, alege canalul, spune adevărul, învață
+- [[CLI-004-comunicarea-asertiva-sta-intre-agresiv-si-pasiv-spui-direct|CLI-004]] — Comunicarea asertivă stă între agresiv și pasiv — spui direct ce gândești și ce ai nevoie, respectând dreptul celuilalt de a gândi altfel
+- [[CPY-013-orice-mesaj-publicitar-ierarhizeaza-cele-sase-functii-ale|CPY-013]] — Orice mesaj publicitar ierarhizează cele șase funcții ale limbajului (Jakobson) — și una trebuie să domine
+- [[PIT-028-ca-sa-vorbesti-viu-in-fata-unei-sali-iesi-din-punctuatia|PIT-028]] — Ca să vorbești viu în fața unei săli, ieși din „punctuația scrisă" — atacuri ferme, tăceri asumate, enjambament, scansiune, ritm contrastant
 <!-- backlinks:end -->

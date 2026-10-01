@@ -27,33 +27,33 @@ level: 2
 
 | Cap. | Tema | Note derivate |
 |---|---|---|
-| 1 The UX Portfolio | portofoliu ≠ prezentarea portofoliului; colecție de povești; două scopuri | [[PRT-1401-portofoliul-e-un-produs-utilizatorul-e-recrutorul|PRT-1401]], [[PRT-1402-portofoliul-diferit-de-prezentarea-portofoliului|PRT-1402]] |
-| 2 Capturing your stories | jurnalul cu index, fotografii, screengrab-uri, Stockwell Spreadsheet, interviul de final cu clientul | [[PRT-1403-jurnalul-de-lucru-povestile-se-colecteaza-in-timp-real|PRT-1403]] |
-| 3 Understanding your users | corporații/startup-uri/agenții; analiza anunțurilor; rolul celui care evaluează (Lynn Teo); recrutori | [[PRT-1401-portofoliul-e-un-produs-utilizatorul-e-recrutorul|PRT-1401]], [[PRT-1404-analiza-anuntului-de-angajare-ghideaza-curatoria|PRT-1404]] |
-| 4 Designing for busy people | 30 de secunde; fast track / slow track; lungime; design și scriere | [[PRT-1406-portofoliul-proiectat-pentru-30-de-secunde|PRT-1406]] |
-| 5 Planning your UX Portfolio | PDF vs. web vs. comunități; structura; „sandvișul”; curatoria (Ken Musgrave) | [[PRT-1407-pdf-personalizabil-intai-apoi-site|PRT-1407]], [[PRT-1410-sandvisul-portofoliului-si-ce-nu-se-include|PRT-1410]], [[PRT-1405-doua-trei-proiecte-excelente-bat-cinci-mediocre|PRT-1405]], [[PRT-1404-analiza-anuntului-de-angajare-ghideaza-curatoria|PRT-1404]] |
-| 6 First impressions | numele, introducerea fără hiperbolă, titlurile, formula X-Y-Z, About me | [[PRT-1408-introducerea-si-titlurile-vand-relevanta|PRT-1408]] |
-| 7 Storytelling with case studies | lungime, framework-uri (PAR, STAR, SOAR…), Brief – What I did – Results – Tools, highlights | [[PRT-1409-studiul-de-caz-brief-ce-am-facut-rezultate|PRT-1409]] |
-| 8 Completing the picture | proiecte adiționale, training, premii, conferințe, voluntariat, interese, testimoniale, ce nu incluzi | [[PRT-1410-sandvisul-portofoliului-si-ce-nu-se-include|PRT-1410]] |
-| 9 Common constraints | experiență limitată, proiecte inventate, concursuri de design, NDA | [[PRT-1411-juniorul-fara-experienta-un-studiu-bun-si-dovezi|PRT-1411]], [[PRT-1412-nda-ce-nu-functioneaza-si-ce-functioneaza|PRT-1412]] |
-| 10 Evaluating | ortografie, ton, editarea cu markerul, checklist, critică vs. feedback | [[PRT-1413-cere-critica-nu-feedback|PRT-1413]] |
-| Anexe | Portfolio Planner, Case Study Canvas, checklist | [[PRT-1404-analiza-anuntului-de-angajare-ghideaza-curatoria|PRT-1404]], [[PRT-1402-portofoliul-diferit-de-prezentarea-portofoliului|PRT-1402]] |
+| 1 The UX Portfolio | portofoliu ≠ prezentarea portofoliului; colecție de povești; două scopuri | [[PRT-001-portofoliul-este-un-produs-iar-utilizatorul-lui-este-cel\|PRT-001]], [[PRT-004-portofoliul-trimis-dinainte-si-prezentarea-portofoliului\|PRT-004]] |
+| 2 Capturing your stories | jurnalul cu index, fotografii, screengrab-uri, Stockwell Spreadsheet, interviul de final cu clientul | [[PRT-006-povestile-de-portofoliu-se-colecteaza-in-timpul-proiectelor\|PRT-006]] |
+| 3 Understanding your users | corporații/startup-uri/agenții; analiza anunțurilor; rolul celui care evaluează (Lynn Teo); recrutori | [[PRT-001-portofoliul-este-un-produs-iar-utilizatorul-lui-este-cel\|PRT-001]], [[PRT-007-curatoria-portofoliului-porneste-din-analiza-anuntului-de\|PRT-007]] |
+| 4 Designing for busy people | 30 de secunde; fast track / slow track; lungime; design și scriere | [[PRT-003-portofoliul-se-proiecteaza-pentru-30-de-secunde-un-fast\|PRT-003]] |
+| 5 Planning your UX Portfolio | PDF vs. web vs. comunități; structura; „sandvișul”; curatoria (Ken Musgrave) | [[PRT-014-porneste-cu-un-portofoliu-pdf-personalizabil-si-adauga-apoi\|PRT-014]], [[PRT-011-portofoliul-este-un-sandvis-introducere-studii-de-caz\|PRT-011]], [[PRT-002-doua-trei-proiecte-excelente-bat-cinci-proiecte-inconjurate\|PRT-002]], [[PRT-007-curatoria-portofoliului-porneste-din-analiza-anuntului-de\|PRT-007]] |
+| 6 First impressions | numele, introducerea fără hiperbolă, titlurile, formula X-Y-Z, About me | [[PRT-015-introducerea-si-titlurile-studiilor-de-caz-vand-relevanta\|PRT-015]] |
+| 7 Storytelling with case studies | lungime, framework-uri (PAR, STAR, SOAR…), Brief – What I did – Results – Tools, highlights | [[PRT-016-studiul-de-caz-se-scrie-in-patru-parti-brief-ce-am-facut\|PRT-016]] |
+| 8 Completing the picture | proiecte adiționale, training, premii, conferințe, voluntariat, interese, testimoniale, ce nu incluzi | [[PRT-011-portofoliul-este-un-sandvis-introducere-studii-de-caz\|PRT-011]] |
+| 9 Common constraints | experiență limitată, proiecte inventate, concursuri de design, NDA | [[PRT-009-juniorul-fara-experienta-are-nevoie-de-un-studiu-de-caz-bun\|PRT-009]], [[PRT-010-acordurile-de-confidentialitate-nu-se-ocolesc-prin\|PRT-010]] |
+| 10 Evaluating | ortografie, ton, editarea cu markerul, checklist, critică vs. feedback | [[PRT-027-pentru-portofoliu-cere-critica-structurata-nu-feedback\|PRT-027]] |
+| Anexe | Portfolio Planner, Case Study Canvas, checklist | [[PRT-007-curatoria-portofoliului-porneste-din-analiza-anuntului-de\|PRT-007]], [[PRT-004-portofoliul-trimis-dinainte-si-prezentarea-portofoliului\|PRT-004]] |
 
 ## Idei-cheie → note permanente
 
-- [[PRT-1401-portofoliul-e-un-produs-utilizatorul-e-recrutorul|PRT-1401]] — portofoliul e un produs al cărui utilizator e recrutorul; două scopuri.
-- [[PRT-1402-portofoliul-diferit-de-prezentarea-portofoliului|PRT-1402]] — portofoliul trimis dinainte și prezentarea lui sunt documente diferite.
-- [[PRT-1403-jurnalul-de-lucru-povestile-se-colecteaza-in-timp-real|PRT-1403]] — poveștile se colectează în timpul proiectelor, cu un jurnal indexat.
-- [[PRT-1404-analiza-anuntului-de-angajare-ghideaza-curatoria|PRT-1404]] — curatoria pornește din analiza anunțului de angajare.
-- [[PRT-1405-doua-trei-proiecte-excelente-bat-cinci-mediocre|PRT-1405]] — două-trei proiecte excelente bat cinci proiecte înconjurate de mediocritate.
-- [[PRT-1406-portofoliul-proiectat-pentru-30-de-secunde|PRT-1406]] — portofoliul se proiectează pentru 30 de secunde: fast track și slow track.
-- [[PRT-1407-pdf-personalizabil-intai-apoi-site|PRT-1407]] — PDF personalizabil întâi, apoi site; comunitățile de portofoliu sunt riscante.
-- [[PRT-1408-introducerea-si-titlurile-vand-relevanta|PRT-1408]] — introducerea și titlurile vând relevanța, nu adjective (formula X-Y-Z).
-- [[PRT-1409-studiul-de-caz-brief-ce-am-facut-rezultate|PRT-1409]] — studiul de caz: Brief – Ce am făcut – Rezultate – Instrumente, plus highlights.
-- [[PRT-1410-sandvisul-portofoliului-si-ce-nu-se-include|PRT-1410]] — „sandvișul” portofoliului și ce nu trebuie inclus.
-- [[PRT-1411-juniorul-fara-experienta-un-studiu-bun-si-dovezi|PRT-1411]] — juniorul fără experiență: un studiu bun și dovezi ale calităților cerute.
-- [[PRT-1412-nda-ce-nu-functioneaza-si-ce-functioneaza|PRT-1412]] — NDA: ce nu funcționează și ce funcționează.
-- [[PRT-1413-cere-critica-nu-feedback|PRT-1413]] — cere critică, nu feedback.
+- [[PRT-001-portofoliul-este-un-produs-iar-utilizatorul-lui-este-cel|PRT-001]] — portofoliul e un produs al cărui utilizator e recrutorul; două scopuri.
+- [[PRT-004-portofoliul-trimis-dinainte-si-prezentarea-portofoliului|PRT-004]] — portofoliul trimis dinainte și prezentarea lui sunt documente diferite.
+- [[PRT-006-povestile-de-portofoliu-se-colecteaza-in-timpul-proiectelor|PRT-006]] — poveștile se colectează în timpul proiectelor, cu un jurnal indexat.
+- [[PRT-007-curatoria-portofoliului-porneste-din-analiza-anuntului-de|PRT-007]] — curatoria pornește din analiza anunțului de angajare.
+- [[PRT-002-doua-trei-proiecte-excelente-bat-cinci-proiecte-inconjurate|PRT-002]] — două-trei proiecte excelente bat cinci proiecte înconjurate de mediocritate.
+- [[PRT-003-portofoliul-se-proiecteaza-pentru-30-de-secunde-un-fast|PRT-003]] — portofoliul se proiectează pentru 30 de secunde: fast track și slow track.
+- [[PRT-014-porneste-cu-un-portofoliu-pdf-personalizabil-si-adauga-apoi|PRT-014]] — PDF personalizabil întâi, apoi site; comunitățile de portofoliu sunt riscante.
+- [[PRT-015-introducerea-si-titlurile-studiilor-de-caz-vand-relevanta|PRT-015]] — introducerea și titlurile vând relevanța, nu adjective (formula X-Y-Z).
+- [[PRT-016-studiul-de-caz-se-scrie-in-patru-parti-brief-ce-am-facut|PRT-016]] — studiul de caz: Brief – Ce am făcut – Rezultate – Instrumente, plus highlights.
+- [[PRT-011-portofoliul-este-un-sandvis-introducere-studii-de-caz|PRT-011]] — „sandvișul” portofoliului și ce nu trebuie inclus.
+- [[PRT-009-juniorul-fara-experienta-are-nevoie-de-un-studiu-de-caz-bun|PRT-009]] — juniorul fără experiență: un studiu bun și dovezi ale calităților cerute.
+- [[PRT-010-acordurile-de-confidentialitate-nu-se-ocolesc-prin|PRT-010]] — NDA: ce nu funcționează și ce funcționează.
+- [[PRT-027-pentru-portofoliu-cere-critica-structurata-nu-feedback|PRT-027]] — cere critică, nu feedback.
 
 ## Ce lipsește / ce trebuie citit critic
 
@@ -69,18 +69,19 @@ level: 2
 <!-- backlinks:start -->
 ## Backlinks
 
-- [[PRT-1401-portofoliul-e-un-produs-utilizatorul-e-recrutorul|PRT-1401]] — Portofoliul este un produs, iar utilizatorul lui este cel care angajează, nu autorul
-- [[PRT-1402-portofoliul-diferit-de-prezentarea-portofoliului|PRT-1402]] — Portofoliul trimis dinainte și prezentarea portofoliului sunt două documente diferite
-- [[PRT-1403-jurnalul-de-lucru-povestile-se-colecteaza-in-timp-real|PRT-1403]] — Poveștile de portofoliu se colectează în timpul proiectelor, cu un jurnal de lucru indexat
-- [[PRT-1404-analiza-anuntului-de-angajare-ghideaza-curatoria|PRT-1404]] — Curatoria portofoliului pornește din analiza anunțului de angajare, cu markerul
-- [[PRT-1405-doua-trei-proiecte-excelente-bat-cinci-mediocre|PRT-1405]] — Două-trei proiecte excelente bat cinci proiecte înconjurate de mediocritate
-- [[PRT-1406-portofoliul-proiectat-pentru-30-de-secunde|PRT-1406]] — Portofoliul se proiectează pentru 30 de secunde — un fast track și un slow track
-- [[PRT-1407-pdf-personalizabil-intai-apoi-site|PRT-1407]] — Pornește cu un portofoliu PDF personalizabil și adaugă apoi un site; comunitățile de portofoliu sunt riscante
-- [[PRT-1408-introducerea-si-titlurile-vand-relevanta|PRT-1408]] — Introducerea și titlurile studiilor de caz vând relevanța pentru cititor, nu adjective
-- [[PRT-1409-studiul-de-caz-brief-ce-am-facut-rezultate|PRT-1409]] — Studiul de caz se scrie în patru părți — Brief, Ce am făcut, Rezultate, Instrumente — plus highlights
-- [[PRT-1410-sandvisul-portofoliului-si-ce-nu-se-include|PRT-1410]] — Portofoliul este un „sandviș” — introducere, studii de caz, completări — și are lucruri care nu se pun deloc
-- [[PRT-1411-juniorul-fara-experienta-un-studiu-bun-si-dovezi|PRT-1411]] — Juniorul fără experiență are nevoie de un studiu de caz bun și de dovezi ale calităților cerute, nu de volum
-- [[PRT-1412-nda-ce-nu-functioneaza-si-ce-functioneaza|PRT-1412]] — Acordurile de confidențialitate nu se ocolesc prin încălcare, parolă sau anonimizare, ci se negociază din timp
-- [[PRT-1413-cere-critica-nu-feedback|PRT-1413]] — Pentru portofoliu cere critică structurată, nu „feedback” general, și verifică tonul înainte de a-l trimite
-- [[PRT-1418-dezbatere-grafice-de-competente-si-concursuri-de-design|PRT-1418]] — Graficele de competențe și concursurile de design — Morgan le recomandă, Fenn și Kubišová le resping
+- [[PRT-001-portofoliul-este-un-produs-iar-utilizatorul-lui-este-cel|PRT-001]] — Portofoliul este un produs, iar utilizatorul lui este cel care angajează, nu autorul
+- [[PRT-002-doua-trei-proiecte-excelente-bat-cinci-proiecte-inconjurate|PRT-002]] — Două-trei proiecte excelente bat cinci proiecte înconjurate de mediocritate
+- [[PRT-003-portofoliul-se-proiecteaza-pentru-30-de-secunde-un-fast|PRT-003]] — Portofoliul se proiectează pentru 30 de secunde — un fast track și un slow track
+- [[PRT-004-portofoliul-trimis-dinainte-si-prezentarea-portofoliului|PRT-004]] — Portofoliul trimis dinainte și prezentarea portofoliului sunt două documente diferite
+- [[PRT-005-proiectele-personale-aduc-in-portofoliu-munca-pe-care-vrei|PRT-005]] — Proiectele personale aduc în portofoliu munca pe care vrei s-o primești
+- [[PRT-006-povestile-de-portofoliu-se-colecteaza-in-timpul-proiectelor|PRT-006]] — Poveștile de portofoliu se colectează în timpul proiectelor, cu un jurnal de lucru indexat
+- [[PRT-007-curatoria-portofoliului-porneste-din-analiza-anuntului-de|PRT-007]] — Curatoria portofoliului pornește din analiza anunțului de angajare, cu markerul
+- [[PRT-009-juniorul-fara-experienta-are-nevoie-de-un-studiu-de-caz-bun|PRT-009]] — Juniorul fără experiență are nevoie de un studiu de caz bun și de dovezi ale calităților cerute, nu de volum
+- [[PRT-010-acordurile-de-confidentialitate-nu-se-ocolesc-prin|PRT-010]] — Acordurile de confidențialitate nu se ocolesc prin încălcare, parolă sau anonimizare, ci se negociază din timp
+- [[PRT-011-portofoliul-este-un-sandvis-introducere-studii-de-caz|PRT-011]] — Portofoliul este un „sandviș” — introducere, studii de caz, completări — și are lucruri care nu se pun deloc
+- [[PRT-014-porneste-cu-un-portofoliu-pdf-personalizabil-si-adauga-apoi|PRT-014]] — Pornește cu un portofoliu PDF personalizabil și adaugă apoi un site; comunitățile de portofoliu sunt riscante
+- [[PRT-015-introducerea-si-titlurile-studiilor-de-caz-vand-relevanta|PRT-015]] — Introducerea și titlurile studiilor de caz vând relevanța pentru cititor, nu adjective
+- [[PRT-016-studiul-de-caz-se-scrie-in-patru-parti-brief-ce-am-facut|PRT-016]] — Studiul de caz se scrie în patru părți — Brief, Ce am făcut, Rezultate, Instrumente — plus highlights
+- [[PRT-023-graficele-de-competente-si-concursurile-de-design-morgan-le|PRT-023]] — Graficele de competențe și concursurile de design — Morgan le recomandă, Fenn și Kubišová le resping
+- [[PRT-027-pentru-portofoliu-cere-critica-structurata-nu-feedback|PRT-027]] — Pentru portofoliu cere critică structurată, nu „feedback” general, și verifică tonul înainte de a-l trimite
 <!-- backlinks:end -->

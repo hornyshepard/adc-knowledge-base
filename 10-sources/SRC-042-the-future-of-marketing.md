@@ -28,22 +28,22 @@ level: 1
 | Cap. | Tema | Note derivate |
 |---|---|---|
 | 1–2 | Revoluția AI; date: „de la big data la smart data" | — (generic) |
-| 3–5 | Personalizare, chatboți, analiză predictivă | — (acoperit mai bine de [[SRC-037-ai-driven-marketing|SRC-037]], [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]]) |
-| 6 | Conținut creat și curatoriat cu AI (text, GAN, video) | [[AIM-1326-poate-ai-ul-crea-identitatea-unui-brand|AIM-1326]] |
+| 3–5 | Personalizare, chatboți, analiză predictivă | — (acoperit mai bine de [[SRC-037-ai-driven-marketing\|SRC-037]], [[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice\|SRC-038]]) |
+| 6 | Conținut creat și curatoriat cu AI (text, GAN, video) | [[AIM-029-poate-ai-ul-crea-identitatea-unui-brand-promisiunea-brand\|AIM-029]] |
 | 7–8 | SEO în era AI; programmatic (RTB, DCO, atribuire) | — (generic) |
-| 9 | Social media și ascultare automată | [[AIM-1325-ascultarea-vizuala-gaseste-brandul-in-imagini|AIM-1325]] |
-| 10 | Influencer Marketing 2.0 | [[SOC-1301-ai-verifica-autenticitatea-audientei-influencerului|SOC-1301]] |
-| 11 | Etică și confidențialitate; bule de filtrare | [[AIM-1301-personalizarea-cu-ai-are-patru-registre|AIM-1301]] (îmbogățire) |
+| 9 | Social media și ascultare automată | [[AIM-028-ascultarea-vizuala-gaseste-brandul-in-imagini-acolo-unde-nu\|AIM-028]] |
+| 10 | Influencer Marketing 2.0 | [[SOC-029-audienta-unui-influencer-se-verifica-inainte-de-orice\|SOC-029]] |
+| 11 | Etică și confidențialitate; bule de filtrare | [[AIM-016-personalizarea-cu-ai-lucreaza-in-patru-registre-in-timp\|AIM-016]] (îmbogățire) |
 | 12–13 | Recalificarea marketerilor; implementare de la startup la corporație | — (generic) |
 | 14 | Zece „studii de caz" anonime | — |
-| 15, Concluzie | Viitorul; augmentare, nu înlocuire | [[AIM-1326-poate-ai-ul-crea-identitatea-unui-brand|AIM-1326]] |
+| 15, Concluzie | Viitorul; augmentare, nu înlocuire | [[AIM-029-poate-ai-ul-crea-identitatea-unui-brand-promisiunea-brand\|AIM-029]] |
 
 ## Idei-cheie → note permanente
 
-- [[SOC-1301-ai-verifica-autenticitatea-audientei-influencerului|SOC-1301]] — alegerea influencerilor cu AI după autenticitatea și potrivirea audienței.
-- [[AIM-1326-poate-ai-ul-crea-identitatea-unui-brand|AIM-1326]] — dezbaterea despre conținutul creativ generat (contribuție).
-- [[AIM-1325-ascultarea-vizuala-gaseste-brandul-in-imagini|AIM-1325]] — ascultarea socială automată (contribuție minoră).
-- Îmbogățire: [[AIM-1301-personalizarea-cu-ai-are-patru-registre|AIM-1301]] (bule de filtrare).
+- [[SOC-029-audienta-unui-influencer-se-verifica-inainte-de-orice|SOC-029]] — alegerea influencerilor cu AI după autenticitatea și potrivirea audienței.
+- [[AIM-029-poate-ai-ul-crea-identitatea-unui-brand-promisiunea-brand|AIM-029]] — dezbaterea despre conținutul creativ generat (contribuție).
+- [[AIM-028-ascultarea-vizuala-gaseste-brandul-in-imagini-acolo-unde-nu|AIM-028]] — ascultarea socială automată (contribuție minoră).
+- Îmbogățire: [[AIM-016-personalizarea-cu-ai-lucreaza-in-patru-registre-in-timp|AIM-016]] (bule de filtrare).
 
 ## Ce lipsește / ce trebuie citit critic
 
@@ -60,8 +60,8 @@ level: 1
 <!-- backlinks:start -->
 ## Backlinks
 
-- [[AIM-1301-personalizarea-cu-ai-are-patru-registre|AIM-1301]] — Personalizarea cu AI lucrează în patru registre — în timp real, comportamental, micro-segment și predictiv
-- [[AIM-1325-ascultarea-vizuala-gaseste-brandul-in-imagini|AIM-1325]] — Ascultarea vizuală găsește brandul în imagini, acolo unde nu e numit în text
-- [[AIM-1326-poate-ai-ul-crea-identitatea-unui-brand|AIM-1326]] — Poate AI-ul crea identitatea unui brand? Promisiunea „brand assets generate" vs. brandul ca semnificație și relație
-- [[SOC-1301-ai-verifica-autenticitatea-audientei-influencerului|SOC-1301]] — Cu AI, un influencer se alege după autenticitatea și potrivirea audienței, nu după numărul de urmăritori
+- [[AIM-016-personalizarea-cu-ai-lucreaza-in-patru-registre-in-timp|AIM-016]] — Personalizarea cu AI lucrează în patru registre — în timp real, comportamental, micro-segment și predictiv
+- [[AIM-028-ascultarea-vizuala-gaseste-brandul-in-imagini-acolo-unde-nu|AIM-028]] — Ascultarea vizuală găsește brandul în imagini, acolo unde nu e numit în text
+- [[AIM-029-poate-ai-ul-crea-identitatea-unui-brand-promisiunea-brand|AIM-029]] — Poate AI-ul crea identitatea unui brand? Promisiunea „brand assets generate" vs. brandul ca semnificație și relație
+- [[SOC-029-audienta-unui-influencer-se-verifica-inainte-de-orice|SOC-029]] — Audiența unui influencer se verifică înainte de orice contract — semnale de fraudă, autenticitatea angajamentului și potrivirea publicului, manual sau cu AI
 <!-- backlinks:end -->

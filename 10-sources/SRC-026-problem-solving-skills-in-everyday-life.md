@@ -27,16 +27,16 @@ level: 1
 
 | Cap. | Tema | Note derivate |
 |---|---|---|
-| 1 | Understanding Problems (problema ca decalaj; tipuri) | [[IDE-0716-procesul-in-sapte-pasi-de-rezolvare-a-problemelor|IDE-0716]] |
+| 1 | Understanding Problems (problema ca decalaj; tipuri) | [[IDE-007-procesul-in-sapte-pasi-de-rezolvare-a-problemelor-de-la\|IDE-007]] |
 | 2 | The Problem-Solving Mindset | — (generic: recunoștință, optimism, growth mindset) |
-| 3 | Techniques and Strategies (procesul în 7 pași, SCAMPER, cele șase pălării, matricea de decizie, Pareto, Eisenhower) | [[IDE-0716-procesul-in-sapte-pasi-de-rezolvare-a-problemelor|IDE-0716]], [[IDE-0717-trusa-scamper-sase-palarii-matrice-de-decizie|IDE-0717]] |
+| 3 | Techniques and Strategies (procesul în 7 pași, SCAMPER, cele șase pălării, matricea de decizie, Pareto, Eisenhower) | [[IDE-007-procesul-in-sapte-pasi-de-rezolvare-a-problemelor-de-la\|IDE-007]], [[IDE-022-trusa-de-generare-si-selectie-scamper-cele-sase-palarii-si\|IDE-022]] |
 | 4–5 | Real-Life și Scenario Case Studies (Sarah, Alex, Jake, Lisa) | — (cazuri ipotetice) |
-| 6–8 | Exerciții, trusa de instrumente, progres și eșecuri | [[IDE-0717-trusa-scamper-sase-palarii-matrice-de-decizie|IDE-0717]] |
+| 6–8 | Exerciții, trusa de instrumente, progres și eșecuri | [[IDE-022-trusa-de-generare-si-selectie-scamper-cele-sase-palarii-si\|IDE-022]] |
 
 ## Idei-cheie → note permanente
 
-- [[IDE-0716-procesul-in-sapte-pasi-de-rezolvare-a-problemelor|IDE-0716]] — procesul în șapte pași și tipurile de probleme.
-- [[IDE-0717-trusa-scamper-sase-palarii-matrice-de-decizie|IDE-0717]] — trusa de generare și selecție: SCAMPER, cele șase pălării, matricea de decizie ponderată, Pareto și Eisenhower.
+- [[IDE-007-procesul-in-sapte-pasi-de-rezolvare-a-problemelor-de-la|IDE-007]] — procesul în șapte pași și tipurile de probleme.
+- [[IDE-022-trusa-de-generare-si-selectie-scamper-cele-sase-palarii-si|IDE-022]] — trusa de generare și selecție: SCAMPER, cele șase pălării, matricea de decizie ponderată, Pareto și Eisenhower.
 
 ## Ce lipsește / ce trebuie citit critic
 
@@ -52,6 +52,9 @@ level: 1
 <!-- backlinks:start -->
 ## Backlinks
 
-- [[IDE-0716-procesul-in-sapte-pasi-de-rezolvare-a-problemelor|IDE-0716]] — Procesul în șapte pași de rezolvare a problemelor — de la definirea decalajului la revizuirea rezultatului
-- [[IDE-0717-trusa-scamper-sase-palarii-matrice-de-decizie|IDE-0717]] — Trusa de generare și selecție — SCAMPER, cele șase pălării și matricea de decizie ponderată
+- [[IDE-007-procesul-in-sapte-pasi-de-rezolvare-a-problemelor-de-la|IDE-007]] — Procesul în șapte pași de rezolvare a problemelor — de la definirea decalajului la revizuirea rezultatului
+- [[IDE-009-volumul-precede-calitatea-ideea-buna-iese-dintr-un-numar|IDE-009]] — Volumul precede calitatea — ideea bună iese dintr-un număr mare de încercări, cele mai multe proaste
+- [[IDE-010-brainstormingul-lui-osborn-are-patru-reguli-cantitate|IDE-010]] — Brainstormingul lui Osborn are patru reguli — cantitate, judecată amânată, idei sălbatice, combinare — și cere ca generarea să fie separată de evaluare
+- [[IDE-022-trusa-de-generare-si-selectie-scamper-cele-sase-palarii-si|IDE-022]] — Trusa de generare și selecție — SCAMPER, cele șase pălării și matricea de decizie ponderată
+- [[IDE-023-grilele-de-evaluare-a-ideilor-converg-pe-trei-intrebari|IDE-023]] — Grilele de evaluare a ideilor converg pe trei întrebări — servește strategia, iese din rând, rămâne legată de brand — dar se aplică în momente diferite
 <!-- backlinks:end -->

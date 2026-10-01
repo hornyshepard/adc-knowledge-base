@@ -27,38 +27,38 @@ level: 1
 
 | Dosar | Tema | Note derivate |
 |---|---|---|
-| 1 | Agenția și clientul: brief-ul clientului, brief-ul creativ, recomandarea, planning-ul strategic, sursele de informație | [[BRF-0601-din-brief-ul-clientului-in-brief-ul-creativ|BRF-0601]], [[PIT-0601-recomandarea-de-agentie-arata-alegerea-nu-drumul|PIT-0601]], [[ADV-0620-planning-strategic-transforma-informatia-intr-un-unghi|ADV-0620]] |
-| 2 | Planul strategic de comunicare: SWOT, diagnostic, poziționare, obiective, ținte, strategia de creație, media, non-media, buget și calendar | [[ADV-0612-planul-strategic-de-comunicare-e-un-lant-logic|ADV-0612]], [[ADV-0613-problema-de-comunicare-e-una-singura-notorietate-imagine-sau|ADV-0613]], [[BRD-0607-harta-de-pozitionare-in-patru-pasi-si-sase-criterii|BRD-0607]], [[ADV-0614-obiectivele-de-comunicare-sunt-cognitive-afective-sau-conative|ADV-0614]], [[ADV-0615-tinta-principala-nucleul-si-tintele-de-influenta-push-pull|ADV-0615]], [[ADV-0603-copy-strategy-fixeaza-beneficiul-dovada-si-tonul|ADV-0603]], [[ADV-0617-touchpoints-paid-owned-earned|ADV-0617]] |
-| 3 | Teorii ale comunicării: Jakobson, atenție și percepție, sugestie și persuasiune, denotație și conotație | [[CPY-0602-cele-sase-functii-ale-lui-jakobson-aplicate-mesajului-publicitar|CPY-0602]], [[INS-0604-perceptia-e-selectiva-reclama-are-nevoie-de-procedee-de-atentie|INS-0604]], [[CPY-0603-titlul-ancoreaza-conotatiile-imaginii|CPY-0603]] |
-| 4 | Comportamentul țintelor: frâne și motivații, nevoi, insight, segmentare, touchpoints | [[INS-0602-insight-ul-e-o-dilema-a-consumatorului-pe-care-brandul-o-rezolva|INS-0602]], [[ADV-0609-axa-psihologica-joannis-stimulezi-o-motivatie-sau-slabesti-o-frana|ADV-0609]], [[ADV-0617-touchpoints-paid-owned-earned|ADV-0617]] |
-| 5 | Creația: limbajul publicitar, planurile creative (copy strategy, USP, PTC Y&R, star strategy), storytelling, disruption | [[CPY-0604-patru-tipuri-de-discurs-publicitar-narativ-descriptiv-explicativ|CPY-0604]], [[ADV-0603-copy-strategy-fixeaza-beneficiul-dovada-si-tonul|ADV-0603]], [[ADV-0605-trei-drumuri-spre-un-usp-gasesti-construiesti-revendici|ADV-0605]], [[BRD-0602-star-strategy-brandul-persoana-are-fizic-caracter-si-stil|BRD-0602]], [[ADV-0619-disruption-conventie-ruptura-viziune|ADV-0619]] |
-| 6 | Publicitatea 360°: TV, presă, radio, afișaj, cinema, internet, social, mobil, gaming, brand content, UGC, native, aplicații, web TV | [[STO-0601-brand-content-aduce-consumatorul-la-brand|STO-0601]], [[ADV-0617-touchpoints-paid-owned-earned|ADV-0617]] |
-| 7 | Măsurarea eficienței: studii cantitative și calitative, post-teste, bilanț, audiență, digital | [[INS-0603-chestionarul-cantitativ-si-focus-grupul-au-reguli-diferite|INS-0603]], [[ADV-0618-post-testul-masoara-urma-reclamei-prin-cinci-scoruri|ADV-0618]], [[ADV-0616-grp-acoperire-ori-repetitie-vocabularul-media-planningului|ADV-0616]] |
+| 1 | Agenția și clientul: brief-ul clientului, brief-ul creativ, recomandarea, planning-ul strategic, sursele de informație | [[BRF-003-brief-ul-clientului-pune-intrebarea-brief-ul-creativ-o\|BRF-003]], [[PIT-035-recomandarea-de-agentie-reco-arata-de-ce-s-a-ales-o-solutie\|PIT-035]], [[ADV-014-planning-ul-strategic-transforma-o-compilatie-de-informatii\|ADV-014]] |
+| 2 | Planul strategic de comunicare: SWOT, diagnostic, poziționare, obiective, ținte, strategia de creație, media, non-media, buget și calendar | [[ADV-010-planificarea-strategica-a-comunicarii-are-cinci-pasi-de-la\|ADV-010]], [[ADV-012-problema-de-comunicare-e-una-singura-de-notorietate-de\|ADV-012]], [[BRD-014-harta-de-pozitionare-se-face-in-patru-pasi-iar-pozitionarea\|BRD-014]], [[ADV-007-orice-comunicare-poate-produce-patru-efecte-dar\|ADV-007]], [[ADV-017-tinta-de-comunicare-are-straturi-tinta-principala-nucleu-si\|ADV-017]], [[ADV-042-copy-strategy-p-g-fixeaza-in-scris-obiectivul-beneficiul-cu\|ADV-042]], [[ADV-062-punctele-de-contact-ale-brandului-sunt-platite-detinute\|ADV-062]] |
+| 3 | Teorii ale comunicării: Jakobson, atenție și percepție, sugestie și persuasiune, denotație și conotație | [[CPY-013-orice-mesaj-publicitar-ierarhizeaza-cele-sase-functii-ale\|CPY-013]], [[INS-004-perceptia-e-selectiva-asa-ca-reclama-are-nevoie-de-procedee\|INS-004]], [[CPY-011-imaginea-agata-titlul-ancoreaza-denotatia-informeaza\|CPY-011]] |
+| 4 | Comportamentul țintelor: frâne și motivații, nevoi, insight, segmentare, touchpoints | [[INS-094-insight-ul-e-o-dilema-a-consumatorului-dorinta-contra\|INS-094]], [[ADV-040-axa-psihologica-joannis-campania-alege-fie-sa-stimuleze-o\|ADV-040]], [[ADV-062-punctele-de-contact-ale-brandului-sunt-platite-detinute\|ADV-062]] |
+| 5 | Creația: limbajul publicitar, planurile creative (copy strategy, USP, PTC Y&R, star strategy), storytelling, disruption | [[CPY-014-discursul-publicitar-are-patru-tipuri-narativ-descriptiv\|CPY-014]], [[ADV-042-copy-strategy-p-g-fixeaza-in-scris-obiectivul-beneficiul-cu\|ADV-042]], [[ADV-025-la-un-usp-se-ajunge-pe-trei-drumuri-il-gasesti-in-produs-il\|ADV-025]], [[BRD-028-star-strategy-seguela-brandul-persoana-are-fizic-caracter\|BRD-028]], [[ADV-046-disruption-dru-bddp-identifici-conventia-categoriei-o-rupi\|ADV-046]] |
+| 6 | Publicitatea 360°: TV, presă, radio, afișaj, cinema, internet, social, mobil, gaming, brand content, UGC, native, aplicații, web TV | [[STO-024-brand-content-ul-inverseaza-sensul-publicitatii\|STO-024]], [[ADV-062-punctele-de-contact-ale-brandului-sunt-platite-detinute\|ADV-062]] |
+| 7 | Măsurarea eficienței: studii cantitative și calitative, post-teste, bilanț, audiență, digital | [[INS-076-chestionarul-cantitativ-masoara-cat-interviul-si-focus\|INS-076]], [[ADV-081-post-testul-masoara-urma-lasata-de-reclama-prin-cinci\|ADV-081]], [[ADV-053-grp-acoperire-repetitie-vocabularul-de-baza-al-media\|ADV-053]] |
 | 8 | Mediul publicității: ARPP, legislație (Evin, Toubon, Sapin, publicitate comparativă), premii, agenții, publifilie/publifobie | — (specific Franței) |
-| 9 | Meseriile din agenție: planner, media planner, account, DA, copywriter, traffic manager | [[ADV-0620-planning-strategic-transforma-informatia-intr-un-unghi|ADV-0620]] |
+| 9 | Meseriile din agenție: planner, media planner, account, DA, copywriter, traffic manager | [[ADV-014-planning-ul-strategic-transforma-o-compilatie-de-informatii\|ADV-014]] |
 
 ## Idei-cheie → note permanente
 
-- [[BRF-0601-din-brief-ul-clientului-in-brief-ul-creativ|BRF-0601]] — brief-ul clientului și brief-ul creativ: rubrici, KPI, fluxul prin agenție.
-- [[PIT-0601-recomandarea-de-agentie-arata-alegerea-nu-drumul|PIT-0601]] — recomandarea în 14 pași; reco bună contra reco proastă.
-- [[ADV-0612-planul-strategic-de-comunicare-e-un-lant-logic|ADV-0612]] — planul strategic de comunicare ca lanț logic.
-- [[ADV-0613-problema-de-comunicare-e-una-singura-notorietate-imagine-sau|ADV-0613]] — o singură problemă de comunicare: notorietate, imagine sau comportament.
-- [[ADV-0614-obiectivele-de-comunicare-sunt-cognitive-afective-sau-conative|ADV-0614]] — obiective cognitive, afective, conative.
-- [[ADV-0615-tinta-principala-nucleul-si-tintele-de-influenta-push-pull|ADV-0615]] — straturile țintei și strategiile push/pull.
-- [[BRD-0607-harta-de-pozitionare-in-patru-pasi-si-sase-criterii|BRD-0607]] — harta de poziționare și cele șase criterii; cazul Petit Bateau.
-- [[ADV-0616-grp-acoperire-ori-repetitie-vocabularul-media-planningului|ADV-0616]] — GRP, acoperire, repetiție, CPM.
-- [[ADV-0617-touchpoints-paid-owned-earned|ADV-0617]] — touchpoints și Paid–Owned–Earned.
-- [[ADV-0618-post-testul-masoara-urma-reclamei-prin-cinci-scoruri|ADV-0618]] — post-testul cu cinci scoruri și bilanțul de campanie.
-- [[ADV-0619-disruption-conventie-ruptura-viziune|ADV-0619]] — disruption: convenție, ruptură, viziune.
-- [[ADV-0620-planning-strategic-transforma-informatia-intr-un-unghi|ADV-0620]] — planning-ul strategic: veghe, semnale slabe, sinteză.
-- [[INS-0602-insight-ul-e-o-dilema-a-consumatorului-pe-care-brandul-o-rezolva|INS-0602]] — insight-ul ca dilemă.
-- [[INS-0603-chestionarul-cantitativ-si-focus-grupul-au-reguli-diferite|INS-0603]] — regulile chestionarului și ale focus grupului.
-- [[INS-0604-perceptia-e-selectiva-reclama-are-nevoie-de-procedee-de-atentie|INS-0604]] — percepția selectivă și cele cinci procedee de atenție.
-- [[CPY-0602-cele-sase-functii-ale-lui-jakobson-aplicate-mesajului-publicitar|CPY-0602]] — cele șase funcții ale lui Jakobson în publicitate.
-- [[CPY-0603-titlul-ancoreaza-conotatiile-imaginii|CPY-0603]] — denotație, conotație, ancorarea prin titlu.
-- [[CPY-0604-patru-tipuri-de-discurs-publicitar-narativ-descriptiv-explicativ|CPY-0604]] — patru tipuri de discurs și schema narativă.
-- [[STO-0601-brand-content-aduce-consumatorul-la-brand|STO-0601]] — brand content, UGC, native advertising.
-- Îmbogățite cu această sursă: [[ADV-0603-copy-strategy-fixeaza-beneficiul-dovada-si-tonul|ADV-0603]] (cele patru rubrici ale copy strat și grila de evaluare), [[ADV-0605-trei-drumuri-spre-un-usp-gasesti-construiesti-revendici|ADV-0605]] (USP), [[ADV-0609-axa-psihologica-joannis-stimulezi-o-motivatie-sau-slabesti-o-frana|ADV-0609]] (frâne și motivații, Haas), [[BRD-0602-star-strategy-brandul-persoana-are-fizic-caracter-si-stil|BRD-0602]] (star strategy aplicată la Evian).
+- [[BRF-003-brief-ul-clientului-pune-intrebarea-brief-ul-creativ-o|BRF-003]] — brief-ul clientului și brief-ul creativ: rubrici, KPI, fluxul prin agenție.
+- [[PIT-035-recomandarea-de-agentie-reco-arata-de-ce-s-a-ales-o-solutie|PIT-035]] — recomandarea în 14 pași; reco bună contra reco proastă.
+- [[ADV-010-planificarea-strategica-a-comunicarii-are-cinci-pasi-de-la|ADV-010]] — planul strategic de comunicare ca lanț logic.
+- [[ADV-012-problema-de-comunicare-e-una-singura-de-notorietate-de|ADV-012]] — o singură problemă de comunicare: notorietate, imagine sau comportament.
+- [[ADV-007-orice-comunicare-poate-produce-patru-efecte-dar|ADV-007]] — obiective cognitive, afective, conative.
+- [[ADV-017-tinta-de-comunicare-are-straturi-tinta-principala-nucleu-si|ADV-017]] — straturile țintei și strategiile push/pull.
+- [[BRD-014-harta-de-pozitionare-se-face-in-patru-pasi-iar-pozitionarea|BRD-014]] — harta de poziționare și cele șase criterii; cazul Petit Bateau.
+- [[ADV-053-grp-acoperire-repetitie-vocabularul-de-baza-al-media|ADV-053]] — GRP, acoperire, repetiție, CPM.
+- [[ADV-062-punctele-de-contact-ale-brandului-sunt-platite-detinute|ADV-062]] — touchpoints și Paid–Owned–Earned.
+- [[ADV-081-post-testul-masoara-urma-lasata-de-reclama-prin-cinci|ADV-081]] — post-testul cu cinci scoruri și bilanțul de campanie.
+- [[ADV-046-disruption-dru-bddp-identifici-conventia-categoriei-o-rupi|ADV-046]] — disruption: convenție, ruptură, viziune.
+- [[ADV-014-planning-ul-strategic-transforma-o-compilatie-de-informatii|ADV-014]] — planning-ul strategic: veghe, semnale slabe, sinteză.
+- [[INS-094-insight-ul-e-o-dilema-a-consumatorului-dorinta-contra|INS-094]] — insight-ul ca dilemă.
+- [[INS-076-chestionarul-cantitativ-masoara-cat-interviul-si-focus|INS-076]] — regulile chestionarului și ale focus grupului.
+- [[INS-004-perceptia-e-selectiva-asa-ca-reclama-are-nevoie-de-procedee|INS-004]] — percepția selectivă și cele cinci procedee de atenție.
+- [[CPY-013-orice-mesaj-publicitar-ierarhizeaza-cele-sase-functii-ale|CPY-013]] — cele șase funcții ale lui Jakobson în publicitate.
+- [[CPY-011-imaginea-agata-titlul-ancoreaza-denotatia-informeaza|CPY-011]] — denotație, conotație, ancorarea prin titlu.
+- [[CPY-014-discursul-publicitar-are-patru-tipuri-narativ-descriptiv|CPY-014]] — patru tipuri de discurs și schema narativă.
+- [[STO-024-brand-content-ul-inverseaza-sensul-publicitatii|STO-024]] — brand content, UGC, native advertising.
+- Îmbogățite cu această sursă: [[ADV-042-copy-strategy-p-g-fixeaza-in-scris-obiectivul-beneficiul-cu|ADV-042]] (cele patru rubrici ale copy strat și grila de evaluare), [[ADV-025-la-un-usp-se-ajunge-pe-trei-drumuri-il-gasesti-in-produs-il|ADV-025]] (USP), [[ADV-040-axa-psihologica-joannis-campania-alege-fie-sa-stimuleze-o|ADV-040]] (frâne și motivații, Haas), [[BRD-028-star-strategy-seguela-brandul-persoana-are-fizic-caracter|BRD-028]] (star strategy aplicată la Evian).
 
 ## Ce lipsește / ce trebuie citit critic
 
@@ -75,28 +75,37 @@ level: 1
 <!-- backlinks:start -->
 ## Backlinks
 
-- [[ADV-0603-copy-strategy-fixeaza-beneficiul-dovada-si-tonul|ADV-0603]] — Copy strategy (P&G) fixează în scris obiectivul, beneficiul cu dovada lui și tonul — nu execuția
-- [[ADV-0605-trei-drumuri-spre-un-usp-gasesti-construiesti-revendici|ADV-0605]] — La un USP se ajunge pe trei drumuri — îl găsești în produs, îl construiești în produs sau îl revendici primul
-- [[ADV-0609-axa-psihologica-joannis-stimulezi-o-motivatie-sau-slabesti-o-frana|ADV-0609]] — Axa psihologică (Joannis) — campania alege fie să stimuleze o motivație, fie să slăbească o frână
-- [[ADV-0612-planul-strategic-de-comunicare-e-un-lant-logic|ADV-0612]] — Planul strategic de comunicare e un lanț în care fiecare verigă decurge din cea anterioară — de la SWOT la buget
-- [[ADV-0613-problema-de-comunicare-e-una-singura-notorietate-imagine-sau|ADV-0613]] — Problema de comunicare e una singură — de notorietate, de imagine sau de comportament, niciodată toate trei deodată
-- [[ADV-0614-obiectivele-de-comunicare-sunt-cognitive-afective-sau-conative|ADV-0614]] — Obiectivele de comunicare sunt cognitive (a face cunoscut), afective (a face iubit) sau conative (a face să acționeze)
-- [[ADV-0615-tinta-principala-nucleul-si-tintele-de-influenta-push-pull|ADV-0615]] — Ținta de comunicare are straturi — țintă principală, nucleu și ținte de influență — și se atinge prin push sau pull
-- [[ADV-0616-grp-acoperire-ori-repetitie-vocabularul-media-planningului|ADV-0616]] — GRP = acoperire × repetiție — vocabularul de bază al media planning-ului
-- [[ADV-0617-touchpoints-paid-owned-earned|ADV-0617]] — Punctele de contact ale brandului sunt plătite, deținute sau câștigate (Paid–Owned–Earned) și trebuie combinate
-- [[ADV-0618-post-testul-masoara-urma-reclamei-prin-cinci-scoruri|ADV-0618]] — Post-testul măsoară urma lăsată de reclamă prin cinci scoruri, bilanțul măsoară campania întreagă
-- [[ADV-0619-disruption-conventie-ruptura-viziune|ADV-0619]] — Disruption (Dru, BDDP) — identifici convenția categoriei, o rupi și propui o viziune
-- [[ADV-0620-planning-strategic-transforma-informatia-intr-un-unghi|ADV-0620]] — Planning-ul strategic transformă o compilație de informații într-un unghi de vedere — veghe, semnale slabe, sinteză
-- [[ADV-0622-comunicarea-de-criza-recunoaste-masoara-nu-nega|ADV-0622]] — În comunicarea de criză, negarea e cea mai proastă opțiune — recunoaște primul, măsoară impactul, alege canalul, spune adevărul, învață
-- [[BRD-0602-star-strategy-brandul-persoana-are-fizic-caracter-si-stil|BRD-0602]] — Star strategy (Séguéla) — brandul-persoană are fizic, caracter și stil
-- [[BRD-0607-harta-de-pozitionare-in-patru-pasi-si-sase-criterii|BRD-0607]] — Harta de poziționare se face în patru pași, iar poziționarea aleasă trece șase teste — clară, pertinentă, distinctivă, coerentă, atractivă, durabilă
-- [[BRF-0601-din-brief-ul-clientului-in-brief-ul-creativ|BRF-0601]] — Brief-ul clientului pune întrebarea, brief-ul creativ o transformă într-o „problemă de rezolvat" pentru echipa de creație
-- [[CPY-0602-cele-sase-functii-ale-lui-jakobson-aplicate-mesajului-publicitar|CPY-0602]] — Orice mesaj publicitar ierarhizează cele șase funcții ale limbajului (Jakobson) — și una trebuie să domine
-- [[CPY-0603-titlul-ancoreaza-conotatiile-imaginii|CPY-0603]] — Imaginea agață, titlul ancorează — denotația informează, conotația adaugă sensuri pe care ținta trebuie să le decodeze
-- [[CPY-0604-patru-tipuri-de-discurs-publicitar-narativ-descriptiv-explicativ|CPY-0604]] — Discursul publicitar are patru tipuri — narativ, descriptiv, explicativ, argumentativ — și se verifică după ce e scris
-- [[INS-0602-insight-ul-e-o-dilema-a-consumatorului-pe-care-brandul-o-rezolva|INS-0602]] — Insight-ul e o dilemă a consumatorului (dorință contra obstacol) pe care brandul o poate rezolva
-- [[INS-0603-chestionarul-cantitativ-si-focus-grupul-au-reguli-diferite|INS-0603]] — Chestionarul cantitativ măsoară „cât", interviul și focus grupul explică „de ce" — fiecare cu regulile lui
-- [[INS-0604-perceptia-e-selectiva-reclama-are-nevoie-de-procedee-de-atentie|INS-0604]] — Percepția e selectivă, așa că reclama are nevoie de procedee de atenție — emoție, personificare, spectacol, surpriză, umor
-- [[PIT-0601-recomandarea-de-agentie-arata-alegerea-nu-drumul|PIT-0601]] — Recomandarea de agenție („reco") arată de ce s-a ales o soluție, nu drumul întortocheat până la ea
-- [[STO-0601-brand-content-aduce-consumatorul-la-brand|STO-0601]] — Brand content-ul inversează sensul publicității — consumatorul vine la brand pentru informație, utilitate sau divertisment
+- [[ADV-007-orice-comunicare-poate-produce-patru-efecte-dar|ADV-007]] — Orice comunicare poate produce patru efecte, dar notorietatea și atitudinea față de brand sunt mereu obiective
+- [[ADV-010-planificarea-strategica-a-comunicarii-are-cinci-pasi-de-la|ADV-010]] — Planificarea strategică a comunicării are cinci pași, de la alegerea țintei la strategia media, iar fiecare pas decurge din cel dinainte
+- [[ADV-012-problema-de-comunicare-e-una-singura-de-notorietate-de|ADV-012]] — Problema de comunicare e una singură — de notorietate, de imagine sau de comportament, niciodată toate trei deodată
+- [[ADV-014-planning-ul-strategic-transforma-o-compilatie-de-informatii|ADV-014]] — Planning-ul strategic transformă o compilație de informații într-un unghi de vedere — veghe, semnale slabe, sinteză
+- [[ADV-017-tinta-de-comunicare-are-straturi-tinta-principala-nucleu-si|ADV-017]] — Ținta de comunicare are straturi — țintă principală, nucleu și ținte de influență — și se atinge prin push sau pull
+- [[ADV-025-la-un-usp-se-ajunge-pe-trei-drumuri-il-gasesti-in-produs-il|ADV-025]] — La un USP se ajunge pe trei drumuri — îl găsești în produs, îl construiești în produs sau îl revendici primul
+- [[ADV-040-axa-psihologica-joannis-campania-alege-fie-sa-stimuleze-o|ADV-040]] — Axa psihologică (Joannis) — campania alege fie să stimuleze o motivație, fie să slăbească o frână
+- [[ADV-042-copy-strategy-p-g-fixeaza-in-scris-obiectivul-beneficiul-cu|ADV-042]] — Copy strategy (P&G) fixează în scris obiectivul, beneficiul cu dovada lui și tonul — nu execuția
+- [[ADV-046-disruption-dru-bddp-identifici-conventia-categoriei-o-rupi|ADV-046]] — Disruption (Dru, BDDP) — identifici convenția categoriei, o rupi și propui o viziune
+- [[ADV-053-grp-acoperire-repetitie-vocabularul-de-baza-al-media|ADV-053]] — GRP = acoperire × repetiție — vocabularul de bază al media planning-ului
+- [[ADV-062-punctele-de-contact-ale-brandului-sunt-platite-detinute|ADV-062]] — Punctele de contact ale brandului sunt plătite, deținute, câștigate sau distribuite (POE și PESO) și trebuie combinate
+- [[ADV-075-in-comunicarea-de-criza-negarea-e-cea-mai-proasta-optiune|ADV-075]] — În comunicarea de criză, negarea e cea mai proastă opțiune — recunoaște primul, măsoară impactul, alege canalul, spune adevărul, învață
+- [[ADV-081-post-testul-masoara-urma-lasata-de-reclama-prin-cinci|ADV-081]] — Post-testul măsoară urma lăsată de reclamă prin cinci scoruri, bilanțul măsoară campania întreagă
+- [[BRD-014-harta-de-pozitionare-se-face-in-patru-pasi-iar-pozitionarea|BRD-014]] — Harta de poziționare se face în patru pași, iar poziționarea aleasă trece șase teste — clară, pertinentă, distinctivă, coerentă, atractivă, durabilă
+- [[BRD-028-star-strategy-seguela-brandul-persoana-are-fizic-caracter|BRD-028]] — Star strategy (Séguéla) — brandul-persoană are fizic, caracter și stil
+- [[BRF-003-brief-ul-clientului-pune-intrebarea-brief-ul-creativ-o|BRF-003]] — Brief-ul clientului pune întrebarea, brief-ul creativ o transformă într-o „problemă de rezolvat" pentru echipa de creație
+- [[BRF-023-zece-semnale-de-alarma-intr-un-brief-de-la-obiectivul-care|BRF-023]] — Zece semnale de alarmă într-un brief — de la obiectivul care nu poate fi infirmat la măsurarea decisă după campanie
+- [[BRF-024-primirea-brief-ului-il-reduci-la-esenta-il-verifici-pe|BRF-024]] — Primirea brief-ului — îl reduci la esență, îl verifici pe componente, pui întrebările naive și agreezi în scris orice schimbare
+- [[CLI-002-account-managerul-vinde-in-ambele-directii-munca-agentiei|CLI-002]] — Account managerul vinde în ambele direcții — munca agenției către client și problema clientului către echipă
+- [[CLI-013-competitia-de-agentii-costa-scump-ambele-parti-se-califica|CLI-013]] — Competiția de agenții costă scump ambele părți — se califică, se cadrează contractual și are un singur câștigător
+- [[CLI-014-agentia-vinde-timpul-oamenilor-ei-brief-ul-neclar-ii|CLI-014]] — Agenția vinde timpul oamenilor ei — brief-ul neclar îi consumă marja, iar remunerarea modernă leagă bonusul de obiective de comunicare
+- [[CLI-015-clientul-isi-organizeaza-creatia-in-casa-cu-o-agentie|CLI-015]] — Clientul își organizează creația în casă, cu o agenție parteneră sau cu un roster de agenții — iar criteriul corect e eficacitatea muncii, nu costul
+- [[CPY-011-imaginea-agata-titlul-ancoreaza-denotatia-informeaza|CPY-011]] — Imaginea agață, titlul ancorează — denotația informează, conotația adaugă sensuri pe care ținta trebuie să le decodeze
+- [[CPY-013-orice-mesaj-publicitar-ierarhizeaza-cele-sase-functii-ale|CPY-013]] — Orice mesaj publicitar ierarhizează cele șase funcții ale limbajului (Jakobson) — și una trebuie să domine
+- [[CPY-014-discursul-publicitar-are-patru-tipuri-narativ-descriptiv|CPY-014]] — Discursul publicitar are patru tipuri — narativ, descriptiv, explicativ, argumentativ — și se verifică după ce e scris
+- [[INS-004-perceptia-e-selectiva-asa-ca-reclama-are-nevoie-de-procedee|INS-004]] — Percepția e selectivă, așa că reclama are nevoie de procedee de atenție — emoție, personificare, spectacol, surpriză, umor
+- [[INS-076-chestionarul-cantitativ-masoara-cat-interviul-si-focus|INS-076]] — Chestionarul cantitativ măsoară „cât", interviul și focus grupul explică „de ce" — fiecare cu regulile lui
+- [[INS-094-insight-ul-e-o-dilema-a-consumatorului-dorinta-contra|INS-094]] — Insight-ul e o dilemă a consumatorului (dorință contra obstacol) pe care brandul o poate rezolva
+- [[INS-095-checklist-ul-insight-ului-opt-verificari-inainte-ca-un|INS-095]] — Checklist-ul insight-ului — opt verificări înainte ca un „adevăr despre țintă" să intre în brief
+- [[PIT-035-recomandarea-de-agentie-reco-arata-de-ce-s-a-ales-o-solutie|PIT-035]] — Recomandarea de agenție („reco") arată de ce s-a ales o soluție, nu drumul întortocheat până la ea
+- [[STO-024-brand-content-ul-inverseaza-sensul-publicitatii|STO-024]] — Brand content-ul inversează sensul publicității — consumatorul vine la brand pentru informație, utilitate sau divertisment, dacă tema e legitimă pentru brand și se poate reînnoi
+- [[STO-025-strategia-de-content-marketing-e-un-ciclu-obiective-si|STO-025]] — Strategia de content marketing e un ciclu — obiective și public, creație, distribuție și amplificare, evaluare și reluare; Kotler o desface în opt pași, Zahay în patru
+- [[STO-034-ugc-este-continut-castigat-cel-mai-credibil-pentru-brand|STO-034]] — UGC este conținut câștigat — cel mai credibil pentru brand tocmai pentru că brandul nu îl poate controla
 <!-- backlinks:end -->

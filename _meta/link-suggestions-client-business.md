@@ -1,113 +1,96 @@
 # Propuneri de legături
 
-_Generat de `kb.py suggest` la 2026-10-01 12:31. Similaritate TF-IDF; confirmă doar legăturile care au un motiv clar și scrie-le cu relație tipizată._
+_Generat de `kb.py suggest` la 2026-10-01 13:21. Similaritate TF-IDF; confirmă doar legăturile care au un motiv clar și scrie-le cu relație tipizată._
 
-## HIS-0808 — Standardul american al înșelăciunii — afirmația trebuie dovedită înainte să fie publicată
-- 0.15 [[ADV-0108]] Exagerarea subiectivă (puffery) e legală, dar orice afirmație cuantificabilă trebuie dovedită · _advertising-strategy_
-- 0.10 [[CPY-0401]] Sloganurile literal adevărate pot induce în eroare prin inferențele pe care le lasă publicului · _copywriting_
+## ADV-004 — Nu orice decizie de comunicare este strategie — critica „monismului strategic publicitar"
+- 0.13 [[DIG-007]] Planul strategic de marketing digital se face în trei etape și se scrie în opt secțiuni, cu una dedicată legalității și confidențialității · _digital-marketing_
 
-## ADV-0103 — Bugetul IMC se construiește din obiective și sarcini, iar eficiența se măsoară cu reach × frecvență (GRP), CTR și ROMI
-- 0.15 [[ADV-1526]] Planul media se judecă după acoperirea la frecvența minimă efectivă, nu după GRP-uri sau frecvența medie, iar în dubiu e mai bine să alegi frecvența
-- 0.12 [[ADV-1001]] Bugetul unei campanii online se estimează din reach, presiune publicitară și cost media, iar metodele euristice dau doar plafonul
-- 0.11 [[DIG-1032]] Fiecare etapă a journey-ului are KPI-urile ei — în Aware reach-ul net și frecvența, în Appeal intrarea în setul evocat, în Ask clicurile și conversiile · _digital-marketing_
-- 0.11 [[ADV-0616]] GRP = acoperire × repetiție — vocabularul de bază al media planning-ului
+## ADV-041 — Publicitatea corporativă cere recunoașterea numelui și aproape mereu o strategie transformațională, cu implicare mare când ținta trebuie convinsă
+- 0.17 [[ADV-052]] Media se aleg după trei cerințe de procesare (conținut vizual, timp de procesare, potențial de frecvență), potrivite strategiei de notorietate și de atitudine
+- 0.13 [[ADV-036]] Strategia transformațională cu implicare mică cere autenticitate emoțională legată de brand, iar beneficiul este execuția însăși, deci reclama trebuie plăcută
+- 0.11 [[INS-037]] Modelul VisCAP alege prezentatorul după obiectivul de comunicare (vizibilitate, credibilitate, atractivitate, putere), nu după popularitate · _consumer-insight_
 
-## ADV-0108 — Exagerarea subiectivă (puffery) e legală, dar orice afirmație cuantificabilă trebuie dovedită
-- 0.15 [[HIS-0808]] Standardul american al înșelăciunii — afirmația trebuie dovedită înainte să fie publicată · _advertising-history_
-- 0.12 [[CPY-0401]] Sloganurile literal adevărate pot induce în eroare prin inferențele pe care le lasă publicului · _copywriting_
+## ADV-079 — Pretestul se construiește pe obiectivele de comunicare, cu întrebări într-o ordine fixă, și nu se face niciodată prin focus grupuri sau prin reamintirea reclamei
+- 0.12 [[INS-076]] Chestionarul cantitativ măsoară „cât", interviul și focus grupul explică „de ce" — fiecare cu regulile lui · _consumer-insight_
+- 0.11 [[ADV-052]] Media se aleg după trei cerințe de procesare (conținut vizual, timp de procesare, potențial de frecvență), potrivite strategiei de notorietate și de atitudine
 
-## ADV-0602 — Nu orice decizie de comunicare este strategie — critica „monismului strategic publicitar"
-- 0.13 [[DIG-1002]] Planul strategic de marketing digital se face în trei etape și se scrie în opt secțiuni, cu una dedicată legalității și confidențialității · _digital-marketing_
+## ADV-082 — Trackingul continuu măsoară campania pe aceiași patru pași ai secvenței de răspuns, iar uzura se diagnostichează de la plan spre execuție
+- 0.12 [[ADV-054]] Planul media se judecă după acoperirea la frecvența minimă efectivă, nu după GRP-uri sau frecvența medie, iar în dubiu e mai bine să alegi frecvența
+- 0.11 [[ADV-078]] Ținte cifrice pe reclamă pentru expunere și procesare, pe campanie pentru efecte și acțiune
+- 0.11 [[ADV-058]] Strategia media are patru obiective (4M) — potrivire, monopolizare, moment, mentalitate —, nu doar acoperirea ieftină a țintei
 
-## ADV-1518 — Publicitatea corporativă cere recunoașterea numelui și aproape mereu o strategie transformațională, cu implicare mare când ținta trebuie convinsă
-- 0.17 [[ADV-1525]] Media se aleg după trei cerințe de procesare (conținut vizual, timp de procesare, potențial de frecvență), potrivite strategiei de notorietate și de atitudine
-- 0.13 [[ADV-1515]] Strategia transformațională cu implicare mică cere autenticitate emoțională legată de brand, iar beneficiul este execuția însăși, deci reclama trebuie plăcută
-- 0.11 [[ADV-0402]] Grilele FCB și Rossiter-Percy combină implicarea cu tipul de motivație, dar tratează greșit implicarea ca atribut al produsului
-- 0.11 [[INS-1505]] Modelul VisCAP alege prezentatorul după obiectivul de comunicare (vizibilitate, credibilitate, atractivitate, putere), nu după popularitate · _consumer-insight_
+## AIM-008 — Alegi metoda de analiză după întrebarea de marketing, nu după moda tehnologică
+- 0.13 [[AIM-010]] Precizie sau transparență — ansamblurile și rețelele neuronale prezic, dar nu explică
 
-## ADV-1524 — Bugetul campaniei (metoda sarcinii) și trackingul ei urmează aceeași secvență de răspuns, iar uzura se diagnostichează de la plan spre execuție
-- 0.11 [[ADV-1505]] Ținte cifrice pe reclamă pentru expunere și procesare, pe campanie pentru efecte și acțiune
-- 0.10 [[ADV-1504]] Planificarea parcurge secvența de răspuns în sens invers, iar o greșeală la un pas nu anulează pașii de dinainte
-- 0.10 [[ADV-0403]] Răspunsul vânzărilor la buget urmează o curbă concavă sau în S, cu prag de intrare și punct de uzură
-- 0.10 [[ADV-1527]] Tiparul de acoperire se alege după ciclul de cumpărare și timpul de decizie, iar un produs nou aproape nu poate fi suprapromovat
+## AIM-010 — Precizie sau transparență — ansamblurile și rețelele neuronale prezic, dar nu explică
+- 0.13 [[AIM-008]] Alegi metoda de analiză după întrebarea de marketing, nu după moda tehnologică
+- 0.11 [[AIM-011]] Rețelele bayesiene pornesc de la ideea că, atunci când schimbi o variabilă, se schimbă toate
 
-## ADV-1530 — Pretestul se construiește pe obiectivele de comunicare, cu întrebări într-o ordine fixă, și nu se face niciodată prin focus grupuri sau prin reamintirea reclamei
-- 0.11 [[INS-0603]] Chestionarul cantitativ măsoară „cât", interviul și focus grupul explică „de ce" — fiecare cu regulile lui · _consumer-insight_
-- 0.10 [[ADV-1525]] Media se aleg după trei cerințe de procesare (conținut vizual, timp de procesare, potențial de frecvență), potrivite strategiei de notorietate și de atitudine
+## AIM-022 — Marketingul augmentat amplifică oamenii în loc să-i înlocuiască — interfețe pe niveluri și instrumente digitale pentru prima linie
+- 0.11 [[AIM-003]] Martech are șapte cazuri de utilizare pe calea clientului — de la publicitate și conținut la service CRM
 
-## AIM-0206 — Marketingul augmentat amplifică oamenii în loc să-i înlocuiască — interfețe pe niveluri și instrumente digitale pentru prima linie
-- 0.11 [[AIM-0204]] Martech are șapte cazuri de utilizare pe calea clientului — de la publicitate și conținut la service CRM
+## ART-016 — Procesul de brand mark: cincizeci de schițe înainte de orice finisare
+- 0.13 [[ART-018]] ADN-ul geometric al semnului se extinde în pattern-uri, iconuri și litere
 
-## AIM-1314 — Precizie sau transparență — ansamblurile și rețelele neuronale prezic, dar nu explică
-- 0.13 [[AIM-0205]] Marketingul predictiv anticipează piața în trei zone — clienți, produse și branduri — cu regresie, filtrare colaborativă și rețele neuronale
-- 0.13 [[AIM-1316]] Alegi metoda de analiză după întrebarea de marketing, nu după moda tehnologică
-- 0.11 [[AIM-1315]] Rețelele bayesiene pornesc de la ideea că, atunci când schimbi o variabilă, se schimbă toate
+## CLI-002 — Account managerul vinde în ambele direcții — munca agenției către client și problema clientului către echipă
+- 0.11 [[PIT-034]] Prezentarea muncii creative la client are un ritual — strategia recitită, ideea dezvăluită, întrebări în loc de soluții, pasul următor cerut · _pitch-presentation_
+- 0.11 [[CLI-014]] Agenția vinde timpul oamenilor ei — brief-ul neclar îi consumă marja, iar remunerarea modernă leagă bonusul de obiective de comunicare
 
-## AIM-1316 — Alegi metoda de analiză după întrebarea de marketing, nu după moda tehnologică
-- 0.13 [[AIM-1314]] Precizie sau transparență — ansamblurile și rețelele neuronale prezic, dar nu explică
+## CLI-007 — Vânzarea personală are cinci pași, iar prezentarea începe prin a afla în ce etapă de cumpărare e clientul
+- 0.11 [[DIG-039]] Demand generation duce prospectul de la conținut la lead calificat în șase pași, iar în B2B decizia e luată de un grup · _digital-marketing_
 
-## AIM-1324 — Oferă ce e mai probabil să accepte clientul, nu ce aduce marja cea mai mare — un „da" aduce alt „da"
-- 0.12 [[AIM-1322]] O2 Vision — motorul de decizie a dus conversia de la sub 2% la peste 70%, apoi a venit oboseala audienței
+## CLI-014 — Agenția vinde timpul oamenilor ei — brief-ul neclar îi consumă marja, iar remunerarea modernă leagă bonusul de obiective de comunicare
+- 0.12 [[BRF-001]] Brief-ul creativ este planul de arhitect al execuției — hartă pentru creație și criteriu de evaluare · _creative-brief_
+- 0.11 [[CLI-002]] Account managerul vinde în ambele direcții — munca agenției către client și problema clientului către echipă
 
-## ART-0505 — Lista de substantive de brand stabilește subiectul logo-ului înainte de schițe
-- 0.10 [[ART-0509]] ADN-ul geometric al semnului se extinde în pattern-uri, iconuri și litere
+## BRF-001 — Brief-ul creativ este planul de arhitect al execuției — hartă pentru creație și criteriu de evaluare
+- 0.12 [[CLI-014]] Agenția vinde timpul oamenilor ei — brief-ul neclar îi consumă marja, iar remunerarea modernă leagă bonusul de obiective de comunicare · _client-business_
 
-## ART-0507 — Procesul de brand mark: cincizeci de schițe înainte de orice finisare
-- 0.14 [[ART-0509]] ADN-ul geometric al semnului se extinde în pattern-uri, iconuri și litere
+## BRF-019 — Brief-ul Red Cell — opt cerințe, „indicii de execuție" și un calendar de aprobări pe o singură pagină
+- 0.18 [[BRF-017]] Modelul de brief Euro RSCG Australia — sarcina, trei insight-uri triangulate, creația și un lanț de aprobări
+- 0.12 [[BRF-016]] Brief-ul Get/To/By pune toată strategia într-o frază cu patru verigi — țintă, răspuns, mesaj, motiv
+- 0.10 [[BRF-020]] Brief-ul Singleton Ogilvy & Mather — rolul comunicării, un insight util, gândește/simte/fă și punctul unic cu dovada lui
+- 0.10 [[BRF-012]] Un singur beneficiu, nu cinci — poziționarea supraîncărcată blochează ideea creativă
 
-## BRD-0520 — Brandul de servicii se câștigă sau se pierde în momentul interacțiunii
-- 0.13 [[MKT-0123]] Serviciile se deosebesc de bunuri prin patru trăsături — intangibile, inseparabile, eterogene, perisabile · _marketing-fundamentals_
-- 0.11 [[MKT-0124]] Calitatea serviciului se pierde în patru decalaje, iar ultimul — cel de comunicare — îl creează publicitatea care promite prea mult · _marketing-fundamentals_
+## BRF-021 — Modelele de brief de agenție au același nucleu, dar fiecare optimizează altceva — inspirația, concizia, contextul, procesul sau dovada
+- 0.14 [[INS-095]] Checklist-ul insight-ului — opt verificări înainte ca un „adevăr despre țintă" să intre în brief · _consumer-insight_
 
-## BRD-0529 — Misiunea spune de ce există brandul acum, viziunea unde vrea să ajungă
-- 0.17 [[BRD-0202]] Matricea bazată pe valori (VBM) leagă misiunea, viziunea și valorile de mintea, inima și spiritul stakeholderilor
+## BRF-023 — Zece semnale de alarmă într-un brief — de la obiectivul care nu poate fi infirmat la măsurarea decisă după campanie
+- 0.13 [[INS-095]] Checklist-ul insight-ului — opt verificări înainte ca un „adevăr despre țintă" să intre în brief · _consumer-insight_
+- 0.12 [[BRF-024]] Primirea brief-ului — îl reduci la esență, îl verifici pe componente, pui întrebările naive și agreezi în scris orice schimbare
+- 0.10 [[BRF-016]] Brief-ul Get/To/By pune toată strategia într-o frază cu patru verigi — țintă, răspuns, mesaj, motiv
 
-## BRF-0601 — Brief-ul clientului pune întrebarea, brief-ul creativ o transformă într-o „problemă de rezolvat" pentru echipa de creație
-- 0.11 [[BRF-1001]] Brief-ul pentru o campanie digitală are patru blocuri — situația de pornire, problema și obiectivele, ținta (cu persona și journey), bugetul și calendarul
+## BRF-024 — Primirea brief-ului — îl reduci la esență, îl verifici pe componente, pui întrebările naive și agreezi în scris orice schimbare
+- 0.12 [[BRF-023]] Zece semnale de alarmă într-un brief — de la obiectivul care nu poate fi infirmat la măsurarea decisă după campanie
 
-## BRF-0718 — Brief-ul Red Cell — opt cerințe, „indicii de execuție" și un calendar de aprobări pe o singură pagină
-- 0.17 [[BRF-0715]] Modelul de brief Euro RSCG Australia — sarcina, trei insight-uri triangulate, creația și un lanț de aprobări
-- 0.11 [[BRF-0719]] Brief-ul Singleton Ogilvy & Mather — rolul comunicării, un insight util, gândește/simte/fă și punctul unic cu dovada lui
+## DIG-039 — Demand generation duce prospectul de la conținut la lead calificat în șase pași, iar în B2B decizia e luată de un grup
+- 0.11 [[CLI-007]] Vânzarea personală are cinci pași, iar prezentarea începe prin a afla în ce etapă de cumpărare e clientul · _client-business_
 
-## DIG-0932 — Modelul IDIC — identifică, diferențiază, interacționează, customizează — pune clientul, nu produsul, în centrul CRM
-- 0.21 [[MKT-0105]] Clientul valorează cât relația, nu cât tranzacția — valoarea pe durata vieții (CLV) · _marketing-fundamentals_
+## MKT-006 — Cele cinci forțe ale lui Porter arată cine îți poate lua din marjă — rivalii, noii intrați, furnizorii, cumpărătorii și substitutele
+- 0.10 [[MKT-013]] Există patru căi de creștere — piață actuală sau nouă × produs actual sau nou (matricea Ansoff)
 
-## DIG-1015 — Zece practici de confidențialitate pentru marketeri, de la consimțământul cu valoare arătată până la minimizarea datelor
-- 0.17 [[AIM-1305]] Etica datelor în marketingul cu AI are patru reguli de bază — consimțământ, acces și ștergere, transparență, minimizare · _ai-marketing_
-- 0.13 [[DIG-0305]] Datele first-party se cer, nu se iau: cinci practici pentru colectarea lor cu consimțământ
-- 0.11 [[DIG-0910]] Cookie-urile third-party dispar, iar datele first-party devin baza targetării
+## MKT-052 — Can–Want–Should: zona de pericol se află între ce poți și ce vrei, când sari peste ce trebuie
+- 0.10 [[MKT-009]] Cercetarea de marketing are cinci pași — de la obiectiv la plan de acțiune — și transformă datele în informație
 
-## DIG-1021 — O strategie de date first-party începe cu întrebarea „ce date ne cresc vânzările?", nu cu colectarea, și funcționează doar dacă oferă utilizatorului o valoare reală în schimb
-- 0.16 [[DIG-0305]] Datele first-party se cer, nu se iau: cinci practici pentru colectarea lor cu consimțământ
-- 0.13 [[DIG-0910]] Cookie-urile third-party dispar, iar datele first-party devin baza targetării
+## PIT-002 — Un pitch se construiește în șase pași — Discover, Distil, Design, Drill, Deliver, Debrief
+- 0.13 [[PIT-003]] Intenția unei prezentări răspunde la patru întrebări — Know, Feel, Do și Why now
+- 0.11 [[PIT-022]] Repetiția trece prin cinci etape, de la „car crash” la repetiția generală
+- 0.11 [[PIT-009]] Obiectivul unui pitch se vizualizează, se simte și abia apoi se spune în sub zece cuvinte
 
-## MKT-0105 — Clientul valorează cât relația, nu cât tranzacția — valoarea pe durata vieții (CLV)
-- 0.21 [[DIG-0932]] Modelul IDIC — identifică, diferențiază, interacționează, customizează — pune clientul, nu produsul, în centrul CRM · _digital-marketing_
-- 0.18 [[DIG-0902]] Orice program digital servește una dintre patru strategii generice — achiziție, conversie, retenție, creșterea valorii · _digital-marketing_
+## PIT-034 — Prezentarea muncii creative la client are un ritual — strategia recitită, ideea dezvăluită, întrebări în loc de soluții, pasul următor cerut
+- 0.11 [[CLI-002]] Account managerul vinde în ambele direcții — munca agenției către client și problema clientului către echipă · _client-business_
 
-## MKT-0108 — Planul de marketing are cinci pași grupați în trei faze — planificare, implementare, control
-- 0.16 [[DIG-1002]] Planul strategic de marketing digital se face în trei etape și se scrie în opt secțiuni, cu una dedicată legalității și confidențialității · _digital-marketing_
-- 0.11 [[MKT-0302]] Strategia e un ciclu de viață — poziționare, alegeri, execuție — cu regula de timp 40-20-40
+## PRT-010 — Acordurile de confidențialitate nu se ocolesc prin încălcare, parolă sau anonimizare, ci se negociază din timp
+- 0.10 [[PRT-002]] Două-trei proiecte excelente bat cinci proiecte înconjurate de mediocritate
+- 0.10 [[PRT-004]] Portofoliul trimis dinainte și prezentarea portofoliului sunt două documente diferite
 
-## MKT-0302 — Strategia e un ciclu de viață — poziționare, alegeri, execuție — cu regula de timp 40-20-40
-- 0.11 [[MKT-0108]] Planul de marketing are cinci pași grupați în trei faze — planificare, implementare, control
+## SOC-030 — Negocierea cu un creator are variabile multiple, iar contractul fixează drepturile
+- 0.12 [[SOC-023]] Influencer marketingul nu este endorsement de celebritate, afiliere sau direct marketing
+- 0.11 [[SOC-028]] Valorile comune contează înaintea reach-ului în alegerea creatorului
 
-## PIT-1402 — Un pitch se construiește în șase pași — Discover, Distil, Design, Drill, Deliver, Debrief
-- 0.13 [[PIT-1407]] Intenția unei prezentări răspunde la patru întrebări — Know, Feel, Do și Why now
-- 0.11 [[PIT-1420]] Repetiția trece prin cinci etape, de la „car crash” la repetiția generală
-- 0.11 [[PIT-1406]] Obiectivul unui pitch se vizualizează, se simte și abia apoi se spune în sub zece cuvinte
+## SOC-031 — Creatorul este o casă de producție într-un om: gifting-ul nu ține loc de plată
+- 0.12 [[BRF-022]] Brief-ul pentru influenceri dă direcție, dar lasă loc interpretării creatorului · _creative-brief_
+- 0.11 [[SOC-042]] Engagement rate, CPE și CPM: aritmetica de bază a unei campanii cu influenceri
 
-## PRT-1412 — Acordurile de confidențialitate nu se ocolesc prin încălcare, parolă sau anonimizare, ci se negociază din timp
-- 0.10 [[PRT-1402]] Portofoliul trimis dinainte și prezentarea portofoliului sunt două documente diferite
-- 0.10 [[PRT-1405]] Două-trei proiecte excelente bat cinci proiecte înconjurate de mediocritate
-
-## SOC-1119 — Negocierea cu un creator are variabile multiple, iar contractul fixează drepturile
-- 0.12 [[SOC-1113]] Influencer marketingul nu este endorsement de celebritate, afiliere sau direct marketing
-- 0.11 [[SOC-1110]] Valorile comune contează înaintea reach-ului în alegerea creatorului
-
-## SOC-1120 — Creatorul este o casă de producție într-un om: gifting-ul nu ține loc de plată
-- 0.12 [[BRF-1101]] Brief-ul pentru influenceri dă direcție, dar lasă loc interpretării creatorului · _creative-brief_
-- 0.11 [[SOC-1125]] Engagement rate, CPE și CPM: aritmetica de bază a unei campanii cu influenceri
-
-## SOC-1128 — Cine deține influencer marketingul: PR, media, agenția specializată sau brandul
-- 0.12 [[SOC-1113]] Influencer marketingul nu este endorsement de celebritate, afiliere sau direct marketing
+## SOC-038 — Cine deține influencer marketingul: PR, media, agenția specializată sau brandul
+- 0.12 [[SOC-023]] Influencer marketingul nu este endorsement de celebritate, afiliere sau direct marketing

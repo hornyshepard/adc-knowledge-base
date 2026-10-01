@@ -16,3 +16,6 @@
 __pycache__/
 *.pyc
 .venv/
+
+# Vault Obsidian separat, creat local (nu face parte din bază)
+Vual/
