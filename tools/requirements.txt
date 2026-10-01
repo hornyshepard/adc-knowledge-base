@@ -1,0 +1,7 @@
+pymupdf
+beautifulsoup4
+lxml
+mobi
+python-docx
+# opțional, pentru audiobook (Apple Silicon):
+# mlx-whisper

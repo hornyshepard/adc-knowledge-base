@@ -1,0 +1,18 @@
+# Textele integrale ale cărților (protejate de copyright) rămân doar local
+90-library/text/
+
+# Fișiere originale de cărți, dacă ajung din greșeală aici
+*.pdf
+*.epub
+*.azw3
+*.mobi
+*.mp3
+*.docx
+
+# Sistem / editoare
+.DS_Store
+.obsidian/workspace*
+.obsidian/cache
+__pycache__/
+*.pyc
+.venv/
